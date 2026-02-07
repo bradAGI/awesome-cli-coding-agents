@@ -11,8 +11,8 @@ A terminal-first directory of **AI coding agents** (tools that can read/edit rep
 ## Contents
 
 - [Terminal-native coding agents](#terminal-native-coding-agents)
-  - [Platform agents](#platform-agents)
   - [Open Source agents](#open-source-agents)
+  - [Platform agents](#platform-agents)
 
 - [Harnesses & orchestration](#harnesses--orchestration)
   - [Session managers & parallel runners](#session-managers--parallel-runners)
@@ -25,55 +25,19 @@ A terminal-first directory of **AI coding agents** (tools that can read/edit rep
 
 ## Terminal-native coding agents
 
-### Platform agents
-
-First-party CLI agents from major AI model providers and dev-tool companies.
-
-- **[Claude Code](https://github.com/anthropics/claude-code)** — Anthropic's repo-aware terminal agent for code edits, refactors, and git workflows.
-
-- **[Codex CLI](https://github.com/openai/codex)** — OpenAI's local coding agent for reading/editing/running code, with an interactive TUI and tool execution.
-
-- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** — Google's open-source terminal agent powered by Gemini, with tools for repo work and research.
-
-- **[Amazon Q Developer CLI](https://github.com/aws/amazon-q-developer-cli)** — AWS's agentic terminal chat for building apps, debugging, and DevOps with natural language.
-
-- **[Qwen Code](https://github.com/QwenLM/qwen-code)** — Alibaba Qwen's official CLI agent for Qwen coder models (workflow tool + repo operations).
-
-- **[Kimi CLI](https://github.com/MoonshotAI/kimi-cli)** — Moonshot AI's open-source CLI coding agent with skills, MCP support, and ACP IDE integration.
-
-- **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** — Mistral's open-source CLI coding assistant for conversational repo interaction and edits.
-
-- **[Trae Agent](https://github.com/bytedance/trae-agent)** — ByteDance's research-friendly CLI agent for software engineering tasks, with modular architecture and multi-LLM support.
-
-- **[Neovate Code](https://github.com/neovateai/neovate-code)** — Ant Group's open-source CLI agent with plugin system, multi-model/multi-provider support, MCP integrations, and headless automation mode.
-
-- **[FetchCoder](https://github.com/fetchai/fetchcoder)** — Terminal coding agent powered by ASI1, with interactive TUI, CLI, and API server modes plus MCP integration.
-
-- **[Amp](https://sourcegraph.com/amp)** — Sourcegraph's AI coding agent with a CLI for implementing tasks across real codebases.
-
-- **[Junie CLI](https://junie.jetbrains.com)** — JetBrains' LLM-agnostic CLI coding agent (EAP); supports GPT-5, Claude, Gemini, Grok with plan mode and CI/CD headless usage.
-
-- **[Cortex Code CLI](https://www.snowflake.com/en/product/cortex-code/)** — Snowflake's data-native AI coding agent CLI for building pipelines, analytics, and AI apps with enterprise governance.
-
-- **[Devin](https://devin.ai)** — Cognition's autonomous AI software engineer with full shell/browser access, self-healing code, and PR collaboration.
-
-- **[GitHub Copilot in the CLI](https://github.com/github/copilot-cli)** — GitHub's agentic CLI for repo/PR/issue workflows, command suggestions, and headless automation.
-
-- **[Cursor CLI](https://cursor.com/cli)** — Cursor's official command-line agent (`agent`) with shell mode, headless/CI support, parallel agents, and multi-model access.
-
-- **[Mentat CLI](https://mentat.ai/docs/cli)** — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
-
 ### Open Source agents
 
 Standalone open-source projects with active communities.
+
+- **[Pi](https://github.com/badlogic/pi-mono)** — Minimal, adaptable terminal coding harness from the pi-mono toolkit; unified LLM API, TUI, skills, and MCP support.
+
+- **[OpenCode](https://github.com/anomalyco/opencode)** — Terminal-native coding agent with 75+ provider support, LSP integration, and privacy-first design (formerly opencode-ai; now at opencode.ai).
 
 - **[Aider](https://github.com/Aider-AI/aider)** — Pair-programming agent for editing files via diffs/patches, with strong git and multi-file workflows.
 
 - **[Goose](https://github.com/block/goose)** — Local, extensible agent that can execute, edit, and test; designed to run on-device and integrate with MCP.
 
 - **[Plandex](https://github.com/plandex-ai/plandex)** — "Plan-first" CLI agent for building features across multiple files with structured steps and 2M token context.
-
-- **[OpenCode](https://github.com/anomalyco/opencode)** — Terminal-native coding agent with 75+ provider support, LSP integration, and privacy-first design (formerly opencode-ai; now at opencode.ai).
 
 - **[Cline CLI](https://github.com/cline/cline)** — Model-agnostic autonomous agent for planning, file edits, command execution, and browser use.
 
@@ -100,8 +64,6 @@ Standalone open-source projects with active communities.
 - **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** — Terminal tool that can execute code and actions; often used as a "do things on my machine" agent.
 
 - **[Claude Engineer](https://github.com/Doriandarko/claude-engineer)** — Community-driven CLI for agentic Claude workflows with file management and iterative development.
-
-- **[Pi](https://github.com/badlogic/pi-mono)** — Minimal, adaptable terminal coding harness from the pi-mono toolkit; unified LLM API, TUI, skills, and MCP support.
 
 - **[Crush](https://github.com/charmbracelet/crush)** — Charmbracelet's glamorous agentic coding TUI in Go; multi-provider, LSP-aware, with rich terminal UI.
 
@@ -152,6 +114,44 @@ Standalone open-source projects with active communities.
 - **[open-codex](https://github.com/ymichael/open-codex)** — Lightweight fork of Codex CLI with multi-provider support (OpenAI, Gemini, OpenRouter, Ollama).
 
 - **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** — Open-source agentic developer environment (not purely CLI, but often run locally with terminal entrypoints).
+
+### Platform agents
+
+First-party CLI agents from major AI model providers and dev-tool companies.
+
+- **[Claude Code](https://github.com/anthropics/claude-code)** — Anthropic's repo-aware terminal agent for code edits, refactors, and git workflows.
+
+- **[Codex CLI](https://github.com/openai/codex)** — OpenAI's local coding agent for reading/editing/running code, with an interactive TUI and tool execution.
+
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** — Google's open-source terminal agent powered by Gemini, with tools for repo work and research.
+
+- **[Amazon Q Developer CLI](https://github.com/aws/amazon-q-developer-cli)** — AWS's agentic terminal chat for building apps, debugging, and DevOps with natural language.
+
+- **[Qwen Code](https://github.com/QwenLM/qwen-code)** — Alibaba Qwen's official CLI agent for Qwen coder models (workflow tool + repo operations).
+
+- **[Kimi CLI](https://github.com/MoonshotAI/kimi-cli)** — Moonshot AI's open-source CLI coding agent with skills, MCP support, and ACP IDE integration.
+
+- **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** — Mistral's open-source CLI coding assistant for conversational repo interaction and edits.
+
+- **[Trae Agent](https://github.com/bytedance/trae-agent)** — ByteDance's research-friendly CLI agent for software engineering tasks, with modular architecture and multi-LLM support.
+
+- **[Neovate Code](https://github.com/neovateai/neovate-code)** — Ant Group's open-source CLI agent with plugin system, multi-model/multi-provider support, MCP integrations, and headless automation mode.
+
+- **[FetchCoder](https://github.com/fetchai/fetchcoder)** — Terminal coding agent powered by ASI1, with interactive TUI, CLI, and API server modes plus MCP integration.
+
+- **[Amp](https://sourcegraph.com/amp)** — Sourcegraph's AI coding agent with a CLI for implementing tasks across real codebases.
+
+- **[Junie CLI](https://junie.jetbrains.com)** — JetBrains' LLM-agnostic CLI coding agent (EAP); supports GPT-5, Claude, Gemini, Grok with plan mode and CI/CD headless usage.
+
+- **[Cortex Code CLI](https://www.snowflake.com/en/product/cortex-code/)** — Snowflake's data-native AI coding agent CLI for building pipelines, analytics, and AI apps with enterprise governance.
+
+- **[Devin](https://devin.ai)** — Cognition's autonomous AI software engineer with full shell/browser access, self-healing code, and PR collaboration.
+
+- **[GitHub Copilot in the CLI](https://github.com/github/copilot-cli)** — GitHub's agentic CLI for repo/PR/issue workflows, command suggestions, and headless automation.
+
+- **[Cursor CLI](https://cursor.com/cli)** — Cursor's official command-line agent (`agent`) with shell mode, headless/CI support, parallel agents, and multi-model access.
+
+- **[Mentat CLI](https://mentat.ai/docs/cli)** — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
 
 ---
 
