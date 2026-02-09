@@ -18,7 +18,7 @@ A terminal-first directory of **AI coding agents** (tools that can read/edit rep
   - [Session managers & parallel runners](#session-managers--parallel-runners)
   - [Orchestrators & autonomous loops](#orchestrators--autonomous-loops)
   - [Agent infrastructure](#agent-infrastructure)
-- [Resources](resources.md) — Skills, benchmarks, AI terminals, directories & meta-lists
+
 - [Contributing](#contributing)
 
 ---
