@@ -115,6 +115,8 @@ Standalone open-source projects with active communities.
 
 - **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** — Open-source agentic developer environment (not purely CLI, but often run locally with terminal entrypoints).
 
+- **[Letta Code](https://github.com/letta-ai/letta-code)** — Memory-first CLI coding agent built on the Letta platform (formerly MemGPT); persistent memory across sessions, model-agnostic (Claude/GPT/Gemini), skill learning, and context repositories.
+
 ### Platform agents
 
 First-party CLI agents from major AI model providers and dev-tool companies.
