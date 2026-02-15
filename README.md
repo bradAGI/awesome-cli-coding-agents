@@ -75,6 +75,14 @@ Standalone open-source projects with active communities.
 
 - **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI assistant you run locally (170k+ stars); CLI with onboarding wizard, skills, tools, and multi-channel support (WhatsApp/Slack/Discord).
 
+- **[NanoClaw](https://github.com/gavrielc/nanoclaw)** — Security-first lightweight alternative to OpenClaw; runs agents in Apple containers/Docker with sandboxed execution, built on Anthropic's Agents SDK.
+
+- **[PicoClaw](https://github.com/sipeed/picoclaw)** — Ultra-lightweight personal AI assistant in Go inspired by OpenClaw; runs on $10 hardware with less than 10MB RAM.
+
+- **[IronClaw](https://github.com/nearai/ironclaw)** — OpenClaw rewritten in Rust by NEAR AI; WASM sandbox isolation, capability-based permissions, and prompt injection defense.
+
+- **[LettaBot](https://github.com/letta-ai/lettabot)** — Personal AI assistant with persistent unified memory across Telegram, Slack, Discord, WhatsApp, and Signal; built on the Letta platform.
+
 - **[Dexto](https://github.com/truffle-ai/dexto)** — Coding agent and general agent harness with CLI/web/API modes; ships a production-ready coding agent with sub-agent spawning.
 
 - **[2501 CLI](https://github.com/2501-ai/cli)** — AI-powered autonomous CLI agent for coding, debugging production issues, and DevOps automation.
