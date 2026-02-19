@@ -239,6 +239,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools.
 
 - **[open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork)** — Open-source version of Claude Cowork with 500+ SaaS app integrations.
 
+- **[pi-builder](https://github.com/arosstale/pi-builder)** — TypeScript monorepo that wraps any installed CLI coding agent (Claude Code, Aider, OpenCode, Codex, Gemini CLI, Goose, Plandex, SWE-agent, Crush, gptme) behind a single interface; capability-based routing, health caching, fallback chains, SQLite persistence, and a streaming OrchestratorService. MIT.
+
 ---
 
 ## Contributing
