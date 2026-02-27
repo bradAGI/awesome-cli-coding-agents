@@ -165,6 +165,8 @@ First-party CLI agents from major AI model providers and dev-tool companies.
 
 - **[Mentat CLI](https://mentat.ai/docs/cli)** — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
 
+- **[Command Code](https://github.com/CommandCodeAI/command-code)** — CLI coding agent that continuously learns your coding style via taste-1 neuro-symbolic AI; adapts to preferences over time with project-specific taste profiles.
+
 ---
 
 ## Harnesses & orchestration
