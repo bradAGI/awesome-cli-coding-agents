@@ -231,6 +231,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops.
 
 Sandboxes, routers, browser/terminal automation, and extension tools.
 
+- **[Agentic Engineering Framework](https://github.com/DimitriGeelen/agentic-engineering-framework)** — Provider-neutral governance framework for CLI coding agents. Structural enforcement of task-driven workflows, context budget management, antifragile healing loops, and audit compliance. Works with Claude Code, Aider, Cursor, and any file-based agent.
+
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
 - **[AgentDeck](https://github.com/agentdeck/agentdeck)** — CLI-driven "deck" of agents with configs/presets for different tasks and repos.
