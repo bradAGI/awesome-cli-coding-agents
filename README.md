@@ -11,7 +11,9 @@
   <a href="https://github.com/bradAGI/awesome-cli-coding-agents/blob/main/LICENSE"><img src="https://img.shields.io/github/license/bradAGI/awesome-cli-coding-agents" alt="License"></a>
 </p>
 
-A curated list of **CLI coding agents** — AI-powered tools that live in your terminal, read/edit repos, and run commands — plus the **harnesses** that orchestrate, sandbox, or extend them.
+A curated list of **80+ CLI coding agents** — AI-powered tools that live in your terminal, read/edit repos, and run commands — plus the **harnesses** that orchestrate, sandbox, or extend them.
+
+> **Last updated:** 2026-03-13
 
 ### What is a CLI coding agent?
 
@@ -46,7 +48,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `⭐ 98k` `[Google]` — Google's terminal agent powered by Gemini, with tools for repo work and research. Apache-2.0.
 
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `⭐ 69k` — Open-source agentic developer environment (formerly OpenDevin); not purely CLI, but often run locally with terminal entrypoints.
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `⭐ 69k` — Open-source agentic developer environment (formerly OpenDevin) with CLI and web entrypoints; also has a lightweight [CLI-only package](https://github.com/OpenHands/OpenHands-CLI).
 
 - **[Codex CLI](https://github.com/openai/codex)** `⭐ 65k` `[OpenAI]` — OpenAI's local coding agent for reading/editing/running code, with an interactive TUI and tool execution. Apache-2.0.
 
@@ -140,8 +142,6 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LettaBot](https://github.com/letta-ai/lettabot)** `⭐ 267` — Personal AI assistant with persistent unified memory across Telegram, Slack, Discord, WhatsApp, and Signal; built on the Letta platform.
 
-- **[OpenHands CLI](https://github.com/OpenHands/OpenHands-CLI)** `⭐ 123` — CLI entrypoint for the OpenHands agent (ex-OpenDevin lineage), focused on autonomous repo tasks.
-
 - **[cursor-agent](https://github.com/civai-technologies/cursor-agent)** `⭐ 112` — Python-based agent replicating Cursor's coding assistant capabilities; supports Claude, OpenAI, and local Ollama models.
 
 - **[nori-cli](https://github.com/tilework-tech/nori-cli)** `⭐ 111` — Multi-provider CLI built on Codex CLI; switch between Claude, Gemini, and Codex from the same native terminal.
@@ -162,6 +162,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Claude Code](https://github.com/anthropics/claude-code)** `⭐ 78k` `[Anthropic]` — Anthropic's repo-aware terminal agent for code edits, refactors, and git workflows. Source-available, no OSS license.
 
+- **[Warp](https://github.com/warpdotdev/Warp)** `⭐ 26k` `[Warp]` — Modern terminal with built-in AI agent mode; understands tasks, runs commands, edits files, and orchestrates multi-step workflows.
+
 - **[GitHub Copilot in the CLI](https://github.com/github/copilot-cli)** `⭐ 9.3k` `[GitHub]` — GitHub's agentic CLI for repo/PR/issue workflows, command suggestions, and headless automation.
 
 - **[Amp](https://sourcegraph.com/amp)** `[Sourcegraph]` — Sourcegraph's AI coding agent with a CLI for implementing tasks across real codebases.
@@ -173,6 +175,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 - **[Devin](https://devin.ai)** `[Cognition]` — Cognition's autonomous AI software engineer with full shell/browser access, self-healing code, and PR collaboration.
 
 - **[Cursor CLI](https://cursor.com/cli)** `[Cursor]` — Cursor's official command-line agent (`agent`) with shell mode, headless/CI support, parallel agents, and multi-model access.
+
+- **[Tabnine CLI](https://docs.tabnine.com/main/getting-started/tabnine-cli)** `[Tabnine]` — AI-powered terminal coding assistant with agentic workflows; distributed as a Docker container, requires enterprise license.
 
 - **[Mentat CLI](https://mentat.ai/docs/cli)** `[Mentat]` — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
 
@@ -186,97 +190,102 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 ### Session managers & parallel runners
 
-Tools for running and managing multiple agent sessions side-by-side.
+Tools for running and managing multiple agent sessions side-by-side. Sorted by GitHub stars.
 
-- **[Catnip](https://github.com/wandb/catnip)** — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).
+- **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)** `⭐ 23k` — Kanban interface for administering AI coding agents.
 
-- **[Claude Squad](https://github.com/smtg-ai/claude-squad)** — tmux-based harness to run and manage multiple Claude Code sessions side-by-side.
+- **[Superset](https://github.com/superset-sh/superset)** `⭐ 6.8k` — A terminal built for coding agents; orchestrates parallel agent sessions.
 
-- **[Emdash](https://github.com/generalaction/emdash)** — Run multiple coding agents concurrently with coordinated workflows.
+- **[Claude Squad](https://github.com/smtg-ai/claude-squad)** `⭐ 6.3k` — tmux-based harness to run and manage multiple Claude Code sessions side-by-side.
 
-- **[Superset](https://github.com/superset-sh/superset)** — A terminal built for coding agents; orchestrates parallel agent sessions.
+- **[cmux](https://github.com/manaflow-ai/cmux)** `⭐ 5.9k` — Open-source platform for running multiple coding agents in parallel.
 
-- **[Toad](https://github.com/batrachianai/toad)** — Agent orchestrator for running and managing parallel CLI coding sessions.
+- **[CodexMonitor](https://github.com/Dimillian/CodexMonitor)** `⭐ 3.1k` — Coordinate multiple Codex agents across local workspaces.
 
-- **[amux](https://github.com/andyrewlee/amux)** — Terminal UI designed for running multiple coding agents in parallel.
+- **[Crystal](https://github.com/stravu/crystal)** `⭐ 3.0k` — Execute multiple Codex and Claude Code sessions in parallel git worktrees.
 
-- **[cmux](https://github.com/manaflow-ai/cmux)** — Open-source platform for running multiple coding agents in parallel.
+- **[Toad](https://github.com/batrachianai/toad)** `⭐ 2.6k` — Agent orchestrator for running and managing parallel CLI coding sessions.
 
-- **[Crystal](https://github.com/stravu/crystal)** — Execute multiple Codex and Claude Code sessions in parallel git worktrees.
+- **[Emdash](https://github.com/generalaction/emdash)** `⭐ 2.6k` — Run multiple coding agents concurrently with coordinated workflows.
 
-- **[mux](https://github.com/coder/mux)** — Desktop application for isolated, parallel agentic development.
+- **[mux](https://github.com/coder/mux)** `⭐ 1.3k` — Desktop application for isolated, parallel agentic development.
 
-- **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** — Execute Claude Code tasks in parallel git worktrees.
+- **[jean](https://github.com/coollabsio/jean)** `⭐ 608` — Administer multiple projects, worktrees, and sessions with Claude CLI.
 
-- **[Agent of Empires](https://github.com/GiladShapira/agent-of-empires)** — tmux-based multi-agent harness for parallel terminal agents and task routing.
+- **[supacode](https://github.com/supabitapp/supacode)** `⭐ 480` — Native macOS coding agent orchestrator.
 
-- **[CLI Agent Orchestrator (CAO)](https://github.com/awslabs/cli-agent-orchestrator)** — AWS's hierarchical multi-agent orchestration via tmux with intelligent task delegation patterns.
+- **[Catnip](https://github.com/wandb/catnip)** `⭐ 468` — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).
 
-- **[AgentPipe](https://agentpipe.ai)** — Open-source, self-hosted platform for running and monitoring real-time multi-agent conversations across CLI tools.
+- **[CLI Agent Orchestrator (CAO)](https://github.com/awslabs/cli-agent-orchestrator)** `⭐ 316` — AWS's hierarchical multi-agent orchestration via tmux with intelligent task delegation patterns.
 
-- **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
+- **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 244` — Execute Claude Code tasks in parallel git worktrees.
 
-- **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)** — Kanban interface for administering AI coding agents.
+- **[AgentPipe](https://github.com/kevinelliott/agentpipe)** `⭐ 93` — CLI/TUI app that orchestrates multi-agent conversations by enabling different AI CLI tools (Claude Code, Gemini, Qwen, etc.) to communicate in shared rooms. MIT.
 
-- **[jean](https://github.com/coollabsio/jean)** — Administer multiple projects, worktrees, and sessions with Claude CLI.
+- **[amux](https://github.com/andyrewlee/amux)** `⭐ 48` — Terminal UI designed for running multiple coding agents in parallel.
 
-- **[supacode](https://github.com/supabitapp/supacode)** — Native macOS coding agent orchestrator.
-
-- **[CodexMonitor](https://github.com/Dimillian/CodexMonitor)** — Coordinate multiple Codex agents across local workspaces.
+- **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 9` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
 ### Orchestrators & autonomous loops
 
-Multi-agent coordination, swarm patterns, and autonomous execution loops.
+Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
 
-- **[claude-flow](https://github.com/ruvnet/claude-flow)** — Deploy multi-agent swarms with coordinated workflows.
+- **[claude-flow](https://github.com/ruvnet/claude-flow)** `⭐ 21k` — Deploy multi-agent swarms with coordinated workflows.
 
-- **[gastown](https://github.com/steveyegge/gastown)** — Multi-agent orchestration with persistent work tracking.
+- **[gastown](https://github.com/steveyegge/gastown)** `⭐ 12k` — Multi-agent orchestration with persistent work tracking.
 
-- **[loom](https://github.com/ghuntley/loom)** — Infrastructure enabling autonomous loops to evolve products via multi-agent coordination.
+- **[ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)** `⭐ 2.2k` — Hat-based system maintaining agents in a loop until task completion.
 
-- **[ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)** — Hat-based system maintaining agents in a loop until task completion.
+- **[ralph-tui](https://github.com/subsy/ralph-tui)** `⭐ 2.1k` — Direct AI agents through task lists with autonomous execution.
 
-- **[ralph-tui](https://github.com/subsy/ralph-tui)** — Direct AI agents through task lists with autonomous execution.
+- **[loom](https://github.com/ghuntley/loom)** `⭐ 1.2k` — Infrastructure enabling autonomous loops to evolve products via multi-agent coordination.
 
-- **[wreckit](https://github.com/mikehostetler/wreckit)** — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
+- **[wreckit](https://github.com/mikehostetler/wreckit)** `⭐ 120` — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
 
 ### Agent infrastructure
 
-Sandboxes, routers, browser/terminal automation, and extension tools.
+Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
+
+- **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 30k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
+
+- **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 22k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
+
+- **[open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork)** `⭐ 3.1k` — Open-source version of Claude Cowork with 500+ SaaS app integrations.
+
+- **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 1.6k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
+
+- **[subtask](https://github.com/zippoxer/subtask)** `⭐ 319` — Claude Skill for delegating tasks with subagents in Git worktrees.
+
+- **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 293` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
+
+- **[claudebox](https://github.com/numtide/claudebox)** `⭐ 36` — Sandboxed environment for Claude Code (focused on isolation/safety).
+
+- **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 17` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
+
+- **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
+
+- **[pi-builder](https://github.com/arosstale/pi-builder)** `⭐ 3` — TypeScript monorepo that wraps any installed CLI coding agent (Claude Code, Aider, OpenCode, Codex, Gemini CLI, Goose, Plandex, SWE-agent, Crush, gptme) behind a single interface; capability-based routing, health caching, fallback chains, SQLite persistence, and a streaming OrchestratorService. MIT.
 
 - **[Agentic Engineering Framework](https://github.com/DimitriGeelen/agentic-engineering-framework)** — Provider-neutral governance framework for CLI coding agents. Structural enforcement of task-driven workflows, context budget management, antifragile healing loops, and audit compliance. Works with Claude Code, Aider, Cursor, and any file-based agent.
 
-- **[AgentManager](https://github.com/kevinelliott/agentmanager)** — Lightweight CLI for managing multiple agent runs/sessions and workflows.
-
-- **[AgentDeck](https://github.com/agentdeck/agentdeck)** — CLI-driven "deck" of agents with configs/presets for different tasks and repos.
-
-- **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
-
-- **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
-
-- **[claude-code-router](https://github.com/search?q=claude-code-router)** — Route Claude Code calls to alternative providers/endpoints (useful for self-hosting proxies).
-
-- **[claudebox](https://github.com/numtide/claudebox)** — Sandboxed environment for Claude Code (focused on isolation/safety).
-
-- **[agent-browser](https://github.com/vercel-labs/agent-browser)** — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
-
-- **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
-
-- **[subtask](https://github.com/zippoxer/subtask)** — Claude Skill for delegating tasks with subagents in Git worktrees.
-
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** — Transforms CLI agents from task executors into autonomous project partners.
-
-- **[open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork)** — Open-source version of Claude Cowork with 500+ SaaS app integrations.
-
-- **[pi-builder](https://github.com/arosstale/pi-builder)** — TypeScript monorepo that wraps any installed CLI coding agent (Claude Code, Aider, OpenCode, Codex, Gemini CLI, Goose, Plandex, SWE-agent, Crush, gptme) behind a single interface; capability-based routing, health caching, fallback chains, SQLite persistence, and a streaming OrchestratorService. MIT.
 
 ---
 
 ## Contributing
 
-PRs welcome! Please keep each entry:
+PRs welcome! To add an entry, please ensure it meets these criteria:
 
-1) **Name + link**
-2) **1–2 line description** (what it does, who it's for)
+**Inclusion requirements:**
+- Must have a **CLI or terminal interface** (IDE-only tools don't qualify)
+- Must be able to **read/write code or run commands** autonomously
+- Link must point to a **valid, active** project (no dead repos)
 
-Optional: add a "Why it's interesting" note (diffs, LSP, sandboxing, multi-agent, MCP/skills, etc).
+**Entry format:**
+1. **Name + link** (GitHub preferred)
+2. **Star count** (for GitHub repos)
+3. **1–2 line description** — what it does, who it's for
+
+**Optional:** provider tag `[Company]`, license, or a "why it's interesting" note (diffs, LSP, sandboxing, multi-agent, MCP/skills, etc).
+
+Entries are sorted by GitHub stars within each section. Place your entry in the correct position.
