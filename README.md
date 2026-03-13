@@ -25,6 +25,7 @@ A CLI coding agent is an AI-powered tool that runs in your terminal and can auto
 
 - [Terminal-native coding agents](#terminal-native-coding-agents)
   - [Open Source](#open-source)
+  - [OpenClaw ecosystem](#openclaw-ecosystem)
   - [Closed Source](#closed-source)
 
 - [Harnesses & orchestration](#harnesses--orchestration)
@@ -41,8 +42,6 @@ A CLI coding agent is an AI-powered tool that runs in your terminal and can auto
 ### Open Source
 
 Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tags `[Company]` indicate the backing organization.
-
-- **[OpenClaw](https://github.com/openclaw/openclaw)** `⭐ 310k` — Personal AI assistant you run locally; CLI with onboarding wizard, skills, tools, and multi-channel support (WhatsApp/Slack/Discord).
 
 - **[OpenCode](https://github.com/anomalyco/opencode)** `⭐ 122k` — Terminal-native coding agent with 75+ provider support, LSP integration, and privacy-first design (formerly opencode-ai; now at opencode.ai).
 
@@ -62,15 +61,9 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Continue CLI](https://github.com/continuedev/continue)** `⭐ 32k` — Open-source terminal extension for multi-model coding with local/privacy focus.
 
-- **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** `⭐ 27k` — Fully autonomous AI agent runtime in Rust; trait-driven pluggable architecture (providers, tools, memory, channels), runs on minimal hardware (<5MB RAM), multi-channel CLI/Telegram/Discord/Slack, with sandboxed execution and hybrid vector+keyword search.
-
-- **[PicoClaw](https://github.com/sipeed/picoclaw)** `⭐ 25k` — Ultra-lightweight personal AI assistant in Go inspired by OpenClaw; runs on $10 hardware with less than 10MB RAM.
-
 - **[Pi](https://github.com/badlogic/pi-mono)** `⭐ 23k` — Minimal, adaptable terminal coding harness from the pi-mono toolkit; unified LLM API, TUI, skills, and MCP support.
 
 - **[Roo Code CLI](https://github.com/RooCodeInc/Roo-Code)** `⭐ 23k` — Multi-mode CLI agent (architect/code/debug/orchestrator modes); Claude-like terminal interface with skills and checkpoints.
-
-- **[NanoClaw](https://github.com/gavrielc/nanoclaw)** `⭐ 22k` — Security-first lightweight alternative to OpenClaw; runs agents in Apple containers/Docker with sandboxed execution, built on Anthropic's Agents SDK.
 
 - **[Crush](https://github.com/charmbracelet/crush)** `⭐ 21k` — Charmbracelet's glamorous agentic coding TUI in Go; multi-provider, LSP-aware, with rich terminal UI.
 
@@ -87,8 +80,6 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 - **[Claude Engineer](https://github.com/Doriandarko/claude-engineer)** `⭐ 11k` — Community-driven CLI for agentic Claude workflows with file management and iterative development.
 
 - **[Trae Agent](https://github.com/bytedance/trae-agent)** `⭐ 11k` `[ByteDance]` — ByteDance's research-friendly CLI agent for software engineering tasks, with modular architecture and multi-LLM support. MIT.
-
-- **[IronClaw](https://github.com/nearai/ironclaw)** `⭐ 9.9k` — OpenClaw rewritten in Rust by NEAR AI; WASM sandbox isolation, capability-based permissions, and prompt injection defense.
 
 - **[Kimi CLI](https://github.com/MoonshotAI/kimi-cli)** `⭐ 7.1k` `[Moonshot AI]` — Moonshot AI's CLI coding agent with skills, MCP support, and ACP IDE integration. Apache-2.0.
 
@@ -155,6 +146,30 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 - **[CLAII](https://github.com/agencyswarm/CLAII)** — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
 - **[2501 CLI](https://github.com/2501-ai/cli)** — AI-powered autonomous CLI agent for coding, debugging production issues, and DevOps automation.
+
+### OpenClaw ecosystem
+
+Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
+
+- **[OpenClaw](https://github.com/openclaw/openclaw)** `⭐ 310k` — The original personal AI assistant you run locally; CLI with onboarding wizard, skills, tools, and multi-channel support (WhatsApp/Slack/Discord). MIT.
+
+- **[nanobot](https://github.com/HKUDS/nanobot)** `⭐ 33k` — Ultra-lightweight ~4,000-line Python rewrite of OpenClaw; tool use, persistent memory, scheduled tasks, and multi-channel support (Telegram/Discord/WhatsApp). MIT.
+
+- **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** `⭐ 27k` — Fully autonomous AI agent runtime in Rust; trait-driven pluggable architecture (providers, tools, memory, channels), runs on minimal hardware (<5MB RAM), multi-channel CLI/Telegram/Discord/Slack, with sandboxed execution and hybrid vector+keyword search.
+
+- **[PicoClaw](https://github.com/sipeed/picoclaw)** `⭐ 25k` — Ultra-lightweight personal AI assistant in Go inspired by OpenClaw; runs on $10 hardware with less than 10MB RAM.
+
+- **[NanoClaw](https://github.com/gavrielc/nanoclaw)** `⭐ 22k` — Security-first lightweight alternative to OpenClaw; runs agents in Apple containers/Docker with sandboxed execution, built on Anthropic's Agents SDK.
+
+- **[IronClaw](https://github.com/nearai/ironclaw)** `⭐ 9.9k` — OpenClaw rewritten in Rust by NEAR AI; WASM sandbox isolation, capability-based permissions, and prompt injection defense.
+
+- **[NullClaw](https://github.com/nullclaw/nullclaw)** `⭐ 6.0k` — Fastest, smallest OpenClaw-compatible agent in Zig; 678KB static binary, ~1MB RAM, <2ms startup, 23+ providers, 18 channels. MIT.
+
+- **[Moltis](https://github.com/moltis-org/moltis)** `⭐ 2.2k` — Secure, auditable Rust-native alternative to OpenClaw; zero unsafe code, 2,300+ tests, built-in voice I/O, MCP servers, and multi-channel access. MIT.
+
+- **[Clawith](https://github.com/dataelement/Clawith)** `⭐ 636` — "OpenClaw for Teams" — multi-agent collaboration platform that scales OpenClaw to organizations. Apache-2.0.
+
+- **[GitClaw](https://github.com/open-gitagent/gitclaw)** `⭐ 130` — Git-native AI agent framework where agent identity, rules, memory, tools, and skills are all version-controlled files. MIT.
 
 ### Closed Source
 
