@@ -123,6 +123,8 @@ Standalone open-source projects with active communities.
 
 - **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** — Open-source agentic developer environment (not purely CLI, but often run locally with terminal entrypoints).
 
+- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — Nous Research's self-improving CLI agent with persistent memory, automated skill creation, sandboxed code execution via Unix socket RPC, and multi-platform reach (Telegram/Slack/Discord/WhatsApp); supports 300+ models across multiple providers.
+
 - **[Letta Code](https://github.com/letta-ai/letta-code)** — Memory-first CLI coding agent built on the Letta platform (formerly MemGPT); persistent memory across sessions, model-agnostic (Claude/GPT/Gemini), skill learning, and context repositories.
 
 - **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** — Fully autonomous AI agent runtime in Rust; trait-driven pluggable architecture (providers, tools, memory, channels), runs on minimal hardware (<5MB RAM), multi-channel CLI/Telegram/Discord/Slack, with sandboxed execution and hybrid vector+keyword search.
