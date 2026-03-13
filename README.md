@@ -46,7 +46,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `⭐ 98k` `[Google]` — Google's terminal agent powered by Gemini, with tools for repo work and research. Apache-2.0.
 
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** `⭐ 69k` — Open-source agentic developer environment (not purely CLI, but often run locally with terminal entrypoints).
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `⭐ 69k` — Open-source agentic developer environment (formerly OpenDevin); not purely CLI, but often run locally with terminal entrypoints.
 
 - **[Codex CLI](https://github.com/openai/codex)** `⭐ 65k` `[OpenAI]` — OpenAI's local coding agent for reading/editing/running code, with an interactive TUI and tool execution. Apache-2.0.
 
@@ -100,6 +100,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Codebuff](https://github.com/CodebuffAI/codebuff)** `⭐ 4.2k` — Multi-agent AI coding assistant with CLI support for collaborative coding workflows.
 
+- **[Every Code](https://github.com/just-every/code)** `⭐ 3.6k` — Fork of Codex CLI with validation, automation, browser integration, multi-agents, theming, and multi-provider orchestration (OpenAI, Claude, Gemini). Apache-2.0.
+
 - **[Devon](https://github.com/entropy-research/Devon)** `⭐ 3.5k` — Open-source pair programmer with a TUI; autonomous planning, execution, and debugging in Git workflows.
 
 - **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** `⭐ 3.4k` `[Mistral]` — Mistral's CLI coding assistant for conversational repo interaction and edits. Apache-2.0.
@@ -132,6 +134,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[g3](https://github.com/dhanji/g3)** `⭐ 470` — "Coding AI agent" in Rust: tool-running, repo interaction, skills system, and provider abstraction.
 
+- **[Coro Code](https://github.com/Blushyes/coro-code)** `⭐ 350` — Open-source CLI coding agent, a free alternative to Claude Code; generate, debug, and manage code seamlessly.
+
 - **[Mini-Kode](https://github.com/minmaxflow/mini-kode)** `⭐ 292` — An educational AI coding agent CLI, intended as a readable reference implementation.
 
 - **[LettaBot](https://github.com/letta-ai/lettabot)** `⭐ 267` — Personal AI assistant with persistent unified memory across Telegram, Slack, Discord, WhatsApp, and Signal; built on the Letta platform.
@@ -151,10 +155,6 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 - **[CLAII](https://github.com/agencyswarm/CLAII)** — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
 - **[2501 CLI](https://github.com/2501-ai/cli)** — AI-powered autonomous CLI agent for coding, debugging production issues, and DevOps automation.
-
-- **[Coro Code](https://github.com/jokas3322/coro-code)** — High-performance Rust CLI coding agent with rich terminal UI.
-
-- **[Every Code](https://github.com/yingpengzhang/ever-code)** — A community "Codex-inspired" CLI agent focusing on local, scriptable coding workflows.
 
 ### Closed Source
 
