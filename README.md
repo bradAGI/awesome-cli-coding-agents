@@ -263,6 +263,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 30k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
 
+- **[x402-proxy](https://github.com/cascade-protocol/x402-proxy)** `⭐ 30+` — `curl` for x402 paid APIs. Auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
+
 - **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 22k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
 
 - **[open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork)** `⭐ 3.1k` — Open-source version of Claude Cowork with 500+ SaaS app integrations.
