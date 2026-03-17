@@ -257,6 +257,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[wreckit](https://github.com/mikehostetler/wreckit)** `⭐ 120` — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
 
+- **[ORCH](https://github.com/oxgeneral/ORCH)** `⭐ 9` — CLI orchestrator that manages Claude Code, Codex, and Cursor as a typed task queue with state machine (todo→in_progress→review→done), auto-retry, inter-agent messaging, and TUI dashboard.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
