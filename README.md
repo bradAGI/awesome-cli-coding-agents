@@ -143,6 +143,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 15` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
+- **[Hermit](https://github.com/heggria/Hermit)** `⭐ 2` — Local-first governed agent kernel with durable task management, approval-based execution, receipts/proofs/rollback, plugin system, and MCP integration. MIT.
+
 - **[CLAII](https://github.com/agencyswarm/CLAII)** — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
 - **[2501 CLI](https://github.com/2501-ai/cli)** — AI-powered autonomous CLI agent for coding, debugging production issues, and DevOps automation.
