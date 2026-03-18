@@ -269,6 +269,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 1.6k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
 
+- **[OneCLI](https://github.com/onecli/onecli)** `⭐ 782` — Open-source credential vault for AI agents; Rust HTTP gateway injects API keys transparently so agents never handle raw secrets. Per-agent scoped tokens, AES-256-GCM encryption at rest. Apache-2.0.
+
 - **[subtask](https://github.com/zippoxer/subtask)** `⭐ 319` — Claude Skill for delegating tasks with subagents in Git worktrees.
 
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 293` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
@@ -282,8 +284,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[Untether](https://github.com/littlebearapps/untether)** `⭐ 5` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.
 
 - **[pi-builder](https://github.com/arosstale/pi-builder)** `⭐ 3` — TypeScript monorepo that wraps any installed CLI coding agent (Claude Code, Aider, OpenCode, Codex, Gemini CLI, Goose, Plandex, SWE-agent, Crush, gptme) behind a single interface; capability-based routing, health caching, fallback chains, SQLite persistence, and a streaming OrchestratorService. MIT.
-
-- **[OneCLI](https://github.com/onecli/onecli)** — Open-source credential vault for AI agents; Rust HTTP gateway injects API keys transparently so agents never handle raw secrets. Per-agent scoped tokens, AES-256-GCM encryption at rest.
 
 - **[Agentic Engineering Framework](https://github.com/DimitriGeelen/agentic-engineering-framework)** — Provider-neutral governance framework for CLI coding agents. Structural enforcement of task-driven workflows, context budget management, antifragile healing loops, and audit compliance. Works with Claude Code, Aider, Cursor, and any file-based agent.
 
