@@ -231,6 +231,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Catnip](https://github.com/wandb/catnip)** `⭐ 468` — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).
 
+- **[Parallel Code](https://github.com/johannesjo/parallel-code)** `⭐ 376` — Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+
 - **[CLI Agent Orchestrator (CAO)](https://github.com/awslabs/cli-agent-orchestrator)** `⭐ 316` — AWS's hierarchical multi-agent orchestration via tmux with intelligent task delegation patterns.
 
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 244` — Execute Claude Code tasks in parallel git worktrees.
