@@ -193,7 +193,7 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Mentat CLI](https://mentat.ai/docs/cli)** `[Mentat]` — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
 
-- **[FetchCoder](https://github.com/fetchai/fetchcoder)** `[Fetch.ai]` — Terminal coding agent powered by ASI1, with interactive TUI, CLI, and API server modes plus MCP integration.
+- **[FetchCoder](https://github.com/fetchai/fetchcoder-releases)** `[Fetch.ai]` — Terminal coding agent powered by ASI1, with interactive TUI, CLI, and API server modes plus MCP integration.
 
 - **[Command Code](https://github.com/CommandCodeAI/command-code)** `[CommandCode]` — CLI coding agent that continuously learns your coding style via taste-1 neuro-symbolic AI; adapts to preferences over time with project-specific taste profiles.
 
