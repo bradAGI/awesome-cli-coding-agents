@@ -275,6 +275,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 294` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
 
+- **[Coasts](https://github.com/coast-guard/coasts)** `⭐ 59` — Containerized host orchestration for git worktrees; isolates ports, networks, and services per environment using DinD/Sysbox/Podman. MIT.
+
 - **[claudebox](https://github.com/numtide/claudebox)** `⭐ 36` — Sandboxed environment for Claude Code (focused on isolation/safety).
 
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 17` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
