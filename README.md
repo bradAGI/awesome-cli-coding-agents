@@ -265,6 +265,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 23.3k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
 
+- **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** `⭐ 8.0k` `[NVIDIA]` — CLI tool for securely provisioning and managing sandboxed OpenClaw agent environments; enforces network, filesystem, and process-level security policies via OpenShell runtime. Apache-2.0.
+
 - **[open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork)** `⭐ 3.2k` — Open-source version of Claude Cowork with 500+ SaaS app integrations.
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 1.6k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
