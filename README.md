@@ -259,6 +259,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[wreckit](https://github.com/mikehostetler/wreckit)** `⭐ 121` — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
 
+- **[kodo](https://github.com/ikamensh/kodo)** `⭐ 37` — Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI through work cycles with independent architect and tester verification. SWE-bench verified.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
