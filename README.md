@@ -179,6 +179,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[GitHub Copilot in the CLI](https://github.com/github/copilot-cli)** `⭐ 9.4k` `[GitHub]` — GitHub's agentic CLI for repo/PR/issue workflows, command suggestions, and headless automation.
 
+- **[Droid](https://github.com/Factory-AI/factory)** `⭐ 624` `[Factory]` — Factory's multi-model CLI coding agent; #1 on Terminal-Bench, specialized droids for different tasks, headless CI mode, and multi-interface support (CLI/IDE/Slack/Linear).
+
 - **[Amp](https://sourcegraph.com/amp)** `[Sourcegraph]` — Sourcegraph's AI coding agent with a CLI for implementing tasks across real codebases.
 
 - **[Junie CLI](https://junie.jetbrains.com)** `[JetBrains]` — JetBrains' LLM-agnostic CLI coding agent (EAP); supports GPT-5, Claude, Gemini, Grok with plan mode and CI/CD headless usage.
