@@ -287,6 +287,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 17` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
+- **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 11` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
+
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
 
 - **[Untether](https://github.com/littlebearapps/untether)** `⭐ 8` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.
