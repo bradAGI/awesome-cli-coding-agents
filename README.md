@@ -243,6 +243,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 9` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
+- **[Yaw](https://yaw.sh)** — Cross-platform terminal that auto-detects CLI coding agents (Claude Code, Codex, Gemini CLI, Vibe CLI) and opens a split-pane workflow.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
