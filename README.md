@@ -261,6 +261,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[kodo](https://github.com/ikamensh/kodo)** `⭐ 37` — Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI through work cycles with independent architect and tester verification. SWE-bench verified.
 
+- **[Bernstein](https://github.com/chernistry/bernstein)** — Deterministic Python orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
