@@ -299,6 +299,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 ---
 
+- **[Nex](https://github.com/nex-crm/nex-as-a-skill)** ★14 — Organizational context and memory for AI agents; connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server (`npx @nex-ai/nex`) and persistent memory across agent sessions. MIT.
+
 ## Contributing
 
 PRs welcome! To add an entry, please ensure it meets these criteria:
