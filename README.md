@@ -261,6 +261,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[kodo](https://github.com/ikamensh/kodo)** `⭐ 37` — Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI through work cycles with independent architect and tester verification. SWE-bench verified.
 
+- **[Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52)** — File-based multi-agent orchestration for Cursor IDE. 4 AI roles (PM/DEV/OPS/QA) collaborate via "Filename as Protocol" (zero DBs, zero MQs). Includes auto patrol bot with pyautogui and .mdc rule files. Battle-tested: 91 production deployments.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
