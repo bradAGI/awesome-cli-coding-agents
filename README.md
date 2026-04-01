@@ -243,6 +243,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 9` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
+- **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
