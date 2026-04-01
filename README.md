@@ -145,6 +145,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
+- **[OpenHarness](https://github.com/zhijiewong/openharness)** — TypeScript/React+Ink terminal coding agent with 17 tools, 16 slash commands, git auto-commit with /undo, and headless CI mode (`oh run --json`). Works with Ollama, OpenAI, Anthropic, OpenRouter. MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
