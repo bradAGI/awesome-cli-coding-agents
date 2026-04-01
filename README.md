@@ -13,7 +13,7 @@
 
 A curated list of **80+ CLI coding agents** — AI-powered tools that live in your terminal, read/edit repos, and run commands — plus the **harnesses** that orchestrate, sandbox, or extend them.
 
-> **Last updated:** 2026-03-18
+> **Last updated:** 2026-04-01
 
 ### What is a CLI coding agent?
 
@@ -44,6 +44,8 @@ A CLI coding agent is an AI-powered tool that runs in your terminal and can auto
 Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tags `[Company]` indicate the backing organization.
 
 - **[OpenCode](https://github.com/anomalyco/opencode)** `⭐ 122k` — Terminal-native coding agent with 75+ provider support, LSP integration, and privacy-first design (formerly opencode-ai; now at opencode.ai).
+
+- **[Claw Code](https://github.com/instructkr/claw-code)** `⭐ 110k` — Clean-room Python/Rust rewrite of Claude Code architecture using oh-my-codex; fastest repo in GitHub history to 100K stars. Born from the March 2026 Claude Code source leak. MIT.
 
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `⭐ 98k` `[Google]` — Google's terminal agent powered by Gemini, with tools for repo work and research. Apache-2.0.
 
@@ -85,6 +87,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Kimi CLI](https://github.com/MoonshotAI/kimi-cli)** `⭐ 7.1k` `[Moonshot AI]` — Moonshot AI's CLI coding agent with skills, MCP support, and ACP IDE integration. Apache-2.0.
 
+- **[Claurst](https://github.com/Kuberwastaken/claurst)** `⭐ 6.1k` — Claude Code rewritten in idiomatic Rust with architectural breakdown; includes discoveries from the source leak (KAIROS persistent assistant, buddy system). MIT.
+
 - **[ForgeCode](https://github.com/antinomyhq/forge)** `⭐ 5.0k` — AI pair programmer supporting 300+ models, with task management, custom agents, and large-scale refactor tooling.
 
 - **[Kode CLI](https://github.com/shareAI-lab/Kode-cli)** `⭐ 4.6k` — ShareAI's open-source CLI agent for terminal-native coding with multi-provider support.
@@ -98,6 +102,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 - **[Devon](https://github.com/entropy-research/Devon)** `⭐ 3.5k` — Open-source pair programmer with a TUI; autonomous planning, execution, and debugging in Git workflows.
 
 - **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** `⭐ 3.4k` `[Mistral]` — Mistral's CLI coding assistant for conversational repo interaction and edits. Apache-2.0.
+
+- **[Free Code](https://github.com/paoloanzn/free-code)** `⭐ 3.3k` — Fork of Claude Code with all telemetry removed, guardrails stripped, and all experimental features enabled (KAIROS, dream mode, companion system).
 
 - **[AutoCodeRover](https://github.com/AutoCodeRoverSG/auto-code-rover)** `⭐ 3.1k` — Autonomous program improvement agent; patches real GitHub issues using code search and analysis.
 
@@ -274,6 +280,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 29.9k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
 
 - **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 23.3k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
+
+- **[OpenWork](https://github.com/different-ai/openwork)** `⭐ 13.0k` — Open-source alternative to Claude Cowork for teams; local-first desktop app powered by OpenCode with one-click setup. MIT.
 
 - **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** `⭐ 8.0k` `[NVIDIA]` — CLI tool for securely provisioning and managing sandboxed OpenClaw agent environments; enforces network, filesystem, and process-level security policies via OpenShell runtime. Apache-2.0.
 
