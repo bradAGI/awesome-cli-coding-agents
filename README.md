@@ -321,6 +321,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** — Transforms CLI agents from task executors into autonomous project partners.
 
+- **[kasetto](https://github.com/pivoshenko/kasetto)** — A declarative AI agent environment manager, written in Rust.
+
 ---
 
 ## Contributing
