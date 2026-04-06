@@ -271,7 +271,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[OpenCastle](https://github.com/monkilabs/opencastle)** `⭐ 18` — Multi-agent orchestration framework that turns AI coding assistants (Copilot, Cursor, Claude Code, OpenCode, Windsurf, Codex CLI) into 19 coordinated specialist agents. CLI-driven (`npx opencastle init`), with task decomposition, parallel work, and quality gates. MIT.
 
-- **[Bernstein](https://github.com/chernistry/bernstein)** — Deterministic Python orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits.
+- **[Bernstein](https://github.com/chernistry/bernstein)** — Open-source orchestrator that coordinates CLI coding agents in parallel. Supports 20+ agents including Claude Code, Codex, Gemini CLI, Aider, Goose, OpenCode. Deterministic scheduling, git worktree isolation, YAML plans, quality gates.
 
 - **[ORCH](https://github.com/oxgeneral/ORCH)** `⭐ 9` — CLI orchestrator that manages Claude Code, Codex, and Cursor as a typed task queue with state machine (todo→in_progress→review→done), auto-retry, inter-agent messaging, and TUI dashboard.
 
