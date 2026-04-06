@@ -247,6 +247,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 56` — Terminal UI designed for running multiple coding agents in parallel.
 
+- **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 35` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
+
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 9` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
