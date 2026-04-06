@@ -275,6 +275,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[ORCH](https://github.com/oxgeneral/ORCH)** `⭐ 9` — CLI orchestrator that manages Claude Code, Codex, and Cursor as a typed task queue with state machine (todo→in_progress→review→done), auto-retry, inter-agent messaging, and TUI dashboard.
 
+- **[Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts)** — 49 production-tested system prompts (AGENT.md) for multi-agent orchestration. Covers orchestrator, security auditor, code architect, OSINT researcher, trading analyst, and 44 more roles. Each prompt includes identity blocks, quality gates, anti-hallucination rules, and inter-agent communication protocols. Works with Claude Code, Codex, Gemini CLI, or any LLM.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
