@@ -277,6 +277,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[ORCH](https://github.com/oxgeneral/ORCH)** `⭐ 9` — CLI orchestrator that manages Claude Code, Codex, and Cursor as a typed task queue with state machine (todo→in_progress→review→done), auto-retry, inter-agent messaging, and TUI dashboard.
 
+- **[Forge](https://github.com/LucasDuys/forge)** `⭐ 4` — Autonomous spec-driven development loop for Claude Code; three-command pipeline (brainstorm specs, plan task DAGs, execute autonomously) with context survival, backpropagation that traces bugs to spec gaps, and Claude-on-Claude code review. MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
