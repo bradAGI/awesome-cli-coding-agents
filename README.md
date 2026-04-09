@@ -147,6 +147,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[picocode](https://github.com/jondot/picocode)** `⭐ 38` — Minimal Rust-based coding agent focused on CI workflows and small codemods; multi-LLM with personas.
 
+- **[VibePod](https://github.com/VibePod/vibepod-cli)** `⭐ 28` — Unified CLI for running AI coding agents in isolated Docker containers; zero-config setup, local metrics, HTTP traffic tracking, and an analytics dashboard for side-by-side comparison.
+
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 15` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
