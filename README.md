@@ -93,7 +93,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Kode CLI](https://github.com/shareAI-lab/Kode-cli)** `⭐ 4.6k` — ShareAI's open-source CLI agent for terminal-native coding with multi-provider support.
 
-- **[gptme](https://github.com/gptme/gptme)** `⭐ 4.2k` — Personal AI assistant in the terminal; runs code, manages files, and browses the web with tool-use.
+- **[gptme](https://github.com/gptme/gptme)** `⭐ 4.2k` — AI agent in your terminal with support for persistent autonomous agents. Runs code, edits files, browses the web. Build long-lived self-modifying agents with git-backed memory via [gptme-agent-template](https://github.com/gptme/gptme-agent-template).
 
 - **[Codebuff](https://github.com/CodebuffAI/codebuff)** `⭐ 4.2k` — Multi-agent AI coding assistant with CLI support for collaborative coding workflows.
 
