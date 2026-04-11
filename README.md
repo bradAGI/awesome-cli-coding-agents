@@ -327,6 +327,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[kasetto](https://github.com/pivoshenko/kasetto)** — A declarative AI agent environment manager, written in Rust.
 
+- **[toprank](https://github.com/nowork-studio/toprank)** — Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API, then ships fixes (meta tags, JSON-LD schema, keyword bids) directly to source code or CMS. Open-source, MIT.
+
 ---
 
 ## Contributing
