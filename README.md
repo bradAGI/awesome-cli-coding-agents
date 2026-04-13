@@ -346,3 +346,5 @@ PRs welcome! To add an entry, please ensure it meets these criteria:
 **Optional:** provider tag `[Company]`, license, or a "why it's interesting" note (diffs, LSP, sandboxing, multi-agent, MCP/skills, etc).
 
 Entries are sorted by GitHub stars within each section. Place your entry in the correct position.
+
+- **[lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli)** `⭐ 1` — Terminal-native LifeOS for managing intentions, habits, and timelogs; provides structured persistent context for agentic workflows.
