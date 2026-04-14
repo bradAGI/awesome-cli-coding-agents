@@ -174,6 +174,7 @@ Projects built on, forked from, or inspired by [OpenClaw](https://github.com/ope
 - **[Clawith](https://github.com/dataelement/Clawith)** `⭐ 1.6k` — "OpenClaw for Teams" — multi-agent collaboration platform that scales OpenClaw to organizations. Apache-2.0.
 
 - **[GitClaw](https://github.com/open-gitagent/gitclaw)** `⭐ 149` — Git-native AI agent framework where agent identity, rules, memory, tools, and skills are all version-controlled files. MIT.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### Closed Source
 
