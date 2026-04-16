@@ -305,6 +305,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claudebox](https://github.com/numtide/claudebox)** `⭐ 36` — Sandboxed environment for Claude Code (focused on isolation/safety).
 
+- **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** `⭐ 25` — CLI tool that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) across multiple LLMs using static action + argument matching. Iteratively rewrites docs until every configured model meets a PASS/FAIL score floor. MIT.
+
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 17` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
 - **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 11` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
