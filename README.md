@@ -265,6 +265,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[ralph-tui](https://github.com/subsy/ralph-tui)** `⭐ 2.1k` — Direct AI agents through task lists with autonomous execution.
 
+- **[AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)** `⭐ 1.5k` — AI Agent Workforce Platform: remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration. Self-hosted with BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. BSL-1.1.
+
 - **[loom](https://github.com/ghuntley/loom)** `⭐ 1.2k` — Infrastructure enabling autonomous loops to evolve products via multi-agent coordination.
 
 - **[wreckit](https://github.com/mikehostetler/wreckit)** `⭐ 121` — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
