@@ -245,6 +245,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[AgentPipe](https://github.com/kevinelliott/agentpipe)** `⭐ 98` — CLI/TUI app that orchestrates multi-agent conversations by enabling different AI CLI tools (Claude Code, Gemini, Qwen, etc.) to communicate in shared rooms. MIT.
 
+- **[amux](https://github.com/mixpeek/amux)** `⭐ 118` — Agent multiplexer for running dozens of parallel Claude Code sessions with web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Single Python file, Python 3 + tmux. MIT.
+
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 56` — Terminal UI designed for running multiple coding agents in parallel.
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 35` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
