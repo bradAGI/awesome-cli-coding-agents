@@ -179,6 +179,8 @@ Projects built on, forked from, or inspired by [OpenClaw](https://github.com/ope
 
 - **[GitClaw](https://github.com/open-gitagent/gitclaw)** `⭐ 149` — Git-native AI agent framework where agent identity, rules, memory, tools, and skills are all version-controlled files. MIT.
 
+- **[LionClaw](https://github.com/moshthepitt/lionclaw)** `⭐ 1` — Secure-first local AI CLI with a small auditable kernel, durable sessions, and installable skills. MIT.
+
 ### Closed Source
 
 Proprietary agents — usable but not forkable or extensible at the source level.
