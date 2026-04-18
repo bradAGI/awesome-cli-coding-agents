@@ -13,7 +13,7 @@
 
 A curated list of **80+ CLI coding agents** — AI-powered tools that live in your terminal, read/edit repos, and run commands — plus the **harnesses** that orchestrate, sandbox, or extend them.
 
-> **Last updated:** 2026-04-06
+> **Last updated:** 2026-04-17
 
 ### What is a CLI coding agent?
 
@@ -323,6 +323,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 17` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
+- **[Nex](https://github.com/nex-crm/nex-as-a-skill)** `⭐ 14` — Organizational context and memory for AI agents; connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server (`npx @nex-ai/nex`) and persistent memory across agent sessions. MIT.
+
 - **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 11` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
 
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
@@ -341,6 +343,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 3` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
 
+- **[lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli)** `⭐ 1` — Terminal-native LifeOS for managing intentions, habits, and timelogs; provides structured persistent context for agentic workflows.
+
 - **[OSOP](https://github.com/Archie0125/osop-agent-rules)** `⭐ 0` — Universal workflow logging protocol for CLI coding agents; produces `.osop` workflow definitions and `.osoplog.yaml` execution records. Supports Claude Code, Codex, Cursor, Windsurf, Aider, Cline, Roo Code, Devin, and OpenClaw. Includes a [visual editor](https://osop-editor.vercel.app) and [spec](https://github.com/Archie0125/osop-spec).
 
 - **[AgentLint](https://github.com/0xmariowu/AgentLint)** — 33 evidence-backed checks for AI-friendly repos. Scans file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix. Your AI agent is only as good as your repo.
@@ -354,8 +358,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[toprank](https://github.com/nowork-studio/toprank)** — Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API, then ships fixes (meta tags, JSON-LD schema, keyword bids) directly to source code or CMS. Open-source, MIT.
 
 ---
-
-- **[Nex](https://github.com/nex-crm/nex-as-a-skill)** ★14 — Organizational context and memory for AI agents; connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server (`npx @nex-ai/nex`) and persistent memory across agent sessions. MIT.
 
 ## Contributing
 
@@ -374,5 +376,3 @@ PRs welcome! To add an entry, please ensure it meets these criteria:
 **Optional:** provider tag `[Company]`, license, or a "why it's interesting" note (diffs, LSP, sandboxing, multi-agent, MCP/skills, etc).
 
 Entries are sorted by GitHub stars within each section. Place your entry in the correct position.
-
-- **[lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli)** `⭐ 1` — Terminal-native LifeOS for managing intentions, habits, and timelogs; provides structured persistent context for agentic workflows.
