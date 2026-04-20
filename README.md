@@ -149,7 +149,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[VibePod](https://github.com/VibePod/vibepod-cli)** `⭐ 28` — Unified CLI for running AI coding agents in isolated Docker containers; zero-config setup, local metrics, HTTP traffic tracking, and an analytics dashboard for side-by-side comparison.
 
-- **[Smelt](https://github.com/leonardcser/smelt)** `⭐ 17` — Rust TUI coding agent. MIT.
+- **[Smelt](https://github.com/leonardcser/smelt)** `⭐ 17` — Rust TUI coding agent; multi-provider (Anthropic, OpenAI, Ollama, GitHub Copilot, any OpenAI-compatible endpoint), four modes (Normal/Plan/Apply/Yolo), granular permission system, parallel subagents, vim keybindings, and headless scriptable mode. MIT.
 
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 15` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
