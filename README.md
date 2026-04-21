@@ -149,6 +149,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[picocode](https://github.com/jondot/picocode)** `⭐ 45` — Minimal Rust-based coding agent focused on CI workflows and small codemods; multi-LLM with personas.
 
+- **[Smelt](https://github.com/leonardcser/smelt)** `⭐ 17` — Rust TUI coding agent; multi-provider (Anthropic, OpenAI, Ollama, GitHub Copilot, any OpenAI-compatible endpoint), four modes (Normal/Plan/Apply/Yolo), granular permission system, parallel subagents, vim keybindings, and headless scriptable mode. MIT.
+
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 16` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 4` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
