@@ -237,7 +237,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[mux](https://github.com/coder/mux)** `⭐ 1.7k` — Desktop application for isolated, parallel agentic development.
 
-- **[supacode](https://github.com/supabitapp/supacode)** `⭐ 881` — Native macOS coding agent orchestrator.
+- **[supacode](https://github.com/supabitapp/supacode)** `⭐ 882` — Native macOS coding agent orchestrator.
 
 - **[jean](https://github.com/coollabsio/jean)** `⭐ 844` — Administer multiple projects, worktrees, and sessions with Claude CLI.
 
@@ -253,7 +253,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[AgentPipe](https://github.com/kevinelliott/agentpipe)** `⭐ 116` — CLI/TUI app that orchestrates multi-agent conversations by enabling different AI CLI tools (Claude Code, Gemini, Qwen, etc.) to communicate in shared rooms. MIT.
 
-- **[amux](https://github.com/andyrewlee/amux)** `⭐ 93` — Terminal UI designed for running multiple coding agents in parallel.
+- **[amux](https://github.com/andyrewlee/amux)** `⭐ 94` — Terminal UI designed for running multiple coding agents in parallel.
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 58` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
 
@@ -265,7 +265,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
 
-- **[claude-flow](https://github.com/ruvnet/claude-flow)** `⭐ 32.6k` — Deploy multi-agent swarms with coordinated workflows.
+- **[claude-flow](https://github.com/ruvnet/claude-flow)** `⭐ 32.7k` — Deploy multi-agent swarms with coordinated workflows.
 
 - **[gastown](https://github.com/steveyegge/gastown)** `⭐ 14.4k` — Multi-agent orchestration with persistent work tracking.
 
