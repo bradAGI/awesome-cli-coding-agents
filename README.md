@@ -299,6 +299,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 2` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.
 
+- **[Relay](https://github.com/jcast90/relay)** `⭐ 1` — Local-first orchestrator that runs inside your existing Claude or Codex CLI via MCP; classifies a request, decomposes it into tickets with a dependency DAG, dispatches across one or more repos, and supervises with live PR tracking + approval gates. CLI, TUI (ratatui), and GUI (Tauri) dashboards read the same `~/.relay/` files. MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
