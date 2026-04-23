@@ -43,7 +43,7 @@ A CLI coding agent is an AI-powered tool that runs in your terminal and can auto
 
 Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tags `[Company]` indicate the backing organization.
 
-- **[Claw Code](https://github.com/instructkr/claw-code)** `⭐ 187k` — Clean-room Python/Rust rewrite of Claude Code architecture using oh-my-codex; fastest repo in GitHub history to 100K stars. Born from the March 2026 Claude Code source leak. MIT.
+- **[Claw Code](https://github.com/ultraworkers/claw-code)** `⭐ 187k` — Clean-room Python/Rust rewrite of Claude Code architecture using oh-my-codex; fastest repo in GitHub history to 100K stars. Born from the March 2026 Claude Code source leak. MIT.
 
 - **[OpenCode](https://github.com/anomalyco/opencode)** `⭐ 147k` — Terminal-native coding agent with 75+ provider support, LSP integration, and privacy-first design (formerly opencode-ai; now at opencode.ai).
 
@@ -133,6 +133,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[g3](https://github.com/dhanji/g3)** `⭐ 508` — "Coding AI agent" in Rust: tool-running, repo interaction, skills system, and provider abstraction.
 
+- **[claw-code-agent](https://github.com/HarnessLab/claw-code-agent)** `⭐ 418` — Python-only Claude Code rewrite with zero external dependencies; born from the March 2026 Claude Code source leak, positioned as easier to hack on than the Rust/TypeScript reimplementations.
+
 - **[Coro Code](https://github.com/Blushyes/coro-code)** `⭐ 356` — Open-source CLI coding agent, a free alternative to Claude Code; generate, debug, and manage code seamlessly.
 
 - **[LettaBot](https://github.com/letta-ai/lettabot)** `⭐ 318` — Personal AI assistant with persistent unified memory across Telegram, Slack, Discord, WhatsApp, and Signal; built on the Letta platform.
@@ -178,6 +180,8 @@ Projects built on, forked from, or inspired by [OpenClaw](https://github.com/ope
 - **[Clawith](https://github.com/dataelement/Clawith)** `⭐ 3.3k` — "OpenClaw for Teams" — multi-agent collaboration platform that scales OpenClaw to organizations. Apache-2.0.
 
 - **[Moltis](https://github.com/moltis-org/moltis)** `⭐ 2.6k` — Secure, auditable Rust-native alternative to OpenClaw; zero unsafe code, 2,300+ tests, built-in voice I/O, MCP servers, and multi-channel access. MIT.
+
+- **[claw0](https://github.com/shareAI-lab/claw0)** `⭐ 2.3k` — 0-to-1 tutorial companion for the OpenClaw ecosystem; walks through building an agent harness from scratch, covering planning, context compression, and task persistence.
 
 - **[GitClaw](https://github.com/open-gitagent/gitclaw)** `⭐ 211` — Git-native AI agent framework where agent identity, rules, memory, tools, and skills are all version-controlled files. MIT.
 
