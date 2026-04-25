@@ -265,6 +265,10 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 9` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
+- **[pi-boss](https://github.com/skyfallsin/pi-boss)** `⭐ 1` — Multi-agent orchestration for the Pi coding agent; spawns sub-agents in visible tmux panes with task delegation, monitoring, and coordination. MIT.
+
+- **[pi-room](https://github.com/skyfallsin/pi-room)** — Multi-agent awareness extension for Pi; agents discover peers, peek at each other's work, and coordinate edits via shared tmux sessions. MIT.
+
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
 ### Orchestrators & autonomous loops
@@ -313,6 +317,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork)** `⭐ 3.9k` — Open-source version of Claude Cowork with 500+ SaaS app integrations.
 
+- **[Camofox Browser](https://github.com/jo-inc/camofox-browser)** `⭐ 3.1k` — Stealth headless browser for coding agents; Playwright-compatible with anti-detection, human-like fingerprinting, and a REST API for agent tool integration. MIT.
+
 - **[OneCLI](https://github.com/onecli/onecli)** `⭐ 1.8k` — Open-source credential vault for AI agents; Rust HTTP gateway injects API keys transparently so agents never handle raw secrets. Per-agent scoped tokens, AES-256-GCM encryption at rest. Apache-2.0.
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 1.7k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
@@ -329,6 +335,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claudebox](https://github.com/numtide/claudebox)** `⭐ 45` — Sandboxed environment for Claude Code (focused on isolation/safety).
 
+- **[pi-mem](https://github.com/jo-inc/pi-mem)** `⭐ 42` — Plain-Markdown persistent memory for coding agents; long-term, daily, scratchpad, and searchable notes with zero dependencies on vector DBs. MIT.
+
 - **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** `⭐ 38` — CLI tool that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) across multiple LLMs using static action + argument matching. Iteratively rewrites docs until every configured model meets a PASS/FAIL score floor. MIT.
 
 - **[Wit](https://github.com/amaar-mc/wit)** `⭐ 38` — Coordination protocol that prevents merge conflicts between parallel AI agents. Locks specific functions (not files) via Tree-sitter AST parsing; agents declare intents, acquire symbol-level locks, and get conflict warnings before writing code. JSON-RPC daemon. MIT.
@@ -338,6 +346,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 28` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
 
 - **[Nex](https://github.com/nex-crm/nex-as-a-skill)** `⭐ 27` — Organizational context and memory for AI agents; connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server (`npx @nex-ai/nex`) and persistent memory across agent sessions. MIT.
+
+- **[pi-reflect](https://github.com/jo-inc/pi-reflect)** `⭐ 23` — Self-improving behavioral files for coding agents; automated self-reviews that evolve AGENTS.md rules from actual mistakes. MIT.
 
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 20` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
