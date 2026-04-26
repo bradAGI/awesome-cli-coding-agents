@@ -327,6 +327,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[kasetto](https://github.com/pivoshenko/kasetto)** `⭐ 62` — A declarative AI agent environment manager, written in Rust.
 
+- **[KubeStellar Console kc-agent](https://github.com/kubestellar/console)** `⭐ 67` — Local agent that bridges CLI coding agents to Kubernetes clusters via MCP; exposes kubeconfig contexts, kubectl, Helm, and multi-cluster operations as MCP tools over WebSocket. Apache-2.0.
+
 - **[claudebox](https://github.com/numtide/claudebox)** `⭐ 45` — Sandboxed environment for Claude Code (focused on isolation/safety).
 
 - **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** `⭐ 38` — CLI tool that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) across multiple LLMs using static action + argument matching. Iteratively rewrites docs until every configured model meets a PASS/FAIL score floor. MIT.
