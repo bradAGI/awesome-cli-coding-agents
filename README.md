@@ -145,9 +145,13 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[cursor-agent](https://github.com/civai-technologies/cursor-agent)** `⭐ 115` — Python-based agent replicating Cursor's coding assistant capabilities; supports Claude, OpenAI, and local Ollama models.
 
+- **[openHarness](https://github.com/zhijiewong/openharness)** `⭐ 88` — Open-source Claude Code alternative. 78 slash commands, 42 tools, MCP (stdio/HTTP/SSE + OAuth 2.1), hooks, subagents, plan mode. Works with Anthropic/OpenAI/Ollama/llama.cpp/LM Studio. Ships both npm and Python SDK. MIT.
+
 - **[VibePod](https://github.com/VibePod/vibepod-cli)** `⭐ 67` — Unified CLI for running AI coding agents in isolated Docker containers; zero-config setup, local metrics, HTTP traffic tracking, and an analytics dashboard for side-by-side comparison.
 
 - **[QQCode](https://github.com/qnguyen3/qqcode)** `⭐ 52` — Lightweight CLI coding agent in Rust focused on speed, determinism, and developer control; supports skills.
+
+- **[Octomind](https://github.com/Muvon/octomind)** `⭐ 50` — Open-source, model-agnostic AI agent runtime with community tap registry (`developer:rust`, `doctor:blood`, `legal:contracts`), MCP support with runtime self-extension, 13+ providers, and adaptive compression. Written in Rust. Apache-2.0.
 
 - **[picocode](https://github.com/jondot/picocode)** `⭐ 47` — Minimal Rust-based coding agent focused on CI workflows and small codemods; multi-LLM with personas.
 
@@ -265,6 +269,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 9` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
+- **[CLITrigger](https://github.com/HyperAITeam/CLITrigger)** `⭐ 4` — Self-hosted web UI for orchestrating Claude Code, Codex, and Gemini CLIs in parallel git worktrees. Features multi-agent discussion mode (architect/developer/reviewer debate before implementation), cross-project Morning Review Queue, scheduled execution with rate-limit auto-recovery, and a built-in Git client. MIT.
+
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
 ### Orchestrators & autonomous loops
@@ -298,6 +304,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 20` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.
 
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 3` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.
+
+- **[Relay](https://github.com/jcast90/relay)** `⭐ 2` — Local-first orchestrator that runs inside your existing Claude or Codex CLI via MCP; classifies a request, decomposes it into tickets with a dependency DAG, dispatches across one or more repos, and supervises with live PR tracking + approval gates. CLI, TUI (ratatui), and GUI (Tauri) dashboards share `~/.relay/` state. MIT.
 
 ### Agent infrastructure
 
@@ -362,6 +370,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[OSOP](https://github.com/Archie0125/osop-agent-rules)** `⭐ 1` — Universal workflow logging protocol for CLI coding agents; produces `.osop` workflow definitions and `.osoplog.yaml` execution records. Supports Claude Code, Codex, Cursor, Windsurf, Aider, Cline, Roo Code, Devin, and OpenClaw. Includes a [visual editor](https://osop-editor.vercel.app) and [spec](https://github.com/Archie0125/osop-spec).
 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
+
+- **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 0` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
 ---
 
