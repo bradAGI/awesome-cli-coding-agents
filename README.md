@@ -289,6 +289,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[loom](https://github.com/ghuntley/loom)** `⭐ 1.3k` — Infrastructure enabling autonomous loops to evolve products via multi-agent coordination.
 
+- **[Aeon](https://github.com/aaronjmars/aeon)** `⭐ 255` — Autonomous agent framework that runs unattended on GitHub Actions; orchestrates Claude Code across 90+ skills (research, dev, crypto, productivity) on cron or reactive triggers, with quality scoring (1–5 via Haiku), persistent memory, and a self-healing loop (`heartbeat` → `skill-health` → `skill-evals` → `skill-repair` → `self-improve`). MCP + A2A integrations. MIT.
+
 - **[Bernstein](https://github.com/chernistry/bernstein)** `⭐ 206` — Deterministic Python orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits.
 
 - **[wreckit](https://github.com/mikehostetler/wreckit)** `⭐ 126` — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
