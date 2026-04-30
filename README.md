@@ -373,6 +373,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 0` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[Not Human Search](https://github.com/unitedideas/nothumansearch)** `⭐ 0` — MCP server and API for CLI agents to search agent-ready tools and verify MCP/OpenAPI/llms.txt surfaces before wiring external services into a repo. Public endpoint: `https://nothumansearch.ai/mcp`.
+
 ---
 
 ## Contributing
