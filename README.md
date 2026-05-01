@@ -163,6 +163,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 2` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
+- **[Crab Code](https://github.com/crabforge/crab-code)** `⭐ 49` — Rust-native agentic coding CLI supporting any LLM provider; multi-entry-point architecture (CLI/IDE/Web/Desktop). Apache-2.0.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
