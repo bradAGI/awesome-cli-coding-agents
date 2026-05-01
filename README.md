@@ -153,6 +153,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Octomind](https://github.com/Muvon/octomind)** `⭐ 51` — Open-source, model-agnostic AI agent runtime with community tap registry (`developer:rust`, `doctor:blood`, `legal:contracts`), MCP support with runtime self-extension, 13+ providers, and adaptive compression. Written in Rust. Apache-2.0.
 
+- **[Crab Code](https://github.com/crabforge/crab-code)** `⭐ 49` — Rust-native agentic coding CLI supporting any LLM provider; multi-entry-point architecture (CLI/IDE/Web/Desktop). Apache-2.0.
+
 - **[picocode](https://github.com/jondot/picocode)** `⭐ 47` — Minimal Rust-based coding agent focused on CI workflows and small codemods; multi-LLM with personas.
 
 - **[Smelt](https://github.com/leonardcser/smelt)** `⭐ 18` — Rust TUI coding agent; multi-provider (Anthropic, OpenAI, Ollama, GitHub Copilot, any OpenAI-compatible endpoint), four modes (Normal/Plan/Apply/Yolo), granular permission system, parallel subagents, vim keybindings, and headless scriptable mode. MIT.
@@ -162,8 +164,6 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 4` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 2` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
-
-- **[Crab Code](https://github.com/crabforge/crab-code)** `⭐ 49` — Rust-native agentic coding CLI supporting any LLM provider; multi-entry-point architecture (CLI/IDE/Web/Desktop). Apache-2.0.
 
 ### OpenClaw ecosystem
 
