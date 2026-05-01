@@ -345,7 +345,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Nex](https://github.com/nex-crm/nex-as-a-skill)** `⭐ 40` — Organizational context and memory for AI agents; connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server (`npx @nex-ai/nex`) and persistent memory across agent sessions. MIT.
 
-- **[AgentPlane](https://github.com/basilisk-labs/agentplane)** `⭐ 39` — Git-native workflow control layer for Claude Code, Codex, Cursor, Aider, and other CLI coding-agent workflows. Adds task, plan, approval, verification, and finish records inside the repository. MIT.
+- **[AgentPlane](https://github.com/basilisk-labs/agentplane)** `⭐ 39` — Git-native workflow control layer for repo-local coding-agent work. Adds task, plan, approval, verification, and finish records inside the repository. MIT.
 
 - **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 29` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
 
