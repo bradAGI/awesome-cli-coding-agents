@@ -373,6 +373,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 0` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[Bring Your AI](https://github.com/unitedideas/bringyour-mcp)** `⭐ 0` — Public MCP metadata and migration-audit artifacts for a local-first Claude Code -> Codex harness mover; paired docs cover AGENTS.md/CLAUDE.md differences and Codex import checks without uploading harness files.
+
 ---
 
 ## Contributing
