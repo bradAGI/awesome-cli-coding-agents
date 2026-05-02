@@ -149,6 +149,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[VibePod](https://github.com/VibePod/vibepod-cli)** `⭐ 67` — Unified CLI for running AI coding agents in isolated Docker containers; zero-config setup, local metrics, HTTP traffic tracking, and an analytics dashboard for side-by-side comparison.
 
+- **[Crab Code](https://github.com/lingcoder/crab-code)** `⭐ 54` — Rust-native agentic coding CLI aligned with Claude Code's toolset and permission model; works with any LLM provider (Anthropic/OpenAI/DeepSeek/Bedrock/Vertex). 27 crates, 4,700+ tests, layered config system. Apache-2.0.
+
 - **[QQCode](https://github.com/qnguyen3/qqcode)** `⭐ 52` — Lightweight CLI coding agent in Rust focused on speed, determinism, and developer control; supports skills.
 
 - **[Octomind](https://github.com/Muvon/octomind)** `⭐ 51` — Open-source, model-agnostic AI agent runtime with community tap registry (`developer:rust`, `doctor:blood`, `legal:contracts`), MCP support with runtime self-extension, 13+ providers, and adaptive compression. Written in Rust. Apache-2.0.
@@ -289,6 +291,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[loom](https://github.com/ghuntley/loom)** `⭐ 1.3k` — Infrastructure enabling autonomous loops to evolve products via multi-agent coordination.
 
+- **[Aeon](https://github.com/aaronjmars/aeon)** `⭐ 263` — Autonomous agent framework that runs unattended on GitHub Actions; orchestrates Claude Code across 90+ skills (research, dev, crypto, productivity) on cron or reactive triggers, with quality scoring (1–5 via Haiku), persistent memory, and a self-healing loop. MCP + A2A integrations. MIT.
+
 - **[Bernstein](https://github.com/chernistry/bernstein)** `⭐ 249` — Deterministic Python orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits.
 
 - **[wreckit](https://github.com/mikehostetler/wreckit)** `⭐ 126` — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
@@ -343,6 +347,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Wit](https://github.com/amaar-mc/wit)** `⭐ 40` — Coordination protocol that prevents merge conflicts between parallel AI agents. Locks specific functions (not files) via Tree-sitter AST parsing; agents declare intents, acquire symbol-level locks, and get conflict warnings before writing code. JSON-RPC daemon. MIT.
 
+- **[AgentPlane](https://github.com/basilisk-labs/agentplane)** `⭐ 41` — Local CLI that wraps Claude Code, Codex, Cursor, and Aider work in an auditable Git-native workflow (task → plan → approve → implement → verify → finish). All state stays in `.agentplane/` inside the repo; no hosted runtime. MIT.
+
 - **[Nex](https://github.com/nex-crm/nex-as-a-skill)** `⭐ 40` — Organizational context and memory for AI agents; connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server (`npx @nex-ai/nex`) and persistent memory across agent sessions. MIT.
 
 - **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 29` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
@@ -372,6 +378,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 0` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
+
+- **[Not Human Search](https://github.com/unitedideas/nothumansearch)** `⭐ 0` — Search engine for AI agents that ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin); 8,000+ indexed sites exposed via MCP server, REST API, and full-text search. Lets agents discover and verify external services before wiring them into a repo. MIT.
 
 ---
 
