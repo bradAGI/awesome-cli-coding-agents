@@ -307,6 +307,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 20` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.
 
+
+- **[The Factory](https://github.com/akashgit/remote-factory)** `⭐ 13` — Self-evolving, stateful meta-harness for autonomous software development and research. Go from a plain-English idea to a running, continuously improving project. Turn any existing codebase into an autoresearch project in one command — auto-discovers eval dimensions, generates the scoring harness, and starts running keep/revert experiment loops. Research mode wraps any measurable metric into a full optimization loop with failure analysis, monotonic improvement, and leakage guards. Agents evolve their own playbooks from outcomes. MIT.
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 3` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.
 
 - **[Relay](https://github.com/jcast90/relay)** `⭐ 3` — Local-first orchestrator that runs inside your existing Claude or Codex CLI via MCP; classifies a request, decomposes it into tickets with a dependency DAG, dispatches across one or more repos, and supervises with live PR tracking + approval gates. CLI, TUI (ratatui), and GUI (Tauri) dashboards share `~/.relay/` state. MIT.
