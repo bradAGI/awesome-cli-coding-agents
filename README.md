@@ -361,6 +361,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
 
+- **[agent-lsp](https://github.com/blackwell-systems/agent-lsp)** `⭐ 10` — MCP server that gives any CLI coding agent real language intelligence: speculative execution (preview edits without touching disk), 53 LSP tools, 20 multi-step workflows with phase enforcement, 30 CI-verified languages. Measured 5-34x token savings vs grep/read across Go, TypeScript, and Python codebases. Works with Claude Code, Codex, Gemini CLI, Goose, and any MCP client. MIT.
+
 - **[zosma-qa](https://github.com/zosmaai/zosma-qa)** `⭐ 6` — Generates QA agent prompts (planner, generator, healer, analyzer) for CLI coding tools (OpenCode, Claude Code, VS Code Copilot); scaffolds autonomous test workflows across Playwright, Appium, and k6.
 
 - **[lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli)** `⭐ 6` — Terminal-native LifeOS for managing intentions, habits, and timelogs; provides structured persistent context for agentic workflows.
