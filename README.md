@@ -269,6 +269,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 65` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
 
+- **[oh-my-kimi](https://github.com/dmae97/oh-my-kimi)** `⭐ 49` — Multi-agent orchestration harness for Kimi K2.6 CLI. Parallel coding teams in isolated git worktrees, DAG scheduling with retry/fallback, live quality gates (lint/typecheck/test/build), terminal HUD + tmux cockpit dashboard, MCP skill-hooks, and local graph memory. npm installable (`@oh-my-kimi/cli`).
+
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 9` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
 - **[CLITrigger](https://github.com/HyperAITeam/CLITrigger)** `⭐ 4` — Self-hosted web UI for orchestrating Claude Code, Codex, and Gemini CLIs in parallel git worktrees. Features multi-agent discussion mode (architect/developer/reviewer debate before implementation), cross-project Morning Review Queue, scheduled execution with rate-limit auto-recovery, and a built-in Git client. MIT.
