@@ -381,6 +381,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Not Human Search](https://github.com/unitedideas/nothumansearch)** `⭐ 0` — Search engine for AI agents that ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin); 8,000+ indexed sites exposed via MCP server, REST API, and full-text search. Lets agents discover and verify external services before wiring them into a repo. MIT.
 
+- **[agentpreflight](https://github.com/kaylacar/agentpreflight)** `⭐ 0` — Pre-execution validation gate for AI agent tool calls. 13 rule sets across security (filesystem, git, secrets, network, parallel) and workflow discipline (naming, scope, editorial, session, time-estimation, prewrite, release). Hooks into Claude Code, Codex, OpenClaw. Zero runtime dependencies. MIT.
+
 ---
 
 ## Contributing
