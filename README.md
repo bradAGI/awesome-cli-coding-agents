@@ -315,6 +315,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
 
+- [Prismfy Wizard](https://github.com/prismfy/prismfy-wizard) — CLI that installs persistent live web search rules into local AI agent workflows by adding a `prismfy-search` command and managed search-policy blocks to agent instruction files.
 - **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 33.4k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
 
 - **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 31.6k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
