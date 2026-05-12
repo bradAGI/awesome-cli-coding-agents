@@ -359,6 +359,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 21` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
 
+- **[Dakera](https://github.com/dakera-ai/dakera-mcp)** — Self-hosted MCP-native memory server for CLI coding agents. Gives agents persistent, decay-weighted episodic memory across sessions via 83 MCP tools — works with Claude Code, Cursor, and any MCP-compatible CLI agent. RocksDB + HNSW backend, 87.8% LoCoMo benchmark, Docker Compose deploy, Apache-2.0.
+
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
 
 - **[zosma-qa](https://github.com/zosmaai/zosma-qa)** `⭐ 6` — Generates QA agent prompts (planner, generator, healer, analyzer) for CLI coding tools (OpenCode, Claude Code, VS Code Copilot); scaffolds autonomous test workflows across Playwright, Appium, and k6.
