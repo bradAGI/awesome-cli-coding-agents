@@ -247,6 +247,10 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Toad](https://github.com/batrachianai/toad)** `⭐ 3k` — Agent orchestrator for running and managing parallel CLI coding sessions.
 
+- **[agent-deck](https://github.com/asheshgoplani/agent-deck)** `⭐ 2.4k` — Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+
+- **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** `⭐ 2.2k` — Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
+
 - **[mux](https://github.com/coder/mux)** `⭐ 1.7k` — Desktop application for isolated, parallel agentic development.
 
 - **[supacode](https://github.com/supabitapp/supacode)** `⭐ 1k` — Native macOS coding agent orchestrator.
@@ -258,6 +262,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 - **[CLI Agent Orchestrator (CAO)](https://github.com/awslabs/cli-agent-orchestrator)** `⭐ 559` — AWS's hierarchical multi-agent orchestration via tmux with intelligent task delegation patterns.
 
 - **[Catnip](https://github.com/wandb/catnip)** `⭐ 479` — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).
+
+- **[ntm](https://github.com/Dicklesworthstone/ntm)** `⭐ 309` — Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette.
 
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 254` — Execute Claude Code tasks in parallel git worktrees.
 
