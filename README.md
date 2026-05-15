@@ -249,7 +249,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[agent-deck](https://github.com/asheshgoplani/agent-deck)** `⭐ 2.4k` — Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
-- **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** `⭐ 2.2k` — Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
+- **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** `⭐ 2.2k` — Manage multiple Claude Code and OpenCode agents from either a TUI or the web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
 
 - **[mux](https://github.com/coder/mux)** `⭐ 1.7k` — Desktop application for isolated, parallel agentic development.
 
