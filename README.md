@@ -359,6 +359,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 24` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
 
+- **[Agent FM](https://github.com/agentfm-ai/agent-fm)** `⭐ 17` — Local macOS app for listening to Claude Code and Codex agents, with Global Mix, blocker alerts, and BYOK narration.
+
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
 
 - **[zosma-qa](https://github.com/zosmaai/zosma-qa)** `⭐ 6` — Generates QA agent prompts (planner, generator, healer, analyzer) for CLI coding tools (OpenCode, Claude Code, VS Code Copilot); scaffolds autonomous test workflows across Playwright, Appium, and k6.
