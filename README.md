@@ -247,6 +247,10 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Toad](https://github.com/batrachianai/toad)** `⭐ 3k` — Agent orchestrator for running and managing parallel CLI coding sessions.
 
+- **[agent-deck](https://github.com/asheshgoplani/agent-deck)** `⭐ 2.4k` — Terminal session manager for AI coding agents — one TUI for Claude, Gemini, OpenCode, Codex, and more. Worktree-aware, MCP integration, 8+ contributors. MIT.
+
+- **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** `⭐ 2.2k` — Manage multiple Claude Code, OpenCode, Codex CLI, Gemini CLI, Pi, Copilot CLI, Mistral Vibe, and Factory Droid agents from a TUI or web UI (mobile-friendly). Rust, uses tmux + git worktrees. MIT.
+
 - **[mux](https://github.com/coder/mux)** `⭐ 1.7k` — Desktop application for isolated, parallel agentic development.
 
 - **[supacode](https://github.com/supabitapp/supacode)** `⭐ 1k` — Native macOS coding agent orchestrator.
@@ -258,6 +262,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 - **[CLI Agent Orchestrator (CAO)](https://github.com/awslabs/cli-agent-orchestrator)** `⭐ 559` — AWS's hierarchical multi-agent orchestration via tmux with intelligent task delegation patterns.
 
 - **[Catnip](https://github.com/wandb/catnip)** `⭐ 479` — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).
+
+- **[ntm](https://github.com/Dicklesworthstone/ntm)** `⭐ 313` — Named Tmux Manager — spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette.
 
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 254` — Execute Claude Code tasks in parallel git worktrees.
 
@@ -305,11 +311,17 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Forge](https://github.com/LucasDuys/forge)** `⭐ 25` — Autonomous spec-driven development loop for Claude Code; three-command pipeline (brainstorm specs, plan task DAGs, execute autonomously) with context survival, backpropagation that traces bugs to spec gaps, and Claude-on-Claude code review. MIT.
 
+- **[The Factory](https://github.com/akashgit/remote-factory)** `⭐ 24` — Self-evolving meta-harness for autonomous software dev and research; turns any codebase into an auto-research project, auto-discovers eval dimensions, generates scoring harness, and runs keep/revert experiment loops with monotonic-improvement guards. Multi-contributor. MIT.
+
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 20` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.
+
+- **[great_cto](https://github.com/avelikiy/great_cto)** `⭐ 16` — Engineering-management layer of 34 specialist AI agents covering the full SDLC (architect, PM, senior-dev, reviewer, QA, security, devops, L3-support + 18 archetype-specific reviewers) with auto-detected archetypes and compliance gates (PCI-DSS, HIPAA, FedRAMP, GDPR, EU AI Act). Runs in Claude Code, Cursor, Codex CLI, Aider, and Continue via AGENTS.md + MCP. MIT.
 
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 3` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.
 
 - **[Relay](https://github.com/jcast90/relay)** `⭐ 3` — Local-first orchestrator that runs inside your existing Claude or Codex CLI via MCP; classifies a request, decomposes it into tickets with a dependency DAG, dispatches across one or more repos, and supervises with live PR tracking + approval gates. CLI, TUI (ratatui), and GUI (Tauri) dashboards share `~/.relay/` state. MIT.
+
+- **[Galley](https://github.com/shinpr/galley)** `⭐ 1` — Local-first runtime for supervised AI coding tasks: isolated git worktrees, supervisor review against acceptance criteria, retry/escalate loops, on-disk run evidence, and PR handoff. Supports Codex CLI and Claude Code. Go, MIT.
 
 ### Agent infrastructure
 
@@ -345,6 +357,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claudebox](https://github.com/numtide/claudebox)** `⭐ 46` — Sandboxed environment for Claude Code (focused on isolation/safety).
 
+- **[agent-lsp](https://github.com/blackwell-systems/agent-lsp)** `⭐ 25` — MCP server giving any CLI coding agent type-aware language intelligence: 50+ LSP tools, speculative execution (preview edits without touching disk), 21 skills, 30 CI-verified languages. Measured 5–34× token savings vs grep/read. Works with Claude Code, Codex, Gemini CLI, Goose, and any MCP client. Go, MIT.
+
 - **[Untether](https://github.com/littlebearapps/untether)** `⭐ 45` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.
 
 - **[Wit](https://github.com/amaar-mc/wit)** `⭐ 43` — Coordination protocol that prevents merge conflicts between parallel AI agents. Locks specific functions (not files) via Tree-sitter AST parsing; agents declare intents, acquire symbol-level locks, and get conflict warnings before writing code. JSON-RPC daemon. MIT.
@@ -358,6 +372,10 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[AgentLint](https://github.com/0xmariowu/AgentLint)** `⭐ 24` — 33 evidence-backed checks for AI-friendly repos. Scans file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix. Your AI agent is only as good as your repo.
 
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 24` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
+
+- **[Agent FM](https://github.com/agentfm-ai/agent-fm)** `⭐ 19` — Local macOS menubar app that narrates Claude Code and Codex sessions with a Global Mix, blocker alerts, and BYOK voice; built with Electron. Apache-2.0.
+
+- **[AgentTier](https://github.com/agenttier/agenttier)** `⭐ 18` — Kubernetes-native sandbox runtime for AI coding agents. A `Sandbox` CRD provisions a Pod + PVC + NetworkPolicy with optional gVisor isolation; the `agenttier` Go CLI runs agent invocations that stream stdout/stderr/exit as SSE. Ships reference templates for Claude Code + Bedrock and LangGraph. Apache-2.0.
 
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
 
