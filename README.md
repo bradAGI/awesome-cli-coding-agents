@@ -399,6 +399,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Not Human Search](https://github.com/unitedideas/nothumansearch)** `⭐ 0` — Search engine for AI agents that ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin); 8,000+ indexed sites exposed via MCP server, REST API, and full-text search. Lets agents discover and verify external services before wiring them into a repo. MIT.
 
+- **[cctrack](https://github.com/nvwalj/claude-cost-tracker)** `⭐ 0` — Per-project cost tracker for Claude Code. Walks `~/.claude/projects/**/*.jsonl`, parses assistant `usage` blocks, multiplies tokens (input / output / cache-read / cache-write) by published Claude 4.x prices, prints a per-project or per-day dollar breakdown. Single-file Python, stdlib only. MIT.
+
 ---
 
 ## Contributing
