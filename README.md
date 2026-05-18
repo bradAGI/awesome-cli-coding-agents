@@ -379,6 +379,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
 
+- **[Agent Memory System](https://github.com/RavByte-AI/agent-memory-system)** `⭐ 8` — Persistent memory infrastructure for AI coding agents and multi-agent workflows. MIT.
+
 - **[zosma-qa](https://github.com/zosmaai/zosma-qa)** `⭐ 6` — Generates QA agent prompts (planner, generator, healer, analyzer) for CLI coding tools (OpenCode, Claude Code, VS Code Copilot); scaffolds autonomous test workflows across Playwright, Appium, and k6.
 
 - **[lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli)** `⭐ 6` — Terminal-native LifeOS for managing intentions, habits, and timelogs; provides structured persistent context for agentic workflows.
