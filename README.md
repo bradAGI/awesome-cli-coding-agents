@@ -377,6 +377,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentTier](https://github.com/agenttier/agenttier)** `⭐ 19` — Kubernetes-native sandbox runtime for AI coding agents. A `Sandbox` CRD provisions a Pod + PVC + NetworkPolicy with optional gVisor isolation; the `agenttier` Go CLI runs agent invocations that stream stdout/stderr/exit as SSE. Ships reference templates for Claude Code + Bedrock and LangGraph. Apache-2.0.
 
+- **[MartinLoop](https://github.com/Keesan12/martin-loop)** `⭐ 13` — Open-source control plane for CLI coding agents. Adds hard budget caps, verifier gates, halt reasons, and JSONL run records so autonomous loops stop cleanly instead of drifting or overspending.
+
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
 
 - **[lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli)** `⭐ 7` — Terminal-native LifeOS for managing intentions, habits, and timelogs; provides structured persistent context for agentic workflows.
