@@ -353,6 +353,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** `⭐ 56` — CLI tool that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) across multiple LLMs using static action + argument matching. Iteratively rewrites docs until every configured model meets a PASS/FAIL score floor. MIT.
 
+- **[y7os](https://github.com/yahyasaqban-lab/y7os)** `⭐ 1` — AI-first Linux distro for low-resource hardware; ships pre-configured Ollama, Open WebUI, Docker, and 11+ AI models. One-command install on Ubuntu/Debian. Bilingual (EN/AR), privacy-first, optimized for running CLI coding agents on $100 hardware. MIT.
+
 - **[AgentPlane](https://github.com/basilisk-labs/agentplane)** `⭐ 50` — Local CLI that wraps Claude Code, Codex, Cursor, and Aider work in an auditable Git-native workflow (task → plan → approve → implement → verify → finish). All state stays in `.agentplane/` inside the repo; no hosted runtime. MIT.
 
 - **[Untether](https://github.com/littlebearapps/untether)** `⭐ 47` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.
