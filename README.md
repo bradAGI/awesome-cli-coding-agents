@@ -193,6 +193,8 @@ Projects built on, forked from, or inspired by [OpenClaw](https://github.com/ope
 
 - **[LionClaw](https://github.com/moshthepitt/lionclaw)** `⭐ 8` — Secure-first local AI CLI with a small auditable kernel, durable sessions, and installable skills. MIT.
 
+- **[VT Code](https://github.com/vinhnx/vtcode)** `⭐ 604` - Open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. MIT.
+
 ### Closed Source
 
 Proprietary agents — usable but not forkable or extensible at the source level.
