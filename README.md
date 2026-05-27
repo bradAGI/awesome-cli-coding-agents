@@ -275,6 +275,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 80` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
 
+- **[Ouijit](https://github.com/ouijit/ouijit)** `⭐ 55` — Desktop task and terminal session manager that runs agent CLIs in parallel git worktrees with kanban task tracking. Claude Code, Codex, and Pi get live status indicators and can drive Ouijit through its CLI (create tasks, change statuses, update plans). Optional per-session Lima VM sandboxing. macOS and Linux. AGPL-3.0.
+
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 10` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
 - **[CLITrigger](https://github.com/HyperAITeam/CLITrigger)** `⭐ 5` — Self-hosted web UI for orchestrating Claude Code, Codex, and Gemini CLIs in parallel git worktrees. Features multi-agent discussion mode (architect/developer/reviewer debate before implementation), cross-project Morning Review Queue, scheduled execution with rate-limit auto-recovery, and a built-in Git client. MIT.
