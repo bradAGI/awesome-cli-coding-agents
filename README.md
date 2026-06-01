@@ -345,6 +345,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Coasts](https://github.com/coast-guard/coasts)** `⭐ 394` — Containerized host orchestration for git worktrees; isolates ports, networks, and services per environment using DinD/Sysbox/Podman. MIT.
 
+- **[AgentSight](https://github.com/eunomia-bpf/AgentSight)** `⭐ 357` — Zero-instrumentation eBPF observability for LLM/coding agents; captures syscall-level traces (file, process, network) without modifying the agent. MIT.
+
 - **[subtask](https://github.com/zippoxer/subtask)** `⭐ 330` — Claude Skill for delegating tasks with subagents in Git worktrees.
 
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 304` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
@@ -376,6 +378,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 25` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
 
 - **[AgentTier](https://github.com/agenttier/agenttier)** `⭐ 19` — Kubernetes-native sandbox runtime for AI coding agents. A `Sandbox` CRD provisions a Pod + PVC + NetworkPolicy with optional gVisor isolation; the `agenttier` Go CLI runs agent invocations that stream stdout/stderr/exit as SSE. Ships reference templates for Claude Code + Bedrock and LangGraph. Apache-2.0.
+
+- **[ActPlane](https://github.com/eunomia-bpf/ActPlane)** `⭐ 19` — OS-level agent harness that compiles a policy DSL to an eBPF engine for labeled information-flow control at the syscall boundary, with corrective feedback. MIT.
 
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
 
