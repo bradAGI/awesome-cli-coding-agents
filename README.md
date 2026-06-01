@@ -265,6 +265,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[ntm](https://github.com/Dicklesworthstone/ntm)** `⭐ 335` — Named Tmux Manager — spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette.
 
+- **[hcom](https://github.com/aannoo/hcom)** `⭐ 318` — Hooks Claude Code, Antigravity, Codex, OpenCode, Kilo, and Cursor into a shared messaging and event bus; agents message, observe, and spawn each other mid-turn without changing how you use them. TUI dashboard, collision detection, cross-device relay. Rust, MIT.
+
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 258` — Execute Claude Code tasks in parallel git worktrees.
 
 - **[amux](https://github.com/mixpeek/amux)** `⭐ 214` — Agent multiplexer for running dozens of parallel Claude Code sessions with web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Single Python file, Python 3 + tmux. MIT.
