@@ -323,6 +323,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 3` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.
 
+- **[driftless](https://github.com/mizan0515/driftless)** `⭐ 0` — Non-developer-operable overnight loop driving both Claude Code and Codex from one source of truth; surveys issues, runs parallel workers, self-recovers, and opens/merges PRs behind human-only gates. Repo-local isolated home (never touches host-global config), containment + mirror-parity gates, exhaustion-ledger so "done" can't hide unfinished work. MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
