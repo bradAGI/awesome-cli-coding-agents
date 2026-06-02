@@ -399,6 +399,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 1` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[Weaver](https://github.com/sean35mm/weaver)** `⭐ 0` — Local coordination layer for multiple coding agents working in the same repo. Agents announce tasks, claim paths/globs, check overlaps, and leave repo-local notes through a shared SQLite store. MIT.
+
 ---
 
 ## Contributing
