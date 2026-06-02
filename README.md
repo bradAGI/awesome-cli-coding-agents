@@ -159,6 +159,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Smelt](https://github.com/leonardcser/smelt)** `⭐ 21` — Rust TUI coding agent; multi-provider (Anthropic, OpenAI, Ollama, GitHub Copilot, any OpenAI-compatible endpoint), four modes (Normal/Plan/Apply/Yolo), granular permission system, parallel subagents, vim keybindings, and headless scriptable mode. MIT.
 
+- **[Keen Code](https://github.com/mochow13/keen-code)** `⭐ 17` — Go-based CLI coding agent focused on efficient context management — uses lean TurnMemory summaries instead of raw tool traces to maximize context efficiency. 9+ providers, skill-driven MCP servers, and full transparency with every prompt, design doc, and implementation plan saved as markdown. MIT.
+
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 16` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 4` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
