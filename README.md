@@ -399,6 +399,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 1` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[OpenCode Mobile](https://github.com/dzianisv/opencode-mobile)** `⭐ 1` — Open-source Android client for the [OpenCode](https://github.com/anomalyco/opencode) coding agent; drive AI coding sessions from your phone against your own self-hosted opencode server over Tailscale/tunnel/LAN, BYOK. Lets you check on and steer running agents while away from the desk. On F-Droid. MIT.
+
 ---
 
 ## Contributing
