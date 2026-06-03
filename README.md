@@ -330,6 +330,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 34.9k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
 
 - **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 34.6k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
+- **[CoderPlan](https://coderplan.ai/)** — Unified LLM API gateway for CLI coding agents. Claude, OpenAI, and Gemini models with per-usage billing; one-line config for Claude Code, Codex CLI, and Gemini CLI. Supports Alipay/WeChat Pay.
 
 - **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** `⭐ 20.8k` `[NVIDIA]` — CLI tool for securely provisioning and managing sandboxed OpenClaw agent environments; enforces network, filesystem, and process-level security policies via OpenShell runtime. Apache-2.0.
 
