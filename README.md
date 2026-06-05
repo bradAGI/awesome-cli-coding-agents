@@ -371,6 +371,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentLint](https://github.com/0xmariowu/AgentLint)** `⭐ 34` — 33 evidence-backed checks for AI-friendly repos. Scans file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix. Your AI agent is only as good as your repo.
 
+- **[AgentDiff](https://github.com/codeprakhar25/agentdiff)** `⭐ 29` — Git-native provenance for AI-written code: hooks every CLI agent (Claude Code, Codex, Cursor, Gemini, OpenCode, Windsurf, Copilot) and records which agent wrote which line, reconciles it against each commit, and signs every attribution with ed25519. Records live in your own git refs (`agentdiff list/blame/report`); no server. Rust, MIT/Apache-2.0.
+
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 25` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 25` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
