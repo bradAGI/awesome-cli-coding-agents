@@ -367,6 +367,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Agent FM](https://github.com/agentfm-ai/agent-fm)** `⭐ 43` — Local macOS menubar app that narrates Claude Code and Codex sessions with a Global Mix, blocker alerts, and BYOK voice; built with Electron. Apache-2.0.
 
+- **[AgentBox](https://github.com/madarco/agentbox)** `⭐ 41` — Run multiple coding agents in parallel, each teleported into its own sandboxed VM (local Docker, self-hosted, or cloud: Hetzner/Daytona/Vercel/E2B); sub-second checkpoints, per-box browser/VS Code/shells, git creds kept on the host. Works with Claude Code, Codex, and OpenCode. MIT.
+
 - **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 39` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
 
 - **[AgentLint](https://github.com/0xmariowu/AgentLint)** `⭐ 34` — 33 evidence-backed checks for AI-friendly repos. Scans file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix. Your AI agent is only as good as your repo.
