@@ -341,6 +341,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[OneCLI](https://github.com/onecli/onecli)** `⭐ 2.3k` — Open-source credential vault for AI agents; Rust HTTP gateway injects API keys transparently so agents never handle raw secrets. Per-agent scoped tokens, AES-256-GCM encryption at rest. Apache-2.0.
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — On-chain trust scoring MCP server for AI agents on Solana. Pre-dispatch trust gating, agent reputation scoring, and signed V5 receipts via x402/USDC micropayment. Zero-install Streamable HTTP: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
+
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 1.8k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
 
 - **[Coasts](https://github.com/coast-guard/coasts)** `⭐ 396` — Containerized host orchestration for git worktrees; isolates ports, networks, and services per environment using DinD/Sysbox/Podman. MIT.
