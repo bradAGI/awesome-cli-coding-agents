@@ -279,6 +279,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CLITrigger](https://github.com/HyperAITeam/CLITrigger)** `⭐ 6` — Self-hosted web UI for orchestrating Claude Code, Codex, and Gemini CLIs in parallel git worktrees. Features multi-agent discussion mode (architect/developer/reviewer debate before implementation), cross-project Morning Review Queue, scheduled execution with rate-limit auto-recovery, and a built-in Git client. MIT.
 
+- **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 1` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
+
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
 ### Orchestrators & autonomous loops
