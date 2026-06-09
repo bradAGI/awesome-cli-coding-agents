@@ -399,6 +399,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 1` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[Relay Baton](https://github.com/guorunjie/codex-relay-baton-guardian)** `⭐ 1` — CLI/LaunchAgent monitor for Codex long tasks. Detects compact failures and context-window overflow, writes auditable handoff bundles, and queues one safe relay while you are away. MIT.
+
 ---
 
 ## Contributing
