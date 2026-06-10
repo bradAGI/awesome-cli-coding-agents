@@ -253,6 +253,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[mux](https://github.com/coder/mux)** `⭐ 1.8k` — Desktop application for isolated, parallel agentic development.
 
+- **[Cate](https://github.com/0-AI-UG/cate)** `⭐ 1.3k` - Desktop app that runs terminals, Claude Code agent panels, editors, and browsers on an infinite zoomable canvas; multiple agent sessions sit side by side and panels can dock into tabs or detach into separate windows. Built with Electron and node-pty. MIT.
+
 - **[supacode](https://github.com/supabitapp/supacode)** `⭐ 1.1k` — Native macOS coding agent orchestrator.
 
 - **[jean](https://github.com/coollabsio/jean)** `⭐ 1k` — Administer multiple projects, worktrees, and sessions with Claude CLI.
