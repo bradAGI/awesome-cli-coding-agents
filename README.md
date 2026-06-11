@@ -281,7 +281,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
-- **[handoff](https://github.com/dazuiba/handoff)** `⭐ 1` — CLI proxy that dispatches coding tasks to configurable AI backends (Anthropic-compatible endpoints and Codex). Invoke via Claude Code skills (`/handoff-ds`, `/handoff-codex`, `/handoff-opus`) or Codex subagents. Python, `uv tool install handoff-cli`.
+- **[handoff](https://github.com/dazuiba/handoff)** `⭐ 1` — Let your coding agents work together. Delegate tasks to DeepSeek right inside your Claude Code or Codex sessions. Python, `uv tool install handoff-cli`.
 
 ### Orchestrators & autonomous loops
 
