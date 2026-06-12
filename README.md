@@ -399,6 +399,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 1` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[aicfg](https://github.com/iPythoning/aicfg)** — AGENTS.md ecosystem CLI: generates, validates, and manages AI agent configuration with automatic shim files for Claude Code, Cursor, GitHub Copilot, Gemini CLI, and 15+ other tools. Zero-install via `npx aicfg init`. MIT.
+
 ---
 
 ## Contributing
