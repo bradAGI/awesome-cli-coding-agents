@@ -399,6 +399,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 1` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[agentic-harness](https://github.com/MrBogomips/agentic-harness)** `⭐ 0` — Claude Code plugin (meta-tool) that builds, reviews, and maintains a project's agentic harness — the agents, skills, and orchestrator under `.claude/`. Coordinates with existing spec systems and issue trackers, and can sync a repo-native tracker with Jira/Linear. MIT.
+
 ---
 
 ## Contributing
