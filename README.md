@@ -351,6 +351,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[kasetto](https://github.com/pivoshenko/kasetto)** `⭐ 105` — A declarative AI agent environment manager, written in Rust.
 
+- **[Harness Starter Kit](https://github.com/harnessworks/harness-starter-kit)** `⭐ 76` — Prompt-first harness engineering starter kit for adding durable agent instructions, drift checks, failure memory, and evaluation loops to repositories. MIT.
+
 - **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** `⭐ 64` — CLI tool that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) across multiple LLMs using static action + argument matching. Iteratively rewrites docs until every configured model meets a PASS/FAIL score floor. MIT.
 
 - **[AgentPlane](https://github.com/basilisk-labs/agentplane)** `⭐ 58` — Local CLI that wraps Claude Code, Codex, Cursor, and Aider work in an auditable Git-native workflow (task → plan → approve → implement → verify → finish). All state stays in `.agentplane/` inside the repo; no hosted runtime. MIT.
