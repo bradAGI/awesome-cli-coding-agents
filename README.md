@@ -307,6 +307,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[ORCH](https://github.com/oxgeneral/ORCH)** `⭐ 78` — CLI orchestrator that manages Claude Code, Codex, and Cursor as a typed task queue with state machine (todo→in_progress→review→done), auto-retry, inter-agent messaging, and TUI dashboard.
 
+- **[Hephaestus](https://github.com/agentlas-ai/Hephaestus)** `⭐ 56` — Open Agent OS for Claude Code, Codex, and Cursor with a meta-agent builder, A2A Hub routing, local ontology, and memory/security gates. Apache-2.0.
+
 - **[OpenCastle](https://github.com/monkilabs/opencastle)** `⭐ 49` — Multi-agent orchestration framework that turns AI coding assistants (Copilot, Cursor, Claude Code, OpenCode, Windsurf, Codex CLI) into 19 coordinated specialist agents. CLI-driven (`npx opencastle init`), with task decomposition, parallel work, and quality gates. MIT.
 
 - **[great_cto](https://github.com/avelikiy/great_cto)** `⭐ 40` — Engineering-management layer of 34 specialist AI agents covering the full SDLC (architect, PM, senior-dev, reviewer, QA, security, devops, L3-support + 18 archetype-specific reviewers) with auto-detected archetypes and compliance gates (PCI-DSS, HIPAA, FedRAMP, GDPR, EU AI Act). Runs in Claude Code, Cursor, Codex CLI, Aider, and Continue via AGENTS.md + MCP. MIT.
