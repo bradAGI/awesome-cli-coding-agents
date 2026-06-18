@@ -173,6 +173,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 16` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
+- **[Agent AFK](https://github.com/griffinwork40/agent-afk)** `⭐ 16` — Coding-agent harness built for unattended, away-from-keyboard runs across four surfaces sharing one session manager: one-shot CLI, REPL, cron-friendly headless daemon, and a Telegram bot. Editable agent loop (prompts, permission gates, model routing, explicit terminal states), MCP (stdio/HTTP/SSE + OAuth), lifecycle hooks, background subagents, plan mode, cross-session memory, and an append-only trace receipt (`afk trace show`). Works with Anthropic and any OpenAI-compatible endpoint (GPT, Codex, local MLX/llama.cpp/Ollama). npm `agent-afk`, Node ≥22. Apache-2.0.
+
 - **[DvalinCode](https://github.com/arthurpanhku/dvalincode)** `⭐ 9` — Provider-neutral coding agent with three modes (Chat/Cowork/Code), inline diff approval, built-in Web GUI launched from a single binary. Works with any OpenAI-compatible endpoint (DeepSeek, OpenAI, Claude via OpenRouter, Groq, Ollama); macOS shell sandbox via `sandbox-exec`; `.dvalincodeignore` for sensitive files; `AGENTS.md` project memory. MIT.
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 5` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
