@@ -454,6 +454,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 1` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
+- **[rein](https://github.com/SalzDevs/rein)** `⭐ 0` — Go library + CLI that gives AI coding agents reliable shell execution: process group isolation (no leaked children on agent crash), graceful SIGTERM→SIGKILL shutdown, PTY allocation, idle-timeout detection, and overflow policies for long-running dev commands. Speaks NDJSON over stdio with Python and Node clients; cross-platform (Linux, macOS, Windows non-PTY). Go, MIT.
 
 ---
 
