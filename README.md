@@ -371,6 +371,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[toprank](https://github.com/nowork-studio/toprank)** `⭐ 2.9k` — Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API, then ships fixes (meta tags, JSON-LD schema, keyword bids) directly to source code or CMS. Open-source, MIT.
 
+- **[NotFair](https://github.com/nowork-studio/NotFair)** `⭐ 2.9k` — Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects live data through [Google Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/meta-ads), Google Search Console MCP, and Google Analytics (GA4) MCP; skill areas cover [site analysis, keyword research, schema markup](https://github.com/nowork-studio/NotFair/tree/main/seo), wasted-spend detection, and ROAS/creative-fatigue diagnostics. MIT.
+
 - **[OneCLI](https://github.com/onecli/onecli)** `⭐ 2.4k` — Open-source credential vault for AI agents; Rust HTTP gateway injects API keys transparently so agents never handle raw secrets. Per-agent scoped tokens, AES-256-GCM encryption at rest. Apache-2.0.
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 1.9k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
