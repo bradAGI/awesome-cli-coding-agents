@@ -347,6 +347,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 23` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.
 
+- **[LoopTroop](https://github.com/looptroop-ai/LoopTroop)** `⭐ 20` — Local, open-source GUI orchestrator for AI coding agents. An LLM Council plans, atomic "beads" execute in isolated git worktrees, and a "Ralph Loop" retries failures with fresh context to fight context rot. Built on OpenCode. MIT.
+
 - **[Galley](https://github.com/shinpr/galley)** `⭐ 11` — Local-first runtime for supervised AI coding tasks: isolated git worktrees, supervisor review against acceptance criteria, retry/escalate loops, on-disk run evidence, and PR handoff. Supports Codex CLI and Claude Code. Go, MIT.
 
 - **[Relay](https://github.com/jcast90/relay)** `⭐ 4` — Local-first orchestrator that runs inside your existing Claude or Codex CLI via MCP; classifies a request, decomposes it into tickets with a dependency DAG, dispatches across one or more repos, and supervises with live PR tracking + approval gates. CLI, TUI (ratatui), and GUI (Tauri) dashboards share `~/.relay/` state. MIT.
