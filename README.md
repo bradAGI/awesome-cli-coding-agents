@@ -417,6 +417,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[pi-reflect](https://github.com/jo-inc/pi-reflect)** `⭐ 33` — Self-improving behavioral files for coding agents; automated self-reviews that evolve AGENTS.md rules from actual mistakes. MIT.
 
+- **[ax](https://github.com/Necmttn/ax)** `⭐ 32` — Local agent telemetry.
+
 - **[AgentDiff](https://github.com/codeprakhar25/agentdiff)** `⭐ 29` — Git-native provenance for AI-written code: hooks every CLI agent (Claude Code, Codex, Cursor, Gemini, OpenCode, Windsurf, Copilot) and records which agent wrote which line, reconciles it against each commit, and signs every attribution with ed25519. Records live in your own git refs (`agentdiff list/blame/report`); no server. Rust, MIT/Apache-2.0.
 
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 26` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
