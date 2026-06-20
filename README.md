@@ -275,7 +275,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CLI Agent Orchestrator (CAO)](https://github.com/awslabs/cli-agent-orchestrator)** `⭐ 708` — AWS's hierarchical multi-agent orchestration via tmux with intelligent task delegation patterns.
 
-- **[Agent Sessions](https://github.com/jazzyalex/agent-sessions)** `⭐ 642` — Local-first macOS session-history browser for AI coding agents, with transcript search across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, Copilot CLI, OpenClaw, and more; resume is available where the underlying CLI supports it. MIT.
+- **[Agent Sessions](https://github.com/jazzyalex/agent-sessions)** `⭐ 650` — Local-first macOS session-history browser for AI coding agents, with transcript search across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, Copilot CLI, OpenClaw, and more; resume is available where the underlying CLI supports it. MIT.
 
 - **[Catnip](https://github.com/wandb/catnip)** `⭐ 486` — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).
 
