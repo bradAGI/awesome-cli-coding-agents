@@ -503,6 +503,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
+- **[Claim Boundary Harness](https://github.com/qimen039-code/claim-boundary-harness)** `⭐ 1` — Meta-first governance harness for coding-agent workflows; combines claim verification, isolated memory and ledger lanes, R0-R5 risk routing, bounded reading, and selective hook or wrapper gates. MIT.
+
 ---
 
 ## Contributing
