@@ -415,6 +415,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentLint](https://github.com/0xmariowu/AgentLint)** `⭐ 41` — 33 evidence-backed checks for AI-friendly repos. Scans file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix. Your AI agent is only as good as your repo.
 
+- **[Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard)** `⭐ 40` — Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call arguments before execution. MIT.
+
 - **[AgentTier](https://github.com/agenttier/agenttier)** `⭐ 40` — Kubernetes-native sandbox runtime for AI coding agents. A `Sandbox` CRD provisions a Pod + PVC + NetworkPolicy with optional gVisor isolation; the `agenttier` Go CLI runs agent invocations that stream stdout/stderr/exit as SSE. Ships reference templates for Claude Code + Bedrock and LangGraph. Apache-2.0.
 
 - **[pi-reflect](https://github.com/jo-inc/pi-reflect)** `⭐ 33` — Self-improving behavioral files for coding agents; automated self-reviews that evolve AGENTS.md rules from actual mistakes. MIT.
