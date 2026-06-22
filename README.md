@@ -455,6 +455,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 1` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[vibecodex](https://github.com/yerdaulet-damir/vibecodex)** — Production architecture bible: CLAUDE.md templates + 8 `.claude/skills/` for FastAPI, Next.js 15 & Go 1.22+. Skills: debug-backend, new-feature, add-provider, split-monolith (+ Next.js/Go variants).
+
 ---
 
 ## Contributing
