@@ -427,6 +427,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 25` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
 
+- **[agent-runbook](https://github.com/KnoxOps/agent-runbook)** `⭐ 24` — Python CLI that compiles contract-based YAML runbooks into SKILL.md files for Claude Code and Codex agents. Define multi-step workflows with loops, branching, parallelism, checkpoints, and file-based state passing between steps. `pip install git+https://github.com/KnoxOps/agent-runbook.git`
+
 - **[agent-terminal](https://github.com/jasonkneen/agent-terminal)** `⭐ 10` — Headless terminal automation for AI agents using node-pty; capture output and send input programmatically.
 
 - **[Agent Memory System](https://github.com/RavByte-AI/agent-memory-system)** `⭐ 10` — Persistent memory infrastructure for AI coding agents and multi-agent workflows. MIT.
