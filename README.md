@@ -355,6 +355,9 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 ### Agent infrastructure
 
+- **[ralph-harness](https://github.com/rxdt/py_ralph_frame)** `new` — Minimal repo-local loop scaffold for Claude Code, Codex CLI, and Gemini CLI. Uses `PROMPT.md`, specs, fresh-context iterations, git hooks, CI verification, and hard iteration/time caps so agents make small gated commits instead of drifting in one long chat. MIT.
+
+
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
 
 - **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 36.8k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
