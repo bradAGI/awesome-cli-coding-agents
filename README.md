@@ -173,7 +173,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 16` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
-- **[DvalinCode](https://github.com/arthurpanhku/dvalincode)** `⭐ 9` — Provider-neutral coding agent with three modes (Chat/Cowork/Code), inline diff approval, built-in Web GUI launched from a single binary. Works with any OpenAI-compatible endpoint (DeepSeek, OpenAI, Claude via OpenRouter, Groq, Ollama); macOS shell sandbox via `sandbox-exec`; `.dvalincodeignore` for sensitive files; `AGENTS.md` project memory. MIT.
+- **[DvalinCode](https://github.com/arthurpanhku/dvalincode)** `⭐ 9` — Provider-neutral, local-first coding agent (Chat/Cowork/Code modes) built for governance: an org policy engine, enforced network egress (per-request checks plus OS-sandboxed subprocesses via `sandbox-exec`/Bubblewrap), and a tamper-evident, hash-chained audit trail. Inline diff approval, durable session journal, built-in Web GUI from a single binary; works with any OpenAI-compatible endpoint (DeepSeek, OpenAI, Claude via OpenRouter, Groq, Ollama). Zero runtime deps. MIT.
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 5` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
 
