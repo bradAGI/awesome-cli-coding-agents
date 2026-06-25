@@ -353,6 +353,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 3` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.
 
+- **[AgentPipe](https://github.com/Xiaofuziod/agentpipe)** `⭐ 0` — Cross-vendor adversarial review pipeline: one agent writes (Claude), a different vendor reviews (Codex), looping until the reviewer is clean — with deterministic command gates (exit code = verdict) and fail-closed convergence. Rust engine + Tauri desktop GUI. macOS-first. MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
