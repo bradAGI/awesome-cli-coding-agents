@@ -307,6 +307,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 ### Orchestrators & autonomous loops
 
+- **[Loopy](https://github.com/arjunkshah/loopy)** ⭐ 28 — Kanban-based agent operating system that orchestrates 43 coding-agent CLIs (Codex, Claude Code, Cursor, Gemini) with complexity-aware routing, named subagents, and verifiable execution receipts. Core loop runs fully locally; optional integrations via user-provided API keys.
+
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
 
 - **[claude-flow](https://github.com/ruvnet/claude-flow)** `⭐ 60.9k` — Deploy multi-agent swarms with coordinated workflows.
