@@ -375,6 +375,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 1.9k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
 
+- **[Vestige](https://github.com/samvallad33/vestige)** `⭐ 565` — Local-first cognitive memory MCP server for coding agents; SQLite store, FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, hybrid retrieval, and provenance/correction tools. Single Rust binary with a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains. AGPL-3.0.
+
 - **[AgentSight](https://github.com/eunomia-bpf/AgentSight)** `⭐ 464` — Zero-instrumentation eBPF observability for LLM/coding agents; captures syscall-level traces (file, process, network) without modifying the agent. MIT.
 
 - **[Coasts](https://github.com/coast-guard/coasts)** `⭐ 406` — Containerized host orchestration for git worktrees; isolates ports, networks, and services per environment using DinD/Sysbox/Podman. MIT.
