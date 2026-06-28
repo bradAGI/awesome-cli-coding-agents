@@ -423,6 +423,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[codex-profiles](https://github.com/Ducksss/codex-profiles)** `⭐ 29` — Bash CLI helper for switching OpenAI Codex CLI/Desktop accounts via isolated `CODEX_HOME` profiles; Homebrew install with `brew install Ducksss/tap/codex-profile`. MIT, no token copying.
 
+- **[skillreaper](https://github.com/thousandflowers/skillreaper)** `⭐ 30` — CLI that reads real session transcripts to find skills, MCP servers, and agents loaded but never fired, then safely quarantines them in a reversible operation. Supports Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static binary, Homebrew and npm. MIT.
+
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 26` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 25` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
