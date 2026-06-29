@@ -236,6 +236,7 @@ Proprietary agents — usable but not forkable or extensible at the source level
 - **[Tabnine CLI](https://docs.tabnine.com/main/getting-started/tabnine-cli)** `[Tabnine]` — AI-powered terminal coding assistant with agentic workflows; distributed as a Docker container, requires enterprise license.
 
 - **[Mentat CLI](https://mentat.ai/docs/cli)** `[Mentat]` — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
+- **[SuperCompress](https://supercompress.vercel.app)** `⭐` — Learned prompt compression that reduces LLM token costs by ~65% using a ~5K-param CPU policy (~60ms latency). Open-source (MIT).
 
 ---
 
