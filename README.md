@@ -239,6 +239,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Mentat CLI](https://mentat.ai/docs/cli)** `[Mentat]` — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
 
+- **[Nimbalyst](https://github.com/nimbalyst/nimbalyst)** `[Nimbalyst]` — Open-source visual workspace for building with Codex, Claude Code, and more; manage your agents, edit the work visually, and track tasks.
+
 ---
 
 ## Harnesses & orchestration
