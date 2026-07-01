@@ -497,6 +497,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
+- **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 0` — Local-first safety and context layer for AI coding agents: AST-based context compression, patch-scope safety gates with secret scanning, transaction rollback independent of git, and a built-in local MCP server. Not an agent itself — sits underneath Aider/Cline/OpenHands/Claude Code. MIT.
+
 ---
 
 ## Contributing
