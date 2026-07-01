@@ -377,7 +377,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
-- **[5dive](https://5dive.ai)** `[5dive]` — Hosted platform that runs coding agents (Claude Code, Codex, Grok, and more) as always-on cloud teammates: one-command create, cron + heartbeat scheduling, multi-agent orchestration, Telegram control, and a dashboard with babysit/needs-you triage. BYO model. Proprietary.
+- **[5dive](https://5dive.ai)** `[5dive]` — Hosted platform for always-on autonomous coding agents: one-command agent create, cron + heartbeat scheduling, multi-agent orchestration, Telegram control, and a babysit + needs-you triage dashboard. BYO model/account. Runs Claude Code, Codex, Grok, and more. Proprietary, hosted.
 
 ### Agent infrastructure
 
