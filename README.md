@@ -317,6 +317,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
+- **[traintrack](https://github.com/OKKHALIL3/traintrack)** `⭐ 1` — Coordinate multiple coding-agent CLIs (Claude Code, Codex, Cursor, OpenCode) as one cross-vendor team over a local SQLite channel: a peer mesh plus a foreman that spawns headless workers in git worktrees. npm `traintrack`, Apache-2.0.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
