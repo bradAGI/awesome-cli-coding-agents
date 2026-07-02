@@ -463,6 +463,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-runbook](https://github.com/KnoxOps/agent-runbook)** `⭐ 24` — Python CLI that compiles contract-based YAML runbooks into SKILL.md files for Claude Code and Codex agents. Define multi-step workflows with loops, branching, parallelism, checkpoints, and file-based state passing between steps. `pip install git+https://github.com/KnoxOps/agent-runbook.git`
 
+- **[AgentPack](https://github.com/vishal2612200/agentpack)** `⭐ 21` — Local context engine for CLI coding agents: routes tasks to relevant files, tests, repo rules, skills, and commands, then writes compact context packs and MCP/CLI receipts for Claude Code, Codex, Cursor, Windsurf, and other agents.
+
 - **[Unship](https://github.com/mbenhard/unship)** `⭐ 14` — Local CLI and browser picker for comparing temporary UI variants created by coding agents, then keeping one and cleaning up unused code. MIT.
 
 - **[Agent Memory System](https://github.com/RavByte-AI/agent-memory-system)** `⭐ 12` — Persistent memory infrastructure for AI coding agents and multi-agent workflows. MIT.
