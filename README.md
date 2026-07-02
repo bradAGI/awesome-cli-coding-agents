@@ -293,6 +293,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[AgentBox](https://github.com/madarco/agentbox)** `⭐ 178` — Run multiple coding agents in parallel, each teleported into its own sandboxed VM (local Docker, self-hosted, or cloud: Hetzner/Daytona/Vercel/E2B); sub-second checkpoints, per-box browser/VS Code/shells, git creds kept on the host. Works with Claude Code, Codex, and OpenCode. MIT.
 
+- **[agent-qa](https://github.com/vostride/agent-qa)** `⭐ 152` — Self-improving QA harness for web and mobile workflows, with a CLI, dashboard, MCP and skills for coding agents, memory-backed self-healing, and sandboxed hooks for setup/teardown. FSL-1.1-ALv2.
+
 - **[AgentPipe](https://github.com/kevinelliott/agentpipe)** `⭐ 139` — CLI/TUI app that orchestrates multi-agent conversations by enabling different AI CLI tools (Claude Code, Gemini, Qwen, etc.) to communicate in shared rooms. MIT.
 
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 132` — Terminal UI designed for running multiple coding agents in parallel.
