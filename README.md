@@ -495,6 +495,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 2` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[Remote OpenClaw](https://github.com/aidevelopers2/remoteopenclaw-mcp)** `⭐ 2` — Search CLI + stdio MCP server that lets any CLI coding agent discover 13,870+ MCP servers, 4,384+ agent skills, and plugins from [remoteopenclaw.com](https://remoteopenclaw.com) (`npx remoteopenclaw search <query>`); no API key. TypeScript, MIT.
+
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
 ---
