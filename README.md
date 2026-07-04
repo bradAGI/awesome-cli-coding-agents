@@ -499,6 +499,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[OSOP](https://github.com/Archie0125/osop-agent-rules)** `⭐ 3` — Universal workflow logging protocol for CLI coding agents; produces `.osop` workflow definitions and `.osoplog.yaml` execution records. Supports Claude Code, Codex, Cursor, Windsurf, Aider, Cline, Roo Code, Devin, and OpenClaw. Includes a [visual editor](https://osop-editor.vercel.app) and [spec](https://github.com/Archie0125/osop-spec).
 
+- **[Cosmosmith](https://github.com/devnomad-byte/cosmosmith)** `⭐ 3` — npm CLI initializer for multi-agent coding workflows; generates AGENTS.md, task.md, proposal/design templates, and adapters for Claude Code, Cursor, Copilot, OpenCode, and Trae. MIT.
+
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 2` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
