@@ -469,6 +469,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentPack](https://github.com/vishal2612200/agentpack)** `⭐ 21` — Local context engine for CLI coding agents: routes tasks to relevant files, tests, repo rules, skills, and commands, then writes compact context packs and MCP/CLI receipts for Claude Code, Codex, Cursor, Windsurf, and other agents.
 
+- **[m1nd](https://github.com/maxkle1nz/m1nd)** `⭐ 20` — Local-first MCP server that gives a CLI coding agent a neuro-symbolic code graph over the repo: `impact`/`why`/change-reasoning across a call + cross-file-imports graph (10 languages), calibrated-trust retrieval that returns `abstain`/`insufficient_evidence` instead of guessing, and persistent agent memory. A SessionStart hook pre-orients the agent before its first turn. Works with Claude Code, Codex, Cursor, and any MCP client. Rust, MIT.
+
 - **[Unship](https://github.com/mbenhard/unship)** `⭐ 14` — Local CLI and browser picker for comparing temporary UI variants created by coding agents, then keeping one and cleaning up unused code. MIT.
 
 - **[Agent Memory System](https://github.com/RavByte-AI/agent-memory-system)** `⭐ 12` — Persistent memory infrastructure for AI coding agents and multi-agent workflows. MIT.
