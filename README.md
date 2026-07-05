@@ -243,6 +243,7 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 ## Harnesses & orchestration
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
 ### Session managers & parallel runners
 
 Tools for running and managing multiple agent sessions side-by-side. Sorted by GitHub stars.
