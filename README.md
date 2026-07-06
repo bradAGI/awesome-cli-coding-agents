@@ -505,6 +505,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 ---
 
+- **[AI Agent Safety Starter Pack](https://github.com/el-zachariah/ai-agent-safety-starter-pack)** `⭐ 0` — Local repo preflight CLI plus Claude Code `/agent-preflight` command for checking agent configs, package scripts, and Yellow/Red repo-risk signals before terminal coding agents get edit/test/shell scope. MIT.
+
 ## Contributing
 
 PRs welcome! To add an entry, please ensure it meets these criteria:
