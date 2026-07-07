@@ -293,6 +293,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[AgentBox](https://github.com/madarco/agentbox)** `⭐ 212` — Run multiple coding agents in parallel, each teleported into its own sandboxed VM (local Docker, self-hosted, or cloud: Hetzner/Daytona/Vercel/E2B); sub-second checkpoints, per-box browser/VS Code/shells, git creds kept on the host. Works with Claude Code, Codex, and OpenCode. MIT.
 
+- **[Proliferate](https://github.com/proliferate-ai/proliferate)** `⭐ 147` — Open-source local and cloud agent IDE for Claude Code, Codex, Gemini CLI, OpenCode, and similar coding agents; parallel workspaces, subagents, plugins, MCP, and review/merge flow around real CLI sessions.
+
 - **[AgentPipe](https://github.com/kevinelliott/agentpipe)** `⭐ 143` — CLI/TUI app that orchestrates multi-agent conversations by enabling different AI CLI tools (Claude Code, Gemini, Qwen, etc.) to communicate in shared rooms. MIT.
 
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 133` — Terminal UI designed for running multiple coding agents in parallel.
