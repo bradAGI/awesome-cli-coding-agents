@@ -315,6 +315,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 1` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
 
+- **[showagent](https://github.com/aytzey/showagent)** `⭐ 0` — Bubble Tea TUI that unifies the local session stores of Claude Code, Codex, Gemini CLI, and OpenCode: fuzzy search grouped by workspace, resume via each agent's own CLI, branch local copies, and cross-agent transcript conversion into the target's native format. Scriptable (`list --json`), fully local, single Go binary. MIT.
+
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
 ### Orchestrators & autonomous loops
