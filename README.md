@@ -503,6 +503,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
+- **[ActraDeck](https://github.com/actradeck/actradeck)** `⭐ 0` — Local-first cockpit for supervising Claude Code and Codex sessions in real time; normalizes both agents into one event timeline with secret redaction before persist, approval gates for destructive ops, and an append-only audit trail. `agentmon` sidecar + web console. Apache-2.0, TypeScript.
+
 ---
 
 ## Contributing
