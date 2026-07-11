@@ -313,7 +313,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[tmuxlet](https://github.com/CodefiLabs/tmuxlet)** `⭐ 6` — Rust CLI that runs interactive coding CLIs (Claude, Codex, Gemini, opencode, pi, Cursor) inside tmux and exposes a normalized `claude -p` style blocking interface. Single binary, zero deps. Works against the regular Claude subscription bucket (not the separate Agent SDK credit) by driving interactive Claude Code from the outside.
 
-- **[construct](https://github.com/construct-worlds/construct)** `⭐ 3` — Terminal-native agentic development environment: fleet TUI for Codex, Claude Code, Antigravity, Grok, and smith with fork/merge, collaborative Program Markdown orchestration, generative widgets, MCP agent coordination, and browser remote control. Rust, MIT.
+- **[construct](https://github.com/construct-worlds/construct)** `⭐ 3` — Terminal-native agentic development environment: fleet TUI for coding agent CLIs (Codex, Claude Code, Antigravity, Grok) with fork/merge, collaborative Program Markdown orchestration, generative widgets, agent-to-agent orchestration. Single Rust binary.
 
 - **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 1` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
 
