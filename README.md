@@ -175,6 +175,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Zap](https://github.com/zap-coding-agent/zap-coding-agent)** `⭐ 23` — Skill-first Rust TUI coding agent that injects only the context your task needs — no system prompt bloat. Single binary, no runtime. Supports Claude, Gemini, OpenAI, and local models via LM Studio; code-indexed via SQLite for fast symbol lookup; MCP support. MIT.
 
+- **[Grinta](https://github.com/josephsenior/Grinta-Coding-Agent)** `⭐ 18` — Local-first, provider-agnostic terminal coding agent built for long-horizon autonomous execution; durable state and recovery, context management, structured tool orchestration, LSP/DAP integration, and validation-gated completion. Python, MIT.
+
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 17` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 5` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
