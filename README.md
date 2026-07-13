@@ -549,6 +549,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Hivelore](https://github.com/Doucs91/hivelore)** `⭐ 1` — Deterministic policy gate for agent-written code: a lesson captured via MCP (`mem_tried`) becomes a validated regex/AST/test guard that Git hooks and CI use to refuse any diff reintroducing the documented mistake; briefs any agent with the team's repo-specific rules over MCP. TypeScript CLI, npm (`@hivelore/cli`). Apache-2.0.
 
+- **[ai-agent-detect](https://github.com/agent-detect/ai-agent-detect)** `⭐ 1` — Zero-dependency library + CLI that tells your tool which AI coding agent is running it: normalized name/version/mode from env signals across 25 agents, with an evidence-tiered registry and recorded fixtures. Edge-safe core; `npx ai-agent-detect` for a one-command verdict. MIT.
+
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 0` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
 ---
