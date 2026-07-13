@@ -347,6 +347,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Bwee](https://bwee.app)** — Desktop app for CLI coding agents where users build their own views (BYOUI) — custom tools and dashboards that live alongside the terminal. Persistent sessions and task management. macOS.
 
+- **[Mobile SSH](https://mobile-ssh.github.io/)** — SSH/SFTP/terminal client for Android and iOS built for driving remote CLI coding agents from a phone; Agent Alerts push a sound + vibration notification the moment Claude Code, Codex, or another agent needs input, plus a multi-server tmux session manager, Eternal Terminal transport, multi-address LAN/VPN roaming, and hardware-keyboard support. Android (Google Play), iOS (TestFlight).
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
