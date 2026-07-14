@@ -285,6 +285,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Cate](https://github.com/0-AI-UG/cate)** `⭐ 1.8k` — Desktop app that runs terminals, Claude Code agent panels, editors, and browsers on an infinite zoomable canvas; multiple agent sessions sit side by side and panels can dock into tabs or detach into separate windows. Built with Electron and node-pty. MIT.
 
+- **[Agent Teams AI](https://github.com/777genius/agent-teams-ai)** `⭐ 1.6k` - Cross-platform desktop control plane with integrated terminals and a Kanban board for autonomous coding-agent teams; agents coordinate, message each other, and review work across Codex, Claude Code, OpenCode, Cursor, Grok, GitHub Copilot, Kiro, Z.AI, MiniMax, Kimi, and 75+ model providers. AGPL-3.0.
+
 - **[Nimbalyst](https://github.com/nimbalyst/nimbalyst)** `⭐ 1.2k` — Open-source visual workspace for building with Codex, Claude Code, and more; manage your agents, edit the work visually, and track tasks. MIT.
 
 - **[jean](https://github.com/coollabsio/jean)** `⭐ 1.1k` — Administer multiple projects, worktrees, and sessions with Claude CLI.
