@@ -551,6 +551,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 0` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
+- **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** `⭐ 0` — Local-first relay CLI that lets teammates or other agents invoke an existing CLI coding agent over a trusted LAN while its source, prompts, dependencies, and credentials stay on the publisher's machine. Python, Apache-2.0.
+
 ---
 
 ## Contributing
