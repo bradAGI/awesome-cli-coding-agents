@@ -547,7 +547,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
-- **[PatchWarden](https://github.com/jiezeng2004-design/PatchWarden)** `⭐ 1` — Local-first MCP safety and verification layer for AI coding agents; adds workspace confinement, command allowlists, scope-violation detection, and auditable task evidence for OpenCode, Codex, and other MCP clients. MIT.
+- **[PatchWarden](https://github.com/jiezeng2004-design/PatchWarden)** `⭐ 2` — Local-first MCP safety and verification layer for AI coding agents; adds workspace confinement, command allowlists, scope-violation detection, and auditable task evidence for OpenCode, Codex, and other MCP clients. MIT.
 
 - **[Hivelore](https://github.com/Doucs91/hivelore)** `⭐ 1` — Deterministic policy gate for agent-written code: a lesson captured via MCP (`mem_tried`) becomes a validated regex/AST/test guard that Git hooks and CI use to refuse any diff reintroducing the documented mistake; briefs any agent with the team's repo-specific rules over MCP. TypeScript CLI, npm (`@hivelore/cli`). Apache-2.0.
 
