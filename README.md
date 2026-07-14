@@ -445,6 +445,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[cc-router](https://github.com/finch-xu/cc-router)** `⭐ 207` — Local Anthropic-Messages-API proxy that bundles multiple provider subscriptions and API quotas (DeepSeek, Qwen, Kimi, GLM, MiniMax, Claude — 18+ providers) into virtual opus/sonnet/haiku slots with failover and load balancing for Claude Code, Claude Desktop, OpenClaw, and OpenCode. No relation to claude-code-router. Rust, MIT.
 
+- **[HOL Guard](https://github.com/hashgraph-online/hol-guard)** `⭐ 0.2k` — Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Pre-tool hooks, approval center, and supply-chain advisory scanning. Supports Claude Code, Codex, Cursor, Gemini, Copilot CLI, Hermes, and OpenCode.
+
 - **[agent-qa](https://github.com/vostride/agent-qa)** `⭐ 159` — Self-improving QA harness for web and mobile workflows, with a CLI, dashboard, MCP and skills for coding agents, memory-backed self-healing, and sandboxed hooks for setup/teardown. FSL-1.1-ALv2.
 
 - **[kasetto](https://github.com/pivoshenko/kasetto)** `⭐ 117` — A declarative AI agent environment manager, written in Rust.
