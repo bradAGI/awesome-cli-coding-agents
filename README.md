@@ -479,6 +479,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[codex-profiles](https://github.com/Ducksss/codex-profiles)** `⭐ 52` — Bash CLI helper for switching OpenAI Codex CLI/Desktop accounts via isolated `CODEX_HOME` profiles; Homebrew install with `brew install Ducksss/tap/codex-profile`. MIT, no token copying.
 
+- **[Agent Island](https://github.com/tristan666666/agent-island)** `⭐ 52` — Local status companion for Claude Code and Codex sessions on macOS and Windows; shows working, your-turn, stalled, and attention states without uploading session data. MIT.
+
 - **[claudebox](https://github.com/numtide/claudebox)** `⭐ 51` — Sandboxed environment for Claude Code (focused on isolation/safety).
 
 - **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 50` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
