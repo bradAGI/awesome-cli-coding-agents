@@ -185,6 +185,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Grinta](https://github.com/josephsenior/Grinta-Coding-Agent)** `⭐ 20` — Local-first, provider-agnostic terminal coding agent built for long-horizon autonomous execution; durable state and recovery, context management, structured tool orchestration, LSP/DAP integration, and validation-gated completion. Python, MIT.
 
+- **[Tura](https://github.com/Tura-AI/tura)** `⭐ 18` — Rust-native coding agent with CLI, TUI, and desktop surfaces; multi-agent orchestration, workspace-scoped tools, MCP support, and multi-provider routing. Publishes long-horizon benchmark methodology and evidence. AGPL-3.0.
+
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 17` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 5` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
