@@ -253,6 +253,9 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Mentat CLI](https://mentat.ai/docs/cli)** `[Mentat]` — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
 
+- **[VinusCLI](https://vinuscli.dev)** — Terminal AI coding agent: reads/writes files, runs commands, shows visual
+  diffs; one key for every model (GPT, Claude, Gemini, Llama…) with flat fair-use pricing, MCP connectors, IDA/Ghidra RE, and self-improving skills. Install via `npm i -g vinuscli`. Closed-source, proprietary; free tier.
+
 ---
 
 ## Harnesses & orchestration
