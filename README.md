@@ -473,6 +473,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[RoleCraft](https://github.com/sametcelikbicak/rolecraft)** `⭐ 58` — Zero-dependency CLI to install AI agent skills as roles & behaviors from any source (local folder or GitHub repo). Works with opencode, Claude Code, Cursor, and 30+ spec-compliant agents; no marketplace or signup required.
 
+- **[Veripsa](https://github.com/GetVeripsa)** `⭐ 0` — GitHub App that warns before two green PRs from parallel coding agents land badly together on main. Advisory check + landing-order suggestion on each covered PR; content-free (no file bodies stored). Not a CLI itself — merge-lane infrastructure the parallel agents in this list rely on. Free in early access.
+
 - **[Untether](https://github.com/littlebearapps/untether)** `⭐ 56` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.
 
 - **[Nex](https://github.com/nex-crm/nex-as-a-skill)** `⭐ 55` — Organizational context and memory for AI agents; connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server (`npx @nex-ai/nex`) and persistent memory across agent sessions. MIT.
