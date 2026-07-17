@@ -397,6 +397,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 26` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.
 
+- **[Agon](https://github.com/AutoResearch-Factory/Agon)** `⭐ 26` — Claude Code plugin for autonomous research: runs a topic→idea→proposal→experiment loop with separate scientist, coder, and auditor roles.
+
 - **[5dive](https://github.com/5dive-ai/5dive)** `⭐ 21` — Run a company of AI coding agents on a server you own: one-command spin-up of named agents (Claude Code, Codex, Grok, and more), cron + heartbeat scheduling, multi-agent orchestration, Telegram control, and a babysit + needs-you triage dashboard. Self-hosted. MIT.
 
 - **[Galley](https://github.com/shinpr/galley)** `⭐ 14` — Local-first runtime for supervised AI coding tasks: isolated git worktrees, supervisor review against acceptance criteria, retry/escalate loops, on-disk run evidence, and PR handoff. Supports Codex CLI and Claude Code. Go, MIT.
