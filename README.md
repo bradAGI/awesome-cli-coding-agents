@@ -551,6 +551,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 0` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
+- **[constitution-lint-action](https://github.com/joeyycli/constitution-lint-action)** `⭐ 0` — Heuristic, no-LLM linter for agent instruction files (`CLAUDE.md`-style constitutions): 10 checks for missing operational guardrails (spend limits, escalation path, injection defense, secrets handling, ledger discipline). Ships as a GitHub Action or a zero-dependency local CLI/pre-commit hook. MIT.
+
 ---
 
 ## Contributing
