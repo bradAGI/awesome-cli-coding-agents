@@ -149,6 +149,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LettaBot](https://github.com/letta-ai/lettabot)** `⭐ 327` — Personal AI assistant with persistent unified memory across Telegram, Slack, Discord, WhatsApp, and Signal; built on the Letta platform.
 
+- **[Orca](https://github.com/echoVic/blade-deepseek)** `⭐ 310` — DeepSeek-native terminal coding agent in Rust; OS-level sandboxing (Seatbelt / bwrap / Landlock+seccomp, fail-closed), persistent goal mode with stall detection, background tasks, JS workflows, folder trust, and 1M-context auto-compaction. Single binary. MIT.
+
 - **[Mini-Kode](https://github.com/minmaxflow/mini-kode)** `⭐ 304` — An educational AI coding agent CLI, intended as a readable reference implementation.
 
 - **[zot](https://github.com/patriceckhart/zot)** `⭐ 295` — Zero-overhead and lightweight coding agent harness with TUI/JSON/RPC modes, structured tools, reviewable file diffs, skills, extensions, and optional guardrails.
