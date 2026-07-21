@@ -299,6 +299,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Catnip](https://github.com/wandb/catnip)** `⭐ 491` — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).
 
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** `⭐ 471` — Open-source local-first desktop workspace for running multiple CLI coding agents in parallel, with shared files, agent-specific context, BYOK providers, and approval controls. [Website](https://orkas.ai?source=gh-cliagents)
+
 - **[ntm](https://github.com/Dicklesworthstone/ntm)** `⭐ 404` — Named Tmux Manager — spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette.
 
 - **[hcom](https://github.com/aannoo/hcom)** `⭐ 392` — Hooks Claude Code, Antigravity, Codex, OpenCode, Kilo, and Cursor into a shared messaging and event bus; agents message, observe, and spawn each other mid-turn without changing how you use them. TUI dashboard, collision detection, cross-device relay. Rust, MIT.
