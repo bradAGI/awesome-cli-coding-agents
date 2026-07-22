@@ -377,6 +377,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[h5i](https://github.com/h5i-dev/h5i)** `⭐ 475` — Runs several coding agents (Claude Code, Codex) on the same task in isolated sandboxes, has them peer-review each other, then a neutral verifier replays and tests each candidate and merges the one that passes. Run metadata is versioned in the repo under `refs/h5i/*`. Apache-2.0.
 
+- **[fractal](https://github.com/plasma-ai/fractal)** `⭐ 339` — CLI/TUI orchestrator for hierarchical agent loops, with nodes working in their own git worktrees and delegating separable subtasks to child agents. Supports Claude Code, Codex, Grok Build, OpenCode, and Oh My Pi, with configurable caps on iterations, depth, direct children, cost, and time. Apache-2.0.
+
 - **[wreckit](https://github.com/mikehostetler/wreckit)** `⭐ 129` — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
 
 - **[OMK](https://github.com/dmae97/open-multi-agent-kit)** `⭐ 125` — Provider-neutral CLI control plane for coding agents: routes runtimes, scopes MCP, runs DAG workers, and verifies evidence before completion. MIT.
