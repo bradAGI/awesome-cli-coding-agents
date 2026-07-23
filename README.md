@@ -411,6 +411,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
+- **[TierDecay](https://github.com/alebgl77/tierdecay)** `⭐ 1` — Self-distilling model router: solves each task class once at an expensive model tier, distills the decision into a ≤15-line playbook entry, then probes and decays the class's default tier down (T3→T2→T1) using a ledger of predicted-vs-executed tiers. Ships adapters for Claude Code (native scout/executor/heavy-executor/oracle pipeline), Codex/AGENTS.md, Cursor, Gemini CLI, Aider, Cline, Goose, and Windsurf; a PreToolUse hook enforces state integrity. Just markdown + a shell installer, no daemon. MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
