@@ -551,6 +551,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 1` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
+- **[imlazy](https://github.com/hnikoloski/imlazy)** — Tier-aware task router and skill-based workflow manager for Claude Code. Classifies tasks into Quick/Standard/Heavy/Vault/Learn tiers and routes through the appropriate workflow — with adaptive disambiguation, misclassification learning, and a self-contained skill system.
+
 ---
 
 ## Contributing
