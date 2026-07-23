@@ -377,6 +377,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[h5i](https://github.com/h5i-dev/h5i)** `⭐ 488` — Runs several coding agents (Claude Code, Codex) on the same task in isolated sandboxes, has them peer-review each other, then a neutral verifier replays and tests each candidate and merges the one that passes. Run metadata is versioned in the repo under `refs/h5i/*`. Apache-2.0.
 
+- **[Claudexor](https://github.com/razzant/claudexor)** `⭐ 334` — Local-first control plane that keeps one coding thread across Claude Code, Codex, Cursor, and OpenCode. It can connect multiple user-owned accounts of the same harness (for example, five Claude Code accounts or ten Codex accounts), track each account's quota, and opt in to automatic rotation when one reaches its limit. CLI + macOS app. MIT.
+
 - **[wreckit](https://github.com/mikehostetler/wreckit)** `⭐ 130` — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
 
 - **[OMK](https://github.com/dmae97/open-multi-agent-kit)** `⭐ 128` — Provider-neutral CLI control plane for coding agents: routes runtimes, scopes MCP, runs DAG workers, and verifies evidence before completion. MIT.
