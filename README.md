@@ -317,6 +317,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 139` — Terminal UI designed for running multiple coding agents in parallel.
 
+- **[GridBash](https://github.com/jasonsuhari/gridbash)** `⭐ 139` — Cross-platform Rust terminal grid for running Codex, Claude Code, Gemini CLI, and other real PTY-backed agents side by side, with selected-pane input and optional git-worktree isolation.
+
 - **[Agent AFK](https://github.com/griffinwork40/agent-afk)** `⭐ 45` — Coding-agent harness built for unattended, away-from-keyboard runs across four surfaces sharing one session manager: one-shot CLI, REPL, cron-friendly headless daemon, and a Telegram bot. Editable agent loop (prompts, permission gates, model routing, explicit terminal states), MCP (stdio/HTTP/SSE + OAuth), lifecycle hooks, background subagents, plan mode, cross-session memory, and an append-only trace receipt (`afk trace show`). Works with Anthropic and any OpenAI-compatible endpoint (GPT, Codex, local MLX/llama.cpp/Ollama). npm `agent-afk`, Node ≥22. Apache-2.0.
 
 - **[Clave](https://github.com/codika-io/clave)** `⭐ 41` — Native macOS app for running multiple AI coding-agent CLIs (Claude Code, Gemini CLI, Codex) in parallel — split/grid terminal layouts, per-project session groups, a built-in git panel, and remote sessions over SSH. Fully local, no account. Electron. MIT.
