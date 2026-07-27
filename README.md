@@ -191,6 +191,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 4` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
+- **[SoleilCode](https://github.com/Xsoleils/SoleilCode)** `⭐ 0` — Free-first, local-first terminal coding agent with automatic routing across Ollama and free cloud providers, human-approved file and command tools, checkpoints, headless automation, and real browser verification. MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
