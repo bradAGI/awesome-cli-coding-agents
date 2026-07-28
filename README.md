@@ -253,6 +253,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Mentat CLI](https://mentat.ai/docs/cli)** `[Mentat]` — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
 
+- **[Nilux AI](https://github.com/nilux-dev/nilux)** `[Nilux]` — Terminal agent that reads, edits and runs code across a project and keeps its context between sessions; four approval modes, MCP servers, subagents. Pay-per-token, no subscription. `npm install -g @nilux-ai/code`
+
 ---
 
 ## Harnesses & orchestration
