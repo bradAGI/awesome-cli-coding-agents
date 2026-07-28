@@ -341,6 +341,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 2` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
 
+- **[AGI Cockpit](https://github.com/tempi-tech/agi-cockpit)** `⭐ 1` — Cross-platform multi-agent work OS for managing Claude Code, Codex, Cursor, Grok, and terminal tasks in parallel, with mobile PWA supervision and scheduled autoruns on Windows, macOS, and Linux.
+
 - **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
 
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
