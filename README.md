@@ -551,6 +551,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 1` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
+- **[Engine](https://github.com/StarshipSuperjam/engine-template)** `⭐ 0` — Repository-native software-engineering harness for Claude Code and Codex that helps people build and maintain real projects through persistent state and memory, deliberate build controls, unattended planned work, and evidence-backed pull requests. Source-available (Apache-2.0 + Commons Clause).
+
 ---
 
 ## Contributing
