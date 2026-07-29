@@ -409,6 +409,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Ralph Workflow](https://github.com/Ralph-Workflow/Ralph-Workflow)** `⭐ 3` — Local-first loop runner for Claude Code/Codex CLI: executes a spec in a real git repo with `progress.json` + `resume.md` + a 3-step timeout-cap; restartable, test-feedback-driven, no hosted runtime. MIT.
 
+- **[Meaning Assurance](https://github.com/leviuszen/meaning-assurance)** `⭐ 2` — Windows-first, local file-backed governance harness for Claude Code and Reasonix: bounds tasks, isolates implementation in git worktrees, freezes review evidence, moderates adversarial findings, and leaves final acceptance to a human. PowerShell, Apache-2.0.
+
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
 ### Agent infrastructure
