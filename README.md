@@ -429,6 +429,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[ralph-harness](https://github.com/rxdt/py_ralph_frame)** `⭐ 15` — Minimal repo-local loop scaffold for Claude Code, Codex CLI, and Gemini CLI. Uses `PROMPT.md`, specs, fresh-context iterations, git hooks, CI verification, and hard iteration/time caps so agents make small gated commits instead of drifting in one long chat. MIT.
 
+- **[Dahrk](https://github.com/dahrkai/dahrk-node)** `⭐ 7` — Runs a multi-stage workflow per Linear issue on a node you own. Each stage gets its own runtime (Claude Code, Codex, Pi), model, prompt, and git worktree, with approval gates in between. Plain TypeScript sequences the stages, so no model picks the next step. Apache-2.0 node, hosted hub.
+
 - **[Relay](https://github.com/jcast90/relay)** `⭐ 5` — Local-first orchestrator that runs inside your existing Claude or Codex CLI via MCP; classifies a request, decomposes it into tickets with a dependency DAG, dispatches across one or more repos, and supervises with live PR tracking + approval gates. CLI, TUI (ratatui), and GUI (Tauri) dashboards share `~/.relay/` state. MIT.
 
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 5` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.
