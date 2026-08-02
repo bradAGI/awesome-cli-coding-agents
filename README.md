@@ -589,6 +589,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 1` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
+- **[leanharness](https://github.com/bartek-890/leanharness)** `⭐ 0` — Zero-dependency `npx` installer that drops a ten-file Claude Code harness into a repo: a four-rule `CLAUDE.md`, credential deny rules, a Stop hook that refuses "done" without verification proof, and a small skill/agent kit. Sized against the instruction budget rather than filled — a published run of four hostile prompts passed 4/4 with the harness, 1/4 with none, and 3/4 with a ~300-line instruction file at ~2.4× the always-loaded tokens. Also writes `AGENTS.md`. MIT.
+
 ---
 
 ## Contributing
