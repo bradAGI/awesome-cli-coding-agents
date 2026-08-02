@@ -139,6 +139,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Neovate Code](https://github.com/neovateai/neovate-code)** `⭐ 1.6k` `[Ant Group]` — Ant Group's CLI agent with plugin system, multi-model/multi-provider support, MCP integrations, and headless automation mode. MIT.
 
+- **[Ouroboros](https://github.com/razzant/ouroboros)** `⭐ 1.1k` — General-purpose agent with a headless CLI for coding in external Git worktrees, durable memory across restarts, specialist-agent swarms, and reviewed self-modification. MIT.
+
 - **[VT Code](https://github.com/vinhnx/vtcode)** `⭐ 798` — Open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. MIT.
 
 - **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)** `⭐ 741` — Customizable, lightweight CLI powered by Groq's ultra-fast inference; extensible tools/commands with multi-model support.
