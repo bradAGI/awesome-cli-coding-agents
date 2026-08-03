@@ -413,6 +413,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[LoopTroop](https://github.com/looptroop-ai/LoopTroop)** `⭐ 104` — Local, open-source GUI orchestrator for AI coding agents. An LLM Council plans, atomic "beads" execute in isolated git worktrees, and a "Ralph Loop" retries failures with fresh context to fight context rot. Built on OpenCode. MIT.
 
+- **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** `⭐ 90` — Delegates coding grunt-work to other harnesses and models while your main session stays the orchestrator. Works with Claude Code, Codex, and more.
+
 - **[great_cto](https://github.com/avelikiy/great_cto)** `⭐ 63` — Engineering-management layer of 34 specialist AI agents covering the full SDLC (architect, PM, senior-dev, reviewer, QA, security, devops, L3-support + 18 archetype-specific reviewers) with auto-detected archetypes and compliance gates (PCI-DSS, HIPAA, FedRAMP, GDPR, EU AI Act). Runs in Claude Code, Cursor, Codex CLI, Aider, and Continue via AGENTS.md + MCP. MIT.
 
 - **[OpenCastle](https://github.com/monkilabs/opencastle)** `⭐ 58` — Multi-agent orchestration framework that turns AI coding assistants (Copilot, Cursor, Claude Code, OpenCode, Windsurf, Codex CLI) into 19 coordinated specialist agents. CLI-driven (`npx opencastle init`), with task decomposition, parallel work, and quality gates. MIT.
@@ -463,6 +465,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 2k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
 
+- **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** `⭐ 1.8k` — Context and token-cost optimizer for coding agents: finds "ghost tokens," survives compaction, and fights context-quality decay. Native plugins for Claude Code, Codex, OpenCode, and OpenClaw.
+
 - **[Vestige](https://github.com/samvallad33/vestige)** `⭐ 593` — Local-first cognitive memory MCP server for coding agents; SQLite store, FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, hybrid retrieval, and provenance/correction tools. Single Rust binary with a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains. AGPL-3.0.
 
 - **[AgentSight](https://github.com/eunomia-bpf/AgentSight)** `⭐ 549` — Zero-instrumentation eBPF observability for LLM/coding agents; captures syscall-level traces (file, process, network) without modifying the agent. MIT.
@@ -478,6 +482,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[cc-router](https://github.com/finch-xu/cc-router)** `⭐ 210` — Local Anthropic-Messages-API proxy that bundles multiple provider subscriptions and API quotas (DeepSeek, Qwen, Kimi, GLM, MiniMax, Claude — 18+ providers) into virtual opus/sonnet/haiku slots with failover and load balancing for Claude Code, Claude Desktop, OpenClaw, and OpenCode. No relation to claude-code-router. Rust, MIT.
 
 - **[agent-qa](https://github.com/vostride/agent-qa)** `⭐ 169` — Self-improving QA harness for web and mobile workflows, with a CLI, dashboard, MCP and skills for coding agents, memory-backed self-healing, and sandboxed hooks for setup/teardown. FSL-1.1-ALv2.
+
+- **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** `⭐ 145` — Offline security scanner for AI-agent repos, skills, plugins, and MCP servers. Flags prompt injection, credential theft, and manifest drift before you install.
 
 - **[kasetto](https://github.com/pivoshenko/kasetto)** `⭐ 116` — A declarative AI agent environment manager, written in Rust.
 
