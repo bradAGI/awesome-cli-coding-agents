@@ -355,6 +355,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 2` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
 
+- **[Podiom](https://github.com/Podiom/Podiom)** `⭐ 1` — Self-hosted control plane for local Claude Code and Codex CLI agents: durable named agents, sessions that survive provider/profile switches, a shared project ledger, and built-in scheduling, in a single Go binary with an embedded web UI. MIT.
+
 - **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
 
 - **[cliclaw](https://github.com/choiyounggi/cliclaw)** `⭐ 0` — macOS daemon to drive Claude Code, Codex, Gemini, and Pi from Telegram — an independent session per chat, a confirm gate for dangerous commands (bash/git/cloud deletes), and secret auto-masking. npm `@younggichoi/cliclaw`, TypeScript/Bun. MIT.
