@@ -589,6 +589,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 1` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
+- **[wt](https://github.com/sahil87/wt)** `⭐ 1` — Git worktree CLI for parallel coding-agent workflows — sibling-layout worktrees with shell-integrated navigation; create, list, open, and delete isolated checkouts for agents working in parallel. MIT.
+
 ---
 
 ## Contributing
