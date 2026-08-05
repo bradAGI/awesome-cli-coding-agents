@@ -463,6 +463,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 2k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
 
+- **[qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** `⭐ 1.9k` — Full-duplex realtime voice runtime that drives CLI coding agents (OpenCode, Claude Code, Codex, Kimi Code, Qoder, and more) over ACP; conversation keeps going while background tasks run, with barge-in, task-result reflow, local wake word, and a macOS orb / TUI / web UI. Apache-2.0.
+
 - **[Vestige](https://github.com/samvallad33/vestige)** `⭐ 596` — Local-first cognitive memory MCP server for coding agents; SQLite store, FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, hybrid retrieval, and provenance/correction tools. Single Rust binary with a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains. AGPL-3.0.
 
 - **[AgentSight](https://github.com/eunomia-bpf/AgentSight)** `⭐ 556` — Zero-instrumentation eBPF observability for LLM/coding agents; captures syscall-level traces (file, process, network) without modifying the agent. MIT.
