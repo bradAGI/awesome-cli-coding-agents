@@ -477,6 +477,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[cc-router](https://github.com/finch-xu/cc-router)** `⭐ 214` — Local Anthropic-Messages-API proxy that bundles multiple provider subscriptions and API quotas (DeepSeek, Qwen, Kimi, GLM, MiniMax, Claude — 18+ providers) into virtual opus/sonnet/haiku slots with failover and load balancing for Claude Code, Claude Desktop, OpenClaw, and OpenCode. No relation to claude-code-router. Rust, MIT.
 
+- **[Cynative](https://github.com/cynative/cynative)** `⭐ 176` — Security research tool for coding agents, enables sandboxed code execution for read-only access to live infrastructure across AWS, GCP, Azure and Kubernetes. Go, Apache-2.0.
+
 - **[agent-qa](https://github.com/vostride/agent-qa)** `⭐ 170` — Self-improving QA harness for web and mobile workflows, with a CLI, dashboard, MCP and skills for coding agents, memory-backed self-healing, and sandboxed hooks for setup/teardown. FSL-1.1-ALv2.
 
 - **[kasetto](https://github.com/pivoshenko/kasetto)** `⭐ 116` — A declarative AI agent environment manager, written in Rust.
