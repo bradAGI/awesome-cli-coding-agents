@@ -327,6 +327,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 143` — Terminal UI designed for running multiple coding agents in parallel.
 
+- **[run-kit](https://github.com/sahil87/run-kit)** `⭐ 56` — Remote, phone-first web console for your tmux — agent-agnostic, no database. Spawn and watch coding agents in parallel git worktrees, with push notifications and local-port proxying to your browser. MIT.
+
 - **[Better Agent](https://github.com/ofekron/better-agent)** `⭐ 49` — Local web workspace that launches and supervises native Claude, Codex, and Gemini CLI sessions with parallel delegation, persistent state, approval gates, file access, and restart recovery. Source-available; free for non-commercial use.
 
 - **[Garcon](https://github.com/cfal/garcon)** `⭐ 47` — Self-hosted browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, files, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0.
