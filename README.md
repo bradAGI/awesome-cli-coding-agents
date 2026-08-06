@@ -359,6 +359,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[cliclaw](https://github.com/choiyounggi/cliclaw)** `⭐ 0` — macOS daemon to drive Claude Code, Codex, Gemini, and Pi from Telegram — an independent session per chat, a confirm gate for dangerous commands (bash/git/cloud deletes), and secret auto-masking. npm `@younggichoi/cliclaw`, TypeScript/Bun. MIT.
 
+- **[sessionport](https://github.com/Reality-Shifting-Tech/sessionport)** `⭐ 0` — Carry sessions between coding agents: export any local session (Claude Code, Codex, Gemini CLI, OpenCode, Hermes) to a portable markdown brief (`sessionport-brief/v1`) and resume it in any other agent. Offline by default, one command, optional LLM fidelity scoring. Python, MIT.
+
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
 - **[Bwee](https://bwee.app)** — Desktop app for CLI coding agents where users build their own views (BYOUI) — custom tools and dashboards that live alongside the terminal. Persistent sessions and task management. macOS.
