@@ -194,6 +194,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 18` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 8` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
+- **[Ordewell](https://github.com/ordewell/ordewell)** `⭐ 8` — Plan-first CLI/TUI orchestrator: give it a goal and a read-only planner reads the repo and returns an ordered plan of tasks, each carrying its own runner (Claude Code, Codex, OpenCode), model, thinking effort and mode — all editable before execution, each task run as one agent session and marked done only when its own completion marker appears in the output. Apache-2.0.
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 4` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
