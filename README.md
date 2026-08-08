@@ -369,6 +369,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[defract](https://defract.dev)** — macOS GUI harness for Claude Code. Drives an opinionated lifecycle (story → design → architecture → implementation → review) with a visual design stage and review gates, not just parallel runs. Local-first, bring-your-own-Anthropic, free.
 
+- **[CodeAgentSwarm](https://www.codeagentswarm.com)** — macOS and Windows desktop workspace for running and supervising Claude Code, Codex CLI, and Antigravity CLI sessions in parallel terminals. Includes live per-terminal diffs, cross-agent conversation history, desktop notifications, Git worktree workflows, and an MCP-updated kanban board. Closed-source; free during beta.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
