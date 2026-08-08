@@ -487,7 +487,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agent-lsp](https://github.com/blackwell-systems/agent-lsp)** `⭐ 95` — MCP server giving any CLI coding agent type-aware language intelligence: 50+ LSP tools, speculative execution (preview edits without touching disk), 21 skills, 30 CI-verified languages. Measured 5–34× token savings vs grep/read. Works with Claude Code, Codex, Gemini CLI, Goose, and any MCP client. Go, MIT.
 
-- **[Agent Island](https://github.com/tristan666666/agent-island)** `⭐ 94` — Local status companion for Claude Code and Codex sessions on macOS and Windows; shows working, your-turn, stalled, and attention states without uploading session data. MIT.
+- **[Agent Island](https://github.com/tristan666666/agent-island)** `⭐ 110` — Local status companion for Claude Code and Codex on macOS and Windows. macOS also shows Gemini CLI and Grok session state and tracks usage for those providers plus Cursor. MIT.
 
 - **[ax](https://github.com/Necmttn/ax)** `⭐ 92` — Local-first agent telemetry and observability for Claude Code and Codex sessions.
 
