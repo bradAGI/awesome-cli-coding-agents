@@ -147,6 +147,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[claw-code-agent](https://github.com/HarnessLab/claw-code-agent)** `⭐ 536` — Python-only Claude Code rewrite with zero external dependencies; born from the March 2026 Claude Code source leak, positioned as easier to hack on than the Rust/TypeScript reimplementations.
 
+- **[Tura](https://github.com/Tura-AI/tura)** `⭐ 522` — Rust-based CLI harness that beats Codex on DeepSWE. It batches tool calls to save tokens, uses backwards reasoning to plan solutions, and pre-compacts agent turns before tokens are spent. Benchmark results show it increases programming quality while using fewer tokens.
+
 - **[g3](https://github.com/dhanji/g3)** `⭐ 516` — "Coding AI agent" in Rust: tool-running, repo interaction, skills system, and provider abstraction.
 
 - **[agentty](https://github.com/1ay1/agentty)** `⭐ 396` — Native C++26 terminal coding agent and drop-in claude-code alternative; single ~13.6 MB static binary with sub-millisecond cold start and zero runtime deps (no Node/Python/Electron). Sandboxed by default (Bubblewrap/`sandbox-exec`), model-agnostic (Claude, OpenAI, Groq, OpenRouter, Together, Cerebras, local Ollama), runs inside Zed over ACP, and drives air-gapped hosts over SSH. Linux/macOS/Windows/Termux. MIT.
