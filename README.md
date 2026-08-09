@@ -471,6 +471,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Coasts](https://github.com/coast-guard/coasts)** `⭐ 421` — Containerized host orchestration for git worktrees; isolates ports, networks, and services per environment using DinD/Sysbox/Podman. MIT.
 
+- **[Boost](https://github.com/jfrog/boost)** `⭐ 408` — Free [public-preview](https://boost.jfrog.com/) CLI that filters terminal and CI output before it reaches Cursor, Claude Code, or Codex, typically reducing log tokens by 60–90%, with reversible retrieval and local performance reports.
+
 - **[subtask](https://github.com/zippoxer/subtask)** `⭐ 339` — Claude Skill for delegating tasks with subagents in Git worktrees.
 
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 313` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
