@@ -197,6 +197,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 4` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
+- **[Forge](https://github.com/NorviaLabs/forge)** `⭐ 4` — Rust TUI coding agent unifying AI agent, built-in code editor, and shell in one keyboard-driven workspace; approval-aware command execution, durable SQLite session journal, vim-style editing, and MCP server support. MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
