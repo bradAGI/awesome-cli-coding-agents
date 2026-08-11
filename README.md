@@ -431,6 +431,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Galley](https://github.com/shinpr/galley)** `⭐ 16` — Local-first runtime for supervised AI coding tasks: isolated git worktrees, supervisor review against acceptance criteria, retry/escalate loops, on-disk run evidence, and PR handoff. Supports Codex CLI and Claude Code. Go, MIT.
 
+- **[memcode](https://github.com/memcode-ai/memcode)** `⭐ 11` — The coding agent that remembers your repo: keeps persistent per-project memory (subsystems, prior work, failed approaches, corrected preferences) in a local `.memcode` store, so sessions don't restart from zero. Single Go binary + TUI; runs on your own API keys, a hosted gateway, or local Ollama; ships an MCP memory server. Self-hostable, MIT.
+
 - **[Relay](https://github.com/jcast90/relay)** `⭐ 5` — Local-first orchestrator that runs inside your existing Claude or Codex CLI via MCP; classifies a request, decomposes it into tickets with a dependency DAG, dispatches across one or more repos, and supervises with live PR tracking + approval gates. CLI, TUI (ratatui), and GUI (Tauri) dashboards share `~/.relay/` state. MIT.
 
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 5` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.
