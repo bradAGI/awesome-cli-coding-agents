@@ -425,6 +425,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Agon](https://github.com/AutoResearch-Factory/Agon)** `⭐ 39` — Claude Code plugin for autonomous research: runs a topic→idea→proposal→experiment loop with separate scientist, coder, and auditor roles.
 
+- **[Crewplane](https://github.com/crewplaneai/crewplane)** `⭐ 31` — CLI-first control plane for human-designed coding-agent workflows via Markdown; runs sequential or parallel stages through Claude Code, Codex, Gemini CLI, Copilot CLI, or any configured command, resumes after failures, and keeps inputs, outputs, and logs on disk. Python, Apache-2.0.
+
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 27` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.
 
 - **[ralph-harness](https://github.com/rxdt/py_ralph_frame)** `⭐ 17` — Minimal repo-local loop scaffold for Claude Code, Codex CLI, and Gemini CLI. Uses `PROMPT.md`, specs, fresh-context iterations, git hooks, CI verification, and hard iteration/time caps so agents make small gated commits instead of drifting in one long chat. MIT.
