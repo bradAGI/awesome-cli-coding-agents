@@ -591,6 +591,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 ---
 
+- **[stratless](https://github.com/stratless-ai/stratless)** — Derives skills for Claude Code and Codex from the user's own session history: measures what recurs locally, the user's own assistant proposes the skills, every skill cites the evidence counts that earned it. MIT, zero runtime deps, nothing leaves the machine.
+
 ## Contributing
 
 PRs welcome! To add an entry, please ensure it meets these criteria:
