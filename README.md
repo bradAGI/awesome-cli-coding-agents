@@ -583,6 +583,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Weaver](https://github.com/sean35mm/weaver)** `⭐ 2` — Local coordination layer for multiple coding agents working in the same repo. Agents announce tasks, claim paths/globs, check overlaps, and leave repo-local notes through a shared SQLite store. MIT.
 
+- **[parallel-harness-pets](https://github.com/TevvvB/parallel-harness-pets)** `⭐ 2` — Status-line companion for agents run across multiple git worktrees; each worktree gets its own creature so sessions are tellable apart, and `pets party` shows every live session at once, worst first. Single static Go binary; Claude Code, Codex, tmux or any shell. MIT.
+
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[Hivelore](https://github.com/Doucs91/hivelore)** `⭐ 1` — Deterministic policy gate for agent-written code: a lesson captured via MCP (`mem_tried`) becomes a validated regex/AST/test guard that Git hooks and CI use to refuse any diff reintroducing the documented mistake; briefs any agent with the team's repo-specific rules over MCP. TypeScript CLI, npm (`@hivelore/cli`). Apache-2.0.
