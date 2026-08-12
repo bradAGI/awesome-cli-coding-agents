@@ -137,6 +137,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Amazon Q Developer CLI](https://github.com/aws/amazon-q-developer-cli)** `⭐ 2k` `[AWS]` — AWS's agentic terminal chat for building apps, debugging, and DevOps with natural language. Apache-2.0.
 
+- **[BitFun](https://github.com/GCWing/BitFun)** `⭐ 1.7k` — Open-source Rust coding agent with an interactive TUI and desktop app; plans, edits, tests, and commits in real Git repositories, with protected tool calls requiring approval by default. MIT.
+
 - **[Neovate Code](https://github.com/neovateai/neovate-code)** `⭐ 1.6k` `[Ant Group]` — Ant Group's CLI agent with plugin system, multi-model/multi-provider support, MCP integrations, and headless automation mode. MIT.
 
 - **[VT Code](https://github.com/vinhnx/vtcode)** `⭐ 783` — Open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. MIT.
