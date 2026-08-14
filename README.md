@@ -341,6 +341,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[amux](https://github.com/mixpeek/amux)** `⭐ 345` — Agent multiplexer for running dozens of parallel Claude Code sessions with web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Single Python file, Python 3 + tmux. MIT.
 
+- **[agent-manager](https://github.com/YoanWai/agent-manager)** `⭐ 312` — tmux TUI for Claude Code, Codex, OpenCode, Grok, Gemini CLI, Pi, and Hermes: live status, a prompt that lands in the pane without attaching, and in-terminal full-file diff review with line comments sent back to the agent. Go, Apache-2.0.
+
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 264` — Execute Claude Code tasks in parallel git worktrees.
 
 - **[Proliferate](https://github.com/proliferate-ai/proliferate)** `⭐ 161` — Open-source local and cloud agent IDE for Claude Code, Codex, Gemini CLI, OpenCode, and similar coding agents; parallel workspaces, subagents, plugins, MCP, and review/merge flow around real CLI sessions.
