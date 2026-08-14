@@ -487,6 +487,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Ralph Workflow](https://github.com/Ralph-Workflow/Ralph-Workflow)** `⭐ 3` — Local-first loop runner for Claude Code/Codex CLI: executes a spec in a real git repo with `progress.json` + `resume.md` + a 3-step timeout-cap; restartable, test-feedback-driven, no hosted runtime. MIT.
 
+- **[context-bridge](https://github.com/serdardb/context-bridge)** `⭐ 3` — Hands a live coding session from one agent to another without losing the thread: each agent keeps its own native session, and the bridge transfers only the context the other one is missing. `/bridge codex` inside Claude Code, `$bridge claude` inside the rest; five agents (Claude Code, Codex, Grok, Antigravity, OpenCode) in any of twenty directions, with lanes for parallel lines of work in one repo and `bridge handoff --from` to rebuild a delta from a dead agent's transcript. No API keys — it drives the subscription-authenticated CLIs you already have. Node, npm `@serdardb/context-bridge`, MIT.
+
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
 ### Agent infrastructure
