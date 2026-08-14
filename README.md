@@ -403,6 +403,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CodeAgentSwarm](https://www.codeagentswarm.com)** — macOS and Windows desktop workspace for running Claude Code, Codex CLI, Antigravity CLI, OpenCode, Kimi Code, and Grok Build side by side in supervised terminals; live per-terminal diffs, cross-agent conversation history, desktop notifications, git worktree workflows, and an MCP-updated kanban board. Closed source, account required; Pro free during the open beta (€6.99/mo after).
 
+- **[Sillage](https://github.com/MarlBurroW/sillage)** `⭐ 3` - Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine (replaces the terminal, not the agent). Sessions that outlive the client via a server-side event journal, a message queue, git worktrees, full-text search over every conversation, an IDE panel (file explorer, editor, diffs, terminal), a board the agents read through its own MCP server, and an installable PWA with push. Single Docker container, TypeScript.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
