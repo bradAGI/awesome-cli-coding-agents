@@ -347,11 +347,11 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 150` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
 
-- **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 150` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
-
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 146` — Terminal UI designed for running multiple coding agents in parallel.
 
 - **[tlbx](https://github.com/tlbx-ai/tlbx)** `⭐ 101` — Self-hosted browser control station for remote coding agents (formerly MidTerm): runs Codex, Claude Code, Gemini CLI, Grok Build, OpenCode, Copilot CLI, and any PTY app on the machines that hold your repos and credentials, supervised from any desktop, tablet, or phone browser. Sessions survive disconnects; `mt` CLI helpers expose history, multi-session dispatch, and the control plane as JSON so agents can drive it. AGPL-3.0.
+
+- **[ADHDev](https://github.com/vilmire/adhdev)** `⭐ 78` — Self-hosted daemon + web dashboard for driving local CLI coding agents (Claude Code, Codex, Cursor CLI, Antigravity, Hermes, Kimi) from a browser or phone: live session state, remote approvals, push notifications, exact session resume. Repo Mesh dispatches parallel agents into git worktrees across machines, and the Refinery merges finished branches back through repo-defined gates. P2P-first (WebRTC) — chat and commands go browser↔daemon, code stays on your machine. TypeScript, AGPL-3.0.
 
 - **[run-kit](https://github.com/sahil87/run-kit)** `⭐ 56` — Remote, phone-first web console for tmux: spawn and watch coding agents in parallel git worktrees, agent-agnostic and no database, with push notifications and local-port proxying to your browser. Go, MIT.
 
