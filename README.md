@@ -489,6 +489,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
+- **[Sudarshan](https://github.com/Suraj1235/sudarshan-superharness)** `⭐ 1` — Provider-neutral build harness that drives any LLM API or agent CLI from an idea/PRD/spec to verification-gated completion: explainable cost estimates before spending, immutable plans, atomic checkpoints with kill-and-resume durability, and budget/policy enforcement the model cannot weaken. Zero-dependency Python, MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
