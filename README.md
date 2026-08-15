@@ -499,6 +499,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 36.6k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
 
+- **[OpenViking](https://github.com/volcengine/OpenViking)** `⭐ 28.5k` — Self-evolving context database for AI agents that unifies agent memory, knowledge RAG, and reusable skills behind one storage/retrieval layer. MCP server for reading and writing memory across sessions; used as the memory layer for the deepseek-harness plugin ecosystem. Apache-2.0.
+
 - **[Beads](https://github.com/gastownhall/beads)** `⭐ 26.3k` — Distributed graph issue tracker and persistent memory for coding agents, powered by Dolt. Replaces markdown plans with a dependency-aware graph so agents can hold long-horizon work: `bd create` → `bd ready` → `bd update --claim` → `bd close`, with `bd dolt push/pull` syncing between machines and agents. Go, npm `@beads/bd`, PyPI `beads-mcp`. MIT.
 
 - **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** `⭐ 22.1k` `[NVIDIA]` — CLI tool for securely provisioning and managing sandboxed OpenClaw agent environments; enforces network, filesystem, and process-level security policies via OpenShell runtime. Apache-2.0.
