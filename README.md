@@ -13,7 +13,7 @@
 
 A curated list of **110+ CLI coding agents** — AI-powered tools that live in your terminal, read/edit repos, and run commands — plus the **harnesses** that orchestrate, sandbox, or extend them.
 
-> **Last updated:** 2026-08-13
+> **Last updated:** 2026-08-16
 
 ### What is a CLI coding agent?
 
@@ -168,6 +168,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 - **[zot](https://github.com/patriceckhart/zot)** `⭐ 313` — Zero-overhead and lightweight coding agent harness with TUI/JSON/RPC modes, structured tools, reviewable file diffs, skills, extensions, and optional guardrails.
 
 - **[Mini-Kode](https://github.com/minmaxflow/mini-kode)** `⭐ 305` — An educational AI coding agent CLI, intended as a readable reference implementation.
+
+- **[hax](https://github.com/OleksandrChekhovskyi/hax)** `⭐ 227` — Minimalist terminal-native coding agent written in C; a single native binary that uses a few MBs of RAM and starts instantly. First-class llama.cpp support (auto-discovers the served model and its capabilities) alongside OpenAI/Anthropic-compatible endpoints, Codex, and OpenRouter. Linux/macOS/BSD, MIT.
 
 - **[nori-cli](https://github.com/tilework-tech/nori-cli)** `⭐ 166` — Multi-provider CLI built on Codex CLI; switch between Claude, Gemini, and Codex from the same native terminal.
 
