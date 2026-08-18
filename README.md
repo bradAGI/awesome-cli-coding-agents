@@ -208,6 +208,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 - **[Forge (Norvia Labs)](https://github.com/NorviaLabs/forge)** `⭐ 5` — Rust TUI coding agent unifying an AI agent, a vim-style code editor, and a shell in one keyboard-driven workspace; approval-aware command execution, durable SQLite session journal, and MCP server support. MIT.
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 4` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
+- **[EMRG](https://github.com/argszero/emrg)** `⭐ 3` — Terminal-native AI coding agent (TUI + persistent background daemon) that improves its own source code: every `/rant` feedback item becomes a tested, merged PR via its evolution cycle. MIT.
 
 ### OpenClaw ecosystem
 
