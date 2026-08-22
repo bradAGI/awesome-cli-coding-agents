@@ -403,6 +403,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CodeAgentSwarm](https://www.codeagentswarm.com)** — macOS and Windows desktop workspace for running Claude Code, Codex CLI, Antigravity CLI, OpenCode, Kimi Code, and Grok Build side by side in supervised terminals; live per-terminal diffs, cross-agent conversation history, desktop notifications, git worktree workflows, and an MCP-updated kanban board. Closed source, account required; Pro free during the open beta (€6.99/mo after).
 
+- **[TermLink](https://www.getterm.link)** — Remote access to agent sessions from any browser or phone: register each machine once with `termlink host` and they all appear in one list, each card showing that agent's latest message so you can tell which one is working and which is blocked. The host dials out, so there is no inbound port, SSH key, or VPN. Auto-Yes answers the permission prompts of Claude Code, Codex CLI, and Cursor Agent per session, and pasting a screenshot onto the terminal uploads it to the host and types its path in. macOS, Linux, and Windows hosts. [Relay protocol is open source](https://github.com/bertshim/termlink-relay) (Apache-2.0); hosted service with a free plan.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
