@@ -487,6 +487,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[TeDDy](https://github.com/atte500/TeDDy)** `⭐ 4` — An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow. Python, AGPL-3.0.
 
+- **[Vibestrate](https://github.com/guyshonshon/vibestrate)** `⭐ 3` — Local-first orchestrator that runs one task through a YAML flow of seated phases: every seat receives the same project rules, auto-derived codebase map, roadmap, and running brief, and the reviewer seat starts a fresh process rather than inheriting the implementer's session, so it reads the diff cold. Approval gates, a git worktree per run, and a local token/cost/decision ledger. Eleven CLIs built in (Claude Code, Codex, Gemini CLI, OpenCode, Aider, Cursor CLI, Amp, Goose, Crush, Qwen Code, Ollama). No cloud component, no telemetry. TypeScript, Apache-2.0.
+
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
 ### Agent infrastructure
