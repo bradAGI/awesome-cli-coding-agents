@@ -489,6 +489,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
+- **[DevPilot](https://github.com/geastham/devpilot)** `⭐ 0` — Planning cockpit for a fleet of coding agents: a parallelisation-aware wave planner computes critical paths across a backlog and reports "runway" — how long until the ready-to-dispatch queue empties at current velocity. Dispatches Linear issues to Claude Code sessions on machines you own; the hosted plane never executes an agent or sees source. `npm i -g @devpilot.sh/cli`. MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
