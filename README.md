@@ -209,7 +209,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 4` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
-- **[DeepSeek Build (dsh-tui)](https://github.com/openma-ai/deepseek-harness-tui)** `⭐ 1` — Rust/ratatui terminal coding client for DeepSeek Harness that consumes the SDK JSON-RPC event stream directly; shows streamed reasoning, tool calls, subagents, and token usage, and runs standalone or as a `dsh` profile bundle. MIT.
+- **[Martty](https://github.com/openma-ai/Martty)** `⭐ 48` — DSH-first Rust/ratatui agent TUI with streamed reasoning, tool calls, subagents, token usage, durable sessions, and a Cordis-extensible client UI; runs standalone or as a `dsh` profile bundle. MIT.
 
 ### OpenClaw ecosystem
 
