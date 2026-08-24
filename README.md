@@ -551,6 +551,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 312` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
 
+- **[Concord MCP](https://github.com/Get-Concord-AI/concord-mcp)** `⭐ 243` — Cross-harness communication and shared work-state for coding agents. Claude Code, Codex, Cursor, Gemini CLI, and Grok Build share task claims, progress, decisions, messages, and overlap warnings through one MCP server. TypeScript, MIT.
+
 - **[cc-router](https://github.com/finch-xu/cc-router)** `⭐ 225` — Local Anthropic-Messages-API proxy that bundles multiple provider subscriptions and API quotas (DeepSeek, Qwen, Kimi, GLM, MiniMax, Claude — 18+ providers) into virtual opus/sonnet/haiku slots with failover and load balancing for Claude Code, Claude Desktop, OpenClaw, and OpenCode. No relation to claude-code-router. Rust, MIT.
 
 - **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** `⭐ 163` — Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; flags prompt injection, credential theft, and manifest drift before you install. Python + YARA, ships as a CLI and a GitHub Action. Source-available (PolyForm Noncommercial).
