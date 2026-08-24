@@ -479,6 +479,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Galley](https://github.com/shinpr/galley)** `⭐ 18` — Local-first runtime for supervised AI coding tasks: isolated git worktrees, supervisor review against acceptance criteria, retry/escalate loops, on-disk run evidence, and PR handoff. Supports Codex CLI and Claude Code. Go, MIT.
 
+- **[NEEDLE](https://github.com/jedarden/NEEDLE)** `⭐ 17` — Headless orchestrator for coding-agent fleets: processes a shared bead queue in deterministic order, dispatches each task to Claude Code, Codex, OpenCode, or Aider, and handles every outcome (success, failure, timeout, escalation) through an explicit state machine so workers run unattended. MIT.
 - **[Relay](https://github.com/jcast90/relay)** `⭐ 5` — Local-first orchestrator that runs inside your existing Claude or Codex CLI via MCP; classifies a request, decomposes it into tickets with a dependency DAG, dispatches across one or more repos, and supervises with live PR tracking + approval gates. CLI, TUI (ratatui), and GUI (Tauri) dashboards share `~/.relay/` state. MIT.
 
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 5` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.
