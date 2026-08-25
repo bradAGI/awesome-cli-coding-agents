@@ -207,6 +207,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 9` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
 
+- **[OB-1](https://github.com/Overbrilliant/ob-1)** `⭐ 9` — Terminal coding agent whose default path needs no account, no API key, and no card: an embedded router inside the CLI process answers the first message on keyless free providers, with a signed free-model catalog and failover to your own keys (OpenRouter, OpenAI, Gemini, Groq, Ollama, LM Studio, llama.cpp, vLLM, any OpenAI-compatible endpoint). Persistent SQLite project memory with an inspectable fact/relationship graph, repo map, MCP, and OS sandboxing (Seatbelt/bubblewrap). Keyless tier is a bootstrap path with variable quality and shared limits. npm `@overbrilliant/ob1`. Apache-2.0.
+
 - **[Forge (Norvia Labs)](https://github.com/NorviaLabs/forge)** `⭐ 6` — Rust TUI coding agent unifying an AI agent, a vim-style code editor, and a shell in one keyboard-driven workspace; approval-aware command execution, durable SQLite session journal, and MCP server support. MIT.
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 5` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
