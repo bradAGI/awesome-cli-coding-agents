@@ -499,6 +499,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
+- **[Okto Nexus](https://github.com/OktoLabsAI/okto-nexus)** `⭐ <check count>` — Local-first coordination layer for teams running multiple CLI coding agents against the same workspace; single-winner task claims prevent two agents starting the same work, a human-approval queue holds risky actions with the diff and reasoning attached, and durable handoff history lets a killed session's replacement resume without re-explaining what already happened. MCP-native. Apache-2.0/Elastic-2.0.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
