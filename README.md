@@ -723,6 +723,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[PatchWarden](https://github.com/jiezeng2004-design/PatchWarden)** `⭐ 5` — Local-first MCP safety and verification layer that hands an approved plan to Codex CLI, Claude Code, or OpenCode under workspace confinement, command allowlists, scope-violation detection, and an auditable task and lineage record. npm `patchwarden`. MIT.
 
+- **[TraceFold](https://github.com/TraceFold/tracefold)** `⭐ 5` — Constructs and checks an inverse for filesystem and git changes an AI coding agent makes before the change lands, signs each verdict as a DSSE-attested receipt appended to a tamper-evident log, and gates writes through a Cedar policy engine with four verdict states (admit, deny, escalate, policy-error). Rust, Apache-2.0.
+
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 4` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
 - **[tu](https://github.com/sahil87/tu)** `⭐ 4` — Cost-tracking CLI for AI coding assistants: token usage and spend across Claude Code, Codex, and OpenCode sessions. TypeScript, MIT.
