@@ -233,6 +233,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Ferrum](https://github.com/ominiverdi/ferrum)** `⭐ 2` — Small Linux-only Rust-native coding agent with interactive and headless modes, ACP, safety-tiered native tools, durable JSONL sessions, Codex/ChatGPT OAuth, OpenAI-compatible providers, MCP, skills, and image input. MIT; primary development is on [Codeberg](https://codeberg.org/ominiverdi/ferrum).
 
+- **[WorkGround2](https://github.com/KiddPhenix/WorkGround2)** `⭐ 1` — Local-first AI engineering workbench: one Go agent kernel behind CLI/TUI, web `serve`, a Wails desktop app, and IM bots (Feishu/WeCom/QQ), with multi-model providers, MCP + plugins, project memory, sandboxed/approved execution, and checkpoints + `/rewind`. MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
