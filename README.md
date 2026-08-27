@@ -211,6 +211,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[QQCode](https://github.com/qnguyen3/qqcode)** `⭐ 50` — Lightweight CLI coding agent in Rust focused on speed, determinism, and developer control; supports skills.
 
+- **[Jazz](https://github.com/lvndry/jazz)** `⭐ 48` — Generalist agent harness that runs your agent anywhere: terminal, scripts, cron, a GitHub Action that reviews PRs, or a Telegram/Discord bot you own. Define model, persona, toolset, and permissions in one JSON file; 18 providers (incl. local Ollama/llama.cpp) plus MCP, with permission-gated file, git, and web tools that ask for approval wherever you are.
+
 - **[Smelt](https://github.com/leonardcser/smelt)** `⭐ 40` — Rust TUI coding agent; multi-provider (Anthropic, OpenAI, Ollama, GitHub Copilot, any OpenAI-compatible endpoint), four modes (Normal/Plan/Apply/Yolo), granular permission system, parallel subagents, vim keybindings, and headless scriptable mode. MIT.
 
 - **[Zap](https://github.com/zap-coding-agent/zap-coding-agent)** `⭐ 32` — Skill-first Rust TUI coding agent that injects only the context your task needs — no system prompt bloat. Single binary, no runtime. Supports Claude, Gemini, OpenAI, and local models via LM Studio; code-indexed via SQLite for fast symbol lookup; MCP support. MIT.
