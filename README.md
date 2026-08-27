@@ -375,6 +375,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 267` — Execute Claude Code tasks in parallel git worktrees.
 
+- **[MulmoTerminal](https://github.com/receptron/mulmoterminal)** `⭐ 186` — Browser grid of live Claude Code / Codex / Grok sessions started with one `npx` command, no Electron; each cell is a real PTY, colour-coded working / needs-you / done from the CLI's own activity hooks rather than scraped scrollback, with a per-kind chime and Web Push to your phone. tmux-backed persistence across restarts, git worktrees with one-click PRs, and per-session model, context and token readouts. MIT.
+
 - **[Tempest](https://github.com/tempestai-dev/tempest)** `⭐ 159` — Tauri agentic development environment running Claude Code, Codex, Gemini, and other CLI agents in parallel; embedded xterm.js terminals, hook-based per-agent status detection, token-usage intelligence, isolated database branches, and multi-agent session management. Apache-2.0.
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 152` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
