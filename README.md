@@ -737,6 +737,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Okto Nexus](https://github.com/OktoLabsAI/okto-nexus)** `⭐ 2` — Local-first coordination hub for agents working in the same repository: durable identities, presence, messages and inboxes, handoffs, artifacts, an event log, and governance controls, backed by one SQLite database with no cloud broker. `okto-nexus serve` exposes MCP over streamable HTTP, operator REST APIs, and a bundled dashboard on one port. Python.
 
+- **[distro-rig-vps](https://github.com/shafir-info/distro-rig-vps)** `⭐ 2` — Disposable real-boot Linux VMs for coding agents that need guest root, without host sudo/KVM/libvirt access. Deny-by-default egress and clean recreate. GPL-3.0.
+
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[Hivelore](https://github.com/Doucs91/hivelore)** `⭐ 1` — Deterministic policy gate for agent-written code: a lesson captured via MCP (`mem_tried`) becomes a validated regex/AST/test guard that Git hooks and CI use to refuse any diff reintroducing the documented mistake; briefs any agent with the team's repo-specific rules over MCP. TypeScript CLI, npm (`@hivelore/cli`). Apache-2.0.
