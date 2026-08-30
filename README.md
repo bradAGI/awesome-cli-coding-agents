@@ -301,6 +301,12 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 ## Harnesses & orchestration
 
+### Runtime & execution backends
+
+Tools that provide the governed runtime and execution layer around coding-agent sessions.
+
+- **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** `⭐ 639` — Local-first, self-hosted runtime and MCP bridge with persistent sessions, approvals, credential controls, audit/replay, and selectable local, Docker, Kubernetes, and worker backends; isolation depends on deployment.
+
 ### Session managers & parallel runners
 
 Tools for running and managing multiple agent sessions side-by-side. Sorted by GitHub stars.
