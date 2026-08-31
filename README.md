@@ -113,6 +113,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[ForgeCode](https://github.com/antinomyhq/forge)** `⭐ 7.5k` — AI pair programmer supporting 300+ models, with task management, custom agents, and large-scale refactor tooling.
 
+- **[Kimi Code](https://github.com/MoonshotAI/kimi-code)** `⭐ 7.2k` `[Moonshot AI]` — Moonshot AI's next-gen TypeScript coding agent — a separate project from Kimi CLI. Event-sourced agent runtime with replayable state, context undo/compaction, and blob offloading; goal mode for bounded autonomous runs, background subagents, skills plus plugin manifests (prompts/MCP servers/commands), and subscription OAuth. npm `@moonshot-ai/kimi-code`. MIT.
+
 - **[OpenSquilla](https://github.com/opensquilla/opensquilla)** `⭐ 6.7k` — Self-hostable microkernel agent runtime with a full CLI (`opensquilla chat` REPL, one-shot agent mode, gateway); autonomous file edits, shell and background processes, git tools, ML-based tier routing, sandboxing (Bubblewrap/Seatbelt), persistent memory, and 20+ providers. Apache-2.0.
 
 - **[Kode CLI](https://github.com/shareAI-lab/Kode-cli)** `⭐ 5.2k` — ShareAI's open-source CLI agent for terminal-native coding with multi-provider support.
