@@ -601,6 +601,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[subtask](https://github.com/zippoxer/subtask)** `⭐ 340` — Claude Skill for delegating tasks with subagents in Git worktrees.
 
+- **[AgentBridge](https://github.com/raysonmeng/agent-bridge)** `⭐ 316` — Local MIT CLI that keeps Claude Code and Codex as live peers in one session (mid-turn review, task split, quota-boundary handoff). `abg claude` / `abg codex` + localhost daemon; not a one-shot MCP spawn. macOS/Linux.
+
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 312` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
 
 - **[Concord MCP](https://github.com/Get-Concord-AI/concord-mcp)** `⭐ 298` — Local-first MCP server plus a `concord` CLI and TUI giving coding agents shared work state: cross-harness messaging, file-claim overlap detection before edits, task handoff with evidence, and a live dashboard. Works with Claude Code, Codex, Cursor, Gemini CLI, and Grok Build. MIT.
