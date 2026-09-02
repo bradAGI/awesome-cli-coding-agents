@@ -745,6 +745,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
 
+- **[Mantyl](https://github.com/jopli11/mantyl-cli)** `⭐ 1` — Handover layer for AI-built software: compiles a repo plus Claude Code, Codex, or Cursor session history into a verified project passport (sandbox-executed checks, claim/contradiction detection, secret redaction) that the recipient independently re-runs via `mantyl receive`. npm `mantyl`. MIT.
+
 - **[stratless](https://github.com/stratless-ai/stratless)** `⭐ 0` — Derives Claude Code and Codex skills from your own session history: clusters recurring moments locally, has your own assistant name them, and cites the evidence count behind every proposed skill before installing to `~/.claude/skills`. Zero runtime dependencies, nothing leaves the machine. npm `stratless`, TypeScript. MIT.
 
 ---
