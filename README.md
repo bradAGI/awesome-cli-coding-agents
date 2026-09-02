@@ -305,7 +305,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 Tools for running and managing multiple agent sessions side-by-side. Sorted by GitHub stars.
 
-- **[Orca (Stably)](https://github.com/stablyai/orca)** `⭐ 58.1k` — Agentic development environment for a fleet of parallel agents: Codex, Claude Code, OpenCode, and Pi run side by side, each in its own git worktree, in Ghostty-class terminal splits with scrollback that survives restarts. Scriptable from an `orca` CLI (`worktree create`, `snapshot`, `click`, `fill`), with remote sessions and a click-to-prompt Chromium inspector. MIT.
+-- **[Caravel](https://github.com/yy36295238/caravel-releases)** — Local-first macOS control center that binds each task to a workspace and a CLI agent (Claude Code, Codex, OpenCode, pi, Grok) with live status, multi-turn chat, and in-app diff review. Closed-source; macOS only.
+**[Orca (Stably)](https://github.com/stablyai/orca)** `⭐ 58.1k` — Agentic development environment for a fleet of parallel agents: Codex, Claude Code, OpenCode, and Pi run side by side, each in its own git worktree, in Ghostty-class terminal splits with scrollback that survives restarts. Scriptable from an `orca` CLI (`worktree create`, `snapshot`, `click`, `fill`), with remote sessions and a click-to-prompt Chromium inspector. MIT.
 
 - **[Multica](https://github.com/multica-ai/multica)** `⭐ 48.4k` — Self-hostable workspace where you assign issues to coding agents like teammates: they pick up work, report progress, raise blockers, and hand back for review. Drives 20 agent CLIs (Claude Code, Codex, Cursor, Copilot, Kimi, OpenCode) with no bundled model; every surface is scriptable through the same CLI and API the agents use. Go.
 
