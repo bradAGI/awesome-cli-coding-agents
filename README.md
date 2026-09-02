@@ -403,6 +403,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[intentic](https://github.com/intentic/intentic)** `⭐ 30` — Self-hosted workspace that gives each coding agent a persistent sandbox on hardware you own: agents work in real checkouts in their own git worktrees behind PTY terminals, and you approve the riskier calls and read every diff before it lands. A Rust host agent pairs the machine over an outbound-only Cloudflare tunnel, so there are no inbound ports to open; the workspace opens in any browser or the desktop app. Runs Claude Code, Codex, Grok, Kimi Code, and Gemini on your own subscriptions. TypeScript, MIT.
 
+- **[Vicoa](https://github.com/vicoa-ai/vicoa)** `⭐ 30` — Agentic IDE and AI orchestrator for running a team of coding agents (Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, Hermes) from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. AGPL-3.0.
+
 - **[agents-cli](https://github.com/phnx-labs/agents-cli)** `⭐ 18` — CLI to install, version-pin, and run many coding-agent harnesses (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Grok); shared skills/MCP/rules, parallel teams in isolated terminals, session index, and SSH fleet dispatch. npm `@phnx-labs/agents-cli`. Apache-2.0.
 
 - **[repomon](https://github.com/AliHamzaAzam/repomon)** `⭐ 17` — Run a fleet of AI coding agents (Claude Code, Codex, Aider) across many repos, branches, and git worktrees from one tmux-backed terminal. Four-zoom TUI (fleet, split, babysit grid, focus), needs-you triage, durable sessions that survive restarts.
