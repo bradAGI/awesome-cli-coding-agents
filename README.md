@@ -639,6 +639,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[pi-mem](https://github.com/jo-inc/pi-mem)** `⭐ 73` — Plain-Markdown persistent memory for coding agents; long-term, daily, scratchpad, and searchable notes with zero dependencies on vector DBs. MIT.
 
+- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** `⭐ 73` — Records a coding-agent run and replays it offline byte-for-byte, or forks it from any checkpoint onto a different model. Capture sits below the harness — shell exit codes, per-turn file changes and MCP calls land on the same timeline as the model traffic — so it also records agents with no base URL to change, via TLS interception on a host allowlist.
+
 - **[Untether](https://github.com/littlebearapps/untether)** `⭐ 66` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.
 
 - **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 64` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
