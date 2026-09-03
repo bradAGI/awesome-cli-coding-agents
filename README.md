@@ -533,6 +533,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Vibestrate](https://github.com/guyshonshon/vibestrate)** `⭐ 5` — Local-first orchestrator that runs one task through a YAML flow of seated phases (plan → architect → implement → validate → review → fix → verify) in a git worktree per run. The reviewer seat starts a fresh process rather than inheriting the implementer's session, so it reads the diff cold. Approval gates and a local token/cost/decision ledger; eleven agent CLIs built in. npm `vibestrate`, `vibe` CLI. TypeScript, Apache-2.0.
 
+- **[baya-cli](https://github.com/juliomatcom/baya-cli)** `⭐ 4` — One command turns a plain-text task list (Markdown, `TODO.txt`, YAML) into an LLM-planned DAG and runs it across the coding-agent CLIs you already have (`codex`, `claude`, `copilot`, `opencode`, etc.) — parallel, model-per-task, with context handoff and checkpoint/resume. No API keys. MIT.
+
 - **[TeDDy](https://github.com/atte500/TeDDy)** `⭐ 4` — An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow. Python, AGPL-3.0.
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
