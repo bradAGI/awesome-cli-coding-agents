@@ -233,6 +233,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Ferrum](https://github.com/ominiverdi/ferrum)** `⭐ 2` — Small Linux-only Rust-native coding agent with interactive and headless modes, ACP, safety-tiered native tools, durable JSONL sessions, Codex/ChatGPT OAuth, OpenAI-compatible providers, MCP, skills, and image input. MIT; primary development is on [Codeberg](https://codeberg.org/ominiverdi/ferrum).
 
+- **[Kolkrabbi](https://github.com/onembyte/kolkrabbi)** `⭐ 1` — Go terminal coding agent (`kolk`) with chat, code, and orchestrated-agent modes, where one effort dial — low, medium, high, max — selects *which model* runs the turn and how wide the agent work goes, instead of how many thinking tokens one model spends. Runs any OpenRouter model, a local model on Ollama, vLLM or any OpenAI-compatible URL, or your own Claude and ChatGPT subscriptions by driving each vendor's own CLI as a subprocess, never holding a credential. Every call is appended to a local JSONL with cost, latency and your own 1–5 ratings, so you can see which models earn their price; no telemetry. Checkpoints before every write, with `/diff` and `/rewind`. Single static binary, Apache-2.0.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
