@@ -747,6 +747,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[stratless](https://github.com/stratless-ai/stratless)** `⭐ 0` — Derives Claude Code and Codex skills from your own session history: clusters recurring moments locally, has your own assistant name them, and cites the evidence count behind every proposed skill before installing to `~/.claude/skills`. Zero runtime dependencies, nothing leaves the machine. npm `stratless`, TypeScript. MIT.
 
+- **[llm-panel](https://github.com/musharna/llm-panel)** `⭐ 0` — Put one question or diff to several LLM CLIs in parallel (codex, claude, opencode/OpenRouter, ollama); every answer shown in full, an anonymised rebuttal round, cost accounting, a GitHub Action, and a measured miss rate on AACR-Bench. Python, PyPI `llm-panel`. MIT.
+
 ---
 
 ## Contributing
