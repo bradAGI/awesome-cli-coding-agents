@@ -535,6 +535,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[TeDDy](https://github.com/atte500/TeDDy)** `⭐ 4` — An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow. Python, AGPL-3.0.
 
+- **[pragma](https://github.com/akshaypimprikar/pragma)** `⭐ 3` — Claude Code plugin chaining spec→plan→feature→gates→review→test→bugfix→release for iOS projects. `/gates` runs 10 deterministic pre-PR checks (build, full test suite, coverage threshold, RED-before-GREEN commit order via a git-history script, project-specific architecture greps) instead of an LLM judgment call. `/loop` drives the cycle unattended until every gate passes. MIT.
+
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
 - **[DevPilot](https://github.com/geastham/devpilot)** `⭐ 1` — Fleet cockpit for Claude Code: a wave planner with critical-path and idle-runway warnings, plus a `session-runner` CLI that spawns and supervises real `claude -p` sessions across several repos at once. TypeScript, MIT.
