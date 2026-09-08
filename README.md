@@ -747,6 +747,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[stratless](https://github.com/stratless-ai/stratless)** `⭐ 1` — Derives Claude Code and Codex skills from your own session history: clusters recurring moments locally, has your own assistant name them, and cites the evidence count behind every proposed skill before installing to `~/.claude/skills`. Zero runtime dependencies, nothing leaves the machine. npm `stratless`, TypeScript. MIT.
 
+- **[Engine](https://github.com/StarshipSuperjam/engine-template)** `⭐ 0` — Repository-native software-engineering harness for Claude Code and Codex that helps people build and maintain real projects through persistent state and memory, deliberate build controls, unattended planned work, and evidence-backed pull requests. Apache-2.0.
+
 ---
 
 ## Contributing
