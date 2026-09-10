@@ -155,6 +155,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Ouroboros](https://github.com/razzant/ouroboros)** `⭐ 1.3k` — Self-evolving general agent with durable memory and identity across restarts; coordinates a subagent swarm and can rewrite its own implementation behind a review gate. Native desktop app or headless `ouroboros run/tasks/chat/logs/evolve` against a local gateway. Python, MIT.
 
+- **[Maki](https://github.com/tontinton/maki)** `⭐ 1k` — Rust TUI coding agent optimized for context-token efficiency: tree-sitter file indexing, a sandboxed `code_execution` tool that chains tool calls without polluting the context window, tree-sitter-parsed permission gating for bash commands, and a memory tool. Extensible via neovim-like Lua plugins; 17+ providers, skills, MCP, ACP, and a Claude Code-compatible headless mode. MIT.
+
 - **[VT Code](https://github.com/vinhnx/vtcode)** `⭐ 833` — Open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. MIT.
 
 - **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)** `⭐ 741` — Customizable, lightweight CLI powered by Groq's ultra-fast inference; extensible tools/commands with multi-model support.
