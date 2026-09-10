@@ -567,9 +567,9 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Camofox Browser](https://github.com/jo-inc/camofox-browser)** `⭐ 9.4k` — Stealth headless browser for coding agents; Playwright-compatible with anti-detection, human-like fingerprinting, and a REST API for agent tool integration. MIT.
 
-- **[deepsec](https://github.com/vercel-labs/deepsec)** `⭐ 7.9k` `[Vercel]` — Agent-powered vulnerability scanner that runs on your own infrastructure. A fast regex matcher pass finds candidate sites, then Claude Agent SDK or Codex agents investigate each one with full shell access to the repo. Resumable runs, cost and duration caps, `--diff` PR mode, and optional fan-out across Vercel Sandbox microVMs. Apache-2.0.
-
 - **[Bifrost](https://github.com/maximhq/bifrost)** `⭐ 7.9k` — High-performance, OpenAI-compatible AI gateway for Claude Code, Codex CLI, Gemini CLI, and OpenCode, with multi-provider routing, fallbacks, load balancing, virtual keys, and MCP support.
+
+- **[deepsec](https://github.com/vercel-labs/deepsec)** `⭐ 7.9k` `[Vercel]` — Agent-powered vulnerability scanner that runs on your own infrastructure. A fast regex matcher pass finds candidate sites, then Claude Agent SDK or Codex agents investigate each one with full shell access to the repo. Resumable runs, cost and duration caps, `--diff` PR mode, and optional fan-out across Vercel Sandbox microVMs. Apache-2.0.
 
 - **[GitHub Agentic Workflows](https://github.com/github/gh-aw)** `⭐ 5.1k` `[GitHub]` — `gh` extension that compiles Markdown workflows into GitHub Actions running Copilot, Claude Code, Codex, Gemini, or Pi agents against a repo; `init`/`add`/`compile` write lock files locally, `trial` and `run` dispatch and stream logs. Agent jobs are read-only and sandboxed, with writes applied through validated safe-outputs. MIT.
 
