@@ -77,7 +77,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Deep Agents Code](https://github.com/langchain-ai/deepagents)** `⭐ 29.1k` `[LangChain]` — LangChain's official terminal coding agent built on the Deep Agents SDK; interactive TUI, file ops, shell access, subagents, headless mode, and human-in-the-loop approvals with any tool-calling LLM. PyPI `deepagents-code`.
 
-- **[Crush](https://github.com/charmbracelet/crush)** `⭐ 27.9k` — Charmbracelet's glamorous agentic coding TUI in Go; multi-provider, LSP-aware, with rich terminal UI.
+- **[yottacode](https://github.com/yottadynamics/yottacode)** `⭐ 7` — yottacode is an open-source terminal coding agent written in Go.
 
 - **[Qwen Code](https://github.com/QwenLM/qwen-code)** `⭐ 27.7k` `[Alibaba]` — Alibaba Qwen's official CLI agent for Qwen coder models (workflow tool + repo operations). Apache-2.0.
 
