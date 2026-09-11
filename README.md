@@ -729,6 +729,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[tu](https://github.com/sahil87/tu)** `⭐ 4` — Cost-tracking CLI for AI coding assistants: token usage and spend across Claude Code, Codex, and OpenCode sessions. TypeScript, MIT.
 
+- **[agy-auto](https://github.com/onkarbadve/agy-auto)** `⭐ 4` — PreToolUse policy gate and auto-permission mode for Google Antigravity CLI (`agy`); replaces `--dangerously-skip-permissions` with deterministic hard-denials, fast-allow, fail-closed LLM classification (Gemini / llama.cpp), and scoped ephemeral approval tokens. Python, MIT.
+
 - **[Project Tiny Context Harness](https://github.com/Seven128/project-tiny-context-harness)** `⭐ 3` — Minimal repo-native project memory for CLI coding agents. Installs `AGENTS.md`, `project_context/**`, role Skills, and a `validate-context` gate so Codex, Claude Code, Cursor, Gemini CLI, OpenCode, and similar agents can recover project intent, boundaries, and validation paths across fresh sessions. MIT.
 
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 3` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
