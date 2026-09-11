@@ -749,7 +749,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 ---
 
-- **[Handrail](https://github.com/trimkeep/handrail-kit)** — Fail-closed deny/ask hooks for Claude Code and other agent CLIs. Denies by default, only tightens. MIT.
+- **[Handrail](https://github.com/trimkeep/handrail-kit)** — Fail-closed deny/ask hooks for Claude Code. Denies by default, only tightens. MIT.
 ## Contributing
 
 PRs welcome! To add an entry, please ensure it meets these criteria:
