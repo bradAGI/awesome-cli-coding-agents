@@ -233,7 +233,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Ferrum](https://github.com/ominiverdi/ferrum)** `⭐ 2` — Small Linux-only Rust-native coding agent with interactive and headless modes, ACP, safety-tiered native tools, durable JSONL sessions, Codex/ChatGPT OAuth, OpenAI-compatible providers, MCP, skills, and image input. MIT; primary development is on [Codeberg](https://codeberg.org/ominiverdi/ferrum).
 
-- **[3code](https://github.com/capocasa/3code)** — Economical terminal coding agent built around token efficiency: aggressive caching, cybernetic context mode that discards stale data, and self-clearing plan/execute phases. BYOK across 40+ known-good provider/model combos (DeepSeek, Z.ai GLM, Kimi, OpenRouter, NVIDIA NIM); single 3.2 MB Nim binary, no daemon, no telemetry, MIT. On a 10-task SWE-bench Verified subset (GLM-5.3) it resolved 9/10 at roughly half the tokens of Claude Code.
+- **[3code](https://github.com/capocasa/3code)** — Free and open source command-line coding agent built from the ground up to be efficient enough to use 3rd party token providers without a coding plan. Tight, no-frills interface, instant startup, works on osx/windows/linux/termux; supports a wide range of providers including EU ones (Mistral, TensorX). MIT.
 
 ### OpenClaw ecosystem
 
