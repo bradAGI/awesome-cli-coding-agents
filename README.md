@@ -23,6 +23,7 @@ A CLI coding agent is an AI-powered tool that runs in your terminal and can auto
 
 ## Contents
 
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)**: Open-source developer tool with an amazing desktop & web UI that handles parallel Git worktrees, programmatic verifications, and agent review loops.
 - [Terminal-native coding agents](#terminal-native-coding-agents)
   - [Open Source](#open-source)
   - [OpenClaw ecosystem](#openclaw-ecosystem)
