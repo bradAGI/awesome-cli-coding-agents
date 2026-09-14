@@ -581,6 +581,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[DevPilot](https://github.com/geastham/devpilot)** `⭐ 1` — Fleet cockpit for Claude Code: a wave planner with critical-path and idle-runway warnings, plus a `session-runner` CLI that spawns and supervises real `claude -p` sessions across several repos at once. TypeScript, MIT.
 
+- **[Magi](https://magi-core-landing-2.vercel.app/)** — Autonomous agent fleet that runs its own operating loop end to end: work lands on a shared board, a coordinator atomically claims each task for the least-loaded online headless opencode worker, and a supervisor audits every done task, reopens subpar work, and turns each fault into a new task. The fleet publishes a self-generated weekly ops digest and a live fleet-status dashboard as proof.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
