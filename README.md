@@ -447,6 +447,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Podiom](https://github.com/Podiom/Podiom)** `⭐ 11` — Self-hosted control plane for local Claude Code and Codex CLI agents: durable named agents whose chat sessions replay onto a fresh backing CLI session across provider/profile switches, a shared project ledger, an embedded scheduler, and autonomous goals. Single Go binary with an embedded Svelte web UI, no cloud dependency. MIT.
 
+- **[vibepanel](https://github.com/jiangmuran/vibepanel)** `⭐ 9` — Self-hosted web console for running many Claude Code and Codex sessions in parallel from a browser or a phone; each session lives in tmux, so agents keep running through panel restarts, upgrades and dropped connections. Hook-reported session state, token usage and read-only share links. MIT.
+
 - **[cliclaw](https://github.com/choiyounggi/cliclaw)** `⭐ 8` — macOS daemon to drive Claude Code, Codex, Gemini, and Pi from Telegram — an independent session per chat, a confirm gate for dangerous commands (bash/git/cloud deletes), and secret auto-masking. npm `@younggichoi/cliclaw`, TypeScript/Bun. MIT.
 
 - **[tmuxlet](https://github.com/CodefiLabs/tmuxlet)** `⭐ 8` — Rust CLI that runs interactive coding CLIs (Claude, Codex, Gemini, opencode, pi, Cursor) inside tmux and exposes a normalized `claude -p` style blocking interface. Single binary, zero deps. Works against the regular Claude subscription bucket (not the separate Agent SDK credit) by driving interactive Claude Code from the outside.
