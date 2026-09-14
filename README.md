@@ -393,6 +393,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[AgentBox](https://github.com/madarco/agentbox)** `⭐ 395` — Run multiple coding agents in parallel, each teleported into its own sandboxed VM (local Docker, self-hosted, or cloud: Hetzner/Daytona/Vercel/E2B); sub-second checkpoints, per-box browser/VS Code/shells, git creds kept on the host. Works with Claude Code, Codex, and OpenCode. MIT.
 
+- **[Calyx](https://github.com/yuuichieguchi/Calyx)** `⭐ 308` — Native macOS terminal built on libghostty for supervising coding agents in parallel: one approval inbox for Claude Code and Codex permission prompts and Grok and pi tool calls, a working/blocked/idle/done sidebar, in-terminal diff review, and MCP tools for agents. Swift, MIT.
+
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 268` — Execute Claude Code tasks in parallel git worktrees.
 
 - **[Vicoa](https://github.com/vicoa-ai/vicoa)** `⭐ 241` — Agentic IDE and AI orchestrator for running a team of coding agents (Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, Hermes) from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. AGPL-3.0.
