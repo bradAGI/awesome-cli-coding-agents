@@ -813,6 +813,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Agent Fleet](https://woodor.ai/agent-fleet/)** — Messaging layer for coding-agent sessions: every live Claude Code or Codex session takes a `name@project` address, and sessions exchange messages and files on one machine, across a LAN, or across networks. Also does remote session lifecycle control — compact, clear, handoff, restart. Native on macOS, Windows (x64 and arm64), and Linux x64, with no WSL or tmux. Closed source; free on a local network, paid cloud relay.
 
+- **[TaskHandoff](https://docs.thandoff.com/)** `⭐ 2` — Self-hosted control plane for running Docker-based Codex workspaces on local and remote machines: each task gets its own isolated checkout, changes pass a diff review gate before landing in your repository, and work is handed off between a planner agent, an executor agent and a human reviewer. `task-handoff` CLI plus a web control plane; source at [edgestorage/task-handoff](https://github.com/edgestorage/task-handoff). Apache-2.0.
 ---
 
 ## Contributing
