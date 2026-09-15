@@ -769,6 +769,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Praman](https://github.com/mrkanitkar/playwright-praman)** `⭐ 11` — Playwright plugin with CLI agents (planner, generator, healer) for SAP UI5/Fiori test automation; 199 typed control proxies, OData V2/V4, AI-driven test generation via MCP. Apache-2.0.
 
+- **[myc](https://github.com/aistastudio/myc)** `⭐ 11` — Local task-and-memory layer shared by Claude Code, Codex, opencode and Kimi: a task queue with dependencies and atomic claims, an oplog of decisions with hybrid search, and a PreCompact hook that saves the session before the context is compacted. One SQLite file next to the repo, no network calls, no API key (Bun only).
+
 - **[zosma-qa](https://github.com/zosmaai/zosma-qa)** `⭐ 10` — Generates QA agent prompts (planner, generator, healer, analyzer) for CLI coding tools (OpenCode, Claude Code, VS Code Copilot); scaffolds autonomous test workflows across Playwright, Appium, and k6.
 
 - **[gate4agent](https://github.com/ZENG3LD/gate4agent)** `⭐ 9` `[ZENG3LD]` — Universal Rust transport library for CLI AI agents (Claude Code, Codex, Gemini, OpenCode). Pipe/NDJSON, PTY, and ACP (JSON-RPC 2.0) modes with tokio broadcast fan-out. MIT.
