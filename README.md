@@ -811,6 +811,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Mantyl](https://github.com/jopli11/mantyl-cli)** `⭐ 1` — Handover layer for AI-built software: compiles a repo plus Claude Code, Codex, or Cursor session history into a verified project passport (sandbox-executed checks, claim/contradiction detection, secret redaction) that the recipient independently re-runs via `mantyl receive`. npm `mantyl`. MIT.
 
+- **[BlaBla](https://github.com/Kiborgik/blabla)** `⭐ 1` — Rust CLI that keeps project intent as executable contracts a coding agent queries instead of re-reading chat history: behavior rules checked by a coverage-guided campaign that shrinks a failure to a minimized counterexample, structure rules (modules, symbols, dependencies, literal collection membership) evaluated statically by a Python `ast` provider in an isolated interpreter that never imports project code, and `blabla finish` as a completion gate that exits 0 only when every active layer is GREEN. v0.5.0-alpha, Python-only structure provider. MIT.
+
 - **[Agent Fleet](https://woodor.ai/agent-fleet/)** — Messaging layer for coding-agent sessions: every live Claude Code or Codex session takes a `name@project` address, and sessions exchange messages and files on one machine, across a LAN, or across networks. Also does remote session lifecycle control — compact, clear, handoff, restart. Native on macOS, Windows (x64 and arm64), and Linux x64, with no WSL or tmux. Closed source; free on a local network, paid cloud relay.
 
 ---
