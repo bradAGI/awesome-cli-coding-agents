@@ -775,6 +775,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[clu](https://github.com/arjia-labs/clu)** `⭐ 8` — Codified Likeness Utility: a SQLite-backed issue tracker for coordinating fleets of AI coding agents. Atomic task claim, dependency graphs, workflows & checkpoints, and an audit log. CLI-native with clean `--json` output, built to be driven by agents. Go.
 
+- **[shim-cli](https://github.com/GetSHIM/shim-cli)** `⭐ 7` — Local hooks for Claude Code, Codex and Copilot CLI that detect secrets and personal data and mask them in Claude Code tool results; `shim watch` runs a loopback proxy for one session and reports where the input tokens went and what the turn cost.
+
 - **[Terminai](https://github.com/emosenkis/terminai)** `⭐ 6` — Makes your terminal of choice AI-enabled using your favorite CLI coding agent. Completely transparent until you activate the AI with Ctrl-Space, then runs your agent in an overlay with access to your terminal.
 
 - **[OSOP](https://github.com/Archie0125/osop-agent-rules)** `⭐ 5` — Universal workflow logging protocol for CLI coding agents; produces `.osop` workflow definitions and `.osoplog.yaml` execution records. Supports Claude Code, Codex, Cursor, Windsurf, Aider, Cline, Roo Code, Devin, and OpenClaw. Includes a [visual editor](https://osop-editor.vercel.app) and [spec](https://github.com/Archie0125/osop-spec).
