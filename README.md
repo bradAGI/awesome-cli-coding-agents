@@ -813,7 +813,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Agent Fleet](https://woodor.ai/agent-fleet/)** — Messaging layer for coding-agent sessions: every live Claude Code or Codex session takes a `name@project` address, and sessions exchange messages and files on one machine, across a LAN, or across networks. Also does remote session lifecycle control — compact, clear, handoff, restart. Native on macOS, Windows (x64 and arm64), and Linux x64, with no WSL or tmux. Closed source; free on a local network, paid cloud relay.
 
-- **[Squelette](https://github.com/JyMinet/squelette)** `⭐ 1` — Governance layer for AI coding agents working in a Git repository: human decisions recorded before work starts, deny-by-default scope enforced by a local pre-commit gate, and work closed only on checked proof, not the agent's word. Works with Claude Code and Codex through `AGENTS.md`. MIT.
+- **[Squelette](https://github.com/JyMinet/squelette)** `⭐ 1` — Governance layer for CLI coding agents (Claude Code, Codex): human decisions and allowed scope recorded before work, a pre-commit gate that refuses out-of-scope changes, and closure only on checked proof. MIT.
 
 ---
 
