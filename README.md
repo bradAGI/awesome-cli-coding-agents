@@ -455,6 +455,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[mix2](https://github.com/elleryfamilia/mix2)** `⭐ 5` — Terminal app that turns two coding agents into one team; one question, both investigate independently, reconcile or disclose disagreements, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI. Rust + TypeScript, MIT.
 
+- **[Polter](https://github.com/Lugia123/polter)** `⭐ 5` — Multi-agent terminal orchestrator: one AI CLI (Claude Code, Codex, Qwen, opencode) leads and coordinates a team of the others, restarting any that go idle or stall. Fully offline, no account. MIT.
+
 - **[Claudette](https://github.com/Olorin-ai-git/claudette)** `⭐ 3` — Native iOS/Android/Apple TV mobile control plane for local CLI coding-agent sessions: real PTY plus context/cost gauge, agent tree, voice, and Take the Wheel handoff. Companion CLI `npx claudette setup`. MIT.
 
 - **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 2` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
