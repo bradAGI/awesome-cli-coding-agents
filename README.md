@@ -745,6 +745,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[GoodMemory](https://github.com/hjqcan/GoodMemory)** `⭐ 17` — Local-first, auditable memory layer for Codex and Claude Code; its CLI installs scoped recall hooks and read-only MCP, with SQLite persistence by default plus opt-in governed writeback that can be inspected and reversed. MIT.
 
+- **[Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit)** `⭐ 17` — Portable Agent Skills catalog, personas, MCP templates, and loop/swarm orchestration for coding assistants, deployed via native CLI to Claude Code, Cursor, OpenCode, Copilot, Windsurf, and Pi. MIT.
+
 - **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** `⭐ 16` — Local-first Rust CLI for the coding-agent memory lifecycle: project-scoped SQLite recall, evidence-backed lessons, and consolidation of older memories into "rings" so context compresses instead of growing without bound. Remember, recall, audit, and consolidate subcommands over a three-crate workspace; signed prebuilt binaries for macOS and Linux. MIT.
 
 - **[schliff](https://github.com/Zandereins/schliff)** `⭐ 16` — Deterministic quality linter for agent instruction files (`AGENTS.md`, `SKILL.md`, `CLAUDE.md`, `.cursorrules`) with deterministic auto-fixes, anti-gaming detection, and a GitHub Action CI gate; no LLM in the scoring path. MIT.
