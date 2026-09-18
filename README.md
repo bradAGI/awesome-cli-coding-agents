@@ -249,6 +249,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Kolkrabbi](https://github.com/onembyte/kolkrabbi)** `⭐ 1` — Go terminal coding agent (`kolk`) where one effort dial — low, medium, high, max — selects which model runs the turn rather than how many thinking tokens one model spends. Runs OpenRouter, Ollama, vLLM, or any OpenAI-compatible endpoint, or drives your own Claude and ChatGPT subscriptions through each vendor's CLI without holding a credential; checkpoints before every write with `/diff` and `/rewind`, and logs cost, latency, and your own ratings per call. Single static binary, Apache-2.0.
 
+- **[Minicode](https://github.com/startupmini/minicode)** `⭐ 1` — Coding agent CLI built for real terminal work with a transparency-first philosophy: 37 built-in tools, MCP and LSP support, and a permission-first sandbox over a frozen zero-dependency runtime. Shadow-git checkpoints make every agent write reversible with a single `/undo`, and model calls, costs, and tool traces stream visibly in the TUI. npm `minicode-ai`, docs at [minicode.fun](https://minicode.fun). MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
