@@ -801,6 +801,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[distro-rig-vps](https://github.com/shafir-info/distro-rig-vps)** `⭐ 2` — Disposable real-boot Linux VMs for coding agents that need guest root, without host sudo/KVM/libvirt access. Deny-by-default egress and clean recreate. GPL-3.0.
 
+**[Team1-Factory](https://github.com/Team1-dev/Team1-Factory)** `⭐ 2` — Open-source AI software factory: GitHub issues in, merged PRs out.
+
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
