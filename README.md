@@ -777,6 +777,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Terminai](https://github.com/emosenkis/terminai)** `⭐ 6` — Makes your terminal of choice AI-enabled using your favorite CLI coding agent. Completely transparent until you activate the AI with Ctrl-Space, then runs your agent in an overlay with access to your terminal.
 
+- **[SpecWave](https://github.com/Cyning12/SpecWave)** `⭐ 6` — Multi-host coding CLI that lands one declarative adapt table across 13 hosts (Cursor, Claude Code, Copilot, Codex, Windsurf, Gemini CLI, opencode, Roo Code, Zed, Cline, aider, agents, optional DSH) and enforces process discipline: machine checks fail closed with exit code 2, and code changes (hat 30) are blocked until the human gate `HG-AUDIT-R1` is approved, with a tasks/reviews/invokes audit trail. `npx spec-wave`. MIT.
+
 - **[OSOP](https://github.com/Archie0125/osop-agent-rules)** `⭐ 5` — Universal workflow logging protocol for CLI coding agents; produces `.osop` workflow definitions and `.osoplog.yaml` execution records. Supports Claude Code, Codex, Cursor, Windsurf, Aider, Cline, Roo Code, Devin, and OpenClaw. Includes a [visual editor](https://osop-editor.vercel.app) and [spec](https://github.com/Archie0125/osop-spec).
 
 - **[PatchWarden](https://github.com/jiezeng2004-design/PatchWarden)** `⭐ 5` — Local-first MCP safety and verification layer that hands an approved plan to Codex CLI, Claude Code, or OpenCode under workspace confinement, command allowlists, scope-violation detection, and an auditable task and lineage record. npm `patchwarden`. MIT.
