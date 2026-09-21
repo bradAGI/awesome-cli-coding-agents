@@ -509,6 +509,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[loom](https://github.com/ghuntley/loom)** `⭐ 1.4k` — Infrastructure enabling autonomous loops to evolve products via multi-agent coordination.
 
+- **[oh-my-agent](https://github.com/first-fluke/oh-my-agent)** `⭐ 1.3k` — Multi-runtime harness with stop-hook gates, artifact verification, and independent judges; portable `.agents/` across Claude Code, Codex, Cursor, and other CLIs. MIT.
+
 - **[Bernstein](https://github.com/chernistry/bernstein)** `⭐ 1.2k` — Deterministic Python orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits.
 
 - **[Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS)** `⭐ 1.1k` — Agent OS for Claude Code, Codex, and Cursor (formerly Hephaestus) with a meta-agent builder, A2A Hub routing, local ontology, and memory/security gates; core is Apache-2.0 with a hosted cloud offering.
