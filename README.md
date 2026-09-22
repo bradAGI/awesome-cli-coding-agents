@@ -815,6 +815,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 ---
 
+- **[CodeVetter](https://github.com/Codevetter/codevetter)** `⭐ 1` — Execution-backed verification for AI-written changes: proves a change satisfies its requested task by running the evidence checks locally and recording inspectable, source-bound receipts. macOS app, CLI, read-only MCP. MIT.
+
 ## Contributing
 
 PRs welcome! To add an entry, please ensure it meets these criteria:
