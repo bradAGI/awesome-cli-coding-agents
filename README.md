@@ -249,6 +249,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Kolkrabbi](https://github.com/onembyte/kolkrabbi)** `⭐ 1` — Go terminal coding agent (`kolk`) where one effort dial — low, medium, high, max — selects which model runs the turn rather than how many thinking tokens one model spends. Runs OpenRouter, Ollama, vLLM, or any OpenAI-compatible endpoint, or drives your own Claude and ChatGPT subscriptions through each vendor's CLI without holding a credential; checkpoints before every write with `/diff` and `/rewind`, and logs cost, latency, and your own ratings per call. Single static binary, Apache-2.0.
 
+- **[molt](https://github.com/solvyxtech/molt)** `⭐ 0` — Coding agent that won't say done on a false claim. Checks pass on disk (`.molt/done.yml`) or it refuses; receipts for accepts and refusals. Terminal and desktop. OpenAI-compatible or Anthropic. TypeScript, MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
