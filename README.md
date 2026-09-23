@@ -443,9 +443,10 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[agents-cli](https://github.com/phnx-labs/agents-cli)** `⭐ 23` — CLI to install, version-pin, and run many coding-agent harnesses (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Grok); shared skills/MCP/rules, parallel teams in isolated terminals, session index, and SSH fleet dispatch. npm `@phnx-labs/agents-cli`. Apache-2.0.
 
+- **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 22` — Open-source agent development environment where you ask a coding agent to organize connected issues and coordinate the team. Shared tasks keep progress visible across sessions. Desktop, web, and CLI; local or VPS. Claude Code, Codex, Cursor, OpenCode, Grok. Apache-2.0.
+
 - **[repomon](https://github.com/AliHamzaAzam/repomon)** `⭐ 21` — Run a fleet of AI coding agents (Claude Code, Codex, Aider) across many repos, branches, and git worktrees from one tmux-backed terminal. Four-zoom TUI (fleet, split, babysit grid, focus), needs-you triage, durable sessions that survive restarts.
 
-- **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 21` — Open-source coding-agent orchestrator with a CLI and shared issue tracker that agents use to break down work, link dependencies, and delegate. Supports Claude Code, Codex, Cursor, OpenCode, and Grok; runs locally or on a VPS. Apache-2.0.
 - **[Claudescope](https://github.com/vladar107/claudescope)** `⭐ 18` — Local, read-only CLI that serves a web UI to browse, search, and analyze AI coding-agent transcripts across Claude Code, Codex, Junie, pi, opencode, and Copilot CLI — sessions merged by working directory, with full-text search and token-cost analytics. npm, cross-platform. MIT.
 
 - **[construct](https://github.com/construct-worlds/construct)** `⭐ 17` — Terminal-native agentic development environment: fleet TUI for coding agent CLIs (Codex, Claude Code, Antigravity, Grok) with fork/merge, collaborative Program Markdown orchestration, generative widgets, agent-to-agent orchestration. Single Rust binary.
