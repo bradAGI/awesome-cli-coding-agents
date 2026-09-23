@@ -445,6 +445,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[repomon](https://github.com/AliHamzaAzam/repomon)** `⭐ 21` — Run a fleet of AI coding agents (Claude Code, Codex, Aider) across many repos, branches, and git worktrees from one tmux-backed terminal. Four-zoom TUI (fleet, split, babysit grid, focus), needs-you triage, durable sessions that survive restarts.
 
+- **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 21` — Open-source coding-agent orchestrator with a CLI and shared issue tracker that agents use to break down work, link dependencies, and delegate. Supports Claude Code, Codex, Cursor, OpenCode, and Grok; runs locally or on a VPS. Apache-2.0.
 - **[Claudescope](https://github.com/vladar107/claudescope)** `⭐ 18` — Local, read-only CLI that serves a web UI to browse, search, and analyze AI coding-agent transcripts across Claude Code, Codex, Junie, pi, opencode, and Copilot CLI — sessions merged by working directory, with full-text search and token-cost analytics. npm, cross-platform. MIT.
 
 - **[construct](https://github.com/construct-worlds/construct)** `⭐ 17` — Terminal-native agentic development environment: fleet TUI for coding agent CLIs (Codex, Claude Code, Antigravity, Grok) with fork/merge, collaborative Program Markdown orchestration, generative widgets, agent-to-agent orchestration. Single Rust binary.
