@@ -479,6 +479,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent Workbench](https://github.com/cvelasquez/agent-workbench)** `⭐ 2` — Local web UI that runs the unmodified Claude Code, Codex, OpenCode and Antigravity CLIs in a pseudo-terminal, with tabs that survive a reload, one browsable history for all four, conversation hand-off between CLIs and full-text search. Windows-first, MIT.
 
+- **[swe-mux](https://github.com/jatoran/swe-mux)** `⭐ 2` - Workspace that runs Claude Code, Codex, OpenCode and Pi in real terminals on your machine, with live per-session status, sessions that survive restarts, and the same live sessions on your phone over Tailscale (PWA, push notifications). Python, Apache-2.0.
+
 - **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
 
 - **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 0` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
