@@ -547,7 +547,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[MartinLoop](https://github.com/Keesan12/martin-loop)** `⭐ 190` — Execution-control layer around Claude Code, Codex, and other coding agents: token and cost budgets, iteration caps, stop conditions, independent verifier passes, and signed run receipts, driven from a `martin` CLI. Apache-2.0.
 
-- **[Orbi](https://github.com/orbi-build/orbi)** `⭐ 185` — Unattended loop from a labeled GitHub Issue to a tagged release: claims the Issue, implements in an isolated worktree, then runs a second session with a fresh context that reviews the frozen diff and can block the merge. The merge gate is bound to the reviewed commit, so a later push cannot pass on an earlier verdict. Claude Code, Codex, and other CLI harnesses are interchangeable engines. Docker or systemd. Fair-code.
+- **[Orbi](https://github.com/orbi-build/orbi)** `⭐ 185` — Unattended loop from a labeled GitHub Issue to a tagged release: claims the Issue, implements in an isolated worktree, then runs a second session with a fresh context that reviews the frozen diff and can block the merge. The merge gate is bound to the reviewed commit, so a later push cannot pass on an earlier verdict. Runs on the Pi agent harness with your own model (any OpenAI-compatible API) or a Codex subscription. Docker or systemd. Open source (AGPL-3.0).
 
 - **[ORCH](https://github.com/oxgeneral/ORCH)** `⭐ 164` — CLI orchestrator that manages Claude Code, Codex, and Cursor as a typed task queue with state machine (todo→in_progress→review→done), auto-retry, inter-agent messaging, and TUI dashboard.
 
