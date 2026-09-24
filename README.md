@@ -443,7 +443,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[agents-cli](https://github.com/phnx-labs/agents-cli)** `⭐ 23` — CLI to install, version-pin, and run many coding-agent harnesses (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Grok); shared skills/MCP/rules, parallel teams in isolated terminals, session index, and SSH fleet dispatch. npm `@phnx-labs/agents-cli`. Apache-2.0.
 
-- **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 22` — Open-source agent development environment where you ask a coding agent to organize connected issues and coordinate the team. Shared tasks keep progress visible across sessions. Desktop, web, and CLI; local or VPS. Claude Code, Codex, Cursor, OpenCode, Grok. Apache-2.0.
+- **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 22` — An open-source workspace for taking your ideas from conversation to coordinated work with coding agents. Agents organize the effort in the same task system you use to follow progress, discuss decisions, and change direction as the work develops. Desktop, web, and CLI; local or VPS. Apache-2.0.
 
 - **[repomon](https://github.com/AliHamzaAzam/repomon)** `⭐ 21` — Run a fleet of AI coding agents (Claude Code, Codex, Aider) across many repos, branches, and git worktrees from one tmux-backed terminal. Four-zoom TUI (fleet, split, babysit grid, focus), needs-you triage, durable sessions that survive restarts.
 
