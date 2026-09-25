@@ -683,6 +683,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[cc-router](https://github.com/finch-xu/cc-router)** `⭐ 252` — Local Anthropic-Messages-API proxy that bundles multiple provider subscriptions and API quotas (DeepSeek, Qwen, Kimi, GLM, MiniMax, Claude — 18+ providers) into virtual opus/sonnet/haiku slots with failover and load balancing for Claude Code, Claude Desktop, OpenClaw, and OpenCode. No relation to claude-code-router. Rust, MIT.
 
+- **[Kane CLI](https://github.com/LambdaTest/kane-cli)** `⭐ 243` `[TestMu AI (Formerly LambdaTest)]` — Validation layer for AI coding agents: give `kane-cli` a plain-English objective and it drives a real Chrome browser (or an Android emulator / iOS simulator) to completion, returning structured NDJSON results and run evidence. Ships an agent skill so Claude Code, Codex, Gemini CLI, and other popular coding agents can verify their own changes before committing; also generates tests from a description or requirement-linked suites from a PRD, saved as runnable Markdown, and runs locally, in CI, or on the TestMu AI cloud grid. npm `@testmuai/kane-cli`. Apache-2.0.
+
 - **[kasetto](https://github.com/pivoshenko/kasetto)** `⭐ 201` — A declarative AI agent environment manager, written in Rust.
 
 - **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** `⭐ 177` — Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; flags prompt injection, credential theft, and manifest drift before you install. Python + YARA, ships as a CLI and a GitHub Action. Source-available (PolyForm Noncommercial).
