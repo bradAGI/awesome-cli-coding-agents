@@ -847,6 +847,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[BlaBla](https://github.com/Kiborgik/blabla)** `⭐ 2` — Rust CLI that keeps project intent as executable contracts a coding agent queries instead of re-reading chat history: behavior rules checked by a coverage-guided campaign that shrinks a failure to a minimized counterexample, structure rules (modules, symbols, dependencies, literal collection membership) evaluated statically by a Python `ast` provider in an isolated interpreter that never imports project code, and `blabla finish` as a completion gate that exits 0 only when every active layer is GREEN. v0.7.0-alpha, Python-only structure provider. MIT.
 
+- **[saver-audit](https://github.com/VladUZH/saver-audit)** `⭐ 2` — Offline cost audit for Claude Code and Codex session logs: prices tokens with prompt-cache reads and writes, then replays recorded tool output through the token savers installed locally (rtk, headroom, lean-ctx, token-saver, caveman) to show what each would cut. Each saver result is labelled replayed, modeled or upper bound. `npx saver-audit`. MIT.
+
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
