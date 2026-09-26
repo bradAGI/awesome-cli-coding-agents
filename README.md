@@ -225,6 +225,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Nausicaa](https://github.com/jackispm/nausicaa-harness)** `⭐ 33` — TypeScript CLI/runtime for general-purpose agent tasks with addressable Lanes, an optional Teto observer lane, durable Run ledgers, daemon/worker lifecycle, and cross-Run A2A. npm `nausicaa-harness`, MIT.
 
+- **[rpi](https://github.com/bigfish1913/pi-rust)** `⭐ 32` — Library-first Rust coding agent: nine composable crates (`rpi-agent`, `rpi-tools`, `rpi-harness`, `rpi-tui`, …) so the agent loop can be embedded in your own program, plus a ready-to-run `rpi` terminal CLI. Crash-resumable JSONL sessions that self-heal a duplicated-seq log, a stable `#[repr(C)]` plugin ABI for tools and providers, and a provider-agnostic `StreamFn` boundary that makes the loop testable with no network. MIT.
+
 - **[Grinta](https://github.com/josephsenior/Grinta-Coding-Agent)** `⭐ 30` — Local-first, provider-agnostic terminal coding agent built for long-horizon autonomous execution; durable state and recovery, context management, structured tool orchestration, LSP/DAP integration, and validation-gated completion. Python, MIT.
 
 - **[Kolega Code](https://github.com/kolega-ai/kolega-code)** `⭐ 21` — Python terminal coding agent where the model writes its own multi-agent workflows (Gigacode): the runtime enforces concurrency caps and token budgets, journals every completed agent call to disk, and replays unchanged calls for free on resume. 15+ providers, MCP over stdio/SSE/streamable HTTP, ACP, sandboxed shell and filesystem tools, git worktrees, and a browser agent. Source-available (BUSL-1.1).
