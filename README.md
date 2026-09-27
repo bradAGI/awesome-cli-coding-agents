@@ -513,6 +513,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[gastown](https://github.com/steveyegge/gastown)** `⭐ 18.2k` — Multi-agent orchestration with persistent work tracking.
 
+- **[OmniGet](https://github.com/tonhowtf/omniget)** `⭐ 14.4k` — Desktop app plus `omniget-cli` that run Claude Code, Codex, Gemini CLI, goose, opencode and local models as durable jobs: loops until tests pass (`omniget-cli agent loop "<prompt>" --check "npm test"`), cron/webhook triggers, diffs, per-tool permissions and shadow-git undo. GPL-3.0.
+
 - **[Omnigent](https://github.com/omnigent-ai/omnigent)** `⭐ 10.2k` `[Databricks]` — Meta-harness giving one orchestration layer over Claude Code, Codex, Cursor, OpenCode, Hermes, Kiro, and Pi: mix harnesses inside a single session, wrap each agent terminal in a bwrap/seatbelt or cloud sandbox, and enforce approval, spend, and tool policies. YAML-defined agents include a tech-lead orchestrator that delegates to coding sub-agents in parallel git worktrees. Apache-2.0.
 
 - **[Kiro Crew](https://github.com/kirodotdev/KiroCrew)** `⭐ 4.1k` `[AWS]` — Persistent local workspace that drives `kiro-cli` over ACP across concurrent agent sessions: a `kirocrew run TASK.md` task runner with checkpoint resume, `spawn` subagents, cron and webhook-triggered jobs, decaying memory that hardens into reusable skills, and OS-sandboxed tool execution behind approval gates. Apache-2.0.
