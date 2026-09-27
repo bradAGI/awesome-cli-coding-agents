@@ -861,6 +861,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Squelette](https://github.com/JyMinet/squelette)** `⭐ 1` — Governance layer for CLI coding agents (Claude Code, Codex): human decisions and allowed scope recorded before work, a pre-commit gate that refuses out-of-scope changes, and closure only on checked proof. MIT.
 
+- **[done-gate](https://github.com/kuroudo-ai/done-gate)** `⭐ 0` — Stop hook that blocks "fixed/done" claims when no test output or exit code appeared in that turn; it stops the reply once and asks the agent to check or say it is unverified. Installs as a Claude Code or Codex CLI plugin, Python standard library only. MIT.
+
 - **[Agent Fleet](https://woodor.ai/agent-fleet/)** — Messaging layer for coding-agent sessions: every live Claude Code or Codex session takes a `name@project` address, and sessions exchange messages and files on one machine, across a LAN, or across networks. Also does remote session lifecycle control — compact, clear, handoff, restart. Native on macOS, Windows (x64 and arm64), and Linux x64, with no WSL or tmux. Closed source; free on a local network, paid cloud relay.
 
 ---
