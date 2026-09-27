@@ -675,6 +675,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[subtask](https://github.com/zippoxer/subtask)** `⭐ 341` — Claude Skill for delegating tasks with subagents in Git worktrees.
 
+- **[billion-context](https://github.com/ranxianglei/billion-context)** `⭐ 328` — Context-compression proxy for AI coding agents: sits between client and LLM provider, compressing long sessions into ACP blocks so month-long single sessions run on ~5× fewer tokens. Native plugins for pi, opencode, omp, dsh, Kimi, and Hermes; launcher/MITM mode covers Codex, Claude Code, Gemini CLI, Aider, and more. MIT.
+
 - **[Concord MCP](https://github.com/Get-Concord-AI/concord-mcp)** `⭐ 323` — Local-first MCP server plus a `concord` CLI and TUI giving coding agents shared work state: cross-harness messaging, file-claim overlap detection before edits, task handoff with evidence, and a live dashboard. Works with Claude Code, Codex, Cursor, Gemini CLI, and Grok Build. MIT.
 
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 313` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
