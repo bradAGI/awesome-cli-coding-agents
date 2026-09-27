@@ -433,6 +433,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Clave](https://github.com/codika-io/clave)** `⭐ 50` — Native macOS app for running multiple AI coding-agent CLIs (Claude Code, Gemini CLI, Codex) in parallel — split/grid terminal layouts, per-project session groups, a built-in git panel, and remote sessions over SSH. Fully local, no account. Electron. MIT.
 
+- **[coven](https://github.com/OpenCoven/coven)** `⭐ 50` — Local-first daemon and CLI that runs Codex, Claude Code, and other harnesses as project-scoped PTY sessions with root-boundary enforcement, SQLite-persisted history, and a versioned local socket API. MIT.
+
 - **[showagent](https://github.com/aytzey/showagent)** `⭐ 48` — Bubble Tea TUI that unifies the local session stores of Claude Code, Codex, Gemini CLI, and OpenCode: fuzzy search grouped by workspace, resume via each agent's own CLI, branch local copies, and cross-agent transcript conversion into the target's native format. Scriptable (`list --json`), fully local, single Go binary. MIT.
 
 - **[intentic](https://github.com/intentic/intentic)** `⭐ 44` — Self-hosted workspace that gives each coding agent a persistent sandbox on hardware you own: agents work in real checkouts in their own git worktrees behind PTY terminals, and you approve the riskier calls and read every diff before it lands. A Rust host agent pairs the machine over an outbound-only Cloudflare tunnel, so there are no inbound ports to open; the workspace opens in any browser or the desktop app. Runs Claude Code, Codex, Grok, Kimi Code, and Gemini on your own subscriptions. TypeScript, MIT.
