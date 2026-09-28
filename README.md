@@ -485,6 +485,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
 
+- **[Agent 007](https://github.com/bill10/agent-007)** `⭐ 0` — Self-hosted job board and pixel office for Claude Code, Codex, and other terminal agents: each queued job gets a fresh agent in its own git worktree and branch, runs in a real PTY you can take over, and lands as a pull request for review. Node.js web UI, MIT.
+
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
 - **[Bwee](https://bwee.app)** — Desktop app for CLI coding agents where users build their own views (BYOUI) — custom tools and dashboards that live alongside the terminal. Persistent sessions and task management. macOS.
