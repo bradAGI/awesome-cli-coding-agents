@@ -627,6 +627,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** `⭐ 22.5k` `[NVIDIA]` — CLI tool for securely provisioning and managing sandboxed OpenClaw agent environments; enforces network, filesystem, and process-level security policies via OpenShell runtime. Apache-2.0.
 
+- **[Kortix](https://github.com/kortix-ai/suna)** `⭐ 20.2k` — Open-source AI Management System for running a company's agent workforce: agents, skills, memory and 3,000+ connectors are files in one git repo you own, each session runs on its own isolated Linux machine, and work lands through a human-reviewed change request. `kortix` CLI (init/ship/sessions/chat), any model with your own keys, self-host or managed cloud. Elastic-2.0. Comparison hub: [opensourcecopilotalternative.com](https://opensourcecopilotalternative.com).
+
 - **[OpenWiki](https://github.com/langchain-ai/openwiki)** `⭐ 16.7k` `[LangChain]` — CLI that writes and maintains a Markdown wiki for your codebase using a Deep Agents documentation agent; agents read it as memory via managed blocks in `AGENTS.md`/`CLAUDE.md`, and it self-updates through GitHub Actions, GitLab CI, or Bitbucket Pipelines. Twelve model providers and an interactive node-graph visualizer. MIT.
 
 - **[OpenCodex](https://github.com/lidge-jun/opencodex)** `⭐ 15.9k` — Local provider proxy that translates Codex's Responses API in both directions (streaming, tool calls, reasoning tokens, images), so Codex CLI/App/SDK, Claude Code, and Grok Build can run any LLM across 40+ providers or any OpenAI-compatible endpoint. Combos give one virtual model id failover or weighted round-robin. `ocx` CLI plus a localhost dashboard. Unrelated to ymichael's open-codex. MIT.
