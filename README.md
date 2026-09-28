@@ -425,6 +425,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Garcon](https://github.com/cfal/garcon)** `⭐ 88` — Self-hosted browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, files, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0.
 
+- **[PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis)** `⭐ 74` — Cross-platform desktop app and `jarvis` CLI whose Agentic IDE runs Claude Code, Codex, Gemini CLI, OpenCode, and other CLI coding agents side by side in terminal panes with git worktrees, alongside a chat and voice assistant, background agents, and agents placed on remote computers over SSH. Apache-2.0.
+
 - **[run-kit](https://github.com/sahil87/run-kit)** `⭐ 60` — Remote, phone-first web console for tmux: spawn and watch coding agents in parallel git worktrees, agent-agnostic and no database, with push notifications and local-port proxying to your browser. Go, MIT.
 
 - **[Better Agent](https://github.com/ofekron/better-agent)** `⭐ 59` — Local web workspace that launches and supervises native Claude, Codex, and Gemini CLI sessions with parallel delegation, persistent state, approval gates, file access, and restart recovery. Source-available; free for non-commercial use.
