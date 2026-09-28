@@ -849,6 +849,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Squelette](https://github.com/JyMinet/squelette)** `⭐ 2` — Governance layer for CLI coding agents (Claude Code, Codex): human decisions and allowed scope recorded before work, a pre-commit gate that refuses out-of-scope changes, and closure only on checked proof. MIT.
 
+- **[House Party Protocol](https://github.com/rusharlabs/house-party-protocol)** `⭐ 2` — Local-first harness for coding-agent teams on Claude Code and Codex CLI that sits under whatever orchestrates the agents: `hpp` records the criterion command's exit code outside the model and hashes its artifacts, refuses a verdict from the builder's own lane or model family, binds approvals to the bytes they approved, and derives lane liveness from heartbeats so a dead lane never collides with a live one; its refusals exit non-zero. Standard-library Python, no model calls. MIT.
+
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
