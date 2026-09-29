@@ -469,6 +469,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[taskpods](https://github.com/yanairon/taskpods)** `⭐ 5` — Lightweight, agent-agnostic CLI that runs Claude Code, Codex CLI, Gemini CLI, opencode, aider, or any command in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands. Python, MIT.
 
+- **[Ashlr Verse](https://github.com/ashlrai/ashlr-hub)** `⭐ 4` — Operator console and `ashlr` CLI (npm `@ashlr/hub`) that runs Claude Code, Codex, Devin, Grok and local-model sessions side by side as seats in one workbench, with a checkpoint before every turn, one-click handoff between seats, and per-account usage views; served in the browser on macOS, Linux and Windows, plus a macOS desktop app. Optional macOS-only fleet autonomy runs inside a signed standing grant and starts in shadow mode. MIT.
+
 - **[Claudette](https://github.com/Olorin-ai-git/claudette)** `⭐ 3` — Native iOS/Android/Apple TV mobile control plane for local CLI coding-agent sessions: real PTY plus context/cost gauge, agent tree, voice, and Take the Wheel handoff. Companion CLI `npx claudette setup`. MIT.
 
 - **[TaskHandoff](https://github.com/edgestorage/task-handoff)** `⭐ 3` — Self-hosted control plane for running Docker-based Codex workspaces on local and remote machines: each task gets its own isolated checkout, changes pass a diff review gate before landing in your repository, and work is handed off between a planner agent, an executor agent, and a human reviewer. `task-handoff` CLI plus a web control plane. Apache-2.0.
