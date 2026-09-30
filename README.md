@@ -606,6 +606,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 - **[Team1-Factory](https://github.com/Team1-dev/Team1-Factory)** `⭐ 2` — Unattended GitHub issue-to-merged-PR loop: triage, implement, review, and merge stages run against real issues and pull requests, driving Claude Code sessions with test-gated merges. Runs once or as a long-lived polling service under Docker. Apache-2.0.
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
+- **[Wayari](https://wayari.com/)** - Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
 
 ### Agent infrastructure
 
