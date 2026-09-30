@@ -679,6 +679,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 313` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
 
+- **[Emulo](https://github.com/ohad6k/emulo)** `⭐ 294` — Mines local Claude Code and Codex session logs into a you.md profile of the user's rules and preferences that the agent loads as a skill, a Codex AGENTS.md section or a one-tool MCP server. Extraction and redaction run locally; mining uses whichever model it is pointed at. MIT.
+
 - **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** `⭐ 269` — Records a coding-agent run and replays it offline with the network off, or forks it from any checkpoint onto a different model. Capture sits below the harness — shell exit codes, per-turn file changes and MCP calls land on the same timeline as the model traffic — so it also records agents with no base URL to change, via TLS interception on a host allowlist.
 
 - **[cc-router](https://github.com/finch-xu/cc-router)** `⭐ 257` — Local Anthropic-Messages-API proxy that bundles multiple provider subscriptions and API quotas (DeepSeek, Qwen, Kimi, GLM, MiniMax, Claude — 18+ providers) into virtual opus/sonnet/haiku slots with failover and load balancing for Claude Code, Claude Desktop, OpenClaw, and OpenCode. No relation to claude-code-router. Rust, MIT.
