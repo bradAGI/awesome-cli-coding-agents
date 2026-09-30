@@ -255,6 +255,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[molt](https://github.com/solvyxtech/molt)** `⭐ 0` — Coding agent that won't say done on a false claim. Checks pass on disk (`.molt/done.yml`) or it refuses; receipts for accepts and refusals. Terminal and desktop. OpenAI-compatible or Anthropic. TypeScript, MIT.
 
+- **[ZYRAXON AI](https://github.com/onelpawarai-X/ZYRAXON-AI)** `⭐ 5` — Desktop AI coding agent built on opencode, with a free open-core model: 25+ LLM providers including locally hosted models, built-in sub-agents, MCP support, and permission-first file and command editing. Ships for Windows, macOS and Linux. TypeScript/Python, ZSL-X license.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
