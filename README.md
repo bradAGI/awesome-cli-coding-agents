@@ -607,6 +607,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
+- **[Code-Crafter](https://github.com/anandgupta193/code-crafter)** `⭐ 0` — Self-hosted Slack/Jira → pull-request loop: each ticket gets a disposable Docker container running Claude Code headless, a Neo4j architecture graph (Graph RAG + read-only MCP) briefs the agent, and review comments and CI failures are routed back to it until a human merges. TypeScript, MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
