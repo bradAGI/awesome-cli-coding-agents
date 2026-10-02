@@ -607,7 +607,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
-- **[Hivemeld](https://hivemeld.com?utm_source=bradagi-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)** `[SaaS]` `[Hivemeld]` — Managed platform for running concurrent Claude Code agent teams on a shared repo: each session gets an isolated git worktree, the platform handles context compaction, inter-agent git coordination, and task routing, with a backlog dashboard surfacing fleet progress and agent attribution. 2,600+ engineering tasks completed in production. No infrastructure to run.
+- **[Hivemeld](https://hivemeld.com?utm_source=bradagi-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)** `[SaaS]` `[Hivemeld]` — Managed platform for running concurrent Claude Code agent teams on a shared repo: each session gets an isolated git worktree, the platform handles context compaction, inter-agent git coordination, and task routing, with a backlog dashboard surfacing fleet progress and agent attribution. 2,600+ engineering tasks completed in production. No infrastructure to run. ([buy →](https://hivemeld.com/buy?plan=annual&utm_source=bradagi-awesome&utm_medium=awesome-list&utm_campaign=GRO-089))
 
 ### Agent infrastructure
 
