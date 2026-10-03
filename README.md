@@ -453,6 +453,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CLITrigger](https://github.com/HyperAITeam/CLITrigger)** `⭐ 14` — Self-hosted web UI for orchestrating Claude Code, Codex, and Gemini CLIs in parallel git worktrees. Features multi-agent discussion mode (architect/developer/reviewer debate before implementation), cross-project Morning Review Queue, scheduled execution with rate-limit auto-recovery, and a built-in Git client. MIT.
 
+- **[Caprock](https://github.com/dspv/caprock)** `⭐ 14` — Local mission control for Claude Code, Codex, OpenCode and Gemini CLI: one Go binary with a loopback dashboard that picks up sessions you start yourself, starts new ones and types into them, and shows live activity, token cost per repository and searchable history. Local-only, no telemetry. Apache-2.0.
+
 - **[Polter](https://github.com/Lugia123/polter)** `⭐ 13` — Ghostty fork in which one AI CLI leads a team of the others: the lead session reads the text on the other tabs, types into them, opens new tabs, and is notified when a session goes quiet. Per-plugin provisioning for Claude Code, Codex, Gemini, Kimi, opencode, Qwen, and DeepSeek. Fully offline, no account. Zig, MIT.
 
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 11` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
