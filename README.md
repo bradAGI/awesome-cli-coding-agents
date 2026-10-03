@@ -465,6 +465,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[iris](https://github.com/itzenata/iris-tui)** `⭐ 6` — Live TUI supervisor for every active Claude Code session: status, tokens, estimated cost, and one-pane approval of pending tool calls via a PreToolUse hook. Rust, MIT.
 
+- **[Agent Fleet (k-k1)](https://github.com/k-k1/agent-fleet)** `⭐ 6` — Self-hosted web console that runs Claude Code, Codex, Copilot CLI, Cursor, Kiro, OpenCode and other agent CLIs unchanged as a fleet: isolated per-user Docker workspaces, parallel sessions in git worktrees, sessions that start and steer child sessions of another kind, scheduling and per-account usage tracking. Go + React, Apache-2.0. Not the woodor.ai project of the same name.
+
 - **[mix2](https://github.com/elleryfamilia/mix2)** `⭐ 5` — Terminal app that turns two coding agents into one team; one question, both investigate independently, reconcile or disclose disagreements, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI. Rust + TypeScript, MIT.
 
 - **[taskpods](https://github.com/yanairon/taskpods)** `⭐ 5` — Lightweight, agent-agnostic CLI that runs Claude Code, Codex CLI, Gemini CLI, opencode, aider, or any command in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands. Python, MIT.
