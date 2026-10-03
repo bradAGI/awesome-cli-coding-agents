@@ -751,6 +751,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Loadout](https://github.com/elleryfamilia/loadout)** `⭐ 32` — Adaptive context engine for AI coding agents; detects your stack and equips the right context when you launch `load claude`, `load codex`, `load cursor`. Works with Claude, Codex, Cursor, opencode, and Copilot. Rust, MIT.
 
+- **[Browsentic](https://github.com/imshaikot/browsentic)** `⭐ 30` — Browser extension that runs Claude Code, Codex or Antigravity from a side panel in your own logged-in browser; the same browser tools also work as an MCP server for any CLI agent.
+
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 29` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
 
 - **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 27` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
