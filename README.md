@@ -241,6 +241,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 6` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
+- **[Forge](https://github.com/andreglegg/forge)** `⭐ 5` — Local-first TypeScript coding-agent CLI optimized for local and small language models; interactive chat and headless runs with bounded repo navigation, approval-gated transactional edits, command execution + verification, durable sessions/undo, and isolated worktree execution. npm `@aglegg/forge-harness`. Apache-2.0.
+
 - **[ipsupport-code](https://github.com/ipsupport-llc/ipsupport-code)** `⭐ 4` — Go terminal coding agent built for LM Studio and other OpenAI-compatible endpoints, single static binary; a small fat-tool schema tuned for weak local models, opt-in OS-level sandboxing (Seatbelt on macOS, Landlock on Linux) for its shell tool, and a reflect step after each task that writes new lessons to disk. MIT.
 
 - **[Ferrum](https://github.com/ominiverdi/ferrum)** `⭐ 4` — Small Linux-only Rust-native coding agent with interactive and headless modes, ACP, safety-tiered native tools, durable JSONL sessions, Codex/ChatGPT OAuth, OpenAI-compatible providers, MCP, skills, and image input. MIT; primary development is on [Codeberg](https://codeberg.org/ominiverdi/ferrum).
