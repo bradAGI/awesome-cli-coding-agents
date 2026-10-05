@@ -607,6 +607,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
+- **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
