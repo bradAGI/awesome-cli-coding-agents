@@ -501,6 +501,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[VibeFuse](https://fuseintelligence.org/products/vibefuse)** — Free Windows desktop harness that runs Claude Code, Codex, Gemini CLI, Cursor Agent, and Qwen as live PTY widgets on one canvas; named sessions you can park, clone for side-by-side prompt comparison, and restore after a restart with scrollback. On-device voice (whisper.cpp STT + Piper TTS), a built-in MCP tools panel, and a marketplace for AI skills and widgets where sellers keep 80% (Stripe Connect). Closed source; Windows only.
 
+- **[Sourceweave](https://sourceweave.app)** — Desktop workspace for Windows, Linux, and macOS (beta) that runs Claude Code, Codex, OpenCode, GitHub Copilot CLI, and other agent CLIs in real terminals beside the project's files and Git state. Sends one task to several agents, each in its own git worktree, then compares diffs, check results, and token cost before applying one. Paid, closed source.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
