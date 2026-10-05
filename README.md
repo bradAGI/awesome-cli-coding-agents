@@ -865,6 +865,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 ---
 
+- **[OpenAmer](https://github.com/openamer/openamer)** `⭐ 5` — Windows-native agent that operates the real desktop (filesystem, terminal, GUI, browser over the Chrome DevTools Protocol) locally; five in-process cognition tools plus a single 10-subsystem heartbeat replace a cron pile, and an A2A mesh routes work peer-to-peer between instances.
+
 ## Contributing
 
 PRs welcome! To add an entry, please ensure it meets these criteria:
