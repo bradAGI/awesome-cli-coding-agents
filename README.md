@@ -501,6 +501,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[VibeFuse](https://fuseintelligence.org/products/vibefuse)** — Free Windows desktop harness that runs Claude Code, Codex, Gemini CLI, Cursor Agent, and Qwen as live PTY widgets on one canvas; named sessions you can park, clone for side-by-side prompt comparison, and restore after a restart with scrollback. On-device voice (whisper.cpp STT + Piper TTS), a built-in MCP tools panel, and a marketplace for AI skills and widgets where sellers keep 80% (Stripe Connect). Closed source; Windows only.
 
+- **[Hivemeld](https://hivemeld.ai)** — Managed cloud platform for running concurrent Claude Code agent teams on a shared repo: each session gets an isolated git worktree, the platform handles context compaction, inter-agent git coordination, and task routing, with a dashboard surfacing fleet progress and per-agent attribution.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
@@ -606,8 +608,6 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 - **[Team1-Factory](https://github.com/Team1-dev/Team1-Factory)** `⭐ 2` — Unattended GitHub issue-to-merged-PR loop: triage, implement, review, and merge stages run against real issues and pull requests, driving Claude Code sessions with test-gated merges. Runs once or as a long-lived polling service under Docker. Apache-2.0.
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
-
-- **[Hivemeld](https://hivemeld.ai)** — Managed platform for running concurrent Claude Code agent teams on a shared repo: each session gets an isolated git worktree, the platform handles context compaction, inter-agent git coordination, and task routing, with a backlog dashboard surfacing fleet progress and agent attribution.
 
 ### Agent infrastructure
 
