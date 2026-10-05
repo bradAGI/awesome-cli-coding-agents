@@ -831,6 +831,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Project Tiny Context Harness](https://github.com/Seven128/project-tiny-context-harness)** `⭐ 4` — Minimal repo-native project memory for CLI coding agents. Installs `AGENTS.md`, `project_context/**`, role Skills, and a `validate-context` gate so Codex, Claude Code, Cursor, Gemini CLI, OpenCode, and similar agents can recover project intent, boundaries, and validation paths across fresh sessions. MIT.
 
+- **[Verity](https://github.com/codacy/verity)** `⭐ 4` — Stop-hook review gate for Claude Code: when the agent stops, a separate model, backed by Codacy's deterministic analysis CLI, checks the diff for security, quality and intent against the original prompt, then passes it or blocks with file-and-line findings the agent fixes. Also compounds decisions and gotchas in a central knowledge base to inform future runs, and tracks spend per model, session and run. Claude Code plugin (9 skills, 6 hooks) over the `verity` CLI, npm `@codacy/verity-cli`. macOS only. Plugin Apache-2.0; CLI proprietary, free beta.
+
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 3` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
 - **[Weaver](https://github.com/sean35mm/weaver)** `⭐ 3` — Local coordination layer for multiple coding agents working in the same repo. Agents announce tasks, claim paths/globs, check overlaps, and leave repo-local notes through a shared SQLite store. MIT.
