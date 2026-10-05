@@ -501,6 +501,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[VibeFuse](https://fuseintelligence.org/products/vibefuse)** — Free Windows desktop harness that runs Claude Code, Codex, Gemini CLI, Cursor Agent, and Qwen as live PTY widgets on one canvas; named sessions you can park, clone for side-by-side prompt comparison, and restore after a restart with scrollback. On-device voice (whisper.cpp STT + Piper TTS), a built-in MCP tools panel, and a marketplace for AI skills and widgets where sellers keep 80% (Stripe Connect). Closed source; Windows only.
 
+- **[harnsy](https://harnsy.dev)** — Team layer for Claude Code, Codex and OpenCode sessions on one machine: each agent holds a role under a lead, agents message each other straight into the running session, work moves as tasks with evidence and review, and a fresh agent takes over a role from a handover note when its context fills up. Local dashboard, one terminal tab per agent (tmux on Linux and macOS, its own terminal host on Windows). Closed source; the build without a key runs 1 project and up to 10 agents at once, a harnsy Max key lifts that and adds several machines and several subscriptions.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
