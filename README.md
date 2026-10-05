@@ -465,6 +465,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[iris](https://github.com/itzenata/iris-tui)** `⭐ 6` — Live TUI supervisor for every active Claude Code session: status, tokens, estimated cost, and one-pane approval of pending tool calls via a PreToolUse hook. Rust, MIT.
 
+- **[Solenta](https://github.com/currentbits/solenta)** `⭐ 6` — Local-first desktop app that drives the agent CLIs you already have (Claude Code, Codex, Cursor, Kimi, Grok, OpenCode) in parallel threads, each in its own git worktree. A shared memory server (SQLite with FTS + vector search, HTTP + MCP, localhost-only) is injected into every session so what one agent learns the next one knows, and the planboard is plain GitHub issues with a Start task button per card. Multi-phase build workflows with per-phase providers. macOS, Windows, Linux. MIT.
+
 - **[mix2](https://github.com/elleryfamilia/mix2)** `⭐ 5` — Terminal app that turns two coding agents into one team; one question, both investigate independently, reconcile or disclose disagreements, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI. Rust + TypeScript, MIT.
 
 - **[taskpods](https://github.com/yanairon/taskpods)** `⭐ 5` — Lightweight, agent-agnostic CLI that runs Claude Code, Codex CLI, Gemini CLI, opencode, aider, or any command in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands. Python, MIT.
