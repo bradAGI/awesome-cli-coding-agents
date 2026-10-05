@@ -177,6 +177,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Orca](https://github.com/echoVic/orca-agent)** `⭐ 509` — DeepSeek-native terminal coding agent in Rust with OS-level sandboxing (Seatbelt, bwrap, Landlock+seccomp, fail-closed), persistent goal mode with stall detection, background tasks, JS workflows, folder trust, and 1M-context auto-compaction. Single binary. MIT.
 
+- **[mu](https://github.com/qybaihe/mu)** `⭐ 372` — Coding agent built on Pi with a judgment kernel: a small, fast judge (Jev, a local model, or any LLM) makes the routine calls at 38 decision points (what enters the context, whether a flagged command was asked for, prompt-injection screening, whether "done" was verified), so the main model keeps its attention for the work. Sub-agents, a built-in browser, and a desktop app. npm `mu-agent`. MIT; the desktop app is Apache-2.0.
+
 - **[Coro Code](https://github.com/Blushyes/coro-code)** `⭐ 369` — Open-source CLI coding agent, a free alternative to Claude Code; generate, debug, and manage code seamlessly.
 
 - **[zot](https://github.com/patriceckhart/zot)** `⭐ 349` — Zero-overhead and lightweight coding agent harness with TUI/JSON/RPC modes, structured tools, reviewable file diffs, skills, extensions, and optional guardrails.
