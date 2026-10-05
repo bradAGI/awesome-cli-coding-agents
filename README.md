@@ -117,6 +117,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[OpenSquilla](https://github.com/opensquilla/opensquilla)** `⭐ 7.1k` — Self-hostable microkernel agent runtime with a full CLI (`opensquilla chat` REPL, one-shot agent mode, gateway); autonomous file edits, shell and background processes, git tools, ML-based tier routing, sandboxing (Bubblewrap/Seatbelt), persistent memory, and 20+ providers. Apache-2.0.
 
+- **[ANUS](https://github.com/anus-dev/anus)** `⭐ 6.5k` — Free coding agent: every request goes to the smartest free model that is answering (OpenRouter, Gemini, Groq, Cerebras, Mistral free tiers), and the next one takes over when a model hits its limit. Built on Pi. MIT.
 - **[Kode CLI](https://github.com/shareAI-lab/Kode-cli)** `⭐ 5.2k` — ShareAI's open-source CLI agent for terminal-native coding with multi-provider support.
 
 - **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** `⭐ 5k` `[Mistral]` — Mistral's CLI coding assistant for conversational repo interaction and edits. Apache-2.0.
