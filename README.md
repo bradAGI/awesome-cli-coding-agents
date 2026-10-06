@@ -659,6 +659,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[numbat](https://github.com/perplexityai/numbat)** `⭐ 1.1k` `[Perplexity]` — Endpoint visibility into AI coding agent activity. Local hooks, generated plugins, and OTLP logs feed a CEL rule engine for on-device detection, opt-in pre-action blocking, and forensic reconstruction from on-disk session artifacts. Single Go binary; covers Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI, OpenCode, OpenClaw, Crush, Goose, and 15+ more. Apache-2.0.
 
+- **[ThinkWatch Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite)** `⭐ 1.1k` — Local gateway for coding agents, packaged as a desktop app for macOS, Windows and Linux: Claude Code, Codex, opencode, Aider, Qwen Code, Pi and others are pointed at it once, then upstreams change without editing agent configs. Converts between the Anthropic, OpenAI and Gemini APIs, records each request's route and cost, redacts API keys before requests leave, and cuts off dangerous tool calls mid-stream. The `twcore` gateway also runs headless on a Linux server. MIT.
+
 - **[agent-qa](https://github.com/vostride/agent-qa)** `⭐ 899` — Self-improving QA harness for web and mobile workflows, with a CLI, dashboard, MCP and skills for coding agents, memory-backed self-healing, and sandboxed hooks for setup/teardown. FSL-1.1-ALv2.
 
 - **[HOL Guard](https://github.com/hashgraph-online/hol-guard)** `⭐ 778` — Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Pre-tool hooks, approval center, and supply-chain advisory scanning. Supports Claude Code, Codex, Cursor, Gemini, Copilot CLI, Hermes, and OpenCode.
