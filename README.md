@@ -425,6 +425,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Garcon](https://github.com/cfal/garcon)** `⭐ 91` — Self-hosted browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, files, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0.
 
+- **[Helicon](https://github.com/HarjjotSinghh/helicon)** `⭐ 73` — Desktop and web GUI for Meta's Muse Code CLI: threads from every project in one sidebar, inline diffs, approvals, and cost tracking, plus a VS Code and Cursor extension. Tauri, MIT. Unofficial, not affiliated with Meta.
+
 - **[intentic](https://github.com/intentic/intentic)** `⭐ 68` — Self-hosted workspace that gives each coding agent a persistent sandbox on hardware you own: agents work in real checkouts in their own git worktrees behind PTY terminals, and you approve the riskier calls and read every diff before it lands. A Rust host agent pairs the machine over an outbound-only Cloudflare tunnel, so there are no inbound ports to open; the workspace opens in any browser or the desktop app. Runs Claude Code, Codex, Grok, Kimi Code, and Gemini on your own subscriptions. TypeScript, MIT.
 
 - **[run-kit](https://github.com/sahil87/run-kit)** `⭐ 60` — Remote, phone-first web console for tmux: spawn and watch coding agents in parallel git worktrees, agent-agnostic and no database, with push notifications and local-port proxying to your browser. Go, MIT.
