@@ -159,6 +159,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Maki](https://github.com/tontinton/maki)** `⭐ 1.2k` — Rust TUI coding agent optimized for context-token efficiency: tree-sitter file indexing, a sandboxed `code_execution` tool that chains tool calls without polluting the context window, tree-sitter-parsed permission gating for bash commands, and a memory tool. Extensible via neovim-like Lua plugins; 17+ providers, skills, MCP, ACP, and a Claude Code-compatible headless mode. MIT.
 
+- **[Tianshu Harness](https://github.com/huiliyi37/Tianshu-harness)** `⭐ 1k` — TypeScript coding-agent runtime with one kernel for a terminal TUI and a desktop GUI. The harness externalizes goals, evidence, and completion so a model claim of done is not treated as done, with multi-agent orchestration and prefix-cache-friendly long sessions. Apache-2.0.
+
 - **[hax](https://github.com/OleksandrChekhovskyi/hax)** `⭐ 881` — Minimalist terminal-native coding agent written in C; a single native binary that starts instantly and uses a few MB of RAM, leaving the machine's memory to a local model. First-class llama.cpp support (auto-discovers the served model and its runtime capabilities, no provider config) alongside OpenAI- and Anthropic-compatible endpoints, Codex via a ChatGPT subscription, and OpenRouter; streaming Markdown TUI that preserves native scrollback and a clean one-shot `-p` mode. Linux/macOS/BSD. MIT.
 
 - **[VT Code](https://github.com/vinhnx/vtcode)** `⭐ 866` — Open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. MIT.
