@@ -189,7 +189,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[VibePod](https://github.com/VibePod/vibepod-cli)** `⭐ 175` — Unified CLI for running AI coding agents in isolated Docker containers; zero-config setup, local metrics, HTTP traffic tracking, and an analytics dashboard for side-by-side comparison.
 
-- **[Octomind](https://github.com/Muvon/octomind)** `⭐ 147` — Open-source, model-agnostic AI agent runtime with community tap registry (`developer:rust`, `doctor:blood`, `legal:contracts`), MCP support with runtime self-extension, 13+ providers, and adaptive compression. Written in Rust. Apache-2.0.
+- **[Octomind](https://github.com/muvon/octomind)** `⭐ 149` — Token-efficient, model-agnostic coding agent runtime in one Rust binary: interactive, piped, daemon, WebSocket, or ACP sub-agent. Solved 24/25 real-PR tasks on [octobench](https://github.com/Muvon/octobench) at lower cost than Claude Code and opencode; adaptive cache-aware compaction, guardrails-as-code, MCP-native, shareable specialist taps. Apache-2.0.
 
 - **[cursor-agent](https://github.com/civai-technologies/cursor-agent)** `⭐ 136` — Python-based agent replicating Cursor's coding assistant capabilities; supports Claude, OpenAI, and local Ollama models.
 
