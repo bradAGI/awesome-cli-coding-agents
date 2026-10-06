@@ -605,6 +605,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Team1-Factory](https://github.com/Team1-dev/Team1-Factory)** `⭐ 2` — Unattended GitHub issue-to-merged-PR loop: triage, implement, review, and merge stages run against real issues and pull requests, driving Claude Code sessions with test-gated merges. Runs once or as a long-lived polling service under Docker. Apache-2.0.
 
+- **[brgr](https://github.com/justn-hyeok/brgr)** `⭐ 2` — Herdr plugin that lets a Codex or Claude Code session delegate tasks to other CLI agents (Claude Code, Codex, Gemini CLI, Copilot CLI, OpenCode, Cursor, Pi, and more), each in its own split pane and git worktree, running unattended with full permissions. Results come back sealed for the lead agent to accept or reject. Rust, MIT.
+
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
 ### Agent infrastructure
