@@ -255,6 +255,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[molt](https://github.com/solvyxtech/molt)** `⭐ 1` — Coding agent that won't say done on a false claim. Checks pass on disk (`.molt/done.yml`) or it refuses; receipts for accepts and refusals. Terminal and desktop. OpenAI-compatible or Anthropic. TypeScript, MIT.
 
+- **[SCODE](https://github.com/sidra-ai-development/scode)** `⭐ 0` `[SIDRA AI Development]` — Open-source terminal coding runtime with persistent sessions, file/edit/search/shell tools, MCP support, and cloud or local model providers. Apache-2.0.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
