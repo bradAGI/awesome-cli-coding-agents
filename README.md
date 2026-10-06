@@ -321,6 +321,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Mentat CLI](https://mentat.ai/docs/cli)** `[Mentat]` — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
 
+- **[Muse Code](https://dev.meta.ai/docs/muse-code)** `[Meta]` — Meta's coding agent for the terminal and CI, built for Muse Spark; plans, edits files, and runs commands with approvals and an OS sandbox, interactively with `muse` or headless with `muse exec`.
+
 - **[Yaw](https://yaw.sh)** — Cross-platform terminal that auto-detects CLI coding agents (Claude Code, Codex, Gemini CLI, Vibe CLI) and opens a split-pane workflow.
 
 ---
