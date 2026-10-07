@@ -747,6 +747,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Wit](https://github.com/amaar-mc/wit)** `⭐ 46` — Coordination protocol that prevents merge conflicts between parallel AI agents. Locks specific functions (not files) via Tree-sitter AST parsing; agents declare intents, acquire symbol-level locks, and get conflict warnings before writing code. JSON-RPC daemon. MIT.
 
+- **[AGRO](https://github.com/mifunedev/agro)** `⭐ 40` — Durable Docker workspace for coding agents on your laptop or a remote VM; work continues after the terminal disconnects. The `agro` CLI installs Claude Code, Codex, Pi, OpenCode, T3 Code, and other harnesses on demand, adds Herdr and agent-browser as optional tools, and gives each parallel agent its own git worktree. Apache-2.0.
+
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 37` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
 - **[Loadout](https://github.com/elleryfamilia/loadout)** `⭐ 32` — Adaptive context engine for AI coding agents; detects your stack and equips the right context when you launch `load claude`, `load codex`, `load cursor`. Works with Claude, Codex, Cursor, opencode, and Copilot. Rust, MIT.
