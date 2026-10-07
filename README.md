@@ -401,6 +401,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[ntm](https://github.com/Dicklesworthstone/ntm)** `⭐ 452` — Named Tmux Manager — spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette.
 
+- **[wmux](https://github.com/openwong2kim/wmux)** `⭐ 412` — Desktop workspace for running Claude Code, Codex, Gemini CLI, and other CLI agents side by side on Windows and macOS; fans one prompt into up to 8 tasks, each in its own git worktree, with hunk-level diff adoption, approval gates for agent tool calls, agent-to-agent channels, and a daemon that keeps sessions alive across app quits, crashes, and reboots. Electron, MIT.
+
 - **[Calyx](https://github.com/yuuichieguchi/Calyx)** `⭐ 341` — Native macOS terminal built on libghostty for supervising coding agents in parallel: one approval inbox for Claude Code and Codex permission prompts and Grok and pi tool calls, a working/blocked/idle/done sidebar, in-terminal diff review, and MCP tools for agents. Swift, MIT.
 
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 267` — Execute Claude Code tasks in parallel git worktrees.
