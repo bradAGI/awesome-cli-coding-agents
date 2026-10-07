@@ -501,6 +501,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[VibeFuse](https://fuseintelligence.org/products/vibefuse)** — Free Windows desktop harness that runs Claude Code, Codex, Gemini CLI, Cursor Agent, and Qwen as live PTY widgets on one canvas; named sessions you can park, clone for side-by-side prompt comparison, and restore after a restart with scrollback. On-device voice (whisper.cpp STT + Piper TTS), a built-in MCP tools panel, and a marketplace for AI skills and widgets where sellers keep 80% (Stripe Connect). Closed source; Windows only.
 
+- **[Mobile SSH](https://mobile-ssh.github.io/)** — Android and iOS SSH/SFTP/terminal client for accessing remote CLI coding agents, with multiple SSH sessions, a multi-server tmux session manager, and remote agent-attention alerts. Android (Google Play), iOS (TestFlight beta).
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
