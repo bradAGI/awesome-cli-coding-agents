@@ -411,6 +411,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Tempest](https://github.com/tempestai-dev/tempest)** `⭐ 186` — Tauri agentic development environment running Claude Code, Codex, Gemini, and other CLI agents in parallel; embedded xterm.js terminals, hook-based per-agent status detection, token-usage intelligence, isolated database branches, and multi-agent session management. Apache-2.0.
 
+- **[Codync](https://github.com/leepokai/Codync)** `⭐ 173` — Runs Claude Code, Codex, Gemini, Cursor and other ACP agents as persistent named bots, each with its own folder, agent and approvals; message them from an iPhone app, a desktop app (macOS/Windows/Linux) or a ratatui terminal UI over SSH. Group chats where bots answer in turn, threads, bots asking each other for reviews, push notifications for approvals, end-to-end encrypted relay. Rust host, MIT.
+
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 162` — Terminal UI designed for running multiple coding agents in parallel.
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 159` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
