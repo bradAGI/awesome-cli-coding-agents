@@ -515,6 +515,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Omnigent](https://github.com/omnigent-ai/omnigent)** `⭐ 10.6k` `[Databricks]` — Meta-harness giving one orchestration layer over Claude Code, Codex, Cursor, OpenCode, Hermes, Kiro, and Pi: mix harnesses inside a single session, wrap each agent terminal in a bwrap/seatbelt or cloud sandbox, and enforce approval, spend, and tool policies. YAML-defined agents include a tech-lead orchestrator that delegates to coding sub-agents in parallel git worktrees. Apache-2.0.
 
+- **[Raven](https://github.com/EverMind-AI/Raven)** `⭐ 5.3k` `[EverMind]` — Host agent that plans a complex task as a DAG and runs it across built-in research, coding, design, and on-call agents plus presets for 13 third-party CLI agents (Claude Code, Codex, OpenCode, Qwen Code, Kimi Code, Copilot) over ACP; ships a `raven` CLI, a terminal UI and a WebUI, with cross-session memory and an experimental self-evolution loop that installs only verified changes. Apache-2.0.
+
 - **[Kiro Crew](https://github.com/kirodotdev/KiroCrew)** `⭐ 4.3k` `[AWS]` — Persistent local workspace that drives `kiro-cli` over ACP across concurrent agent sessions: a `kirocrew run TASK.md` task runner with checkpoint resume, `spawn` subagents, cron and webhook-triggered jobs, decaying memory that hardens into reusable skills, and OS-sandboxed tool execution behind approval gates. Apache-2.0.
 
 - **[ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)** `⭐ 3.2k` — Hat-based system maintaining agents in a loop until task completion.
