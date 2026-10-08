@@ -697,6 +697,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[KubeStellar kc-agent](https://github.com/kubestellar/console/tree/main/cmd/kc-agent)** `⭐ 127` — Local Go daemon from the KubeStellar Console that auto-detects installed coding agents (Claude CLI, Codex, Copilot CLI, Gemini CLI, goose) and gives them cluster-aware execution against your kubeconfig contexts — kubectl, Helm, and multi-cluster fan-out. Star count is the parent console repo. Apache-2.0.
 
+- **[aisw](https://github.com/burakdede/aisw)** `⭐ 124` — Rust CLI that saves Claude Code, Codex CLI, Gemini CLI and Antigravity CLI logins as named profiles and switches accounts in one command; contexts switch every agent together and a shell-hook guard refuses to start an agent in a repo bound to another account. Docs at [aiswitcher.dev](https://aiswitcher.dev). MIT.
+
 - **[flameox](https://github.com/morluto/flameox)** `⭐ 116` — Local profiling and runtime-evidence toolkit for coding agents: a CLI plus MCP server that runs named profiling workloads, preserves each profiler's native artifacts with provenance, and compares runs across compiled services, GPU kernels, and inference stacks. Python, MIT.
 
 - **[ax](https://github.com/Necmttn/ax)** `⭐ 116` — Local-first agent telemetry and observability for Claude Code and Codex sessions.
