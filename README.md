@@ -565,6 +565,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[great_cto](https://github.com/avelikiy/great_cto)** `⭐ 103` — Engineering-management layer of 34 specialist AI agents covering the full SDLC (architect, PM, senior-dev, reviewer, QA, security, devops, L3-support + 18 archetype-specific reviewers) with auto-detected archetypes and compliance gates (PCI-DSS, HIPAA, FedRAMP, GDPR, EU AI Act). Runs in Claude Code, Cursor, Codex CLI, Aider, and Continue via AGENTS.md + MCP. MIT.
 
+- **[Crewly](https://github.com/stevehuang0115/crewly)** `⭐ 84` — Runs a team of role-based coding agents (developer, QA, PM, orchestrator) from a `crewly` CLI and web dashboard: task delegation through agent skills, shared persistent memory, live terminal view. Supports Claude Code, Codex, Gemini CLI, and OpenCode. TypeScript, MIT.
+
 - **[OpenCastle](https://github.com/monkilabs/opencastle)** `⭐ 80` — Multi-agent orchestration framework that turns AI coding assistants (Copilot, Cursor, Claude Code, OpenCode, Windsurf, Codex CLI) into 19 coordinated specialist agents. CLI-driven (`npx opencastle init`), with task decomposition, parallel work, and quality gates. MIT.
 
 - **[The Factory](https://github.com/akashgit/remote-factory)** `⭐ 70` — Self-evolving meta-harness for autonomous software dev and research; turns any codebase into an auto-research project, auto-discovers eval dimensions, generates scoring harness, and runs keep/revert experiment loops with monotonic-improvement guards. Multi-contributor. MIT.
