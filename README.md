@@ -443,6 +443,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[agents-cli](https://github.com/phnx-labs/agents-cli)** `⭐ 24` — CLI to install, version-pin, and run many coding-agent harnesses (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Grok); shared skills/MCP/rules, parallel teams in isolated terminals, session index, and SSH fleet dispatch. npm `@phnx-labs/agents-cli`. Apache-2.0.
 
+- **[teebe](https://github.com/klein-t/teebe)** `⭐ 24` — Native macOS app that shows every git worktree across your repos, marks which ones a coding agent (Claude Code, Codex) is working in, and live-diffs the files they change. Sits beside the terminal and watches the agents rather than running them. Swift, GPL-3.0.
+
 - **[repomon](https://github.com/AliHamzaAzam/repomon)** `⭐ 22` — Run a fleet of AI coding agents (Claude Code, Codex, Aider) across many repos, branches, and git worktrees from one tmux-backed terminal. Four-zoom TUI (fleet, split, babysit grid, focus), needs-you triage, durable sessions that survive restarts.
 
 - **[Claudescope](https://github.com/vladar107/claudescope)** `⭐ 20` — Local, read-only CLI that serves a web UI to browse, search, and analyze AI coding-agent transcripts across Claude Code, Codex, Junie, pi, opencode, and Copilot CLI — sessions merged by working directory, with full-text search and token-cost analytics. npm, cross-platform. MIT.
