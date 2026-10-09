@@ -983,6 +983,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[whatileaked](https://github.com/selan-ai/whatileaked)** `⭐ 8` — Scans local Claude Code, Codex, Cursor and opencode transcripts for credentials already sent to the model, using the gitleaks rule set. No network, zero dependencies. npm `whatileaked`. MIT.
 
+- **[Ultra Mod](https://github.com/mertkayacs/ultramod)** `⭐ 8` — All-in-one mod pack for Claude Code: a usage limits and context HUD, a guard with undo for rm -rf and git reset --hard, .env and secret protection, and a receipt for every turn. Needs Claude Code 2.1.287 or later. MIT.
+
 - **[Terminai](https://github.com/emosenkis/terminai)** `⭐ 7` — Makes your terminal of choice AI-enabled using your favorite CLI coding agent. Completely transparent until you activate the AI with Ctrl-Space, then runs your agent in an overlay with access to your terminal.
 
 - **[House Party Protocol](https://github.com/rusharlabs/house-party-protocol)** `⭐ 7` — Local-first harness for coding-agent teams on Claude Code and Codex CLI that sits under whatever orchestrates the agents: `hpp` records the criterion command's exit code outside the model and hashes its artifacts, refuses a verdict from the builder's own lane or model family, binds approvals to the bytes they approved, and derives lane liveness from heartbeats so a dead lane never collides with a live one; its refusals exit non-zero. Standard-library Python, no model calls. MIT.
