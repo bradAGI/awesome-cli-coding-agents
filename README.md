@@ -861,6 +861,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[isitdone](https://github.com/raimondasl/isitdone)** `⭐ 1` — Stop hook and CLI that blocks a coding agent's "done" until the repo's real test, typecheck and lint commands pass on the exact working tree; scans the diff for weakened tests and leaves a git-bound PASS/FAIL/STALE receipt. One `init` command per host for Claude Code, Codex CLI, Cursor, Gemini CLI, Copilot CLI, Qwen Code, Goose, Droid, Devin, Auggie, OpenCode and Junie, plus an MCP server for agents without hooks. Zero LLM calls, zero dependencies. npm `isitdone`. MIT.
 
+- **[Mudroom](https://github.com/Kernel-Hunter/mudroom)** `⭐ 0` — macOS app and CLI that runs Claude Code, Codex, Gemini CLI, Aider, opencode or any command in an Apple `container` Linux micro-VM on an APFS copy-on-write clone of your project, behind a network allowlist proxy. You review the diff like a pull request and apply it per file or per hunk, with undo. Swift, MIT.
+
 - **[Agent Fleet](https://woodor.ai/agent-fleet/)** — Messaging layer for coding-agent sessions: every live Claude Code or Codex session takes a `name@project` address, and sessions exchange messages and files on one machine, across a LAN, or across networks. Also does remote session lifecycle control — compact, clear, handoff, restart. Native on macOS, Windows (x64 and arm64), and Linux x64, with no WSL or tmux. Closed source; free on a local network, paid cloud relay.
 
 ---
