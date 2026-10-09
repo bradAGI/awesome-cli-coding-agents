@@ -831,6 +831,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Project Tiny Context Harness](https://github.com/Seven128/project-tiny-context-harness)** `⭐ 4` — Minimal repo-native project memory for CLI coding agents. Installs `AGENTS.md`, `project_context/**`, role Skills, and a `validate-context` gate so Codex, Claude Code, Cursor, Gemini CLI, OpenCode, and similar agents can recover project intent, boundaries, and validation paths across fresh sessions. MIT.
 
+- **[yoink](https://github.com/MajidRaimi/yoink)** `⭐ 4` - Switches Claude Code, Codex, Kimi Code, Gemini and Copilot subscription logins, and writes one API-key provider (OpenAI, OpenRouter, DeepSeek, Ollama or any compatible endpoint) into the config files of 13 harnesses including pi, opencode, codex, Qwen Code and Droid.
+
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 3` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
 - **[Weaver](https://github.com/sean35mm/weaver)** `⭐ 3` — Local coordination layer for multiple coding agents working in the same repo. Agents announce tasks, claim paths/globs, check overlaps, and leave repo-local notes through a shared SQLite store. MIT.
