@@ -425,6 +425,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Garcon](https://github.com/cfal/garcon)** `⭐ 91` — Self-hosted browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, files, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0.
 
+- **[ReevesAgents](https://github.com/mertkayacs/reevesagents)** `⭐ 88` - Local workspace that runs coding CLIs (Claude Code, Codex, OpenCode, Hermes, Kimi, DeepSeek, Qwen, Pi, Aider, and more) side by side in tmux, driven from a TUI, a loopback Web UI, or a scriptable CLI. An opt-in MCP server (`reevesagents mcp`) lets one agent spawn, read, steer, and stop the others. TypeScript, Apache-2.0.
+
 - **[intentic](https://github.com/intentic/intentic)** `⭐ 68` — Self-hosted workspace that gives each coding agent a persistent sandbox on hardware you own: agents work in real checkouts in their own git worktrees behind PTY terminals, and you approve the riskier calls and read every diff before it lands. A Rust host agent pairs the machine over an outbound-only Cloudflare tunnel, so there are no inbound ports to open; the workspace opens in any browser or the desktop app. Runs Claude Code, Codex, Grok, Kimi Code, and Gemini on your own subscriptions. TypeScript, MIT.
 
 - **[run-kit](https://github.com/sahil87/run-kit)** `⭐ 60` — Remote, phone-first web console for tmux: spawn and watch coding agents in parallel git worktrees, agent-agnostic and no database, with push notifications and local-port proxying to your browser. Go, MIT.
