@@ -991,6 +991,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[saver-audit](https://github.com/VladUZH/saver-audit)** `⭐ 2` — Offline cost audit for Claude Code and Codex session logs: prices tokens with prompt-cache reads and writes, then replays recorded tool output through the token savers installed locally (rtk, headroom, lean-ctx, token-saver, caveman) to show what each would cut. Each saver result is labeled replayed, modeled or upper bound. `npx saver-audit`. MIT.
 
+- **[Ultra Mod](https://github.com/mertkayacs/ultramod)** `⭐ 2` - All-in-one mod pack for Claude Code: a usage limits and context HUD, a guard with undo for rm -rf and git reset --hard, .env and secret protection, and a receipt for every turn. Needs Claude Code 2.1.287 or later. MIT.
+
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
 
 - **[llm-panel](https://github.com/musharna/llm-panel)** `⭐ 1` — Put one question or diff to several LLM CLIs in parallel (codex, claude, opencode/OpenRouter, ollama); every answer shown in full, an anonymized rebuttal round, cost accounting, a GitHub Action, and a measured miss rate on AACR-Bench. Python, PyPI `llm-panel`. MIT.
