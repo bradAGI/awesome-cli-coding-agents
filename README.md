@@ -441,6 +441,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Superagent](https://github.com/pungme/superagent-desktop)** `⭐ 29` — macOS desktop client for Claude Code and Codex: gives the agent a real browser it can navigate and drive, an iOS Simulator window for installing and screenshotting apps, and a phone companion app for remote monitoring over an end-to-end encrypted relay. Electron, SwiftUI, and a Cloudflare Worker relay. MIT.
 
+- **[nsq](https://github.com/glmn-ai/neurosquad-cli)** `⭐ 27` — Runs Claude Code, Codex, OpenCode, or any command side by side in one terminal; status comes from each CLI's own hooks (working / needs you, with the question / finished), so a permission prompt can be answered y/a/n without opening the agent. A daemon keeps agents alive when the terminal closes; worktree per agent, exact cost per agent, OpenRouter and your own model servers (llama.cpp, Ollama, LM Studio, vLLM). No account, no telemetry. `npx neurosquad`. MIT.
+
 - **[agents-cli](https://github.com/phnx-labs/agents-cli)** `⭐ 24` — CLI to install, version-pin, and run many coding-agent harnesses (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Grok); shared skills/MCP/rules, parallel teams in isolated terminals, session index, and SSH fleet dispatch. npm `@phnx-labs/agents-cli`. Apache-2.0.
 
 - **[repomon](https://github.com/AliHamzaAzam/repomon)** `⭐ 22` — Run a fleet of AI coding agents (Claude Code, Codex, Aider) across many repos, branches, and git worktrees from one tmux-backed terminal. Four-zoom TUI (fleet, split, babysit grid, focus), needs-you triage, durable sessions that survive restarts.
