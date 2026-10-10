@@ -457,6 +457,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[pi-boss](https://github.com/skyfallsin/pi-boss)** `⭐ 12` — Multi-agent orchestration for the Pi coding agent; spawns sub-agents in visible tmux panes with task delegation, monitoring, and coordination. MIT.
 
+- **[AgentTerm](https://github.com/albertwujj/agent-term)** `⭐ 12` — Visual desktop terminal for macOS and Windows/WSL that runs Claude Code, Codex, Cursor CLI and other AI CLIs unmodified, each session in its own OS window with a distinct Dock tile or taskbar button. Adds prompt search to resume closed sessions, comments on selected output, markdown plans rendered as pages with threaded comments, curated code reviews with inline feedback, a phone view of the same terminal, click-to-line navigation in JetBrains IDEs, and more. Electron, MIT.
+
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 11` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
 - **[cliclaw](https://github.com/choiyounggi/cliclaw)** `⭐ 8` — macOS daemon to drive Claude Code, Codex, Gemini, and Pi from Telegram — an independent session per chat, a confirm gate for dangerous commands (bash/git/cloud deletes), and secret auto-masking. npm `@younggichoi/cliclaw`, TypeScript/Bun. MIT.
