@@ -747,6 +747,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Wit](https://github.com/amaar-mc/wit)** `⭐ 46` — Coordination protocol that prevents merge conflicts between parallel AI agents. Locks specific functions (not files) via Tree-sitter AST parsing; agents declare intents, acquire symbol-level locks, and get conflict warnings before writing code. JSON-RPC daemon. MIT.
 
+- **[ContextStream](https://github.com/contextstream/mcp-server)** `⭐ 44` — Shared project context for terminal coding agents: an MCP server plus `contextstream-hook` CLI that gives Claude Code, Codex, Cursor, and other MCP clients the same searchable decisions, lessons, and code index across sessions and tools. Hosted (`io.contextstream/mcp`) or `npx @contextstream/mcp-server`. MIT.
+
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 37` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
 - **[Loadout](https://github.com/elleryfamilia/loadout)** `⭐ 32` — Adaptive context engine for AI coding agents; detects your stack and equips the right context when you launch `load claude`, `load codex`, `load cursor`. Works with Claude, Codex, Cursor, opencode, and Copilot. Rust, MIT.
