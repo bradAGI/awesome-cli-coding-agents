@@ -307,6 +307,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[FetchCoder](https://github.com/fetchai/fetchcoder-releases)** `⭐ 2` `[Fetch.ai]` — Terminal coding agent powered by ASI1, with interactive TUI, CLI, and API server modes plus MCP integration.
 
+- **[Memdoor](https://github.com/guregodevo/memdoor)** `⭐ 2` — Go terminal coding agent on your own API key or a ChatGPT plan. Describe the steps and it writes them as a workflow run as a graph: a step is done only when its file exists or its command exits 0, with approval gates and resume; a decision model in front of the chat model cuts input tokens (26–49% measured). Apache-2.0.
+
 - **[Amp](https://sourcegraph.com/amp)** `[Sourcegraph]` — Sourcegraph's AI coding agent with a CLI for implementing tasks across real codebases.
 
 - **[Junie CLI](https://junie.jetbrains.com)** `[JetBrains]` — JetBrains' LLM-agnostic CLI coding agent (EAP); supports GPT-5, Claude, Gemini, Grok with plan mode and CI/CD headless usage.
