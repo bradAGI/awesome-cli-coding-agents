@@ -155,6 +155,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Neovate Code](https://github.com/neovateai/neovate-code)** `⭐ 1.6k` `[Ant Group]` — Ant Group's CLI agent with plugin system, multi-model/multi-provider support, MCP integrations, and headless automation mode. MIT.
 
+- **[Empryo](https://github.com/proxysoul/Empryo)** `⭐ 1.4k` — Coding harness that maps the repo before it edits (tree-sitter symbols, import graph, git co-change) and edits by symbol through AST and LSP instead of find and replace, then runs typecheck, lint and tests. Terminal UI, desktop app and headless CLI share one engine and session; many providers or ChatGPT/Copilot/Gemini plan sign-in, per-task model routing, parallel subagents, MCP and skills. Source-available (BUSL-1.1).
+
 - **[Ouroboros](https://github.com/razzant/ouroboros)** `⭐ 1.4k` — Self-evolving general agent with durable memory and identity across restarts; coordinates a subagent swarm and can rewrite its own implementation behind a review gate. Native desktop app or headless `ouroboros run/tasks/chat/logs/evolve` against a local gateway. Python, MIT.
 
 - **[Maki](https://github.com/tontinton/maki)** `⭐ 1.2k` — Rust TUI coding agent optimized for context-token efficiency: tree-sitter file indexing, a sandboxed `code_execution` tool that chains tool calls without polluting the context window, tree-sitter-parsed permission gating for bash commands, and a memory tool. Extensible via neovim-like Lua plugins; 17+ providers, skills, MCP, ACP, and a Claude Code-compatible headless mode. MIT.
