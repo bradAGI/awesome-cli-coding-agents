@@ -237,6 +237,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 10` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
 
+- **[slash-agent](https://github.com/akatzmann/slash-agent)** `⭐ 10` — Zero-overhead terminal copilot integrated into active Bash/Zsh/Fish shells; captures tmux/history scrollback to diagnose errors, runs commands via interactive PTY bridge with shell state sync (`cd`/`export`), and supports local Ollama/OpenAI via [py-agent-core](https://github.com/akatzmann/py-agent-core). MIT.
+
 - **[Forge (Norvia Labs)](https://github.com/NorviaLabs/forge)** `⭐ 8` — Rust TUI coding agent unifying an AI agent, a vim-style code editor, and a shell in one keyboard-driven workspace; approval-aware command execution, durable SQLite session journal, and MCP server support. MIT.
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 6` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
