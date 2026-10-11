@@ -449,11 +449,11 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[construct](https://github.com/construct-worlds/construct)** `⭐ 18` — Terminal-native agentic development environment: fleet TUI for coding agent CLIs (Codex, Claude Code, Antigravity, Grok) with fork/merge, collaborative Program Markdown orchestration, generative widgets, agent-to-agent orchestration. Single Rust binary.
 
+- **[Caprock](https://github.com/dspv/caprock)** `⭐ 17` — Desktop app (macOS, Windows, Linux) that runs Claude Code, Codex, OpenCode and Gemini CLI in tabs and split panes across projects and worktrees. Picks up sessions started in your own terminal, shows token cost per repository, live Claude and Codex plan limits, loop alerts and history kept past Claude Code's 30-day cleanup; a paired phone answers prompts over your Wi-Fi or Tailscale. Local-only, no account, no telemetry. Apache-2.0.
+
 - **[Podiom](https://github.com/Podiom/Podiom)** `⭐ 15` — Self-hosted control plane for local Claude Code and Codex CLI agents: durable named agents whose chat sessions replay onto a fresh backing CLI session across provider/profile switches, a shared project ledger, an embedded scheduler, and autonomous goals. Single Go binary with an embedded Svelte web UI, no cloud dependency. MIT.
 
 - **[CLITrigger](https://github.com/HyperAITeam/CLITrigger)** `⭐ 14` — Self-hosted web UI for orchestrating Claude Code, Codex, and Gemini CLIs in parallel git worktrees. Features multi-agent discussion mode (architect/developer/reviewer debate before implementation), cross-project Morning Review Queue, scheduled execution with rate-limit auto-recovery, and a built-in Git client. MIT.
-
-- **[Caprock](https://github.com/dspv/caprock)** `⭐ 14` — Local mission control for Claude Code, Codex, OpenCode and Gemini CLI: one Go binary with a loopback dashboard that picks up sessions you start yourself, starts new ones and types into them, and shows live activity, token cost per repository and searchable history. Local-only, no telemetry. Apache-2.0.
 
 - **[Polter](https://github.com/Lugia123/polter)** `⭐ 13` — Ghostty fork in which one AI CLI leads a team of the others: the lead session reads the text on the other tabs, types into them, opens new tabs, and is notified when a session goes quiet. Per-plugin provisioning for Claude Code, Codex, Gemini, Kimi, opencode, Qwen, and DeepSeek. Fully offline, no account. Zig, MIT.
 
