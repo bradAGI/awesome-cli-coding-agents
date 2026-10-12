@@ -323,6 +323,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Yaw](https://yaw.sh)** — Cross-platform terminal that auto-detects CLI coding agents (Claude Code, Codex, Gemini CLI, Vibe CLI) and opens a split-pane workflow.
 
+- **[agnt](https://github.com/mozzarellabio/agnt)** `⭐ 0` — Terminal coding agent that runs teams of agents in parallel (architect, coder, reviewer, tester) on any model: Anthropic, OpenAI, Gemini, DeepSeek, Groq, xAI, Mistral, OpenRouter, Ollama and LM Studio. Plan/ask/auto/free modes, undo and rewind, git worktrees, MCP and plugins. Single binary for Linux and Windows, free.
+
 ---
 
 ## Harnesses & orchestration
