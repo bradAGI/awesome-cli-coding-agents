@@ -849,6 +849,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Squelette](https://github.com/JyMinet/squelette)** `⭐ 2` — Governance layer for CLI coding agents (Claude Code, Codex): human decisions and allowed scope recorded before work, a pre-commit gate that refuses out-of-scope changes, and closure only on checked proof. MIT.
 
+- **[unsent](https://github.com/GeiserX/unsent)** `⭐ 2` — Saves the message you have typed and not sent yet in a coding agent's input box (Claude Code, Codex, pi, agy), so a crash, a closed window or a reboot doesn't lose the prompt. The draft goes back into the box when you reopen its Claude Code, Codex or agy conversation. Go, GPL-3.0.
+
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
