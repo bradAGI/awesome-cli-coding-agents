@@ -223,6 +223,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Zap](https://github.com/zap-coding-agent/zap-coding-agent)** `⭐ 36` — Skill-first Rust TUI coding agent that injects only the context your task needs — no system prompt bloat. Single binary, no runtime. Supports Claude, Gemini, OpenAI, and local models via LM Studio; code-indexed via SQLite for fast symbol lookup; MCP support. MIT.
 
+- **[opencode-rust](https://github.com/vakandi/opencode-rust)** `⭐ 36` — The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents, no Docker required; 21 crates, 571 tests. npm `opencode-rust`, or `brew install vakandi/tap/opencode-rust` for the `opr` binary. Independent Rust implementation of opencode, not affiliated with the OpenCode team. MIT.
+
 - **[Nausicaa](https://github.com/jackispm/nausicaa-harness)** `⭐ 33` — TypeScript CLI/runtime for general-purpose agent tasks with addressable Lanes, an optional Teto observer lane, durable Run ledgers, daemon/worker lifecycle, and cross-Run A2A. npm `nausicaa-harness`, MIT.
 
 - **[Grinta](https://github.com/josephsenior/Grinta-Coding-Agent)** `⭐ 31` — Local-first, provider-agnostic terminal coding agent built for long-horizon autonomous execution; durable state and recovery, context management, structured tool orchestration, LSP/DAP integration, and validation-gated completion. Python, MIT.
