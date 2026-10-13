@@ -607,6 +607,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
+- **[AIWorks](https://github.com/netbka/aiworks)** `⭐ 0` — Unattended manager for Claude Code, Codex and Cursor on your own PC: runs an agreed plan step by step in isolated worktrees, has a separate AI session verify each result, and delivers pull requests to GitHub; survives crashes, restarts and usage limits and asks the owner only for real decisions. In its first day it produced 63 checked PRs and wrote 53% of its own code. Node.js, Windows only, MIT.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
