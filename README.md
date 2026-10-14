@@ -737,6 +737,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[FireConnect](https://github.com/fw-ai/fireconnect)** `⭐ 55` `[Fireworks AI]` — CLI that points existing coding agents at Fireworks models by rewriting each harness's own config; `on`/`off` per harness with byte-for-byte restore, per-slot model mapping, and a FireRouter option. Supports Claude Code, Codex, OpenCode, Pi, Cursor, VS Code Chat, and Deep Agents. Apache-2.0.
 
+- **[clausona](https://github.com/larcane97/clausona)** `⭐ 52` — CLI and TUI for multiple Claude Code and Codex CLI accounts on one machine. Skills, hooks, plugins and settings stay shared, and with shared history `claude --continue` picks up a conversation under another account. Dynamic routing starts each run on an account with 5-hour and weekly quota left, and an Extensions screen manages every account's skills, MCP servers and hooks. Lightweight: a shell hook and symlinks, no daemon or proxy. Fleet plugins spread parallel agents across those accounts, or API models such as DeepSeek, in Orca, Superset or herdr. MIT.
+
 - **[pi-reflect](https://github.com/jo-inc/pi-reflect)** `⭐ 51` — Self-improving behavioral files for coding agents; automated self-reviews that evolve AGENTS.md rules from actual mistakes. MIT.
 
 - **[pi-reflect](https://github.com/jo-inc/pi-reflect)** `⭐ 51` — Self-improving behavioral files for coding agents; automated self-reviews that evolve AGENTS.md rules from actual mistakes. MIT.
