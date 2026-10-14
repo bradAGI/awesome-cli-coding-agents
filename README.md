@@ -501,6 +501,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[VibeFuse](https://fuseintelligence.org/products/vibefuse)** — Free Windows desktop harness that runs Claude Code, Codex, Gemini CLI, Cursor Agent, and Qwen as live PTY widgets on one canvas; named sessions you can park, clone for side-by-side prompt comparison, and restore after a restart with scrollback. On-device voice (whisper.cpp STT + Piper TTS), a built-in MCP tools panel, and a marketplace for AI skills and widgets where sellers keep 80% (Stripe Connect). Closed source; Windows only.
 
+- **[Overboard](https://tryoverboard.com/?utm_source=awesome-cli-coding-agents&utm_medium=directory)** — Native macOS app that runs Claude Code sessions unattended on your own Mac: per-project standing orders (daily, weekly, or every N hours) that each fire a real Claude Code session in the project folder, one-off tasks texted from Telegram or Slack, and per-department "captains" that review recent runs and decide what runs next. Runs on your existing Claude plan, no cloud; keep-awake menu for overnight runs. Companion [Claude Code plugin](https://github.com/mrieck/overboard-plugin) is MIT. Closed source; $49 one-time, 14-day trial.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
