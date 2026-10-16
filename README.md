@@ -323,6 +323,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Yaw](https://yaw.sh)** — Cross-platform terminal that auto-detects CLI coding agents (Claude Code, Codex, Gemini CLI, Vibe CLI) and opens a split-pane workflow.
 
+- **[Tempr CLI](https://temprhq.io/cli)** `[Tempr]` — Terminal coding agent on your own provider keys: interactive, piped into scripts, in CI, and in Zed through ACP, under the same budgets and guardrails as the Tempr gateway.
+
 ---
 
 ## Harnesses & orchestration
