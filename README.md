@@ -227,6 +227,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Grinta](https://github.com/josephsenior/Grinta-Coding-Agent)** `⭐ 31` — Local-first, provider-agnostic terminal coding agent built for long-horizon autonomous execution; durable state and recovery, context management, structured tool orchestration, LSP/DAP integration, and validation-gated completion. Python, MIT.
 
+- **[Hazzel](https://github.com/mukundzha/hazzel)** `⭐ 28` — Approval-first Python coding agent where lookup-shaped asks ("find all *.py files") are answered locally with no model round trip, and `/usage`/`/budget` report provider-billed dollars rather than estimates. Every write is a diff you approve, and `/undo` reverts only the agent's hunks while keeping edits you made afterwards. ~10k lines readable end to end, 8 bring-your-own-key providers including Ollama, MCP client, Apache-2.0.
+
 - **[Kolega Code](https://github.com/kolega-ai/kolega-code)** `⭐ 21` — Python terminal coding agent where the model writes its own multi-agent workflows (Gigacode): the runtime enforces concurrency caps and token budgets, journals every completed agent call to disk, and replays unchanged calls for free on resume. 15+ providers, MCP over stdio/SSE/streamable HTTP, ACP, sandboxed shell and filesystem tools, git worktrees, and a browser agent. Source-available (BUSL-1.1).
 
 - **[OB-1](https://github.com/Overbrilliant/ob-1)** `⭐ 20` — Terminal coding agent that runs with no account, API key, or card against a free-model catalog. Persistent project memory builds a fact and relationship graph from real work and surfaces it with `/memory`. npm `ob1`. Apache-2.0.
