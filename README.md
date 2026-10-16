@@ -221,6 +221,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[QQCode](https://github.com/qnguyen3/qqcode)** `⭐ 53` — Lightweight CLI coding agent in Rust focused on speed, determinism, and developer control; supports skills.
 
+- **[AgenC Core](https://github.com/tetsuo-ai/agenc-core)** `⭐ 38` - Open source terminal coding agent that works with any model provider, including local models through Ollama and LM Studio. TUI, headless mode, background agents, MCP. 76.2% on Terminal-Bench 2.1 for $34 with DeepSeek V4.1 Flash. MIT.
+
 - **[Zap](https://github.com/zap-coding-agent/zap-coding-agent)** `⭐ 36` — Skill-first Rust TUI coding agent that injects only the context your task needs — no system prompt bloat. Single binary, no runtime. Supports Claude, Gemini, OpenAI, and local models via LM Studio; code-indexed via SQLite for fast symbol lookup; MCP support. MIT.
 
 - **[Nausicaa](https://github.com/jackispm/nausicaa-harness)** `⭐ 33` — TypeScript CLI/runtime for general-purpose agent tasks with addressable Lanes, an optional Teto observer lane, durable Run ledgers, daemon/worker lifecycle, and cross-Run A2A. npm `nausicaa-harness`, MIT.
