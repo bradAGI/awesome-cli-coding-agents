@@ -191,6 +191,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Octomind](https://github.com/Muvon/octomind)** `⭐ 161` — Open-source, model-agnostic AI agent runtime with community tap registry (`developer:rust`, `doctor:blood`, `legal:contracts`), MCP support with runtime self-extension, 13+ providers, and adaptive compression. Written in Rust. Apache-2.0.
 
+- **[Mixdog](https://github.com/tribgames/mixdog)** `⭐ 139` — Desktop app and terminal coding agent (`npm install -g mixdog`) that runs on an existing Claude or ChatGPT subscription and keeps per-turn context small: tools and skills load on demand and long outputs are offloaded to files. On Terminal-Bench 2.1 with GPT-6.1, about the same score as Codex CLI at ~55% lower cost and ~68% smaller context; logs in repo. Apache-2.0.
+
 - **[cursor-agent](https://github.com/civai-technologies/cursor-agent)** `⭐ 135` — Python-based agent replicating Cursor's coding assistant capabilities; supports Claude, OpenAI, and local Ollama models.
 
 - **[Waveloom](https://github.com/Menfre01/waveloom)** `⭐ 134` — Go terminal-native coding agent with Bubble Tea TUI; DeepSeek V4 prompt caching for long-context efficiency; Claude Code-compatible UX with skill/MCP auto-discovery; four-tier context compaction, three subagent modes (Fork/Cold/Explore), permission engine, and plan mode. Single ~19 MB binary, zero runtime deps. Apache-2.0.
