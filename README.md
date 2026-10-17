@@ -863,6 +863,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Agent Fleet](https://woodor.ai/agent-fleet/)** — Messaging layer for coding-agent sessions: every live Claude Code or Codex session takes a `name@project` address, and sessions exchange messages and files on one machine, across a LAN, or across networks. Also does remote session lifecycle control — compact, clear, handoff, restart. Native on macOS, Windows (x64 and arm64), and Linux x64, with no WSL or tmux. Closed source; free on a local network, paid cloud relay.
 
+- **[Aident Loadout](https://aident.ai)** — Hosted MCP server plus the `aident` CLI (npm `@aident-ai/cli`) that gives Claude Code, Codex, Cursor, OpenCode and other coding agents connected apps and 400+ Skills through one setup. OAuth tokens and API keys stay in a vault the model never sees, each action shows its cost before it runs, and an audit log records what ran and from which agent. Hosted service is closed source with a free pay-as-you-go tier; the client skill ([aident-skill](https://github.com/Aident-AI/aident-skill)) is MIT.
+
 ---
 
 ## Contributing
