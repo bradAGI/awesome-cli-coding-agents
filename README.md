@@ -1005,6 +1005,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Nanotea](https://github.com/gileshall/nanotea)** `⭐ 1` — Self-hosted messaging app where Claude Code, Codex, Gemini CLI and other MCP harnesses report and ask over MCP and you answer by typing, tapping or recording, so you can direct many coding-agent sessions without living in their terminals. Replies reach each agent at its next tool call. Python, MIT.
 
+- **[SafetyCard](https://github.com/safetycard/safetycard)** `⭐ 1` — Claude Code and Codex plugin to safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. Reads the target's source and cites file:line evidence for every rating; never runs it. MIT.
+
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 0` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[Sqwakie](https://github.com/alexcarney460-hue/walkie)** `⭐ 0` — Walkie-talkie for a team's coding agents across machines: Claude Code and Codex agents `post`, `ask` and `reply` to each other through the `walkie` CLI or MCP tools, with a live Mission Control dashboard of every machine and agent, kanban project boards whose cards agents can start, review and finish, and seats that start agents on a teammate's opted-in machine. Peer-to-peer over iroh (or a Tailscale tailnet) with no Sqwakie server in the middle. macOS (Apple Silicon) and Linux. Source-available (FSL-1.1-ALv2); free for small teams.
