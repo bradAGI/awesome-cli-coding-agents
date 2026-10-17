@@ -485,6 +485,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
 
+- **[Sqwakie](https://github.com/alexcarney460-hue/walkie)** `⭐ 0` — Walkie-talkie for a team's coding agents across machines: Claude Code and Codex agents `post`, `ask` and `reply` to each other through the `walkie` CLI or MCP tools, with a live Mission Control dashboard of every machine and agent, kanban project boards whose cards agents can start, review and finish, and seats that start agents on a teammate's opted-in machine. Peer-to-peer over iroh (or a Tailscale tailnet) with no Sqwakie server in the middle. macOS (Apple Silicon) and Linux. FSL-1.1-ALv2; free for small teams.
+
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
 - **[Bwee](https://bwee.app)** — Desktop app for CLI coding agents where users build their own views (BYOUI) — custom tools and dashboards that live alongside the terminal. Persistent sessions and task management. macOS.
