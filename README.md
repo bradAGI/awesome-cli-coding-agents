@@ -991,6 +991,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[saver-audit](https://github.com/VladUZH/saver-audit)** `⭐ 2` — Offline cost audit for Claude Code and Codex session logs: prices tokens with prompt-cache reads and writes, then replays recorded tool output through the token savers installed locally (rtk, headroom, lean-ctx, token-saver, caveman) to show what each would cut. Each saver result is labeled replayed, modeled or upper bound. `npx saver-audit`. MIT.
 
+- **[agentvcr](https://github.com/tojacob03/agentvcr)** `⭐ 2` — Turns Claude Code, Codex, Cursor, Gemini CLI, Qwen Code, Cline, Aider and OpenCode session logs into one self-contained HTML replay (scrubbable timeline, diffs, terminal output, links to moments). Share it as a link via a secret gist on your own GitHub, comment it on agent PRs with a GitHub Action, or export Markdown or a GIF clip. Secrets are masked locally; zero dependencies. npm `agentvcr-cli`. MIT.
+
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
 
 - **[llm-panel](https://github.com/musharna/llm-panel)** `⭐ 1` — Put one question or diff to several LLM CLIs in parallel (codex, claude, opencode/OpenRouter, ollama); every answer shown in full, an anonymized rebuttal round, cost accounting, a GitHub Action, and a measured miss rate on AACR-Bench. Python, PyPI `llm-panel`. MIT.
