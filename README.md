@@ -293,6 +293,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LocalCodeForge](https://github.com/BMDPLAinsong/LocalCodeForge)** `⭐ 0` — C#/.NET local coding agent kernel running a 30B Qwen3-Coder via Ollama with no cloud: injects the real symbol table (type inventories, member signatures, access modifiers) before generation, guards against type conflicts before writing, runs a closed plan → write → build → locate → fix → run loop, and rolls back to task-isolated backups on repeated failure. CLI plus a web dashboard with live task stream and backup diff. MIT.
 
+- **[YottaCode](https://github.com/yottadynamics/yottacode)** `⭐ 7` — Sovereign, local-first terminal AI coding agent with approval gates, model-agnostic support (including local Ollama), advanced layered memory, and real GitHub workflows. Built for developers and teams who want agent leverage without giving up control of code, models, permissions, or data. MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
