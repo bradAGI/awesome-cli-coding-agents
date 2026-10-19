@@ -881,6 +881,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 30` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
 
+- **[Bulchimbeon](https://github.com/s3onghyun/bulchimbeon)** `⭐ 30` — macOS menu bar app (plus a Go daemon and CLI for Linux) that keeps the machine awake only while Claude Code, Codex, Gemini CLI, Cursor Agent, Copilot CLI, Aider or OpenCode are actually working, then lets it sleep again; detects agents by watching processes, with no hooks or agent config changes. Optional lid-closed mode, battery and thermal stand-down. MIT.
+
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 29` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
 
 - **[Mneme](https://github.com/MnemeHQ/mneme)** `⭐ 28` — Turns architectural decisions and ADRs into deterministic guardrails for coding agents: records decisions in an auditable corpus, retrieves the relevant ones when an agent needs guidance, enforces governed rules at the earliest boundary each workflow exposes, and audits the mutation paths it cannot block. Python, MIT.
