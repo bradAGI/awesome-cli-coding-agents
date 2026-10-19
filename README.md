@@ -713,6 +713,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
 
+- **[Coterie](https://github.com/ASIXicle/Coterie)** `⭐ 0` — Self-hosted team of persistent Claude Code agents on one Debian host: each runs in its own Unix account and terminal, boots from a shared MCP memory server (identity, team state and unread mail, with a hashed manifest of what it was sent), and gets maildir mail that rings its terminal when idle. A browser page shows every agent's pane, and a weekly scan checks each agent's hooks and CLAUDE.md against approved hashes. Python and shell, Apache-2.0.
+
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
 
 ### Agent infrastructure
