@@ -559,6 +559,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Peekumi](https://github.com/tee-jagz/peekumi)** `⭐ 1` — Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code. A self-hosted server sends your instructions to the agents as tasks in separate Git worktrees, and you review, approve and merge their changes from a phone. Rust, Apache-2.0.
 
+- **[Switchdesk](https://github.com/SlaterMarketing/switchdesk)** `⭐ 1` — Free desktop editor for Claude Code, Codex, Copilot, Cursor, Gemini, Kimi, Qwen and DeepSeek, each run through its own CLI. Switch agents mid-chat, run several in parallel worktrees on a board, compare their results and review every change inline. Windows, macOS and Linux. MIT.
+
 - **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 0` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
