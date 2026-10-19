@@ -811,6 +811,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[agenttrace](https://github.com/luoyuctl/agenttrace)** `⭐ 147` — Local-first Bubble Tea TUI for inspecting Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, Hermes, OpenCode, Kimi, and Copilot-style session logs; surfaces cost, cache usage, failures, latency, anomalies, health gates, and diffs.
 
+- **[Tracekit](https://github.com/Cygnux-Labs/Tracekit)** `⭐ 137` — Hooks for Claude Code, Codex CLI, Cursor and Gemini CLI that send each tool call to a local signer before it runs; the signer allows it, blocks it or holds it for your approval, and signs it into a hash-chained log that `tracekit verify` checks offline. `tracekit init --dev --v2` sets it up. Dev mode runs the signer as you; tamper resistance needs it under another user, in a container or on another host. Python, MIT.
+
 - **[aisw](https://github.com/burakdede/aisw)** `⭐ 132` — Rust CLI that saves Claude Code, Codex CLI, Gemini CLI and Antigravity CLI logins as named profiles and switches accounts in one command; contexts switch every agent together and a shell-hook guard refuses to start an agent in a repo bound to another account. MIT.
 
 - **[KubeStellar kc-agent](https://github.com/kubestellar/console/tree/main/cmd/kc-agent)** `⭐ 127` — Local Go daemon from the KubeStellar Console that auto-detects installed coding agents (Claude CLI, Codex, Copilot CLI, Gemini CLI, goose) and gives them cluster-aware execution against your kubeconfig contexts — kubectl, Helm, and multi-cluster fan-out. Star count is the parent console repo. Apache-2.0.
