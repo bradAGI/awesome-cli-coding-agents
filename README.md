@@ -293,6 +293,9 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LocalCodeForge](https://github.com/BMDPLAinsong/LocalCodeForge)** `⭐ 0` — C#/.NET local coding agent kernel running a 30B Qwen3-Coder via Ollama with no cloud: injects the real symbol table (type inventories, member signatures, access modifiers) before generation, guards against type conflicts before writing, runs a closed plan → write → build → locate → fix → run loop, and rolls back to task-isolated backups on repeated failure. CLI plus a web dashboard with live task stream and backup diff. MIT.
 
+- **[OliveCode](https://github.com/BenjaminZajko/opencodeFORK)** `⭐ 0` — OpenCode fork for free cloud models and local Ollama, with fallback to eligible available free models, optional Assist planning and reviews, and Telegram task control. Public preview; provider quotas and local hardware requirements still apply. MIT.
+
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
