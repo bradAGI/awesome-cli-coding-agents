@@ -879,6 +879,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 30` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
 
+- **[laya-guard](https://github.com/scs0209/laya-guard)** `⭐ 30` — Local guardrail for CLI coding agents: hooks into Claude Code, Codex CLI, Cursor, Gemini CLI, Copilot CLI, OpenCode, and five more, and judges each shell command before it runs with regex rules, protected paths, and a ~322M on-device model, returning allow, review, or block. Python, MIT.
+
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 29` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
 
 - **[Mneme](https://github.com/MnemeHQ/mneme)** `⭐ 27` — Turns architectural decisions and ADRs into deterministic guardrails for coding agents: records decisions in an auditable corpus, retrieves the relevant ones when an agent needs guidance, enforces governed rules at the earliest boundary each workflow exposes, and audits the mutation paths it cannot block. Python, MIT.
