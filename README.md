@@ -667,7 +667,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Agon](https://github.com/AutoResearch-Factory/Agon)** `⭐ 54` — Claude Code plugin for autonomous research: runs a topic→idea→proposal→experiment loop with separate scientist, coder, and auditor roles.
 
-- **[Frink](https://github.com/benord-labs/frink)** `⭐ 50` — Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.
+- **[Frink](https://github.com/benord-labs/frink)** `⭐ 50` — Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers.
 
 - **[Crewplane](https://github.com/crewplaneai/crewplane)** `⭐ 43` — CLI-first control plane for human-designed coding-agent workflows via Markdown; runs sequential or parallel stages through Claude Code, Codex, Gemini CLI, Copilot CLI, or any configured command, resumes after failures, and keeps inputs, outputs, and logs on disk. Python, Apache-2.0.
 
