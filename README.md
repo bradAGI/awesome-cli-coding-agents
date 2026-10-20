@@ -241,6 +241,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[AgenC Core](https://github.com/tetsuo-ai/agenc-core)** `⭐ 42` — Open source terminal coding agent that works with any model provider, including local models through Ollama and LM Studio. TUI, headless mode, background agents, MCP. Self-reported 76.2% on Terminal-Bench 2.1 for $34 with DeepSeek V4.1 Flash. MIT.
 
+- **[kdeps](https://github.com/kdeps/kdeps)** `⭐ 37` — A configurable, YAML-first AI agent framework and terminal coding agent supporting local, offline, and cloud models. Build custom agents, compose workflows and multi-agent agencies, and extend the system with installable packages for harnesses, tools, memory, RAG, guardrails, evals, and deployment. Its core graph-based system walks connected project knowledge to retrieve only relevant context, reducing context size and token usage before model calls.
+
 - **[Zap](https://github.com/zap-coding-agent/zap-coding-agent)** `⭐ 37` — Skill-first Rust TUI coding agent that injects only the context your task needs — no system prompt bloat. Single binary, no runtime. Supports Claude, Gemini, OpenAI, and local models via LM Studio; code-indexed via SQLite for fast symbol lookup; MCP support. MIT.
 
 - **[Nausicaa](https://github.com/jackispm/nausicaa-harness)** `⭐ 33` — TypeScript CLI/runtime for general-purpose agent tasks with addressable Lanes, an optional Teto observer lane, durable Run ledgers, daemon/worker lifecycle, and cross-Run A2A. npm `nausicaa-harness`, MIT.
