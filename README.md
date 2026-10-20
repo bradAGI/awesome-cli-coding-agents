@@ -716,6 +716,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
 
 ### Agent infrastructure
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
 
