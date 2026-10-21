@@ -267,6 +267,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 6` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
+- **[ZenCODE](https://github.com/gerardogrisolini/ZenCODE)** `⭐ 6` — Native-Swift terminal coding agent in a single compiled binary with no Node runtime, from macOS to Linux/WSL and down to a Raspberry Pi. Any OpenAI-compatible endpoint or ChatGPT/Claude subscription sign-in; dependency-aware task graph (`/plan`, `/goal`, `/review`) with parallel sub-agents in a live shared chat, durable project memory, skills, `/undo`, headless `-p`/`--jsonl`, and an ACP mode (`zen --acp`) for Xcode 27 and other clients. MIT.
+
 - **[Forge Harness](https://github.com/andreglegg/forge)** `⭐ 5` — Local-first TypeScript coding-agent CLI optimized for local and small language models; interactive chat and headless runs with bounded repo navigation, approval-gated transactional edits, command execution + verification, durable sessions/undo, and isolated worktree execution. npm `@aglegg/forge-harness`. Apache-2.0.
 
 - **[AshlrCode](https://github.com/ashlrai/ashlrcode)** `⭐ 5` — Multi-provider terminal coding agent (`ac`) on Bun, defaulting to xAI Grok with failover to Anthropic, OpenAI, DeepSeek, Groq and Ollama; built-in tools, skills, sub-agents, permission prompts with regex allow/deny rules, MCP over stdio/SSE/WebSocket, and an autopilot mode. npm `ashlrcode`. MIT.
