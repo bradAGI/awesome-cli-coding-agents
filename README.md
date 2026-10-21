@@ -181,7 +181,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[claw-code-agent](https://github.com/HarnessLab/claw-code-agent)** `⭐ 549` — Python-only Claude Code rewrite with zero external dependencies; born from the March 2026 Claude Code source leak, positioned as easier to hack on than the Rust/TypeScript reimplementations.
 
-- **[mu](https://github.com/qybaihe/mu)** `⭐ 526` — Coding agent built on Pi with a judgment kernel: a small, fast judge (Jev, a local model, or any LLM) makes the routine calls at 38 decision points (what enters the context, whether a flagged command was asked for, prompt-injection screening, whether "done" was verified), so the main model keeps its attention for the work. Sub-agents, a built-in browser, and a desktop app. npm `mu-agent`. MIT; the desktop app is Apache-2.0.
+- **[mu](https://github.com/qybaihe/mu)** `⭐ 526` — Coding agent built on Pi with a judgment kernel: a small, fast judge (Jev, a local model, or any LLM) makes the routine calls at 40 decision points (38 on by default) (what enters the context, whether a flagged command was asked for, prompt-injection screening, whether "done" was verified), so the main model keeps its attention for the work. Sub-agents, a built-in browser, and a desktop app. npm `mu-agent`. MIT; files the desktop app took from AionUi stay Apache-2.0.
 
 - **[g3](https://github.com/dhanji/g3)** `⭐ 520` — "Coding AI agent" in Rust: tool-running, repo interaction, skills system, and provider abstraction.
 
