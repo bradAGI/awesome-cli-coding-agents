@@ -539,6 +539,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent 007](https://github.com/bill10/agent-007)** `⭐ 6` — Self-hosted job board and pixel office for Claude Code, Codex, and other terminal agents: each queued job gets a fresh agent in its own git worktree and branch, runs in a real PTY you can take over, and lands as a pull request for review. Node.js web UI, MIT.
 
+- **[cctabs](https://github.com/generativereality/cctabs)** `⭐ 6` — Tab manager for 20+ long-running Claude Code and Codex CLI sessions, each in its own named, native Tabby tab instead of tmux panes or a dashboard. A Claude Code session opens, reads and prompts the other tabs itself through the `cctabs` CLI, so the fleet is coordinated from one tab rather than by switching between them. macOS, TypeScript, MIT.
+
 - **[mix2](https://github.com/elleryfamilia/mix2)** `⭐ 5` — Terminal app that turns two coding agents into one team; one question, both investigate independently, reconcile or disclose disagreements, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI. Rust + TypeScript, MIT.
 
 - **[taskpods](https://github.com/yanairon/taskpods)** `⭐ 5` — Lightweight, agent-agnostic CLI that runs Claude Code, Codex CLI, Gemini CLI, opencode, aider, or any command in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands. Python, MIT.
