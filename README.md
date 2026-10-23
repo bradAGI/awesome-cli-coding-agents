@@ -949,6 +949,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Better Call GPT](https://github.com/insta-fusion/bettercallgpt)** `⭐ 8` — Full-duplex voice call for a running Claude Code session (Azure GPT Realtime / GPT-Live, macOS): relays speech into the session, reads results aloud, supports barge-in; voice never approves permission prompts. Python, MIT.
 
+- **[Doomsday Network](https://github.com/doomsday-network/doomsday)** `⭐ 8` — Agent-native Layer-1 Proof-of-Escrow protocol, MCP server (`mcp_server/server.py`), and `SKILL.md` for CLI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Windsurf): lets coding agents lock on-chain SHA-256 bounties for sub-agents, verify solution preimages, settle HTTP 402 pay-per-call tool micropayments, and swap `wDOOM` on Base Mainnet. Python, MIT.
+
 - **[Terminai](https://github.com/emosenkis/terminai)** `⭐ 7` — Makes your terminal of choice AI-enabled using your favorite CLI coding agent. Completely transparent until you activate the AI with Ctrl-Space, then runs your agent in an overlay with access to your terminal.
 
 - **[SpecWave](https://github.com/Cyning12/SpecWave)** `⭐ 6` — Multi-host coding CLI that lands one declarative adapt table across 13 hosts (Cursor, Claude Code, Copilot, Codex, Windsurf, Gemini CLI, opencode, Roo Code, Zed, Cline, aider, agents, optional DSH) and enforces process discipline: machine checks fail closed with exit code 2, and code changes (hat 30) are blocked until the human gate `HG-AUDIT-R1` is approved, with a tasks/reviews/invokes audit trail. `npx spec-wave`. MIT.
