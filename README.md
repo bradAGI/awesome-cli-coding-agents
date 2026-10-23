@@ -345,6 +345,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[FetchCoder](https://github.com/fetchai/fetchcoder-releases)** `⭐ 2` `[Fetch.ai]` — Terminal coding agent powered by ASI1, with interactive TUI, CLI, and API server modes plus MCP integration.
 
+- **[Nakata](https://github.com/nakata-app/nakata)** `⭐ 0` `[Nakata]` — Bring-your-own-key terminal coding agent for OpenRouter, DeepSeek, Anthropic, OpenAI, Gemini, Ollama or any OpenAI-compatible endpoint; a director loop keeps the task, permissions and final decision while subagents run in parallel. Interactive TUI, headless `-p` mode for CI, ACP for editors, MCP and hooks. Proprietary; free for 3 months, then $10/month.
+
 - **[Amp](https://sourcegraph.com/amp)** `[Sourcegraph]` — Sourcegraph's AI coding agent with a CLI for implementing tasks across real codebases.
 
 - **[Junie CLI](https://junie.jetbrains.com)** `[JetBrains]` — JetBrains' LLM-agnostic CLI coding agent (EAP); supports GPT-5, Claude, Gemini, Grok with plan mode and CI/CD headless usage.
