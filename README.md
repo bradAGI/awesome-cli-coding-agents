@@ -709,6 +709,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Code-Crafter](https://github.com/anandgupta193/code-crafter)** `⭐ 1` — Self-hosted Slack/Jira → pull-request loop: each ticket gets a disposable Docker container running Claude Code headless, a Neo4j architecture graph (Graph RAG + read-only MCP) briefs the agent, and review comments and CI failures are routed back to it until a human merges. TypeScript, MIT.
 
+- **[wippaAGENT](https://github.com/wippa-studios/wippaAGENT)** `⭐ 1` — Install-once OpenCode agent fleet: a primary orchestrator delegates work to twelve specialists across ten categories, and every change routes through audit and review passes before anything is reported back. Three MCP servers and a bounded verify tool keep the loop grounded. TypeScript, MIT.
+
 - **[AIWorks](https://github.com/netbka/aiworks)** `⭐ 0` — Unattended manager for Claude Code, Codex and Cursor on your own PC: runs an agreed plan step by step in isolated worktrees, has a separate AI session verify each result, and delivers pull requests to GitHub; survives crashes, restarts and usage limits and asks the owner only for real decisions. Early preview. Node.js, Windows only, MIT.
 
 - **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
