@@ -675,6 +675,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 33` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.
 
+- **[Delegatus](https://github.com/Latand/delegatus)** `⭐ 33` — Local web board started from the `delegatus` CLI: you message one orchestrator agent per project, it turns requests into tasks and runs each through build and fresh read-only review stages in its own git worktree until a pull request is ready, and brings decisions to you in the browser, on your phone or in Telegram. Claude Code and Codex, plus Copilot for single agents. MIT.
+
 - **[NEEDLE](https://github.com/jedarden/NEEDLE)** `⭐ 30` — Headless bead-queue orchestrator built on an explicit deterministic state machine: claims work items and dispatches each to a headless coding-agent CLI (Claude Code, Codex, OpenCode, Aider), with a defined handler for every outcome rather than a model deciding the next step. Rust, MIT.
 
 - **[ralph-harness](https://github.com/rxdt/py_ralph_frame)** `⭐ 24` — Minimal repo-local loop scaffold for Claude Code, Codex CLI, and Gemini CLI. Uses `PROMPT.md`, specs, fresh-context iterations, git hooks, CI verification, and hard iteration/time caps so agents make small gated commits instead of drifting in one long chat. MIT.
