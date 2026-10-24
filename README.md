@@ -501,6 +501,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[agents-cli](https://github.com/phnx-labs/agents-cli)** `⭐ 25` — CLI to install, version-pin, and run many coding-agent harnesses (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Grok); shared skills/MCP/rules, parallel teams in isolated terminals, session index, and SSH fleet dispatch. npm `@phnx-labs/agents-cli`. Apache-2.0.
 
+- **[/call-me](https://github.com/radres/call-me)** `⭐ 25` — Phone-call add-on for CLI coding agents: a hosted MCP server plus Claude Code, Codex, Gemini CLI and Grok Build plugins that let the agent ring your iPhone, read a question aloud and get the spoken answer back as text, or send a text and wait for the reply. Not a coding agent itself; the iPhone app it rings needs a paid subscription. MIT.
+
 - **[Caprock](https://github.com/dspv/caprock)** `⭐ 23` — Desktop app (macOS, Windows, Linux) that runs Claude Code, Codex, OpenCode and Gemini CLI in tabs and split panes across projects and worktrees. Picks up sessions started in your own terminal, shows token cost per repository, live Claude and Codex plan limits, loop alerts and history kept past Claude Code's 30-day cleanup; a paired phone answers prompts over your Wi-Fi or Tailscale. Local-only, no account, no telemetry. Apache-2.0.
 
 - **[repomon](https://github.com/AliHamzaAzam/repomon)** `⭐ 22` — Run a fleet of AI coding agents (Claude Code, Codex, Aider) across many repos, branches, and git worktrees from one tmux-backed terminal. Four-zoom TUI (fleet, split, babysit grid, focus), needs-you triage, durable sessions that survive restarts.
