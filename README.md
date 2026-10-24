@@ -449,6 +449,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Calyx](https://github.com/yuuichieguchi/Calyx)** `⭐ 348` — Native macOS terminal built on libghostty for supervising coding agents in parallel: one approval inbox for Claude Code and Codex permission prompts and Grok and pi tool calls, a working/blocked/idle/done sidebar, in-terminal diff review, and MCP tools for agents. Swift, MIT.
 
+- **[agentglass](https://github.com/SirAllap/agentglass)** `⭐ 340` — Linux desktop app that puts Claude Code, Codex, Gemini CLI, and OpenCode sessions on one screen: live cost, tokens, and tool calls; dangerous tool calls are held until you approve. tmux terminal tabs, a built-in browser agents drive through a CLI and MCP server, an Android companion app, and sandboxed plugins. MIT.
+
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 268` — Execute Claude Code tasks in parallel git worktrees.
 
 - **[MulmoTerminal](https://github.com/receptron/mulmoterminal)** `⭐ 242` — Browser grid of live Claude Code / Codex / Grok sessions started with one `npx` command, no Electron; each cell is a real PTY, color-coded working / needs-you / done from the CLI's own activity hooks rather than scraped scrollback, with a per-kind chime and Web Push to your phone. tmux-backed persistence across restarts, git worktrees with one-click PRs, and per-session model, context and token readouts. MIT.
