@@ -497,6 +497,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 40` — Open-source agent development environment with a shared task system that Claude Code, Codex, Grok, OpenCode, and Cursor agents operate themselves, delegating to and messaging each other while you follow progress and redirect the work. Desktop (Tauri), web, and CLI; local or on a VPS. Apache-2.0.
 
+- **[Open Walnut](https://github.com/EvanZhang008/open-walnut)** `⭐ 34` — Self-hosted web UI and `walnut` CLI for running Claude Code sessions on your laptop and remote dev boxes; a daemon on each host owns the `claude` processes, so sessions keep running when SSH drops, with no tmux. Per-session diff of every file changed, plus tasks, notes, and memory. TypeScript, MIT.
+
 - **[Superagent](https://github.com/pungme/superagent-desktop)** `⭐ 32` — macOS desktop client for Claude Code and Codex: gives the agent a real browser it can navigate and drive, an iOS Simulator window for installing and screenshotting apps, and a phone companion app for remote monitoring over an end-to-end encrypted relay. Electron, SwiftUI, and a Cloudflare Worker relay. MIT.
 
 - **[agents-cli](https://github.com/phnx-labs/agents-cli)** `⭐ 25` — CLI to install, version-pin, and run many coding-agent harnesses (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Grok); shared skills/MCP/rules, parallel teams in isolated terminals, session index, and SSH fleet dispatch. npm `@phnx-labs/agents-cli`. Apache-2.0.
