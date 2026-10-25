@@ -495,6 +495,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Clave](https://github.com/codika-io/clave)** `⭐ 51` — Native macOS app for running multiple AI coding-agent CLIs (Claude Code, Gemini CLI, Codex) in parallel — split/grid terminal layouts, per-project session groups, a built-in git panel, and remote sessions over SSH. Fully local, no account. Electron. MIT.
 
+- **[Isomux](https://github.com/nmamano/isomux)** `⭐ 41` — Self-hosted web office for Claude Code, Codex, and OpenCode agents ([isomux.com](https://isomux.com)): each agent keeps a name, instructions, and memory across sessions, and agents message each other, read each other's chats, and work from a shared task board. Several people can talk to the same agents from a laptop or a phone. Built-in terminal, editor, and diff viewer; schedules; agents can drive a Chrome you share with them. Source-available (BSL 1.1); free for organizations of up to 10 people.
+
 - **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 40` — Open-source agent development environment with a shared task system that Claude Code, Codex, Grok, OpenCode, and Cursor agents operate themselves, delegating to and messaging each other while you follow progress and redirect the work. Desktop (Tauri), web, and CLI; local or on a VPS. Apache-2.0.
 
 - **[Superagent](https://github.com/pungme/superagent-desktop)** `⭐ 32` — macOS desktop client for Claude Code and Codex: gives the agent a real browser it can navigate and drive, an iOS Simulator window for installing and screenshotting apps, and a phone companion app for remote monitoring over an end-to-end encrypted relay. Electron, SwiftUI, and a Cloudflare Worker relay. MIT.
