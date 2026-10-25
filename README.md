@@ -613,7 +613,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)** `⭐ 2.4k` — AI Agent Workforce Platform: remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration. Self-hosted with BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. BSL-1.1.
 
-- **[QualityLayer](https://github.com/maxritter/qualitylayer)** `⭐ 2.1k` — Puts the engineer back in the loop of Claude Code, Codex, OpenCode and Pi: you approve the plan before any code, the agent builds in test first slices, and a fresh agent checks the result against the agreed points before you approve the pull request.
+- **[QualityLayer](https://github.com/maxritter/qualitylayer)** `⭐ 2.1k` — Puts the engineer back in the loop of your coding agent (Claude Code, Codex, OpenCode and Pi): you approve the plan before code exists, the agent builds in test first slices, and an agent that did not write the code checks the result against the agreed points before you approve the pull request.
 
 - **[zeroshot](https://github.com/the-open-engine/zeroshot)** `⭐ 2k` — Runs a planner, an implementer, and independent validators in isolated local, git worktree, or Docker environments, looping until a change is verified or rejected with reproducible failures. Works with Claude, Codex, Gemini, and OpenCode CLIs; issue backends for GitHub, GitLab, Jira, Azure DevOps. MIT.
 
