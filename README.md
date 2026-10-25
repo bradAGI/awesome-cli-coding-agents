@@ -949,6 +949,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Better Call GPT](https://github.com/insta-fusion/bettercallgpt)** `⭐ 8` — Full-duplex voice call for a running Claude Code session (Azure GPT Realtime / GPT-Live, macOS): relays speech into the session, reads results aloud, supports barge-in; voice never approves permission prompts. Python, MIT.
 
+- **[DoomPay](https://github.com/doomsday-network/doom-pay)** - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
+
 - **[Terminai](https://github.com/emosenkis/terminai)** `⭐ 7` — Makes your terminal of choice AI-enabled using your favorite CLI coding agent. Completely transparent until you activate the AI with Ctrl-Space, then runs your agent in an overlay with access to your terminal.
 
 - **[SpecWave](https://github.com/Cyning12/SpecWave)** `⭐ 6` — Multi-host coding CLI that lands one declarative adapt table across 13 hosts (Cursor, Claude Code, Copilot, Codex, Windsurf, Gemini CLI, opencode, Roo Code, Zed, Cline, aider, agents, optional DSH) and enforces process discipline: machine checks fail closed with exit code 2, and code changes (hat 30) are blocked until the human gate `HG-AUDIT-R1` is approved, with a tasks/reviews/invokes audit trail. `npx spec-wave`. MIT.
