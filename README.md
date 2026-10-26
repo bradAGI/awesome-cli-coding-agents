@@ -279,6 +279,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[MoCode](https://github.com/wanxunyang/mocode)** `⭐ 3` — Terminal coding agent (TypeScript) with durable lifecycle memory, hash-gated skill trust, and a built-in 61-task eval harness; drives any OpenAI-compatible backend (GLM, DeepSeek, Qwen, Ollama, vLLM) without a vendor key. npm `mocode-ai`. MIT.
 
+- **[Neuron](https://github.com/RAHUL-DevelopeRR/neuron-v2)** `⭐ 3` — Rust terminal coding agent with a full-screen TUI, three permission modes, MCP servers and subagents, session resume and a headless `-p` mode for CI; free hosted models via Zero-X with no API key, or any OpenAI-compatible endpoint. MIT.
+
 - **[WorkGround2](https://github.com/KiddPhenix/WorkGround2)** `⭐ 2` — Local-first AI engineering workbench: one Go agent kernel behind CLI/TUI, web `serve`, a Wails desktop app, and IM bots (Feishu/WeCom/QQ), with multi-model providers, MCP + plugins, project memory, sandboxed/approved execution, and checkpoints + `/rewind`. MIT.
 
 - **[Kolkrabbi](https://github.com/onembyte/kolkrabbi)** `⭐ 2` — Go terminal coding agent (`kolk`) whose effort dial — low to ultra — picks which model runs each turn, not one model's thinking budget. Local models on this machine, the LAN, or one address you name; any OpenAI-compatible endpoint; or your Claude and ChatGPT subscriptions through each vendor's own CLI, no credential held. Checkpoints every write and logs each call's cost. Single static binary, Apache-2.0.
