@@ -993,6 +993,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[centrol](https://github.com/baitelmal/centrol)** `⭐ 2` — Local flight recorder for CLI coding agents and the MCP servers they call. Wraps agent runs and proxies MCP traffic, recording tool calls, commands, and file mutations to a hash-chained ledger the agent has no write path to. Rollback with provenance, offline verification, single Go binary, no daemon. Apache-2.0.
 
+- **[vmforai](https://github.com/emincan2000/vmforai)** `⭐ 2` — Runs Claude Code, Codex, Gemini CLI, OpenCode or aider inside libvirt/KVM VMs (or any VM reachable over SSH): a snapshot before each session and `vmforai undo`, background tasks, the same task on several VM clones, a git repo in and the agent's work back as a branch, and a terminal UI. Bash, MIT.
+
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
 
 - **[llm-panel](https://github.com/musharna/llm-panel)** `⭐ 1` — Put one question or diff to several LLM CLIs in parallel (codex, claude, opencode/OpenRouter, ollama); every answer shown in full, an anonymized rebuttal round, cost accounting, a GitHub Action, and a measured miss rate on AACR-Bench. Python, PyPI `llm-panel`. MIT.
