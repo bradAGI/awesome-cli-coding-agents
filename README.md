@@ -797,6 +797,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[cc-router](https://github.com/finch-xu/cc-router)** `⭐ 283` — Local Anthropic-Messages-API proxy that bundles multiple provider subscriptions and API quotas (DeepSeek, Qwen, Kimi, GLM, MiniMax, Claude — 18+ providers) into virtual opus/sonnet/haiku slots with failover and load balancing for Claude Code, Claude Desktop, OpenClaw, and OpenCode. No relation to claude-code-router. Rust, MIT.
 
+- **[Speakeasy control plane](https://github.com/speakeasy-api/gram)** `⭐ 275` — Governed MCP gateway for coding agents, with identity-based tool access, per-action security policies, and audit logs. AGPL-3.0.
+
 - **[flameox](https://github.com/morluto/flameox)** `⭐ 211` — Local profiling and runtime-evidence toolkit for coding agents: a CLI plus MCP server that runs named profiling workloads, preserves each profiler's native artifacts with provenance, and compares runs across compiled services, GPU kernels, and inference stacks. Python, MIT.
 
 - **[kasetto](https://github.com/pivoshenko/kasetto)** `⭐ 210` — A declarative AI agent environment manager, written in Rust.
