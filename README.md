@@ -541,6 +541,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Alchemist Coder](https://github.com/Alekla0126/alchemist-coder)** `⭐ 6` — Desktop app (macOS, Windows, Linux) that runs Claude Code and Codex over ACP, on local models via Ollama or LM Studio in the free edition, with a live tree of agents and subagents, a coordinator that hands work to agents in their own git worktrees, and an Arena where up to four agents solve the same task. Also indexes Claude Code, Codex, Gemini CLI and Grok Build history with full-text search, and has a built-in terminal. TypeScript + Electron, AGPL-3.0.
 
+- **[pohunek](https://github.com/zajca/pohunek)** `⭐ 6` — Per-machine daemon that keeps Codex, Claude Code, and Hermes Agent sessions alive across disconnects, each in its own git worktree, shows whether each is working, blocked, or idle, and has a JSON CLI so agents can drive other sessions. Works across machines over NetBird or Tailscale; Linux x86_64 and macOS on Apple Silicon. Rust, MIT.
+
 - **[mix2](https://github.com/elleryfamilia/mix2)** `⭐ 5` — Terminal app that turns two coding agents into one team; one question, both investigate independently, reconcile or disclose disagreements, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI. Rust + TypeScript, MIT.
 
 - **[taskpods](https://github.com/yanairon/taskpods)** `⭐ 5` — Lightweight, agent-agnostic CLI that runs Claude Code, Codex CLI, Gemini CLI, opencode, aider, or any command in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands. Python, MIT.
