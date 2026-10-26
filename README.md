@@ -293,6 +293,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LocalCodeForge](https://github.com/BMDPLAinsong/LocalCodeForge)** `⭐ 1` — C#/.NET local coding agent kernel running a 30B Qwen3-Coder via Ollama with no cloud: injects the real symbol table (type inventories, member signatures, access modifiers) before generation, guards against type conflicts before writing, runs a closed plan → write → build → locate → fix → run loop, and rolls back to task-isolated backups on repeated failure. CLI plus a web dashboard with live task stream and backup diff. MIT.
 
+- **[SCODE](https://github.com/sidra-ai-development/scode)** `⭐ 0` `[SIDRA AI Development]` — Open-source terminal coding runtime with persistent sessions, file/edit/search/shell tools, MCP support, and cloud or local model providers. Apache-2.0.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
