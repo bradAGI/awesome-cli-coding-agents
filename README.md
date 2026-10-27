@@ -1011,6 +1011,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[SAKO](https://github.com/Thakay/sako)** `⭐ 0` — Task ledger and finish gate for coding agents: sessions record and claim tasks in a shared Markdown ledger, and a Stop hook or explicit command flags missing records, stale or missing check evidence, and finished work awaiting a commit. Hooks for Claude Code and Codex, plain commands elsewhere; one standard-library Python file, `uvx sako init`. MIT.
 
+- **[toli](https://github.com/arjunvlama/toli)** `⭐ 0` — Self-hosted daemon that lets existing coding agents like Claude Code and Codex collaborate across machines via MCP and A2A, with task delegation, messaging, and automatic session wake-up. Go, Apache-2.0.
+
 - **[Agent Fleet](https://woodor.ai/agent-fleet/)** — Messaging layer for coding-agent sessions: every live Claude Code or Codex session takes a `name@project` address, and sessions exchange messages and files on one machine, across a LAN, or across networks. Also does remote session lifecycle control — compact, clear, handoff, restart. Native on macOS, Windows (x64 and arm64), and Linux x64, with no WSL or tmux. Closed source; free on a local network, paid cloud relay.
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
