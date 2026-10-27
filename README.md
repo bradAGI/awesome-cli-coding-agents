@@ -535,6 +535,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent Fleet (k-k1)](https://github.com/k-k1/agent-fleet)** `⭐ 8` — Self-hosted web console that runs Claude Code, Codex, Copilot CLI, Cursor, Kiro, OpenCode and other agent CLIs unchanged as a fleet: isolated per-user Docker workspaces, parallel sessions in git worktrees, sessions that start and steer child sessions of another kind, scheduling and per-account usage tracking. Go + React, Apache-2.0. Not the woodor.ai project of the same name.
 
+- **[Herduck](https://github.com/wenhanweime/herduck)** `⭐ 8` — Terminal app derived from Herdr that keeps its agent panes and adds a Work view: related Claude Code, Codex, OpenCode, and Pi sessions are grouped under one piece of work with a saved goal, blocker, and next step, plus a searchable, resumable library of past sessions. Early alpha, macOS and Linux. AGPL-3.0.
+
 - **[iris](https://github.com/itzenata/iris-tui)** `⭐ 6` — Live TUI supervisor for every active Claude Code session: status, tokens, estimated cost, and one-pane approval of pending tool calls via a PreToolUse hook. Rust, MIT.
 
 - **[Agent 007](https://github.com/bill10/agent-007)** `⭐ 6` — Self-hosted job board and pixel office for Claude Code, Codex, and other terminal agents: each queued job gets a fresh agent in its own git worktree and branch, runs in a real PTY you can take over, and lands as a pull request for review. Node.js web UI, MIT.
