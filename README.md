@@ -700,8 +700,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 - **[workkit](https://github.com/ITW-Creative-Works/workkit)** `⭐ 4` — Claude Code plugin that runs GitHub Issues as the work pipeline: a lead session hands each specced issue to worker subagents for code and tests and a verifier that reviews both blind, and hooks block a commit until the full test suite passes. Source-available (FSL-1.1-MIT).
 
 - **[Turno](https://github.com/eurafaeldecarvalho/turno)** `⭐ 3` — Desktop app for Windows and Linux that runs Claude Code (`claude -p`) or a local Ollama model as unattended routines on a cron schedule: one folder with a `ROUTINE.md` per routine, catch-up after sleep or reboot, idle watchdog, named locks, account switching when one hits its usage limit, and split terminals next to a live chat with each run. MIT.
--
-- - **[brgr](https://github.com/justn-hyeok/brgr)** `⭐ 3` — Herdr plugin that lets a Codex or Claude Code session delegate tasks to other CLI agents (Claude Code, Codex, Gemini CLI, Copilot CLI, OpenCode, Cursor, Pi, and more), each in its own split pane and git worktree, running unattended with full permissions. Results come back sealed for the lead agent to accept or reject. Rust, MIT.
+  
+- **[brgr](https://github.com/justn-hyeok/brgr)** `⭐ 3` — Herdr plugin that lets a Codex or Claude Code session delegate tasks to other CLI agents (Claude Code, Codex, Gemini CLI, Copilot CLI, OpenCode, Cursor, Pi, and more), each in its own split pane and git worktree, running unattended with full permissions. Results come back sealed for the lead agent to accept or reject. Rust, MIT.
 
 - **[DevPilot](https://github.com/geastham/devpilot)** `⭐ 2` — Fleet cockpit for Claude Code: a wave planner with critical-path and idle-runway warnings, plus a `session-runner` CLI that spawns and supervises real `claude -p` sessions across several repos at once. TypeScript, MIT.
 
