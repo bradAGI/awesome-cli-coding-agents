@@ -683,6 +683,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[xcb](https://github.com/hraness/xcb)** `⭐ 15` — Sends each coding task to one of your Claude, Codex, or Devin subscription accounts that is signed in, idle, and not at a known usage limit, and holds that account until the task's process exits. Other agents hand it work with `xcb --json route`; also a TypeScript SDK. MIT.
 
+- **[multi-llm-plugin](https://github.com/beastlabai/multi-llm-plugin)** `⭐ 11` — CLI-driven orchestration for Claude Code, Codex, and OpenCode: parallel plan, code, and commit reviews across 19 coding CLIs, validated findings, task generation, implementation, and automated revision. Python, MIT.
+
 - **[TeDDy](https://github.com/atte500/TeDDy)** `⭐ 8` — An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow. Python, AGPL-3.0.
 
 - **[Dahrk](https://github.com/dahrkai/dahrk-node)** `⭐ 7` — Runs a deterministic multi-stage workflow per Linear issue on a node you own; each stage gets its own runtime (Claude Code, Codex, Pi), model, prompt, and git worktree, sequenced by plain TypeScript so no model picks the next step. Apache-2.0 node; the workflow hub is hosted and requires an account.
