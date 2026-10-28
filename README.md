@@ -863,6 +863,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentDiff](https://github.com/codeprakhar25/agentdiff)** `⭐ 47` — Git-native provenance for AI-written code: hooks every CLI agent (Claude Code, Codex, Cursor, Gemini, OpenCode, Windsurf, Copilot) and records which agent wrote which line, reconciles it against each commit, and signs every attribution with ed25519. Records live in your own git refs (`agentdiff list/blame/report`); no server. Rust, MIT/Apache-2.0.
 
+- **[cliproxy-rs](https://github.com/vayungodara/cliproxy-rs)** `⭐ 47` — Local proxy that lets Codex CLI and Claude Code use DeepSeek, GLM, Kimi, OpenRouter and OpenCode Go: translates Codex's Responses API to Chat Completions (tool calls included), with multi-key failover on 429 and a built-in dashboard. Single Rust binary; a port of CLIProxyAPI.
+
 - **[Wit](https://github.com/amaar-mc/wit)** `⭐ 46` — Coordination protocol that prevents merge conflicts between parallel AI agents. Locks specific functions (not files) via Tree-sitter AST parsing; agents declare intents, acquire symbol-level locks, and get conflict warnings before writing code. JSON-RPC daemon. MIT.
 
 - **[ContextStream](https://github.com/contextstream/mcp-server)** `⭐ 44` — Shared project context for terminal coding agents: an MCP server plus `contextstream-hook` CLI that gives Claude Code, Codex, Cursor, and other MCP clients the same searchable decisions, lessons, and code index across sessions and tools. Hosted backend with a free tier; local MCP via `npx @contextstream/mcp-server`. MIT.
