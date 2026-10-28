@@ -231,6 +231,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Keen Code](https://github.com/mochow13/keen-code)** `⭐ 74` — Go-based CLI coding agent focused on efficient context management — uses lean TurnMemory summaries instead of raw tool traces to maximize context efficiency. 9+ providers, skill-driven MCP servers, and full transparency with every prompt, design doc, and implementation plan saved as markdown. MIT.
 
+- **[Shelly](https://github.com/RYOITABASHI/Shelly)** `⭐ 67` — AI terminal and agent runtime for Android: native PTY terminal with bash/git/Python/Node bundled in the APK (no Termux, no PC), the Codex CLI built in, scheduled on-device agents, local LLMs and an MCP server. TypeScript/Kotlin, GPL-3.0.
+
 - **[picocode](https://github.com/jondot/picocode)** `⭐ 63` — Minimal Rust-based coding agent focused on CI workflows and small codemods; multi-LLM with personas.
 
 - **[Smelt](https://github.com/leonardcser/smelt)** `⭐ 57` — Rust TUI coding agent; multi-provider (Anthropic, OpenAI, Ollama, GitHub Copilot, any OpenAI-compatible endpoint), four modes (Normal/Plan/Apply/Yolo), granular permission system, parallel subagents, vim keybindings, and headless scriptable mode. MIT.
