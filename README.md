@@ -589,6 +589,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[harnsy](https://harnsy.dev)** — Team layer for Claude Code, Codex and OpenCode sessions on one machine: each agent holds a role under a lead, agents message each other straight into the running session, work moves as tasks with evidence and review, and a fresh agent takes over a role from a handover note when its context fills up. Local dashboard, one terminal tab per agent (tmux on Linux and macOS, its own terminal host on Windows). Closed source; the build without a key runs 1 project and up to 10 agents at once, a harnsy Max key lifts that and adds several machines and several subscriptions.
 
+- **[MAO](https://trymao.dev)** — Native desktop canvas for macOS, Windows, and Linux that runs Claude Code, Codex, Gemini CLI, Grok, OpenCode, Antigravity, and shell agents as real terminal nodes, each on its own login and model. Drawing a connection lets two agents find each other and hand off tasks through the `mao` CLI (`mao peers`, `mao ask`, `mao send`/`mao wait`); an Orchestrator agent can recruit, connect, and direct other agents; layers are git worktrees on their own branches whose diffs you review and land from the canvas. Browser, Android, and iOS Simulator portals the wired agent can drive, and workspaces on a Linux server over SSH. Rust + GPUI. Closed source; US$20 one-time, 7-day free trial.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
