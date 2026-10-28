@@ -615,7 +615,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[zeroshot](https://github.com/the-open-engine/zeroshot)** `⭐ 2k` — Runs a planner, an implementer, and independent validators in isolated local, git worktree, or Docker environments, looping until a change is verified or rejected with reproducible failures. Works with Claude, Codex, Gemini, and OpenCode CLIs; issue backends for GitHub, GitLab, Jira, Azure DevOps. MIT.
 
-- **[Traycer](https://github.com/traycerai/traycer)** `⭐ 1.6k` — Desktop orchestration app that runs multiple CLI coding agents (Claude Code, Codex, Cursor, OpenCode, and custom CLI agents) in parallel with shared context, agent-to-agent loops, Epic mode, and team collaboration. Apache-2.0.
+- **[Traycer](https://github.com/traycerai/traycer)** `⭐ 1.6k` — Open-source desktop app that runs Claude Code, Codex, Cursor, OpenCode and more than a dozen other CLI coding agents in parallel, with context shared across models, agent-to-agent loops, and team collaboration. MIT.
 
 - **[loom](https://github.com/ghuntley/loom)** `⭐ 1.6k` — Infrastructure enabling autonomous loops to evolve products via multi-agent coordination.
 
