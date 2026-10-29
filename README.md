@@ -521,6 +521,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[swe-mux](https://github.com/jatoran/swe-mux)** `⭐ 14` — Workspace that runs Claude Code, Codex, OpenCode and Pi in real terminals on your machine, with live per-session status, sessions that survive restarts, and the same live sessions on your phone over Tailscale (PWA, push notifications). Python, Apache-2.0.
 
+- **[Yardsort](https://github.com/joaoh82/yardsort)** `⭐ 13` — Open-source desktop app to run Claude Code, Codex and any CLI agent in parallel git worktrees on Linux, macOS and Windows. GPL-3.0.
+
 - **[pi-boss](https://github.com/skyfallsin/pi-boss)** `⭐ 12` — Multi-agent orchestration for the Pi coding agent; spawns sub-agents in visible tmux panes with task delegation, monitoring, and coordination. MIT.
 
 - **[AgentTerm](https://github.com/albertwujj/agent-term)** `⭐ 12` — Visual desktop terminal for macOS and Windows/WSL that runs Claude Code, Codex, Cursor CLI and other AI CLIs unmodified, each session in its own OS window with a distinct Dock tile or taskbar button. Adds prompt search to resume closed sessions, comments on selected output, markdown plans rendered as pages with threaded comments, curated code reviews with inline feedback, a phone view of the same terminal, click-to-line navigation in JetBrains IDEs, and more. Electron, MIT.
@@ -562,6 +564,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 - **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 0` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
+
+- **[Quintal](https://github.com/joaoh82/quintal)** `⭐ 0` — Self-hostable 2D office where ACP coding agents (Claude Code, Codex, Gemini CLI, Goose, Cursor) work as visible teammates. Proximity voice between people; agents are not on voice. AGPL-3.0.
 
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
