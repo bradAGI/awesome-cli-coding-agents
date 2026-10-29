@@ -993,6 +993,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[centrol](https://github.com/baitelmal/centrol)** `⭐ 2` — Local flight recorder for CLI coding agents and the MCP servers they call. Wraps agent runs and proxies MCP traffic, recording tool calls, commands, and file mutations to a hash-chained ledger the agent has no write path to. Rollback with provenance, offline verification, single Go binary, no daemon. Apache-2.0.
 
+- **[Swarmail](https://github.com/bompus/swarmail)** `⭐ 2` — Mail between coding-agent sessions on one machine or across machines: named agents per repository, a threaded inbox with full-text search, advisory file reservations and wake-on-mail, as an MCP server and CLI. Claude Code, Codex, Cursor, Grok, Antigravity, Devin and OpenCode. One Bun binary with SQLite. MIT.
+
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
 
 - **[llm-panel](https://github.com/musharna/llm-panel)** `⭐ 1` — Put one question or diff to several LLM CLIs in parallel (codex, claude, opencode/OpenRouter, ollama); every answer shown in full, an anonymized rebuttal round, cost accounting, a GitHub Action, and a measured miss rate on AACR-Bench. Python, PyPI `llm-panel`. MIT.
