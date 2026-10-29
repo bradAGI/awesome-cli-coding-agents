@@ -205,6 +205,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Octomind](https://github.com/muvon/octomind)** `⭐ 179` — Token-efficient, model-agnostic coding agent runtime in one Rust binary: interactive, piped, daemon, WebSocket, or ACP sub-agent. On its own [octobench](https://github.com/Muvon/octobench) suite it reports 24/25 real-PR tasks solved at lower cost than Claude Code and opencode; adaptive cache-aware compaction, guardrails-as-code, MCP-native, shareable specialist taps. Apache-2.0.
 
+- **[Autopilot](https://github.com/directionally-local/autopilot)** `⭐ 177` — Terminal coding agent and SDK, bring your own key for 25+ providers or a local model through Ollama or LM Studio. Can fan subagents out into separate Hotcell sandboxes so several tasks run in parallel without touching your machine. TypeScript, MIT.
+
 - **[rpi](https://github.com/bigfish1913/pi-rust)** `⭐ 154` — Library-first Rust coding agent, inspired by Pi but independent of it: nine composable crates (`rpi-agent`, `rpi-tools`, `rpi-harness`, `rpi-tui`, …) so the agent loop can be embedded in your own program, plus a ready-to-run `rpi` terminal CLI. Crash-resumable JSONL sessions that self-heal a duplicated-seq log, a stable `#[repr(C)]` plugin ABI for tools and providers, and a provider-agnostic `StreamFn` boundary that makes the loop testable with no network. MIT.
 
 - **[San](https://github.com/genai-io/san)** `⭐ 144` — Go terminal-native runtime for specialized AI agents; provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), runs Claude Code skills/plugins/MCP unmodified, swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop. Single ~12 MB binary, zero runtime deps. Apache-2.0.
@@ -908,6 +910,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[GoodMemory](https://github.com/hjqcan/GoodMemory)** `⭐ 20` — Local-first, auditable memory layer for Codex and Claude Code; its CLI installs scoped recall hooks and read-only MCP, with SQLite persistence by default plus opt-in governed writeback that can be inspected and reversed. MIT.
 
 - **[Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit)** `⭐ 19` — Portable Agent Skills catalog, personas, MCP templates, and loop/swarm orchestration for coding assistants, deployed via native CLI to Claude Code, Cursor, OpenCode, Copilot, Windsurf, and Pi. MIT.
+
+- **[Hotcell](https://github.com/directionally-local/hotcell)** `⭐ 19` — Self-hosted sandboxes for coding agents on your own box: Docker containers, Firecracker microVMs on Linux, or Apple Virtualization on macOS, behind one CLI. Real API keys stay on the host and each sandbox gets its own revocable, spend-capped token; optional default-deny egress. Apache-2.0.
 
 - **[termagitchi](https://github.com/TevvvB/termagitchi)** `⭐ 18` — Status-line companion for running several agents across git worktrees: each worktree gets its own creature so near-identical terminals are tellable apart, with per-agent context fill and branch hygiene on the row; `pets party` shows every live session at once, worst first. Single static Go binary; Claude Code plugin, Codex hooks, tmux, or any shell prompt. Homebrew and AUR. MIT.
 
