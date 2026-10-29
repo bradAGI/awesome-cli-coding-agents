@@ -973,6 +973,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Hivelore](https://github.com/Doucs91/hivelore)** `⭐ 4` — Deterministic policy gate for agent-written code: a lesson captured via MCP (`mem_tried`) becomes a validated regex/AST/test guard that Git hooks and CI use to refuse any diff reintroducing the documented mistake; briefs any agent with the team's repo-specific rules over MCP. TypeScript CLI, npm (`@hivelore/cli`). Apache-2.0.
 
+- **[keelyard](https://github.com/akobirjontulqinovfuture/keelyard)** `⭐ 4` — Proof gate and undo for Claude Code, Codex and OpenCode: hooks block the agent from finishing until a passing test run after its last edit is recorded, every edit is snapshotted for `keelyard rewind`, and noisy command output is trimmed. Local CLI plus MCP server. Apache-2.0.
+
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 3` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
 - **[Weaver](https://github.com/sean35mm/weaver)** `⭐ 3` — Local coordination layer for multiple coding agents working in the same repo. Agents announce tasks, claim paths/globs, check overlaps, and leave repo-local notes through a shared SQLite store. MIT.
