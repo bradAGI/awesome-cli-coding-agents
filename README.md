@@ -387,7 +387,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Paseo](https://github.com/getpaseo/paseo)** `⭐ 22.1k` — Self-hosted daemon that runs Claude Code, Codex, Copilot, OpenCode, and Pi agents in parallel on your own machines, driven from a `paseo` CLI (`run --worktree`, `ls`, `attach`, `send`) or from desktop, web, and mobile clients; voice control, no telemetry. TypeScript, AGPL-3.0.
 
-- **[Superset](https://github.com/superset-sh/superset)** `⭐ 15.6k` — A terminal built for coding agents; orchestrates parallel agent sessions.
+- **[Paradev](https://github.com/ParadevAI/Paradev)** `⭐ 15.7k` — Desktop app (formerly Superset) for running Claude Code, Codex, OpenCode, Gemini CLI, and other CLI agents in parallel, each task in its own git worktree and branch, with a diff and pull request pane and an in-app browser. Scriptable from a `superset` CLI, SDK, and MCP server; remote hosts and an iPhone/iPad app.
 
 - **[Agent Orchestrator (AO)](https://github.com/Untrivial-ai/agent-orchestrator)** `⭐ 13.7k` — Desktop app and `ao` CLI for supervising Claude Code, Codex, Cursor, OpenCode, and 20+ other agents in parallel; every Git-backed session gets its own worktree, branch, and pull request, and CI failures, review comments, and merge conflicts are routed back to the agent that owns them. Go + Electron, Apache-2.0.
 
