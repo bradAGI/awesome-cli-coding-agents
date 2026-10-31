@@ -711,6 +711,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[AIWorks](https://github.com/netbka/aiworks)** `⭐ 1` — Unattended manager for Claude Code, Codex and Cursor on your own PC: runs an agreed plan step by step in isolated worktrees, has a separate AI session verify each result, and delivers pull requests to GitHub; survives crashes, restarts and usage limits and asks the owner only for real decisions. Early preview. Node.js, Windows only, MIT.
 
+- **[ub-agents](https://github.com/uberblick-ai/ub-agents)** `⭐ 1` — GitHub coding loop with no server: labels are the queue, and YAML roles (prepare, implement, review, merge) run Claude Code or Codex on issues and PRs, handing off by label or asking a person. State lives in issue comments, so another launcher on any machine scales it out. Python, MIT.
+
 - **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
 
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
