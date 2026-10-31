@@ -527,6 +527,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 11` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
+- **[Herduck](https://github.com/wenhanweime/herduck)** `⭐ 10` — Terminal app derived from Herdr that keeps its agent panes and adds a Work view: related Claude Code, Codex, OpenCode, and Pi sessions are grouped under one piece of work with a saved goal, blocker, and next step, plus a searchable, resumable library of past sessions. Early alpha, macOS and Linux. AGPL-3.0.
+
 - **[cliclaw](https://github.com/choiyounggi/cliclaw)** `⭐ 8` — macOS daemon to drive Claude Code, Codex, Gemini, and Pi from Telegram — an independent session per chat, a confirm gate for dangerous commands (bash/git/cloud deletes), and secret auto-masking. npm `@younggichoi/cliclaw`, TypeScript/Bun. MIT.
 
 - **[tmuxlet](https://github.com/CodefiLabs/tmuxlet)** `⭐ 8` — Rust CLI that runs interactive coding CLIs (Claude, Codex, Gemini, opencode, pi, Cursor) inside tmux and exposes a normalized `claude -p` style blocking interface. Single binary, zero deps. Works against the regular Claude subscription bucket (not the separate Agent SDK credit) by driving interactive Claude Code from the outside.
@@ -534,8 +536,6 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 - **[Agent Workbench](https://github.com/cvelasquez/agent-workbench)** `⭐ 8` — Local web UI that runs the unmodified Claude Code, Codex, OpenCode and Antigravity CLIs in a pseudo-terminal, with tabs that survive a reload, one browsable history for all four, conversation hand-off between CLIs and full-text search. Windows-first, MIT.
 
 - **[Agent Fleet (k-k1)](https://github.com/k-k1/agent-fleet)** `⭐ 8` — Self-hosted web console that runs Claude Code, Codex, Copilot CLI, Cursor, Kiro, OpenCode and other agent CLIs unchanged as a fleet: isolated per-user Docker workspaces, parallel sessions in git worktrees, sessions that start and steer child sessions of another kind, scheduling and per-account usage tracking. Go + React, Apache-2.0. Not the woodor.ai project of the same name.
-
-- **[Herduck](https://github.com/wenhanweime/herduck)** `⭐ 8` — Terminal app derived from Herdr that keeps its agent panes and adds a Work view: related Claude Code, Codex, OpenCode, and Pi sessions are grouped under one piece of work with a saved goal, blocker, and next step, plus a searchable, resumable library of past sessions. Early alpha, macOS and Linux. AGPL-3.0.
 
 - **[iris](https://github.com/itzenata/iris-tui)** `⭐ 6` — Live TUI supervisor for every active Claude Code session: status, tokens, estimated cost, and one-pane approval of pending tool calls via a PreToolUse hook. Rust, MIT.
 
