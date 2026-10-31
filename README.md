@@ -249,11 +249,11 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Hazzel](https://github.com/mukundzha/hazzel)** `⭐ 28` — Approval-first Python coding agent where lookup-shaped asks ("find all *.py files") are answered locally with no model round trip, and `/usage`/`/budget` report provider-billed dollars rather than estimates. Every write is a diff you approve, and `/undo` reverts only the agent's hunks while keeping edits you made afterwards. ~10k lines readable end to end, 8 bring-your-own-key providers including Ollama, MCP client, Apache-2.0.
 
+- **[Mercury CLI](https://github.com/Whq02/MercuryCLI)** `⭐ 27` — Multi-session terminal coding agent ([mercury-cli.ai](https://mercury-cli.ai)): runs several coding sessions side by side on one screen, spawns crewmates on any of 22 providers or a local model in isolated git worktrees with file leases, and keeps project memory across sessions (BM25 plus an on-device embedding model). LSP, 23-language AST rewrites, a DAP debugger, keyless web search, computer use and voice dictation built in. npm `mercury-tech-cli`, TypeScript. Open source (Apache-2.0).
+
 - **[OB-1](https://github.com/Overbrilliant/ob-1)** `⭐ 26` — Terminal coding agent that runs with no account, API key, or card against a free-model catalog. Persistent project memory builds a fact and relationship graph from real work and surfaces it with `/memory`. npm `ob1`. Apache-2.0.
 
 - **[Kolega Code](https://github.com/kolega-ai/kolega-code)** `⭐ 21` — Python terminal coding agent where the model writes its own multi-agent workflows (Gigacode): the runtime enforces concurrency caps and token budgets, journals every completed agent call to disk, and replays unchanged calls for free on resume. 15+ providers, MCP over stdio/SSE/streamable HTTP, ACP, sandboxed shell and filesystem tools, git worktrees, and a browser agent. Source-available (BUSL-1.1).
-
-- **[Mercury CLI](https://github.com/Whq02/MercuryCLI)** `⭐ 21` — Multi-session terminal coding agent ([mercury-cli.ai](https://mercury-cli.ai)): runs several coding sessions side by side on one screen, spawns crewmates on any of 13 providers or a local model in isolated git worktrees with file leases, and keeps project memory across sessions (BM25 plus an on-device embedding model). LSP, 23-language AST rewrites, a DAP debugger, keyless web search, computer use and voice dictation built in. npm `mercury-tech-cli`, TypeScript. Source-available (BSL 1.1).
 
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 19` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
