@@ -363,6 +363,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Muse Code](https://dev.meta.ai/docs/muse-code)** `[Meta]` — Meta's coding agent for the terminal and CI, built for Muse Spark; plans, edits files, and runs commands with approvals and an OS sandbox, interactively with `muse` or headless with `muse exec`.
 
+- **[Uno](https://unocode.motiontic.com)** `[Motiontic]` — Small Rust terminal coding agent (3 MB binary, starts in under 4 ms); works with Anthropic, OpenAI and any OpenAI-compatible model, asks before changes, runs shell commands in a macOS/Linux sandbox, caps spending and undoes every file change. MCP, skills, AGENTS.md, helper agents and a real browser.
+
 ---
 
 ## Harnesses & orchestration
