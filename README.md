@@ -201,6 +201,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[nori-cli](https://github.com/tilework-tech/nori-cli)** `⭐ 191` — Multi-provider CLI built on Codex CLI; switch between Claude, Gemini, and Codex from the same native terminal.
 
+- **[Alysis Code](https://github.com/AlysisAi/AlysisCode)** `⭐ 188` — Model-agnostic CLI + desktop agent for coding and everyday computer work (OpenAI, Anthropic, Gemini, DeepSeek, xAI, OpenRouter, Ollama/LM Studio); sandboxed shell, MCP, skills, plugins, scheduled tasks. Apache-2.0.
+
 - **[VibePod](https://github.com/VibePod/vibepod-cli)** `⭐ 187` — Unified CLI for running AI coding agents in isolated Docker containers; zero-config setup, local metrics, HTTP traffic tracking, and an analytics dashboard for side-by-side comparison.
 
 - **[Octomind](https://github.com/muvon/octomind)** `⭐ 179` — Token-efficient, model-agnostic coding agent runtime in one Rust binary: interactive, piped, daemon, WebSocket, or ACP sub-agent. On its own [octobench](https://github.com/Muvon/octobench) suite it reports 24/25 real-PR tasks solved at lower cost than Claude Code and opencode; adaptive cache-aware compaction, guardrails-as-code, MCP-native, shareable specialist taps. Apache-2.0.
