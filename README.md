@@ -563,6 +563,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
 
+- **[Coincide](https://github.com/apoorvdarshan/coincide)** `⭐ 0` — Native macOS app (AppKit) that runs Claude Code, Codex, Cursor, Grok Build, OpenCode, and Antigravity through their own CLIs in one window; a thread can switch agents mid-conversation with a recap of what the next agent missed, with per-thread worktrees, per-turn checkpoints, and a `coincide` CLI to start threads, send messages, and answer approvals from scripts or other agents. MIT.
+
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
 - **[Bwee](https://bwee.app)** — Desktop app for CLI coding agents where users build their own views (BYOUI) — custom tools and dashboards that live alongside the terminal. Persistent sessions and task management. macOS.
