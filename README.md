@@ -549,6 +549,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Phantom](https://github.com/ashlrai/phantom)** `⭐ 5` — Operator console and `phm` CLI (npm `@ashlr/phantom`; formerly Ashlr Verse) that runs Claude Code, Codex, Devin, Grok and local-model sessions side by side as seats in one workbench, with per-account usage views; served in the browser on macOS, Linux and Windows, plus a macOS desktop app. Optional macOS-only fleet autonomy starts in shadow mode. MIT.
 
+- **[Friday](https://github.com/splashxmoon/friday)** `⭐ 5` — Cross-platform desktop app (also starts from a terminal with `npx github:splashxmoon/friday`) that runs Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot CLI, OpenCode and other agent CLIs side by side on a shared task board; agents message each other, and a task hands to another agent with its progress when one hits its usage limit. Per-agent git worktrees and diff review. MIT.
+
 - **[Claudette](https://github.com/Olorin-ai-git/claudette)** `⭐ 3` — Native iOS/Android/Apple TV mobile control plane for local CLI coding-agent sessions: real PTY plus context/cost gauge, agent tree, voice, and Take the Wheel handoff. Companion CLI `npx claudette setup`. MIT.
 
 - **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 2` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
