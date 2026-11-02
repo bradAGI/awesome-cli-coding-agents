@@ -415,6 +415,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[mux](https://github.com/coder/mux)** `⭐ 2.1k` — Desktop application for isolated, parallel agentic development.
 
+- **[Happier](https://github.com/happier-dev/happier)** `⭐ 2.1k` - Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other agents in parallel sessions and worktrees on your own machines, from desktop, phone and web. MIT.
+
 - **[Nimbalyst](https://github.com/nimbalyst/nimbalyst)** `⭐ 2k` — Open-source visual workspace for building with Codex, Claude Code, and more; manage your agents, edit the work visually, and track tasks. MIT.
 
 - **[Codync](https://github.com/leepokai/Codync)** `⭐ 1.7k` — Runs Claude Code, Codex, Gemini, Cursor and other ACP agents as persistent named bots, each with its own folder, agent and approvals; message them from an iPhone app, a desktop app (macOS/Windows/Linux) or a ratatui terminal UI over SSH. Group chats where bots answer in turn, threads, bots asking each other for reviews, push notifications for approvals, end-to-end encrypted relay. Rust host, Apache-2.0.
