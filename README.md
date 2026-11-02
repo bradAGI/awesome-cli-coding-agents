@@ -993,6 +993,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[centrol](https://github.com/baitelmal/centrol)** `⭐ 2` — Local flight recorder for CLI coding agents and the MCP servers they call. Wraps agent runs and proxies MCP traffic, recording tool calls, commands, and file mutations to a hash-chained ledger the agent has no write path to. Rollback with provenance, offline verification, single Go binary, no daemon. Apache-2.0.
 
+- **[Ponder](https://github.com/Quinnod345/ponder)** `⭐ 2` - Coverage-gated multi-pass review and deliberation ledger for CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, OpenClaw): grades every file or document across 6 dimensions, runs four adversarial perspectives (skeptic, builder, dreamer, empath), and blocks early stopping until coverage reaches 1.00 and churn converges below 0.02. Zero runtime dependencies, Node.js CLI + Agent Skill + GitHub Action. MIT.
+
 - **[UACOS](https://github.com/caotiensinh/uacos)** `⭐ 1` — Local-first code intelligence and orchestration toolkit: dependency-graph impact analysis, context compression, patch-scope safety gates, transaction rollback, and a job-based runtime for coding agents. No cloud dependency. Python, MIT.
 
 - **[llm-panel](https://github.com/musharna/llm-panel)** `⭐ 1` — Put one question or diff to several LLM CLIs in parallel (codex, claude, opencode/OpenRouter, ollama); every answer shown in full, an anonymized rebuttal round, cost accounting, a GitHub Action, and a measured miss rate on AACR-Bench. Python, PyPI `llm-panel`. MIT.
