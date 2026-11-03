@@ -697,6 +697,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[baya-cli](https://github.com/dephelion/baya-cli)** `⭐ 5` — One command turns a plain-text task list (Markdown, `TODO.txt`, YAML) into an LLM-planned DAG and runs it across the coding-agent CLIs you already have (`codex`, `claude`, `copilot`, `opencode`, etc.) — parallel, model-per-task, with context handoff and checkpoint/resume. No API keys. MIT.
 
+- **[CodeInOven](https://github.com/pillardash-oss/codeinoven)** `⭐ 7` — Desktop workspace that runs the CLI agents you already have (Pi, Codex CLI, Claude Code, OpenCode, Cline, Antigravity) and puts a reviewable lifecycle in front of them: Brainstorm, PRD, Spec, Assignment, Achievement, then an independent audit. Reasoning, tool calls, diffs and checkpoints stay on screen, work runs in scope-owned git worktrees, and scheduled assistants plus sub-agent fan-out handle work that outlives one session. TypeScript, MIT.
+
 - **[workkit](https://github.com/ITW-Creative-Works/workkit)** `⭐ 4` — Claude Code plugin that runs GitHub Issues as the work pipeline: a lead session hands each specced issue to worker subagents for code and tests and a verifier that reviews both blind, and hooks block a commit until the full test suite passes. Source-available (FSL-1.1-MIT).
 
 - **[brgr](https://github.com/justn-hyeok/brgr)** `⭐ 4` — Herdr plugin that lets a Codex or Claude Code session delegate tasks to other CLI agents (Claude Code, Codex, Gemini CLI, Copilot CLI, OpenCode, Cursor, Pi, and more), each in its own split pane and git worktree, running unattended with full permissions. Results come back sealed for the lead agent to accept or reject. Rust, MIT.
@@ -714,6 +716,7 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 - **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
 
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
+
 
 ### Agent infrastructure
 
