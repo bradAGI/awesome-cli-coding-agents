@@ -449,6 +449,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Calyx](https://github.com/yuuichieguchi/Calyx)** `⭐ 354` — Native macOS terminal built on libghostty for supervising coding agents in parallel: one approval inbox for Claude Code and Codex permission prompts and Grok and pi tool calls, a working/blocked/idle/done sidebar, in-terminal diff review, and MCP tools for agents. Swift, MIT.
 
+- **[Agentbox](https://github.com/savannahfeder/agentbox)** `⭐ 345` — Desktop GUI that runs dozens of Claude Code and Codex agents in parallel, each in its own git worktree, and only surfaces the ones that need you. GPL-3.0.
+
 - **[Dodaios](https://github.com/Dodaios/Dodaios)** `⭐ 317` — Cross-platform desktop app and `jarvis` CLI (formerly Personal Jarvis; PyPI `personal-jarvis`) whose Agentic IDE runs Claude Code, Codex, Gemini CLI, OpenCode, and other CLI coding agents side by side in terminal panes with git worktrees, alongside a chat and voice assistant, background agents, and agents placed on remote computers over SSH. Apache-2.0.
 
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 273` — Execute Claude Code tasks in parallel git worktrees.
