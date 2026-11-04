@@ -517,6 +517,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[construct](https://github.com/construct-worlds/construct)** `⭐ 20` — Terminal-native agentic development environment: fleet TUI for coding agent CLIs (Codex, Claude Code, Antigravity, Grok) with fork/merge, collaborative Program Markdown orchestration, generative widgets, agent-to-agent orchestration. Single Rust binary.
 
+- **[pitwall](https://github.com/quanticstudios/pitwall)** `⭐ 18` - Desktop terminal for running Claude Code, Codex, OpenCode, Gemini CLI, Cursor CLI, pi and Oh My Pi in parallel. Workers get separate Git worktrees; an inbox collects waiting agents, sidebar replies answer them, and a diff view sends review comments back. Linux, macOS, Windows. Go, MIT.
+
 - **[Solenta](https://github.com/currentbits/solenta)** `⭐ 17` — Local-first desktop app that drives the agent CLIs you already have (Claude Code, Codex, Cursor, Kimi, Grok, OpenCode) in parallel threads, each in its own git worktree. A shared memory server (SQLite with FTS + vector search, HTTP + MCP, localhost-only) is injected into every session so what one agent learns the next one knows, and the planboard is plain GitHub issues with a Start task button per card. Multi-phase build workflows with per-phase providers. macOS, Windows, Linux. MIT.
 
 - **[CLITrigger](https://github.com/HyperAITeam/CLITrigger)** `⭐ 14` — Self-hosted web UI for orchestrating Claude Code, Codex, and Gemini CLIs in parallel git worktrees. Features multi-agent discussion mode (architect/developer/reviewer debate before implementation), cross-project Morning Review Queue, scheduled execution with rate-limit auto-recovery, and a built-in Git client. MIT.
