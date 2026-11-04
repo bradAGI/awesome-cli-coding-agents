@@ -563,6 +563,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
 
+- **[Bridget](https://github.com/impiperl/bridget)**  — Rust-based terminal workspace connecting Claude Code, Codex, and shells. Features side-by-side sessions, automatic agent-to-agent discussions with human participation, and persistent shared memory.
+
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
 
 - **[Bwee](https://bwee.app)** — Desktop app for CLI coding agents where users build their own views (BYOUI) — custom tools and dashboards that live alongside the terminal. Persistent sessions and task management. macOS.
@@ -588,6 +590,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 - **[Sourceweave](https://sourceweave.app)** — Desktop workspace for Windows, Linux, and macOS (beta) that runs Claude Code, Codex, OpenCode, GitHub Copilot CLI, and other agent CLIs in real terminals beside the project's files and Git state. Sends one task to several agents, each in its own git worktree, then compares diffs, check results, and token cost before applying one. Paid, closed source.
 
 - **[harnsy](https://harnsy.dev)** — Team layer for Claude Code, Codex and OpenCode sessions on one machine: each agent holds a role under a lead, agents message each other straight into the running session, work moves as tasks with evidence and review, and a fresh agent takes over a role from a handover note when its context fills up. Local dashboard, one terminal tab per agent (tmux on Linux and macOS, its own terminal host on Windows). Closed source; the build without a key runs 1 project and up to 10 agents at once, a harnsy Max key lifts that and adds several machines and several subscriptions.
+
 
 ### Orchestrators & autonomous loops
 
