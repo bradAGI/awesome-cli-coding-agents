@@ -1007,6 +1007,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Sqwakie](https://github.com/alexcarney460-hue/walkie)** `⭐ 1` — Walkie-talkie for a team's coding agents across machines: Claude Code and Codex agents `post`, `ask` and `reply` to each other through the `walkie` CLI or MCP tools, with a live Mission Control dashboard of every machine and agent, kanban project boards whose cards agents can start, review and finish, and seats that start agents on a teammate's opted-in machine. Peer-to-peer over iroh (or a Tailscale tailnet) with no Sqwakie server in the middle. macOS (Apple Silicon) and Linux. Source-available (FSL-1.1-ALv2); free for small teams.
 
+- **[OpenMoat](https://github.com/crocodile-labs/openmoat)** `⭐ 1` — Local security layer for CLI coding agents: checks every command, file access, web request and MCP call from Claude Code, Codex, Cursor, OpenClaw, Copilot CLI, pi and Gemini CLI through their hooks before it runs; OS sandboxes for Claude Code, Codex and Cursor, egress proxy, MCP pinning, hash-chained audit log. Rust, MIT OR Apache-2.0.
+
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 0` — Transforms CLI agents from task executors into autonomous project partners.
 
 - **[SAKO](https://github.com/Thakay/sako)** `⭐ 0` — Task ledger and finish gate for coding agents: sessions record and claim tasks in a shared Markdown ledger, and a Stop hook or explicit command flags missing records, stale or missing check evidence, and finished work awaiting a commit. Hooks for Claude Code and Codex, plain commands elsewhere; one standard-library Python file, `uvx sako init`. MIT.
