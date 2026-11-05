@@ -261,6 +261,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[memcode](https://github.com/memcode-ai/memcode)** `⭐ 18` — Go terminal coding agent that keeps persistent per-project memory in a local `.memcode` store — subsystems, prior work, failed approaches, corrected preferences — so sessions don't start from zero. Single binary that doubles as a self-hosted gateway answering on twelve chat channels, and ships an MCP memory server so other agents can read the same store. Runs on your own API keys, a local endpoint like Ollama, or a hosted account. MIT.
 
+- **[hako](https://github.com/mithraeums/hako-code)** `⭐ 14` — Coding agent in a single C99 file (~800 KB, libc + curl, no runtime). Local models via its own C engine (hakm) or 14 cloud providers; runs in places Node agents can't, including iSH on iPhone. GPL-3.0.
+
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 11` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
 
 - **[slash-agent](https://github.com/akatzmann/slash-agent)** `⭐ 10` — Shell-integrated terminal copilot for active Bash/Zsh/Fish shells; captures tmux/history scrollback to diagnose errors, runs commands via interactive PTY bridge with shell state sync (`cd`/`export`), and supports local Ollama/OpenAI via [py-agent-core](https://github.com/akatzmann/py-agent-core). Apache-2.0.
