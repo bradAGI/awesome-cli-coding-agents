@@ -527,6 +527,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 11` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
+- **[tmux-canopy](https://github.com/jonmosco/tmux-canopy)** `⭐ 9` — tmux sidebar that shows every session, window, pane, and AI agent in one persistent tree, tracks Claude Code, Codex, Gemini CLI, OpenCode, Cursor and more through their hooks, and jumps to or replies to the one waiting on you. Bash, awk, and fzf with no daemon; it observes the tmux you already run and does not launch agents.
+
 - **[cliclaw](https://github.com/choiyounggi/cliclaw)** `⭐ 8` — macOS daemon to drive Claude Code, Codex, Gemini, and Pi from Telegram — an independent session per chat, a confirm gate for dangerous commands (bash/git/cloud deletes), and secret auto-masking. npm `@younggichoi/cliclaw`, TypeScript/Bun. MIT.
 
 - **[tmuxlet](https://github.com/CodefiLabs/tmuxlet)** `⭐ 8` — Rust CLI that runs interactive coding CLIs (Claude, Codex, Gemini, opencode, pi, Cursor) inside tmux and exposes a normalized `claude -p` style blocking interface. Single binary, zero deps. Works against the regular Claude subscription bucket (not the separate Agent SDK credit) by driving interactive Claude Code from the outside.
