@@ -1015,6 +1015,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[unthrottle-agents](https://github.com/swisscodernano/unthrottle-agents)** `⭐ 1` — 5-module CLI toolkit for auditing, unthrottling, and coordinating 1M-context coding agents (Claude Code, Codex CLI, Antigravity, Pi, local `llama.cpp`): raises hidden 256k/16k CLI caps to 950k continuous input and 1M output, provides a 2-line real-time `↓prefill` vs `↑decode` telemetry statusbar (`agent-statusline`), and prevents parallel agents from overwriting each other's files via a kernel-locked (`fcntl.flock` + OS PID birth-time) anti-collision bus (`agent-coord`). Companion toolkit to [*SUPER INTELLIGENCE*](https://a.co/d/0gO1eMZX). MIT.
+
 ---
 
 ## Contributing
