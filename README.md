@@ -701,6 +701,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[brgr](https://github.com/justn-hyeok/brgr)** `⭐ 4` — Herdr plugin that lets a Codex or Claude Code session delegate tasks to other CLI agents (Claude Code, Codex, Gemini CLI, Copilot CLI, OpenCode, Cursor, Pi, and more), each in its own split pane and git worktree, running unattended with full permissions. Results come back sealed for the lead agent to accept or reject. Rust, MIT.
 
+- **[Tessera](https://github.com/dheiver2/tessera)** `⭐ 3` — Treats Claude Code, Codex, OpenClaw and Hermes as one: syncs AGENTS.md/CLAUDE.md, skills and MCP config to each, runs the same task across them in parallel and keeps the answer that passes tests or wins a majority vote; also chains agents in pipelines and ships an eval harness (each agent vs. the ensemble). MIT.
+
 - **[DevPilot](https://github.com/geastham/devpilot)** `⭐ 2` — Fleet cockpit for Claude Code: a wave planner with critical-path and idle-runway warnings, plus a `session-runner` CLI that spawns and supervises real `claude -p` sessions across several repos at once. TypeScript, MIT.
 
 - **[Team1-Factory](https://github.com/Team1-dev/Team1-Factory)** `⭐ 2` — Unattended GitHub issue-to-merged-PR loop: triage, implement, review, and merge stages run against real issues and pull requests, driving Claude Code sessions with test-gated merges. Runs once or as a long-lived polling service under Docker. Apache-2.0.
