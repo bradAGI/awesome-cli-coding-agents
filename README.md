@@ -965,6 +965,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[House Party Protocol](https://github.com/rusharlabs/house-party-protocol)** `⭐ 5` — Local-first harness for coding-agent teams on Claude Code and Codex CLI that sits under whatever orchestrates the agents: `hpp` records the criterion command's exit code outside the model and hashes its artifacts, refuses a verdict from the builder's own lane or model family, binds approvals to the bytes they approved, and derives lane liveness from heartbeats so a dead lane never collides with a live one; its refusals exit non-zero. Standard-library Python, no model calls. MIT.
 
+- **[fanout](https://github.com/Breadstick-Crumbs/fanout)** `⭐ 5` — Merge-safety layer for parallel Claude Code and Codex sessions: tests every branch merged together before main and sends a break back to the session that caused it, tells a session when another one’s commit changes code it uses, and stops two sessions starting the same task. MIT.
+
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 4` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
 - **[tu](https://github.com/sahil87/tu)** `⭐ 4` — Cost-tracking CLI for AI coding assistants: token usage and spend across Claude Code, Codex, and OpenCode sessions. TypeScript, MIT.
