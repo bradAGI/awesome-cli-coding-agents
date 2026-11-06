@@ -947,6 +947,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[clu](https://github.com/arjia-labs/clu)** `⭐ 9` — Codified Likeness Utility: a SQLite-backed issue tracker for coordinating fleets of AI coding agents. Atomic task claim, dependency graphs, workflows & checkpoints, and an audit log. CLI-native with clean `--json` output, built to be driven by agents. Go.
 
+- **[AutoMode](https://github.com/mralexivy/AutoMode)** `⭐ 8` — Claude Code plugin that picks the model (Haiku, Sonnet or Opus) and reasoning effort for every prompt, shows the route on a status bar, and checks prompt-cache cost before it switches models; `am:run` runs big jobs with specialized subagents. MIT.
+
 - **[Better Call GPT](https://github.com/insta-fusion/bettercallgpt)** `⭐ 8` — Full-duplex voice call for a running Claude Code session (Azure GPT Realtime / GPT-Live, macOS): relays speech into the session, reads results aloud, supports barge-in; voice never approves permission prompts. Python, MIT.
 
 - **[Terminai](https://github.com/emosenkis/terminai)** `⭐ 7` — Makes your terminal of choice AI-enabled using your favorite CLI coding agent. Completely transparent until you activate the AI with Ctrl-Space, then runs your agent in an overlay with access to your terminal.
