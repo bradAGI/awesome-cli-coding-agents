@@ -1015,6 +1015,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[brevio-core](https://github.com/Brevio-Ventures/brevio-core)** — Zero-token PR invariants, deterministic security & reliability scanner (16 scanned rules, 123 documented rules), pre-commit flight checks (`brevio-core gate check`), cross-tool `AGENTS.md`/`CLAUDE.md`/`.cursor/rules` sync (`brevio-core memory sync`), Agent Safety Scorecard (`brevio-core score`), and stdio MCP server (`brevio-core mcp`) for Claude Code, Codex, and Cursor. Pure Python stdlib, PyPI `brevio-core`. MIT.
+
 ---
 
 ## Contributing
