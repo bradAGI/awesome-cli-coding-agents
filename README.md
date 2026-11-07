@@ -363,6 +363,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Muse Code](https://dev.meta.ai/docs/muse-code)** `[Meta]` — Meta's coding agent for the terminal and CI, built for Muse Spark; plans, edits files, and runs commands with approvals and an OS sandbox, interactively with `muse` or headless with `muse exec`.
 
+- **[Imagera Code](https://imagera.ai/code)** `[Imagera]` — Terminal coding agent built on OpenCode with 200+ models from many labs (Claude, GPT, Gemini, Grok, DeepSeek, Qwen, GLM), switchable mid-session; plan mode, `/review` and `/security-review`, `/goal`, parallel subagents, MCP, plugin hooks, image input, and headless `imagera-code run` for CI. Install with `npm i -g imagera-code`; requires an Imagera plan.
+
 ---
 
 ## Harnesses & orchestration
