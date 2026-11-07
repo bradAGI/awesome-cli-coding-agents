@@ -389,7 +389,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Superset](https://github.com/superset-sh/superset)** `⭐ 15.8k` — A terminal built for coding agents; orchestrates parallel agent sessions.
 
-- **[Agent Orchestrator (AO)](https://github.com/Untrivial-ai/agent-orchestrator)** `⭐ 14k` — Desktop app and `ao` CLI for supervising Claude Code, Codex, Cursor, OpenCode, and 20+ other agents in parallel; every Git-backed session gets its own worktree, branch, and pull request, and CI failures, review comments, and merge conflicts are routed back to the agent that owns them. Go + Electron, Apache-2.0.
+- **[Orchestrator.inc)](https://github.com/OrchestratorInc/agent-orchestrator)** `⭐ 14k` — Desktop app and `ao` CLI for supervising Claude Code, Codex, Cursor, OpenCode, and 20+ other agents in parallel; every Git-backed session gets its own worktree, branch, and pull request, and CI failures, review comments, and merge conflicts are routed back to the agent that owns them. Go + Electron, Apache-2.0.
 
 - **[Claude Squad](https://github.com/smtg-ai/claude-squad)** `⭐ 8.7k` — tmux-based harness to run and manage multiple Claude Code sessions side-by-side.
 
