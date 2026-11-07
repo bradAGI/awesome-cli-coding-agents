@@ -467,6 +467,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 161` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
 
+- **[Sesori](https://github.com/sesori-ai/sesori_apps_monorepo)** `⭐ 140` — Notifies you the moment an agent stops on a question or permission prompt, so you can answer from your phone instead of leaving it idle. One free desktop (macOS, Linux) and iOS/Android app for Claude Code, Codex, OpenCode, GitHub Copilot CLI, Cursor, Pi, OMP, Hermes, DeepSeek Harness, and Grok Build sessions on your own computer, connected by a local Bridge CLI (`npx @sesori/bridge`, also the Windows route); code stays on your computer and the end-to-end encrypted relay sees only ciphertext. Source-available, FSL-1.1-ALv2.
+
 - **[GridBash](https://github.com/jasonsuhari/gridbash)** `⭐ 131` — Cross-platform Rust terminal grid running Codex, Claude Code, Gemini CLI, and other real PTY-backed agents side by side; selected-pane input, optional git-worktree isolation, and nightly cross-platform binaries. MIT.
 
 - **[tlbx](https://github.com/tlbx-ai/tlbx)** `⭐ 116` — Self-hosted browser control station for remote coding agents (formerly MidTerm): runs Codex, Claude Code, Gemini CLI, Grok Build, OpenCode, Copilot CLI, and any PTY app on the machines that hold your repos and credentials, supervised from any desktop, tablet, or phone browser. Sessions survive disconnects; `mt` CLI helpers expose history, multi-session dispatch, and the control plane as JSON so agents can drive it. AGPL-3.0.
