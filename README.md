@@ -341,6 +341,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Droid](https://github.com/Factory-AI/factory)** `⭐ 79` `[Factory]` — Factory's multi-model CLI coding agent; #1 on Terminal-Bench, specialized droids for different tasks, headless CI mode, and multi-interface support (CLI/IDE/Slack/Linear).
 
+- **[Atlarix](https://github.com/AmariahAK/atlarix-releases)** `⭐ 9` `[NorahLabs]` — Terminal coding agent on any model (managed, your own API key, or local); shares sessions, keys and MCP servers with its desktop app and VS Code extension, asks before it changes a file, runs headless with `atlarix run --prompt` for CI, and serves ACP for Zed/JetBrains. Proprietary; release binaries are public.
+
 - **[TheGitAI](https://github.com/thegitai/thegitai-cli)** `⭐ 6` — Terminal coding agent across multiple frontier models with no API keys or provider account of your own; server-side web research and checkpointed edits that reverse cleanly. Source-visible client, proprietary server.
 
 - **[FetchCoder](https://github.com/fetchai/fetchcoder-releases)** `⭐ 2` `[Fetch.ai]` — Terminal coding agent powered by ASI1, with interactive TUI, CLI, and API server modes plus MCP integration.
