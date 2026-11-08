@@ -777,6 +777,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentSight](https://github.com/eunomia-bpf/AgentSight)** `⭐ 769` — Zero-instrumentation eBPF observability for LLM/coding agents; captures syscall-level traces (file, process, network) without modifying the agent. MIT.
 
+- **[Kapitsa](https://github.com/nace-ai/kapitsa)** `⭐ 694` `[Nace AI]` — Native C++ LLM inference engine for Apple silicon (Metal kernels and the Neural Engine) with OpenAI- and Anthropic-compatible APIs; `kapitsa claude|codex|opencode|pi --model 35b` starts a coding agent on a local model in one command. macOS, Apache-2.0.
+
 - **[Vestige](https://github.com/samvallad33/vestige)** `⭐ 659` — Local-first cognitive memory MCP server for coding agents; SQLite store, FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, hybrid retrieval, and provenance/correction tools. Single Rust binary with a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains. AGPL-3.0.
 
 - **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** `⭐ 640` — Local-first TypeScript agent runtime with persistent sessions, sandboxed tools, MCP integration, memory, credentials, audit logs, replay, and CLI/API/Console surfaces. Runs locally or self-hosted with Docker and Kubernetes; isolation depends on the configured provider, and the default local provider runs as your own OS user. Apache-2.0.
