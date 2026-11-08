@@ -845,6 +845,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Untether](https://github.com/littlebearapps/untether)** `⭐ 74` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.
 
+- **[Atris](https://github.com/atrislabs/atris)** `⭐ 71` — Repo-local project memory for Claude Code, Codex and Cursor: a `MAP.md` file:line index, a linked Markdown wiki with typed links (`atris wiki related`), and daily logs, plus local task state with a generated `TODO.md` view. `npm install -g atris && atris init`. MCP server with design and long-goal tools. MIT.
+
 - **[skillreaper](https://github.com/thousandflowers/skillreaper)** `⭐ 63` — CLI that reads real session transcripts to find skills, MCP servers, and agents loaded but never fired, then safely quarantines them in a reversible operation. Supports Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static binary, Homebrew and npm. MIT.
 
 - **[AgentLint](https://github.com/0xmariowu/AgentLint)** `⭐ 62` — 33 evidence-backed checks for AI-friendly repos. Scans file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix. Your AI agent is only as good as your repo.
