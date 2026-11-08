@@ -807,6 +807,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** `⭐ 1k` — Records a coding-agent run and replays it offline with the network off, or forks it from any checkpoint onto a different model. Capture sits below the harness — shell exit codes, per-turn file changes and MCP calls land on the same timeline as the model traffic — so it also records agents with no base URL to change, via TLS interception on a host allowlist.
 
+- **[Kapitsa](https://github.com/nace-ai/kapitsa)** `⭐ 861` `[Nace AI]` — Native C++ LLM inference engine for Apple silicon (Metal kernels and the Neural Engine) with OpenAI- and Anthropic-compatible APIs; `kapitsa claude|codex|opencode|pi --model 35b` starts a coding agent on a local model in one command. macOS, Apache-2.0.
+
 - **[agent-qa](https://github.com/vostride/agent-qa)** `⭐ 824` — Self-improving QA harness for web and mobile workflows, with a CLI, dashboard, MCP and skills for coding agents, memory-backed self-healing, and sandboxed hooks for setup/teardown. FSL-1.1-ALv2.
 
 - **[AgentSight](https://github.com/eunomia-bpf/AgentSight)** `⭐ 800` — Zero-instrumentation eBPF observability for LLM/coding agents; captures syscall-level traces (file, process, network) without modifying the agent. MIT.
