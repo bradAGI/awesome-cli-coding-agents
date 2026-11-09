@@ -555,6 +555,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[tring](https://github.com/matogen/tring.chat)** `⭐ 2` — Browser-based terminal deck that runs up to 16 Claude Code, other agent, or plain shell sessions per project from a local Node daemon; one session fills the center of the screen while the rest render as live thumbnails, and a tile turns green when its session finishes and is waiting for input (quiet output, OSC 133 prompt, bell, or a Claude Code Stop hook). Ctrl+Space then a digit jumps to a fixed slot. npm `tring-chat`. MIT.
 
+- **[Bivy](https://github.com/bivysh/bivy)** `⭐ 2` — Runs Claude Code, Codex, OpenCode, Pi and other agent CLIs on your own machines or a cloud computer that sleeps when idle; the same sessions open in the `bivy` CLI, a browser, or a phone web app with push notifications, approvals, and live previews of the app the agent is running. Runs can start from GitHub, CI, webhooks or a schedule. End-to-end encrypted relay; the node, web app, relay and control plane are all self-hostable. TypeScript, MIT.
+
 - **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
 
 - **[Peekumi](https://github.com/tee-jagz/peekumi)** `⭐ 1` — Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code. A self-hosted server sends your instructions to the agents as tasks in separate Git worktrees, and you review, approve and merge their changes from a phone. Rust, Apache-2.0.
