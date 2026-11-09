@@ -549,6 +549,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Phantom](https://github.com/ashlrai/phantom)** `⭐ 5` — Operator console and `phm` CLI (npm `@ashlr/phantom`; formerly Ashlr Verse) that runs Claude Code, Codex, Devin, Grok and local-model sessions side by side as seats in one workbench, with per-account usage views; served in the browser on macOS, Linux and Windows, plus a macOS desktop app. Optional macOS-only fleet autonomy starts in shadow mode. MIT.
 
+- **[Pi GPUI](https://github.com/bytesbay/pi-gpui)** `⭐ 6` — Native desktop app for the Pi coding agent, written in Rust with GPUI; macOS for now, Linux planned. Runs your installed `pi` over RPC with one process per open session, so extensions, skills and sessions carry over; session tree with forks, extension questions answered inline, plugins in any language. `/gpui` (npm `pi-gpui`) moves a terminal session into the app. MIT.
+
 - **[Claudette](https://github.com/Olorin-ai-git/claudette)** `⭐ 3` — Native iOS/Android/Apple TV mobile control plane for local CLI coding-agent sessions: real PTY plus context/cost gauge, agent tree, voice, and Take the Wheel handoff. Companion CLI `npx claudette setup`. MIT.
 
 - **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 3` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
