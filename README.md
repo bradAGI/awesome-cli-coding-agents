@@ -714,6 +714,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 - **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
 
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
+- **[openflow](https://github.com/surlymochan/openflow)** `⭐ 4` `[surlymochan]` - Evidence-gated delivery workflow for coding agents: YAML phases with red/green TDD proof gates checked in code, so a proof recorded after the fix, or a test whose assertions are empty, is rejected. `xflow` CLI (`npm i -g @surlymochan/openflow`) runs from Claude Code, Codex, Cursor, OpenCode, or a plain terminal. Ships a SWE-bench Verified head-to-head against a plain agent, with the scripts and per-run logs in the repo. MIT.
+
 
 ### Agent infrastructure
 
