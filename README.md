@@ -559,6 +559,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Peekumi](https://github.com/tee-jagz/peekumi)** `⭐ 1` — Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code. A self-hosted server sends your instructions to the agents as tasks in separate Git worktrees, and you review, approve and merge their changes from a phone. Rust, Apache-2.0.
 
+- **[muster](https://github.com/ZacxDev/muster)** `⭐ 1` — Self-hosted server that mirrors the tmux windows on several machines to a phone PWA: Claude Code sessions render as a chat, opencode as a read view, and Codex, Gemini CLI and shells as live terminals. Adds dictation, Web Push, a task board, and MCP tools through which an agent asks its owner a question and waits for the answer. Each machine's host agent dials out to the server, so muster opens no network port on the machines; meant for use over Tailscale. Linux (macOS hosts experimental), single server. Go + Postgres, MIT.
+
 - **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 0` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
