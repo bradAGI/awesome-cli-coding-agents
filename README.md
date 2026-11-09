@@ -561,6 +561,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 0` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
 
+- **[claudebox](https://github.com/jakubro/claudebox)** `⭐ 0` — Self-hosted web UI and `claudebox` CLI that run every Claude Code session in its own disposable Podman or Docker container, with the workspace mounted at its host path. Reply threads anchored to a quoted sentence, forking at any message, kanban boards drawn from ticket files in the repo, and agents that start and question sessions of their own; LangChain providers run through LangGraph. Python + React, GPL-3.0.
+
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
 
 - **[PATAPIM](https://patapim.ai)** — Terminal IDE with a 9-terminal grid for running multiple CLI coding agents simultaneously; features AI state detection, built-in Whisper voice dictation, LAN remote access, and an embedded MCP browser. Built with Electron and node-pty. Freemium.
