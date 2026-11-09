@@ -767,6 +767,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 2k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
 
+- **[deja-vu](https://github.com/vshulcz/deja-vu)** `⭐ 1.4k` — Local memory and session search over the transcripts 43 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, OpenClaw, Hermes, Pi, Aider and more) already write to disk, including sessions from before it was installed. Serves cross-agent recall, line-level file blame, and deleted-session recovery over a terminal UI, CLI, MCP server, and hooks with zero LLM calls and automatic credential redaction. Single Go binary; MIT.
+
 - **[numbat](https://github.com/perplexityai/numbat)** `⭐ 1.2k` `[Perplexity]` — Endpoint visibility into AI coding agent activity. Local hooks, generated plugins, and OTLP logs feed a CEL rule engine for on-device detection, opt-in pre-action blocking, and forensic reconstruction from on-disk session artifacts. Single Go binary; covers Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI, OpenCode, OpenClaw, Crush, Goose, and 15+ more. Apache-2.0.
 
 - **[HOL Guard](https://github.com/hashgraph-online/hol-guard)** `⭐ 1.1k` — Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Pre-tool hooks, approval center, and supply-chain advisory scanning. Supports Claude Code, Codex, Cursor, Gemini, Copilot CLI, Hermes, and OpenCode.
