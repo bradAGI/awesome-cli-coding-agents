@@ -1015,6 +1015,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[Lantern Works](https://thelanternworks.com/install/?ref=readme-cliagents)** `⭐ 1` — MCP server a coding agent can add to check live GPU rental prices across tracked vendors (~29, cited and dated) and estimate job cost before renting compute. Free, read-only, no key. PyPI `lantern-works-deals-mcp` 0.6.2; `claude mcp add --transport http lantern-works-deals https://lantern-works-mcp.lantern-works.workers.dev/mcp?ref=readme-cliagents`
+
 ---
 
 ## Contributing
