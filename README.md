@@ -555,6 +555,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[tring](https://github.com/matogen/tring.chat)** `⭐ 2` — Browser-based terminal deck that runs up to 16 Claude Code, other agent, or plain shell sessions per project from a local Node daemon; one session fills the center of the screen while the rest render as live thumbnails, and a tile turns green when its session finishes and is waiting for input (quiet output, OSC 133 prompt, bell, or a Claude Code Stop hook). Ctrl+Space then a digit jumps to a fixed slot. npm `tring-chat`. MIT.
 
+- **[Axon Terminal](https://github.com/Neuralflows/axon-terminal)** `⭐ 2` — Free Windows desktop app that runs Claude Code, Codex and OpenRouter sessions in tabs, each showing whether its agent is working, done or waiting for your approval, with tool calls, shell commands and per-tab context and cost next to the conversation. Closed source, no sign-up; installs from the [Microsoft Store](https://apps.microsoft.com/detail/9P5DW739TTN1?cid=lichen-awesome-cli).
+
 - **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
 
 - **[Peekumi](https://github.com/tee-jagz/peekumi)** `⭐ 1` — Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code. A self-hosted server sends your instructions to the agents as tasks in separate Git worktrees, and you review, approve and merge their changes from a phone. Rust, Apache-2.0.
