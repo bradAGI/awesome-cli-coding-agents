@@ -705,6 +705,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Team1-Factory](https://github.com/Team1-dev/Team1-Factory)** `⭐ 2` — Unattended GitHub issue-to-merged-PR loop: triage, implement, review, and merge stages run against real issues and pull requests, driving Claude Code sessions with test-gated merges. Runs once or as a long-lived polling service under Docker. Apache-2.0.
 
+- **[pragma](https://github.com/akshaypimprikar/pragma)** `⭐ 3` — Claude Code plugin chaining spec→plan→feature→gates→review→test→bugfix→release for iOS projects. `/gates` runs 10 deterministic pre-PR checks (build, full test suite, coverage threshold, RED-before-GREEN commit order via a git-history script, project-specific architecture greps) instead of an LLM judgment call. `/loop` drives the cycle unattended until every gate passes. MIT.
+
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
 - **[Code-Crafter](https://github.com/anandgupta193/code-crafter)** `⭐ 1` — Self-hosted Slack/Jira → pull-request loop: each ticket gets a disposable Docker container running Claude Code headless, a Neo4j architecture graph (Graph RAG + read-only MCP) briefs the agent, and review comments and CI failures are routed back to it until a human merges. TypeScript, MIT.
