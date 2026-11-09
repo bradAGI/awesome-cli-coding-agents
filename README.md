@@ -293,6 +293,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LocalCodeForge](https://github.com/BMDPLAinsong/LocalCodeForge)** `⭐ 1` — C#/.NET local coding agent kernel running a 30B Qwen3-Coder via Ollama with no cloud: injects the real symbol table (type inventories, member signatures, access modifiers) before generation, guards against type conflicts before writing, runs a closed plan → write → build → locate → fix → run loop, and rolls back to task-isolated backups on repeated failure. CLI plus a web dashboard with live task stream and backup diff. MIT.
 
+- **[Praex](https://github.com/ailucius/praex-cli)** `⭐ 0` — Terminal coding agent forked from OpenCode: reads the repo, edits files with approval, and runs commands and tests. Free hosted model (Velox II) or bring your own API keys; `/rc` Remote Control continues a terminal session from a phone or praex.ai/rc, and `/share` makes read-only session links. Linux and macOS. MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
