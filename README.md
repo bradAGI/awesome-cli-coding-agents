@@ -33,6 +33,7 @@ A CLI coding agent is an AI-powered tool that runs in your terminal and can auto
   - [Orchestrators & autonomous loops](#orchestrators--autonomous-loops)
   - [Agent infrastructure](#agent-infrastructure)
 
+- [Related Curations](#related-curations)
 - [Contributing](#contributing)
 
 ---
@@ -1014,6 +1015,12 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[Agent Fleet](https://woodor.ai/agent-fleet/)** — Messaging layer for coding-agent sessions: every live Claude Code or Codex session takes a `name@project` address, and sessions exchange messages and files on one machine, across a LAN, or across networks. Also does remote session lifecycle control — compact, clear, handoff, restart. Native on macOS, Windows (x64 and arm64), and Linux x64, with no WSL or tmux. Closed source; free on a local network, paid cloud relay.
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
+
+---
+
+## Related Curations
+
+- **[Awesome AI Coding Tools](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools)** — Curated 3-tier taxonomy of AI coding assistants, autonomous agents, local foundation models, and SWE-bench architectures. Reciprocally cross-references this directory.
 
 ---
 
