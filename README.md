@@ -715,6 +715,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
 
+- **[Magi](https://magi-core-landing-2.vercel.app/)** — Autonomous agent fleet that runs its own operating loop end to end: work lands on a shared board, a coordinator atomically claims each task for the least-loaded online headless opencode worker, and a supervisor audits every done task, reopens subpar work, and turns each fault into a new task. The fleet publishes a self-generated weekly ops digest and a live fleet-status dashboard as proof.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
