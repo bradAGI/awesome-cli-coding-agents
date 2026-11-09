@@ -363,6 +363,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Muse Code](https://dev.meta.ai/docs/muse-code)** `[Meta]` — Meta's coding agent for the terminal and CI, built for Muse Spark; plans, edits files, and runs commands with approvals and an OS sandbox, interactively with `muse` or headless with `muse exec`.
 
+- **[Mel](https://www.openmel.dev)** `[Thinkverse AI LLC]` — Agentic terminal that runs a lead agent with worker agents in parallel and can orchestrate CLI agents such as Claude Code and Codex CLI; diff review and configurable approvals on every change. Mac, Windows, Linux and a VS Code extension. Proprietary; free with your own API key.
+
 ---
 
 ## Harnesses & orchestration
