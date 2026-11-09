@@ -589,6 +589,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[harnsy](https://harnsy.dev)** — Team layer for Claude Code, Codex and OpenCode sessions on one machine: each agent holds a role under a lead, agents message each other straight into the running session, work moves as tasks with evidence and review, and a fresh agent takes over a role from a handover note when its context fills up. Local dashboard, one terminal tab per agent (tmux on Linux and macOS, its own terminal host on Windows). Closed source; the build without a key runs 1 project and up to 10 agents at once, a harnsy Max key lifts that and adds several machines and several subscriptions.
 
+- **[Foxpit](https://foxpit.dev)** — Desktop app for Windows, macOS, and Linux that runs Claude Code, Codex, OpenCode, and Antigravity as one team: a lead agent splits the work, teammates run in real terminals, each in its own git worktree, and the lead reviews their diffs before merge. Shared markdown memory across agents, a per-engine daily budget with a usage panel, and an optional 3D office view of who is working on what. Runs locally. Closed source; 3-day free trial, then $12/month.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
