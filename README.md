@@ -703,6 +703,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[DevPilot](https://github.com/geastham/devpilot)** `⭐ 2` — Fleet cockpit for Claude Code: a wave planner with critical-path and idle-runway warnings, plus a `session-runner` CLI that spawns and supervises real `claude -p` sessions across several repos at once. TypeScript, MIT.
 
+- **[SpurCode](https://github.com/getspur/SpurCode)** `⭐ 2` — Rust TUI control tower for a mixed agent fleet (Claude Code, Codex, Gemini, Kimi, OpenCode, and generic ACP agents): a brain turns a task into a durable DAG plan, workers execute in isolated git worktrees, and every result lands in one shared review lane with topological cherry-pick onto a staging branch; event-replay sessions survive restarts. Optional Telegram frontend. GPL-3.0.
+
 - **[Team1-Factory](https://github.com/Team1-dev/Team1-Factory)** `⭐ 2` — Unattended GitHub issue-to-merged-PR loop: triage, implement, review, and merge stages run against real issues and pull requests, driving Claude Code sessions with test-gated merges. Runs once or as a long-lived polling service under Docker. Apache-2.0.
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
