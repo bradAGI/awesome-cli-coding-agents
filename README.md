@@ -185,6 +185,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[claw-code-agent](https://github.com/HarnessLab/claw-code-agent)** `⭐ 548` — Python-only Claude Code rewrite with zero external dependencies; born from the March 2026 Claude Code source leak, positioned as easier to hack on than the Rust/TypeScript reimplementations.
 
+- **[Dulus](https://github.com/KevRojo/Dulus)** `⭐ 540` — Provider-independent autonomous coding agent for the terminal (`pip install dulus`): reads/edits files, runs Bash, browses the web and ships commits across 100+ providers via LiteLLM plus local models through Ollama, with persistent memory, MCP support, multi-agent round tables, and an OpenAI-compatible hosted endpoint. GUI, web, CLI and Telegram surfaces; UI in 34 languages.
+
 - **[g3](https://github.com/dhanji/g3)** `⭐ 521` — "Coding AI agent" in Rust: tool-running, repo interaction, skills system, and provider abstraction.
 
 - **[Orca](https://github.com/echoVic/orca-agent)** `⭐ 514` — DeepSeek-native terminal coding agent in Rust with OS-level sandboxing (Seatbelt, bwrap, Landlock+seccomp, fail-closed), persistent goal mode with stall detection, background tasks, JS workflows, folder trust, and 1M-context auto-compaction. Single binary. MIT.
