@@ -779,6 +779,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentSight](https://github.com/eunomia-bpf/AgentSight)** `⭐ 779` — Zero-instrumentation eBPF observability for LLM/coding agents; captures syscall-level traces (file, process, network) without modifying the agent. MIT.
 
+- **[Firecrawl CLI](https://github.com/firecrawl/cli)** `⭐ 683` `[Firecrawl]` — Terminal client for Firecrawl ([firecrawl.dev](https://www.firecrawl.dev/?utm_source=awesome-cli-coding-agents&utm_medium=integration)), the context API for AI agents. `firecrawl search`, `scrape`, `crawl`, and `map` turn web results, pages, and whole sites into Markdown or JSON that coding agents read straight from the shell. Install with `npm install -g firecrawl-cli`; `firecrawl init` adds Agent Skills for Claude Code, Codex, Cursor, OpenCode, and more, and `firecrawl setup mcp` adds the Firecrawl MCP server. ISC.
+
 - **[Vestige](https://github.com/samvallad33/vestige)** `⭐ 660` — Local-first cognitive memory MCP server for coding agents; SQLite store, FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, hybrid retrieval, and provenance/correction tools. Single Rust binary with a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains. AGPL-3.0.
 
 - **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** `⭐ 641` — Local-first TypeScript agent runtime with persistent sessions, sandboxed tools, MCP integration, memory, credentials, audit logs, replay, and CLI/API/Console surfaces. Runs locally or self-hosted with Docker and Kubernetes; isolation depends on the configured provider, and the default local provider runs as your own OS user. Apache-2.0.
