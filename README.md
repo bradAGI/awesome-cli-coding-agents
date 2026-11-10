@@ -501,6 +501,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Superagent](https://github.com/pungme/superagent-desktop)** `⭐ 36` — macOS desktop client for Claude Code and Codex: gives the agent a real browser it can navigate and drive, an iOS Simulator window for installing and screenshotting apps, and a phone companion app for remote monitoring over an end-to-end encrypted relay. Electron, SwiftUI, and a Cloudflare Worker relay. MIT.
 
+- **[Aixle Flow](https://github.com/AixleHQ/flow)** `⭐ 35` — Self-hosted Kanban board that runs CLI coding agents (Claude Code, Codex, Cursor CLI, Gemini CLI, Grok CLI, Kiro CLI, Antigravity CLI) for a team: each card starts a durable Temporal workflow, every step runs in its own container, and each run records its log, tokens and cost. Apache-2.0.
+
 - **[swe-mux](https://github.com/jatoran/swe-mux)** `⭐ 33` — Workspace that runs Claude Code, Codex, OpenCode and Pi in real terminals on your machine, with live per-session status, sessions that survive restarts, and the same live sessions on your phone over Tailscale (PWA, push notifications). Python, Apache-2.0.
 
 - **[TermFold](https://github.com/Bibarud/TermFold)** `⭐ 33` — Android app that runs a full Debian environment with Claude Code, Codex, Gemini CLI, OpenCode, Pi and more, plus a native chat for Agent Client Protocol agents, a file manager, and a browser the agents can drive; several agent sessions per project, built for tablets, no root and no laptop. Kotlin, Apache-2.0.
