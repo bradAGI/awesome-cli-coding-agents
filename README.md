@@ -683,6 +683,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[xcb](https://github.com/hraness/xcb)** `⭐ 14` — Sends each coding task to one of your Claude, Codex, or Devin subscription accounts that is signed in, idle, and not at a known usage limit, and holds that account until the task's process exits. Other agents hand it work with `xcb --json route`; also a TypeScript SDK. MIT.
 
+- **[Kraft](https://github.com/itsOmidKarami/kraft)** `⭐ 12` — Local orchestrator with a CLI, a terminal UI and a web UI that takes each task from spec to pull request in its own git worktree. Steps run in order from a YAML chain file, tests and CI are checked in steps of their own, attempts and spend are capped, and a person approves the spec, the plan and the final review. Claude Code by default; Codex, Cursor, Gemini CLI, OpenCode, Amp and Antigravity can run steps. macOS and Linux. Apache-2.0.
+
 - **[TeDDy](https://github.com/atte500/TeDDy)** `⭐ 8` — An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow. Python, AGPL-3.0.
 
 - **[Dahrk](https://github.com/dahrkai/dahrk-node)** `⭐ 7` — Runs a deterministic multi-stage workflow per Linear issue on a node you own; each stage gets its own runtime (Claude Code, Codex, Pi), model, prompt, and git worktree, sequenced by plain TypeScript so no model picks the next step. Apache-2.0 node; the workflow hub is hosted and requires an account.
