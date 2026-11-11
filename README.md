@@ -543,6 +543,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent 007](https://github.com/bill10/agent-007)** `⭐ 5` — Self-hosted job board and pixel office for Claude Code, Codex, and other terminal agents: each queued job gets a fresh agent in its own git worktree and branch, runs in a real PTY you can take over, and lands as a pull request for review. Node.js web UI, MIT.
 
+- **[pohunek](https://github.com/zajca/pohunek)** `⭐ 6` — Per-machine daemon that keeps Codex, Claude Code, and Hermes Agent sessions alive across disconnects, each in its own git worktree, shows whether each is working, blocked, or idle, and has a JSON CLI so agents can drive other sessions. Works across machines over NetBird or Tailscale; Linux x86_64 and macOS on Apple Silicon. Rust, MIT.
+
 - **[mix2](https://github.com/elleryfamilia/mix2)** `⭐ 5` — Terminal app that turns two coding agents into one team; one question, both investigate independently, reconcile or disclose disagreements, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI. Rust + TypeScript, MIT.
 
 - **[taskpods](https://github.com/yanairon/taskpods)** `⭐ 5` — Lightweight, agent-agnostic CLI that runs Claude Code, Codex CLI, Gemini CLI, opencode, aider, or any command in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands. Python, MIT.
