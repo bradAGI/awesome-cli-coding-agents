@@ -771,6 +771,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[HOL Guard](https://github.com/hashgraph-online/hol-guard)** `⭐ 1.1k` — Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Pre-tool hooks, approval center, and supply-chain advisory scanning. Supports Claude Code, Codex, Cursor, Gemini, Copilot CLI, Hermes, and OpenCode.
 
+- **[OpenQodex](https://github.com/openqodex/openqodex)** `⭐ 1.1k` — Code review CLI for coding agents: `openqodex review` starts a separate reviewer process that checks the change the agent wrote, runs 22 built-in scanners, and can gate `git push` on the verdict. Also builds a code graph that agents query for callers and impact. Works with Claude Code, Codex, Cursor, and Cline. TypeScript, Apache-2.0.
+
 - **[Concord MCP](https://github.com/Get-Concord-AI/concord-mcp)** `⭐ 1k` — Local-first MCP server plus a `concord` CLI and TUI giving coding agents shared work state: cross-harness messaging, file-claim overlap detection before edits, task handoff with evidence, and a live dashboard. Works with Claude Code, Codex, Cursor, Gemini CLI, and Grok Build. MIT.
 
 - **[ThinkWatch Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite)** `⭐ 853` — Local gateway for coding agents, packaged as a desktop app for macOS, Windows and Linux: Claude Code, Codex, opencode, Aider, Qwen Code, Pi and others are pointed at it once, then upstreams change without editing agent configs. Converts between the Anthropic, OpenAI and Gemini APIs, records each request's route and cost, redacts API keys before requests leave, and cuts off dangerous tool calls mid-stream. The `twcore` gateway also runs headless on a Linux server. MIT.
