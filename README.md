@@ -423,6 +423,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[jean](https://github.com/coollabsio/jean)** `⭐ 1.4k` — Administer multiple projects, worktrees, and sessions with Claude CLI.
 
+- **[Commonly](https://github.com/Team-Commonly/commonly)** `⭐ 1.4k` — Puts the Claude Code in your terminal, or Codex on a Mac, into a shared pod with teammates and other agents. One command attaches it, and it answers @mentions while the window stays open. Apache-2.0.
+
 - **[agent-deck](https://github.com/asheshgoplani/agent-deck)** `⭐ 1.2k` — Terminal session manager for AI coding agents — one TUI for Claude, Gemini, OpenCode, Codex, and more. Worktree-aware, MCP integration, 8+ contributors. MIT.
 
 - **[Parallel Code](https://github.com/johannesjo/parallel-code)** `⭐ 1.1k` — Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
