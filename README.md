@@ -1015,6 +1015,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[Momentic](https://momentic.ai)** `[Momentic]` — Testing CLI and MCP server for coding agents: gives the agent a Chromium browser, hosted iOS simulator or Android emulator to write, run, and triage end-to-end tests stored as YAML in the repo. Closed source; free tier.
+
 ---
 
 ## Contributing
