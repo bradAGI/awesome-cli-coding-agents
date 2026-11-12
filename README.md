@@ -293,6 +293,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LocalCodeForge](https://github.com/BMDPLAinsong/LocalCodeForge)** `⭐ 1` — C#/.NET local coding agent kernel running a 30B Qwen3-Coder via Ollama with no cloud: injects the real symbol table (type inventories, member signatures, access modifiers) before generation, guards against type conflicts before writing, runs a closed plan → write → build → locate → fix → run loop, and rolls back to task-isolated backups on repeated failure. CLI plus a web dashboard with live task stream and backup diff. MIT.
 
+- **[cjh](https://github.com/yangyongzhen/cjh)** `⭐ 1` — Terminal coding agent harness written from scratch in Huawei's Cangjie language: one 17 MB static binary with zero runtime dependencies (no Node, no Python, no Electron). Diff-rendered TUI plus a built-in web UI driving the same agent and toolchain, 14 built-in tools, a three-domain capability gate with an approval chain for dangerous commands, plugin trust chain (SHA256 + SM2), MCP, and an offline Cangjie knowledge layer. Linux and Windows, MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
