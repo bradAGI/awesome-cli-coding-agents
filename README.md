@@ -293,6 +293,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LocalCodeForge](https://github.com/BMDPLAinsong/LocalCodeForge)** `⭐ 1` — C#/.NET local coding agent kernel running a 30B Qwen3-Coder via Ollama with no cloud: injects the real symbol table (type inventories, member signatures, access modifiers) before generation, guards against type conflicts before writing, runs a closed plan → write → build → locate → fix → run loop, and rolls back to task-isolated backups on repeated failure. CLI plus a web dashboard with live task stream and backup diff. MIT.
 
+- **[Borg](https://github.com/adelphidata/borg)** `⭐ 1` — Security-first personal assistant and coding agent in Rust. Built to run for weeks without babysitting. Terminal UI, desktop app, one-shot `borg ask`, read-only Plan mode, `/goal` loops that keep going until your checks pass, git worktrees, `/undo`, and ACP for editors. Sandbox on by default, a self-healing daemon, and API key rotation with provider failover. One-command import from OpenClaw and Hermes. MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
