@@ -525,6 +525,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[AgentTerm](https://github.com/albertwujj/agent-term)** `⭐ 12` — Visual desktop terminal for macOS and Windows/WSL that runs Claude Code, Codex, Cursor CLI and other AI CLIs unmodified, each session in its own OS window with a distinct Dock tile or taskbar button. Adds prompt search to resume closed sessions, comments on selected output, markdown plans rendered as pages with threaded comments, curated code reviews with inline feedback, a phone view of the same terminal, click-to-line navigation in JetBrains IDEs, and more. Electron, MIT.
 
+- **[Anywhere](https://github.com/mingo023/anywhere)** `⭐ 12` — Native macOS app (Rust/GPUI, Go daemon) for running Claude Code, Codex, and other coding agents in real terminals grouped by project and git worktree, with working/needs-you/done status, diff review beside the terminal, and a native iOS app over Tailscale. MIT.
+
 - **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 11` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
 - **[Agent Workbench](https://github.com/cvelasquez/agent-workbench)** `⭐ 11` — Local web UI that runs the unmodified Claude Code, Codex, OpenCode and Antigravity CLIs in a pseudo-terminal, with tabs that survive a reload, one browsable history for all four, conversation hand-off between CLIs and full-text search. Windows-first, MIT.
