@@ -715,6 +715,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
 
+- **[Remakecraft](https://github.com/remakecraft/remakecraft)** `⭐ 0` — Claude Code plugin that rewrites an app from its observable behaviour in a hook-enforced clean room: spec from screenshots and docs, tests written first with ~30% sealed from the builders, parallel builds in worktrees, and a parity score that includes the sealed tests.
+
 ### Agent infrastructure
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
