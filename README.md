@@ -201,6 +201,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Mini-Kode](https://github.com/minmaxflow/mini-kode)** `⭐ 305` — An educational AI coding agent CLI, intended as a readable reference implementation.
 
+- **[uncut](https://github.com/Balanov/uncut)** `⭐ 267` — Headless coding agent harness in one 7 MB static Go binary with four tools over plain stdin/stdout, no TUI and no telemetry. It never truncates output: when a provider cuts a response, the run exits with an error. Sessions are append-only JSONL, and it works with any OpenAI-compatible Chat Completions endpoint, including a local Ollama server. MIT.
+
 - **[Mixdog](https://github.com/tribgames/mixdog)** `⭐ 244` — Desktop app and terminal coding agent (`npm install -g mixdog`) that runs on an existing Claude or ChatGPT subscription and keeps per-turn context small: tools and skills load on demand and long outputs are offloaded to files. The project's own Terminal-Bench 2.1 run reports 63% fewer tokens than Codex CLI; logs in repo. Apache-2.0.
 
 - **[rpi](https://github.com/bigfish1913/pi-rust)** `⭐ 239` — Library-first Rust coding agent, inspired by Pi but independent of it: nine composable crates (`rpi-agent`, `rpi-tools`, `rpi-harness`, `rpi-tui`, …) so the agent loop can be embedded in your own program, plus a ready-to-run `rpi` terminal CLI. Crash-resumable JSONL sessions that self-heal a duplicated-seq log, a stable `#[repr(C)]` plugin ABI for tools and providers, and a provider-agnostic `StreamFn` boundary that makes the loop testable with no network. MIT.
