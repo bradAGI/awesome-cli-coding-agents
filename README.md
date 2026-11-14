@@ -875,6 +875,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 39` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
+- **[claude-bulkhead](https://github.com/dooly6276/claude-bulkhead)** `⭐ 34` — Pre-tool hooks for Claude Code, Codex, Gemini CLI, Copilot CLI, Cursor, opencode, Pi and others that block shell commands which cannot be undone (`rm -rf $D/` with an empty variable, `pkill -f node` hitting other sessions) and tell the agent the safe form. Zero dependencies, MIT.
+
 - **[Loadout](https://github.com/elleryfamilia/loadout)** `⭐ 33` — Adaptive context engine for AI coding agents; detects your stack and equips the right context when you launch `load claude`, `load codex`, `load cursor`. Works with Claude, Codex, Cursor, opencode, and Copilot. Rust, MIT.
 
 - **[Mneme](https://github.com/MnemeHQ/mneme)** `⭐ 32` — Turns architectural decisions and ADRs into deterministic guardrails for coding agents: records decisions in an auditable corpus, retrieves the relevant ones when an agent needs guidance, enforces governed rules at the earliest boundary each workflow exposes, and audits the mutation paths it cannot block. Python, MIT.
