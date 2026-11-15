@@ -491,6 +491,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Better Agent](https://github.com/ofekron/better-agent)** `⭐ 59` — Local web workspace that launches and supervises native Claude, Codex, and Gemini CLI sessions with parallel delegation, persistent state, approval gates, file access, and restart recovery. Source-available; free for non-commercial use.
 
+- **[summon](https://github.com/juan294/summon)** `⭐ 59` — macOS CLI that opens a project's workspace with one command: coding agents (Claude Code, Codex or any CLI agent), a git UI, a dev server and a shell side by side, as native Ghostty splits or one Rex session. Running it again switches back to the live workspace. MIT.
+
 - **[vibepanel](https://github.com/jiangmuran/vibepanel)** `⭐ 57` — Self-hosted web console for running many Claude Code and Codex sessions in parallel from a browser or a phone; each session lives in tmux, so agents keep running through panel restarts, upgrades and dropped connections. Hook-reported session state, token usage, and read-only share links. Source-available (PolyForm Noncommercial).
 
 - **[Clave](https://github.com/codika-io/clave)** `⭐ 51` — Native macOS app for running multiple AI coding-agent CLIs (Claude Code, Gemini CLI, Codex) in parallel — split/grid terminal layouts, per-project session groups, a built-in git panel, and remote sessions over SSH. Fully local, no account. Electron. MIT.
