@@ -713,6 +713,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
 
+- **[Codex ZCode Tandem](https://github.com/linxiangpk1991/codex-zcode-tandem)** `⭐ 0` — Windows Codex skill and Node CLI adapter for delegating coding to native ZCode over ACP, with live steering and default independent review, repair and verification; uses the user's GLM Coding Plan. MIT.
+
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
 
 ### Agent infrastructure
