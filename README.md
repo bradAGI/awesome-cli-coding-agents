@@ -1015,6 +1015,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[AutoRouter](https://autorouter.com)** — Mac app that adds 20+ models to the model pickers in Codex (CLI and app) and the Claude Code CLI, plus an AutoRouter choice that picks the model for each turn. Plain-English rules decide first, it uses your ChatGPT and Claude plans before credits, and each turn shows its model, cost and reason. macOS 14+, beta. Closed source; Free plan, Pro $50/month.
+
 ---
 
 ## Contributing
