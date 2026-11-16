@@ -559,6 +559,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Peekumi](https://github.com/tee-jagz/peekumi)** `⭐ 1` — Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code. A self-hosted server sends your instructions to the agents as tasks in separate Git worktrees, and you review, approve and merge their changes from a phone. Rust, Apache-2.0.
 
+- **[xcfs](https://github.com/PatrickSCLin/xcfs)** `⭐ 1` — Runs several Claude Code, Codex, Cursor or Gemini CLI agents on one Xcode project in parallel: each gets a git worktree that is already built (pool slots seeded by APFS clonefile), an incremental build session and its own simulator, and removal leaves no DerivedData behind. Plugs into Claude Code's worktree and session hooks; other agents drive it through `--json`. Python, MIT.
+
 - **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 0` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
