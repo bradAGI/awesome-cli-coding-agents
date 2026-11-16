@@ -671,6 +671,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Crewplane](https://github.com/crewplaneai/crewplane)** `⭐ 48` — CLI-first control plane for human-designed coding-agent workflows via Markdown; runs sequential or parallel stages through Claude Code, Codex, Gemini CLI, Copilot CLI, or any configured command, resumes after failures, and keeps inputs, outputs, and logs on disk. Python, Apache-2.0.
 
+- **[aisync](https://github.com/MaxonT/aisync)** `⭐ 47` — Multi-Agent Context Management, Coordination & Observability for Claude Code, Codex and Cursor on one machine: shared rules synced across tools, cooperative file claims that flag overlapping edits, and a hash-chained journal of agent activity. Local git repo, no runtime dependencies, MIT.
+
 - **[fab-kit](https://github.com/sahil87/fab-kit)** `⭐ 35` — Spec-driven development workflow for AI coding agents: an intake → plan → apply → review → hydrate pipeline with confidence gating, per-stage model tiers, a multi-agent operator mode over tmux, and cross-harness dispatch (Claude Code, Codex, Gemini). Go, MIT.
 
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 33` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.
