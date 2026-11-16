@@ -711,6 +711,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[AIWorks](https://github.com/netbka/aiworks)** `⭐ 0` — Unattended manager for Claude Code, Codex and Cursor on your own PC: runs an agreed plan step by step in isolated worktrees, has a separate AI session verify each result, and delivers pull requests to GitHub; survives crashes, restarts and usage limits and asks the owner only for real decisions. Early preview. Node.js, Windows only, MIT.
 
+- **[UnumPingPong](https://github.com/corpunum/unumpingpong)** `⭐ 1` — Orchestrator/worker ping-pong for coding agents: any agent CLI or model plugs in as a player, an external deterministic referee (your tests, a file, an endpoint) decides when a task is done, failures go back with the exact error, and many tables run in parallel or chained in series. Rust CLI with live TUI, daemon and MCP. Apache-2.0.
+
 - **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
 
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
