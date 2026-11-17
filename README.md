@@ -1015,6 +1015,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[Buddy Sandboxes](https://buddy.works/docs/ai-agents/sandboxes)** — Isolated Ubuntu machines in Buddy's cloud for running coding agents away from your laptop. Claude Code comes preinstalled next to Node 24, Docker, Go and Python 3; Codex or Gemini CLI install with one npm command. The `bdy sandbox` CLI creates sandboxes, runs commands, copies files, exposes ports on public endpoints and takes snapshots, and you can SSH in. TypeScript SDK: `@buddy-works/sandbox-sdk` (MIT).
+
 ---
 
 ## Contributing
