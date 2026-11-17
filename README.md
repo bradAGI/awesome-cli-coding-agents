@@ -649,7 +649,6 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[5dive](https://github.com/5dive-ai/5dive)** `⭐ 120` — Run a company of AI coding agents on a server you own: one-command spin-up of named agents (Claude Code, Codex, Grok, and more), cron + heartbeat scheduling, multi-agent orchestration, Telegram control, and a babysit + needs-you triage dashboard. Self-hosted. MIT.
 
-- **[great_cto](https://github.com/avelikiy/great_cto)** `⭐ 113` — Engineering-management layer of 34 specialist AI agents covering the full SDLC (architect, PM, senior-dev, reviewer, QA, security, devops, L3-support + 18 archetype-specific reviewers) with auto-detected archetypes and compliance gates (PCI-DSS, HIPAA, FedRAMP, GDPR, EU AI Act). Runs in Claude Code, Cursor, Codex CLI, Aider, and Continue via AGENTS.md + MCP. MIT.
 
 - **[Crewly](https://github.com/stevehuang0115/crewly)** `⭐ 92` — Runs a team of role-based coding agents (developer, QA, PM, orchestrator) from a `crewly` CLI and web dashboard: task delegation through agent skills, shared persistent memory, live terminal view. Supports Claude Code, Codex, Gemini CLI, and OpenCode. TypeScript, MIT.
 
@@ -805,7 +804,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[terminal-mcp](https://github.com/elleryfamilia/terminal-mcp)** `⭐ 147` — MCP server that gives AI assistants a shared view of your terminal session; debug CLIs and TUI apps in real-time or let agents drive terminal-based tools autonomously. TypeScript, MIT.
 
-- **[KubeStellar kc-agent](https://github.com/kubestellar/console/tree/main/cmd/kc-agent)** `⭐ 127` — Local Go daemon from the KubeStellar Console that auto-detects installed coding agents (Claude CLI, Codex, Copilot CLI, Gemini CLI, goose) and gives them cluster-aware execution against your kubeconfig contexts — kubectl, Helm, and multi-cluster fan-out. Star count is the parent console repo. Apache-2.0.
+- **[KubeStellar kc-agent](https://github.com/kubestellar/console/tree/main/cmd/kc-agent)** `⭐ 154` — Local Go daemon from the KubeStellar Console that auto-detects installed coding agents (Claude CLI, Codex, Copilot CLI, Gemini CLI, goose) and gives them cluster-aware execution against your kubeconfig contexts — kubectl, Helm, and multi-cluster fan-out. Star count is the parent console repo. Apache-2.0.
 
 - **[ax](https://github.com/Necmttn/ax)** `⭐ 123` — Local-first agent telemetry and observability for Claude Code and Codex sessions.
 
