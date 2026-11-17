@@ -441,7 +441,6 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Proliferate](https://github.com/proliferate-ai/proliferate)** `⭐ 518` — Open-source local and cloud agent IDE for Claude Code, Codex, Gemini CLI, OpenCode, and similar coding agents; parallel workspaces, subagents, plugins, MCP, and review/merge flow around real CLI sessions.
 
-- **[Catnip](https://github.com/wandb/catnip)** `⭐ 491` — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).
 
 - **[ntm](https://github.com/Dicklesworthstone/ntm)** `⭐ 462` — Named Tmux Manager — spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette.
 
@@ -489,7 +488,6 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[run-kit](https://github.com/sahil87/run-kit)** `⭐ 62` — Remote, phone-first web console for tmux: spawn and watch coding agents in parallel git worktrees, agent-agnostic and no database, with push notifications and local-port proxying to your browser. Go, MIT.
 
-- **[Better Agent](https://github.com/ofekron/better-agent)** `⭐ 59` — Local web workspace that launches and supervises native Claude, Codex, and Gemini CLI sessions with parallel delegation, persistent state, approval gates, file access, and restart recovery. Source-available; free for non-commercial use.
 
 - **[vibepanel](https://github.com/jiangmuran/vibepanel)** `⭐ 57` — Self-hosted web console for running many Claude Code and Codex sessions in parallel from a browser or a phone; each session lives in tmux, so agents keep running through panel restarts, upgrades and dropped connections. Hook-reported session state, token usage, and read-only share links. Source-available (PolyForm Noncommercial).
 
@@ -525,7 +523,6 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[AgentTerm](https://github.com/albertwujj/agent-term)** `⭐ 12` — Visual desktop terminal for macOS and Windows/WSL that runs Claude Code, Codex, Cursor CLI and other AI CLIs unmodified, each session in its own OS window with a distinct Dock tile or taskbar button. Adds prompt search to resume closed sessions, comments on selected output, markdown plans rendered as pages with threaded comments, curated code reviews with inline feedback, a phone view of the same terminal, click-to-line navigation in JetBrains IDEs, and more. Electron, MIT.
 
-- **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 11` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
 
 - **[Agent Workbench](https://github.com/cvelasquez/agent-workbench)** `⭐ 11` — Local web UI that runs the unmodified Claude Code, Codex, OpenCode and Antigravity CLIs in a pseudo-terminal, with tabs that survive a reload, one browsable history for all four, conversation hand-off between CLIs and full-text search. Windows-first, MIT.
 
@@ -611,7 +608,6 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[ralph-tui](https://github.com/subsy/ralph-tui)** `⭐ 2.5k` — Direct AI agents through task lists with autonomous execution.
 
-- **[AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)** `⭐ 2.4k` — AI Agent Workforce Platform: remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration. Self-hosted with BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. BSL-1.1.
 
 - **[zeroshot](https://github.com/the-open-engine/zeroshot)** `⭐ 2.1k` — Runs a planner, an implementer, and independent validators in isolated local, git worktree, or Docker environments, looping until a change is verified or rejected with reproducible failures. Works with Claude, Codex, Gemini, and OpenCode CLIs; issue backends for GitHub, GitLab, Jira, Azure DevOps. MIT.
 
@@ -687,7 +683,6 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[TeDDy](https://github.com/atte500/TeDDy)** `⭐ 8` — An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow. Python, AGPL-3.0.
 
-- **[Dahrk](https://github.com/dahrkai/dahrk-node)** `⭐ 7` — Runs a deterministic multi-stage workflow per Linear issue on a node you own; each stage gets its own runtime (Claude Code, Codex, Pi), model, prompt, and git worktree, sequenced by plain TypeScript so no model picks the next step. Apache-2.0 node; the workflow hub is hosted and requires an account.
 
 - **[Vibestrate](https://github.com/guyshonshon/vibestrate)** `⭐ 6` — Local-first orchestrator that runs one task through a YAML flow of seated phases (plan → architect → implement → validate → review → fix → verify) in a git worktree per run. The reviewer seat starts a fresh process rather than inheriting the implementer's session, so it reads the diff cold. Approval gates and a local token/cost/decision ledger; eleven agent CLIs built in. npm `vibestrate`, `vibe` CLI. TypeScript, Apache-2.0.
 
@@ -705,7 +700,6 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[DevPilot](https://github.com/geastham/devpilot)** `⭐ 2` — Fleet cockpit for Claude Code: a wave planner with critical-path and idle-runway warnings, plus a `session-runner` CLI that spawns and supervises real `claude -p` sessions across several repos at once. TypeScript, MIT.
 
-- **[Team1-Factory](https://github.com/Team1-dev/Team1-Factory)** `⭐ 2` — Unattended GitHub issue-to-merged-PR loop: triage, implement, review, and merge stages run against real issues and pull requests, driving Claude Code sessions with test-gated merges. Runs once or as a long-lived polling service under Docker. Apache-2.0.
 
 - **[the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** `⭐ 1` — One lead Claude Code session commands N autonomous workers in tmux panes — spawn, brief, monitor, then adversarially verify results. Pure bash + tmux, zero daemons, coordination via plain files. Also a Claude Code plugin shipping the `/orch` skill. MIT.
 
@@ -835,7 +829,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[pond](https://github.com/tenequm/pond)** `⭐ 90` — Lossless session archive for coding agents: ingests what twelve harnesses already write (Claude Code, Codex, opencode, pi, OpenClaw, Hermes, letta-code, grok-build and more) into Lance on a local directory or your own S3 bucket, then serves recall back over CLI, MCP, HTTP, and read-only SQL. Sessions outlive harness retention windows and restore into any supported client. Rust, Apache-2.0.
 
-- **[Agent Island](https://github.com/tristan666666/agent-island)** `⭐ 87` — Local status companion for Claude Code and Codex sessions on macOS and Windows; shows working, your-turn, stalled, and attention states without uploading session data. MIT.
 
 - **[AgentPlane](https://github.com/basilisk-labs/agentplane)** `⭐ 86` — Local CLI that wraps Claude Code, Codex, Cursor, and Aider work in an auditable Git-native workflow (task → plan → approve → implement → verify → finish). All state stays in `.agentplane/` inside the repo; no hosted runtime. MIT.
 
@@ -861,7 +854,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[pi-reflect](https://github.com/jo-inc/pi-reflect)** `⭐ 56` — Self-improving behavioral files for coding agents; automated self-reviews that evolve AGENTS.md rules from actual mistakes. MIT.
 
-- **[Nex](https://github.com/nex-crm/nex-as-a-skill)** `⭐ 55` — Organizational context and memory for AI agents; connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server (`npx @nex-ai/nex`) and persistent memory across agent sessions. MIT.
 
 - **[AgentTier](https://github.com/agenttier/agenttier)** `⭐ 49` — Kubernetes-native sandbox runtime for AI coding agents. A `Sandbox` CRD provisions a Pod + PVC + NetworkPolicy with optional gVisor isolation; the `agenttier` Go CLI runs agent invocations that stream stdout/stderr/exit as SSE. Ships reference templates for Claude Code + Bedrock and LangGraph. Apache-2.0.
 
@@ -885,7 +877,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 30` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
 
-- **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 29` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
 
 - **[Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)** `⭐ 28` — Persistent memory for CLI coding agents over MCP: a hosted remote server with OAuth at `https://mcp.mnemoverse.com/mcp`, or a local `npx -y @mnemoverse/mcp-memory-server` with a key. Tell it a recalled memory helped or misled and it re-ranks what comes back next; documented for Claude Code, Cline and Gemini CLI, with the same memory in Cursor and VS Code. MIT server, hosted engine, free tier.
 
@@ -947,7 +938,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[clu](https://github.com/arjia-labs/clu)** `⭐ 10` — Codified Likeness Utility: a SQLite-backed issue tracker for coordinating fleets of AI coding agents. Atomic task claim, dependency graphs, workflows & checkpoints, and an audit log. CLI-native with clean `--json` output, built to be driven by agents. Go.
 
-- **[gate4agent](https://github.com/ZENG3LD/gate4agent)** `⭐ 9` `[ZENG3LD]` — Universal Rust transport library for CLI AI agents (Claude Code, Codex, Gemini, OpenCode). Pipe/NDJSON, PTY, and ACP (JSON-RPC 2.0) modes with tokio broadcast fan-out. MIT.
 
 - **[Better Call GPT](https://github.com/insta-fusion/bettercallgpt)** `⭐ 9` — Full-duplex voice call for a running Claude Code session (Azure GPT Realtime / GPT-Live, macOS): relays speech into the session, reads results aloud, supports barge-in; voice never approves permission prompts. Python, MIT.
 
