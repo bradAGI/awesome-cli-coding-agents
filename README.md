@@ -543,6 +543,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent 007](https://github.com/bill10/agent-007)** `⭐ 6` — Self-hosted job board and pixel office for Claude Code, Codex, and other terminal agents: each queued job gets a fresh agent in its own git worktree and branch, runs in a real PTY you can take over, and lands as a pull request for review. Node.js web UI, MIT.
 
+- **[mAGI](https://github.com/pankajgarkoti/magi)** `⭐ 6` — Fedora/Hyprland desktop (bootc image and ISO, or `install.sh` on Fedora 44) whose main interface is one terminal coding agent (Claude Code, opencode or Codex) in tmux that starts other agents in their own windows. An event bus types events from scripts, agents and browser tabs into it only when it's idle with an empty input box, and every window comes back after a reboot with its conversation resumed. MIT.
+
 - **[mix2](https://github.com/elleryfamilia/mix2)** `⭐ 5` — Terminal app that turns two coding agents into one team; one question, both investigate independently, reconcile or disclose disagreements, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI. Rust + TypeScript, MIT.
 
 - **[taskpods](https://github.com/yanairon/taskpods)** `⭐ 5` — Lightweight, agent-agnostic CLI that runs Claude Code, Codex CLI, Gemini CLI, opencode, aider, or any command in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands. Python, MIT.
