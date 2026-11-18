@@ -73,7 +73,6 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Continue CLI](https://github.com/continuedev/continue)** `⭐ 36.5k` — Open-source terminal extension for multi-model coding with local/privacy focus.
 
-- **[Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `⭐ 36.1k` — Single Go binary coding agent built for long unattended runs; one local engine with four ways in (terminal, desktop app, browser, or editor over ACP). Config-driven providers in `reasonix.toml`, optional split executor/planner models, MCP plus an Extension Protocol sidecar system, plan mode, workspace sandbox, and per-turn checkpoints. MIT.
 
 - **[Deep Agents Code](https://github.com/langchain-ai/deepagents)** `⭐ 31.4k` `[LangChain]` — LangChain's official terminal coding agent built on the Deep Agents SDK; interactive TUI, file ops, shell access, subagents, headless mode, and human-in-the-loop approvals with any tool-calling LLM. PyPI `deepagents-code`.
 
@@ -85,7 +84,6 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Grok Build](https://github.com/xai-org/grok-build)** `⭐ 27.8k` `[xAI]` — xAI's official coding agent harness and TUI; fullscreen, mouse-interactive, and extensible. Apache-2.0.
 
-- **[Roo Code CLI](https://github.com/RooCodeInc/Roo-Code)** `⭐ 24.2k` — Multi-mode CLI agent (architect/code/debug/orchestrator modes); Claude-like terminal interface with skills and checkpoints.
 
 - **[Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent)** `⭐ 22.8k` `[Prime Intellect]` — Self-improving RLM coding agent where a persistent IPython kernel is the model's only tool, so file edits, shell commands, skills, and subagents (`rlm(...)`) all happen as Python. A "Continual Harness" keeps memories, skills, and subagent specs as durable state that `/refine` updates from session evidence; daemon-backed sessions survive terminal disconnect, with goals, heartbeats, schedules, and bounded autonomous mode. Built on [Pi](https://github.com/earendil-works/pi). MIT.
 
@@ -103,7 +101,6 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Smol Developer](https://github.com/smol-ai/developer)** `⭐ 12.2k` — Embeddable developer agent that generates entire codebases from a prompt; designed to be embedded in apps.
 
-- **[Kimi CLI](https://github.com/MoonshotAI/kimi-cli)** `⭐ 11.4k` `[Moonshot AI]` — Moonshot AI's CLI coding agent with skills, MCP support, and ACP IDE integration; being wound down in favor of Kimi Code. Apache-2.0.
 
 - **[Claude Engineer](https://github.com/Doriandarko/claude-engineer)** `⭐ 11.2k` — Community-driven CLI for agentic Claude workflows with file management and iterative development.
 
@@ -197,7 +194,6 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[zot](https://github.com/patriceckhart/zot)** `⭐ 370` — Zero-overhead and lightweight coding agent harness with TUI/JSON/RPC modes, structured tools, reviewable file diffs, skills, extensions, and optional guardrails.
 
-- **[LettaBot](https://github.com/letta-ai/lettabot)** `⭐ 328` — Personal AI assistant with persistent unified memory across Telegram, Slack, Discord, WhatsApp, and Signal; built on the Letta platform.
 
 - **[Mini-Kode](https://github.com/minmaxflow/mini-kode)** `⭐ 306` — An educational AI coding agent CLI, intended as a readable reference implementation.
 
@@ -672,7 +668,6 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Galley](https://github.com/shinpr/galley)** `⭐ 20` — Local-first runtime for supervised AI coding tasks: isolated git worktrees, supervisor review against acceptance criteria, retry/escalate loops, on-disk run evidence, and PR handoff. Supports Codex CLI and Claude Code. Go, MIT.
 
-- **[xcb](https://github.com/hraness/xcb)** `⭐ 14` — Sends each coding task to one of your Claude, Codex, or Devin subscription accounts that is signed in, idle, and not at a known usage limit, and holds that account until the task's process exits. Other agents hand it work with `xcb --json route`; also a TypeScript SDK. MIT.
 
 - **[Vibestrate](https://github.com/guyshonshon/vibestrate)** `⭐ 6` — Local-first orchestrator that runs one task through a YAML flow of seated phases (plan → architect → implement → validate → review → fix → verify) in a git worktree per run. The reviewer seat starts a fresh process rather than inheriting the implementer's session, so it reads the diff cold. Approval gates and a local token/cost/decision ledger; eleven agent CLIs built in. npm `vibestrate`, `vibe` CLI. TypeScript, Apache-2.0.
 
@@ -774,7 +769,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentBridge](https://github.com/raysonmeng/agent-bridge)** `⭐ 433` — CLI that keeps Claude Code and Codex as live peers in one session, with mid-turn review, task splitting, and handoff at quota boundaries; `abg claude` / `abg codex` over a localhost daemon. macOS and Linux. MIT.
 
-- **[subtask](https://github.com/zippoxer/subtask)** `⭐ 338` — Claude Skill for delegating tasks with subagents in Git worktrees.
 
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 319` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
 
@@ -930,7 +924,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[House Party Protocol](https://github.com/rusharlabs/house-party-protocol)** `⭐ 6` — Local-first harness for coding-agent teams on Claude Code and Codex CLI that sits under whatever orchestrates the agents: `hpp` records the criterion command's exit code outside the model and hashes its artifacts, refuses a verdict from the builder's own lane or model family, binds approvals to the bytes they approved, and derives lane liveness from heartbeats so a dead lane never collides with a live one; its refusals exit non-zero. Standard-library Python, no model calls. MIT.
 
-- **[OSOP](https://github.com/Archie0125/osop-agent-rules)** `⭐ 5` — Universal workflow logging protocol for CLI coding agents; produces `.osop` workflow definitions and `.osoplog.yaml` execution records. Supports Claude Code, Codex, Cursor, Windsurf, Aider, Cline, Roo Code, Devin, and OpenClaw. Includes a [visual editor](https://osop-editor.vercel.app) and [spec](https://github.com/Archie0125/osop-spec).
 
 - **[context-bridge](https://github.com/serdardb/context-bridge)** `⭐ 5` — Hands a live coding session from one CLI agent to another without losing the thread: each agent keeps its own native session and the bridge transfers only the delta the next one is missing, via `/bridge codex` inside Claude Code or `$bridge claude` elsewhere. Covers Claude Code, Codex, Grok, Antigravity, and OpenCode; no API keys — it drives the subscription-authenticated CLIs already installed. Node, npm `@serdardb/context-bridge`, MIT.
 
