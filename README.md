@@ -205,6 +205,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Mixdog](https://github.com/tribgames/mixdog)** `⭐ 256` — Desktop app and terminal coding agent (`npm install -g mixdog`) that runs on an existing Claude or ChatGPT subscription and keeps per-turn context small: tools and skills load on demand and long outputs are offloaded to files. The project's own Terminal-Bench 2.1 run reports 63% fewer tokens than Codex CLI; logs in repo. Apache-2.0.
 
+- **[OpenAgentd](https://github.com/lthoangg/openagentd)** `⭐ 216` — Local coding agent with a CLI and a desktop app that shows every tool call, diff and session cost. Rust backend, 18 model providers and local models, phone apps over an end-to-end encrypted relay. Apache 2.0.
+
 - **[VibePod](https://github.com/VibePod/vibepod-cli)** `⭐ 196` — Unified CLI for running AI coding agents in isolated Docker containers; zero-config setup, local metrics, HTTP traffic tracking, and an analytics dashboard for side-by-side comparison.
 
 - **[nori-cli](https://github.com/tilework-tech/nori-cli)** `⭐ 194` — Multi-provider CLI built on Codex CLI; switch between Claude, Gemini, and Codex from the same native terminal.
