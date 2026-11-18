@@ -211,8 +211,6 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[San](https://github.com/genai-io/san)** `⭐ 149` — Go terminal-native runtime for specialized AI agents; provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), runs Claude Code skills/plugins/MCP unmodified, swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop. Single ~12 MB binary, zero runtime deps. Apache-2.0.
 
-- **[San](https://github.com/genai-io/san)** `⭐ 149` — Go terminal-native runtime for specialized AI agents; provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), runs Claude Code skills/plugins/MCP unmodified, swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop. Single ~12 MB binary, zero runtime deps. Apache-2.0.
-
 - **[AgenC Core](https://github.com/tetsuo-ai/agenc-core)** `⭐ 144` — Open source terminal coding agent that works with any model provider, including local models through Ollama and LM Studio. TUI, headless mode, background agents, MCP. Self-reported 76.2% on Terminal-Bench 2.1 for $34 with DeepSeek V4.1 Flash. MIT.
 
 - **[Waveloom](https://github.com/Menfre01/waveloom)** `⭐ 138` — Go terminal-native coding agent with Bubble Tea TUI; DeepSeek V4 prompt caching for long-context efficiency; Claude Code-compatible UX with skill/MCP auto-discovery; four-tier context compaction, three subagent modes (Fork/Cold/Explore), permission engine, and plan mode. Single ~19 MB binary, zero runtime deps. Apache-2.0.
