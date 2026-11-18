@@ -399,6 +399,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** `⭐ 4.6k` — Manage multiple Claude Code, OpenCode, Codex CLI, Gemini CLI, Pi, Copilot CLI, Mistral Vibe, and Factory Droid agents from a TUI or web UI (mobile-friendly). Rust, uses tmux + git worktrees. MIT.
 
+- **[Switch](https://github.com/sandbox-quantum/switch)** `⭐ 4.5k` `[SandboxAQ]` — Self-hosted server and desktop console (Switch Console) that run coding-agent CLIs as members of Slack, Microsoft Teams, Discord, Telegram and Mattermost channels, where people and agents share one room history as context. Supports Claude Code, Codex, Cursor, OpenCode and Antigravity, with 10 more providers in preview. Source-available (Apache-2.0 + Commons Clause, not OSI).
+
 - **[CodexMonitor](https://github.com/Dimillian/CodexMonitor)** `⭐ 4.4k` — Coordinate multiple Codex agents across local workspaces.
 
 - **[Toad](https://github.com/batrachianai/toad)** `⭐ 3.5k` — Agent orchestrator for running and managing parallel CLI coding sessions.
