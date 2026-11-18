@@ -999,6 +999,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Mantyl](https://github.com/jopli11/mantyl-cli)** `⭐ 1` — Handover layer for AI-built software: compiles a repo plus Claude Code, Codex, or Cursor session history into a verified project passport (sandbox-executed checks, claim/contradiction detection, secret redaction) that the recipient independently re-runs via `mantyl receive`. npm `mantyl`. MIT.
 
+
+- **[DM](https://auzzura.com/builders/)** `[AuzzurA]` — Shared, reviewed team context for terminal coding agents over a remote MCP endpoint with OAuth discovery and dynamic client registration. Before a task, the agent asks DM for the approved Rules, Skills and Decisions that apply, within a token budget; what it learned comes back as a proposal that a person reviews. Closed source.
 - **[CodeVetter](https://github.com/Codevetter/codevetter)** `⭐ 1` — Execution-backed verification for AI-written changes: proves a change satisfies its requested task by running the evidence checks locally and recording inspectable, source-bound receipts. macOS app, CLI, read-only MCP. MIT.
 
 - **[isitdone](https://github.com/raimondasl/isitdone)** `⭐ 1` — Stop hook and CLI that blocks a coding agent's "done" until the repo's real test, typecheck and lint commands pass on the exact working tree; scans the diff for weakened tests and leaves a git-bound PASS/FAIL/STALE receipt. One `init` command per host for Claude Code, Codex CLI, Cursor, Gemini CLI, Copilot CLI, Qwen Code, Goose, Droid, Devin, Auggie, OpenCode and Junie, plus an MCP server for agents without hooks. Zero LLM calls, zero dependencies. npm `isitdone`. MIT.
