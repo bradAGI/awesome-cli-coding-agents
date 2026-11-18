@@ -461,8 +461,6 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 162` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
 
-- **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 162` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
-
 - **[GridBash](https://github.com/jasonsuhari/gridbash)** `⭐ 131` — Cross-platform Rust terminal grid running Codex, Claude Code, Gemini CLI, and other real PTY-backed agents side by side; selected-pane input, optional git-worktree isolation, and nightly cross-platform binaries. MIT.
 
 - **[ADHDev](https://github.com/vilmire/adhdev)** `⭐ 122` — Self-hosted daemon plus web dashboard for driving local CLI coding agents (Claude Code, Codex, Cursor CLI, Antigravity, Kimi) from a browser or phone: live session state, remote approvals carrying the command text, and exact session resume. Repo Mesh claims queued tasks into isolated git worktrees and the Refinery gates finished branches and fast-forwards them back to `main`. P2P-first over WebRTC, so code stays on your machine. npm `adhdev`, TypeScript, AGPL-3.0.
@@ -842,8 +840,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[pi-reflect](https://github.com/jo-inc/pi-reflect)** `⭐ 56` — Self-improving behavioral files for coding agents; automated self-reviews that evolve AGENTS.md rules from actual mistakes. MIT.
 
-- **[pi-reflect](https://github.com/jo-inc/pi-reflect)** `⭐ 56` — Self-improving behavioral files for coding agents; automated self-reviews that evolve AGENTS.md rules from actual mistakes. MIT.
-
 - **[AgentTier](https://github.com/agenttier/agenttier)** `⭐ 49` — Kubernetes-native sandbox runtime for AI coding agents. A `Sandbox` CRD provisions a Pod + PVC + NetworkPolicy with optional gVisor isolation; the `agenttier` Go CLI runs agent invocations that stream stdout/stderr/exit as SSE. Ships reference templates for Claude Code + Bedrock and LangGraph. Apache-2.0.
 
 - **[AgentDiff](https://github.com/codeprakhar25/agentdiff)** `⭐ 48` — Git-native provenance for AI-written code: hooks every CLI agent (Claude Code, Codex, Cursor, Gemini, OpenCode, Windsurf, Copilot) and records which agent wrote which line, reconciles it against each commit, and signs every attribution with ed25519. Records live in your own git refs (`agentdiff list/blame/report`); no server. Rust, MIT/Apache-2.0.
@@ -864,8 +860,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 30` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
 
-- **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 30` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
-
 - **[Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)** `⭐ 29` — Persistent memory for CLI coding agents over MCP: a hosted remote server with OAuth at `https://mcp.mnemoverse.com/mcp`, or a local `npx -y @mnemoverse/mcp-memory-server` with a key. Tell it a recalled memory helped or misled and it re-ranks what comes back next; documented for Claude Code, Cline and Gemini CLI, with the same memory in Cursor and VS Code. MIT server, hosted engine, free tier.
 
 - **[ContextZip](https://github.com/jee599/contextzip)** `⭐ 26` — Rust filter that compresses coding-agent context by trimming live stdout before it reaches the model, targeting 60–90% reduction on noisy build and test output.
@@ -873,8 +867,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[aigent-os](https://github.com/wrg32786/aigent-os)** `⭐ 26` — Claude Code harness that refreshes context instead of compacting: at a threshold it writes a capsule, runs `/clear`, confirms the fresh session, and resumes. Memory is plain Markdown in git. Codex adapter included. MIT.
 
 - **[AgentPack](https://github.com/vishal2612200/agentpack)** `⭐ 25` — Local context engine for CLI coding agents: routes tasks to relevant files, tests, repo rules, skills, and commands, then writes compact context packs and MCP/CLI receipts for Claude Code, Codex, Cursor, Windsurf, and other agents.
-
-- **[grite](https://github.com/neul-labs/grite)** `⭐ 25` — Git-backed issue tracker with CRDT merging for AI coding agents. Issues live as an append-only event log in `refs/grite/wal`, sync via `git push`/`fetch`, and converge deterministically across agents — no server, no database, no merge conflicts. Stable `--json` output and a `grite install-skill` command for Claude Code. MIT.
 
 - **[grite](https://github.com/neul-labs/grite)** `⭐ 25` — Git-backed issue tracker with CRDT merging for AI coding agents. Issues live as an append-only event log in `refs/grite/wal`, sync via `git push`/`fetch`, and converge deterministically across agents — no server, no database, no merge conflicts. Stable `--json` output and a `grite install-skill` command for Claude Code. MIT.
 
