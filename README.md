@@ -1017,7 +1017,6 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[DM](https://auzzura.com/builders/)** `[AuzzurA]` — Shared, reviewed team context for terminal coding agents over a remote MCP endpoint with OAuth discovery and dynamic client registration. Before a task, the agent asks DM for the approved Rules, Skills and Decisions that apply, within a token budget; what it learned comes back as a proposal that a person reviews. Closed source.
 
-
 ---
 
 ## Contributing
