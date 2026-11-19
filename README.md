@@ -209,6 +209,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[nori-cli](https://github.com/tilework-tech/nori-cli)** `⭐ 194` — Multi-provider CLI built on Codex CLI; switch between Claude, Gemini, and Codex from the same native terminal.
 
+- **[SpineCodex](https://github.com/GhabiX/SpineCodex)** `⭐ 151` — Open-source distribution of OpenAI Codex CLI (`npm install -g @spinejit/spine-codex`) with built-in subtask-tree context compilation (`Open`, `Close`, `Next`, `Spawn`): folds completed subtasks into returned memories at the active suffix while keeping parent context byte-for-byte intact for prompt-cache reuse (32%–74% lower cost on SWE-Milestone, [arXiv:2610.37224](https://arxiv.org/abs/2610.37224)). Rust & TypeScript, Apache-2.0.
+
 - **[San](https://github.com/genai-io/san)** `⭐ 149` — Go terminal-native runtime for specialized AI agents; provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), runs Claude Code skills/plugins/MCP unmodified, swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop. Single ~12 MB binary, zero runtime deps. Apache-2.0.
 
 - **[San](https://github.com/genai-io/san)** `⭐ 149` — Go terminal-native runtime for specialized AI agents; provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), runs Claude Code skills/plugins/MCP unmodified, swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop. Single ~12 MB binary, zero runtime deps. Apache-2.0.
@@ -982,6 +984,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[opencode-agent-memory](https://github.com/Ghilteras/opencode-agent-memory)** `⭐ 3` — Persistent, self-editable memory blocks and an optional append-only journal with local semantic search for the OpenCode AI coding agent. npm `@ghilteras/opencode-agent-memory`. TypeScript, MIT.
 
 - **[Squelette](https://github.com/JyMinet/squelette)** `⭐ 3` — Governance layer for CLI coding agents (Claude Code, Codex): human decisions and allowed scope recorded before work, a pre-commit gate that refuses out-of-scope changes, and closure only on checked proof. MIT.
+
+- **[spine-plugin](https://github.com/GhabiX/spine-plugin)** `⭐ 3` — Portable TypeScript/WASM Spine SDK (`@spinejit/spine-sdk`) and subtask-tree context-compilation plugins for [Pi](https://github.com/badlogic/pi-mono) (`@spinejit/pi-spinejit`) and DeepSeek Harness (`@spinejit/dsh-spinejit`), with live TUI and Web tree views. Apache-2.0.
 
 - **[wt](https://github.com/sahil87/wt)** `⭐ 2` — Small Go CLI wrapping `git worktree` with opinionated defaults for the parallel-agent workflow: worktrees as siblings of the main repo, memorable adjective-noun names, and a shell wrapper that makes `cd`-from-a-menu actually work, so each AI session gets its own checkout. MIT.
 
