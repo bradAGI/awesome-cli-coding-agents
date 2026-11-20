@@ -739,6 +739,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
 
+- **[fly-swe](https://github.com/stateway-io/fly-swe)** `⭐ 0` — Self-hosted service that turns labeled GitHub issues into PRs: webhooks feed a SQLite queue on one small Fly.io Machine, mini-swe-agent runs headless and only edits files while the harness alone handles git (the agent gets no push credential), per-task and daily cost budgets are enforced in code, and the harness re-runs the test suite before opening the PR. Any LiteLLM model. Python, AGPL-3.0.
+
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
 
 ### Agent infrastructure
