@@ -613,6 +613,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[harnsy](https://harnsy.dev)** — Team layer for Claude Code, Codex and OpenCode sessions on one machine: each agent holds a role under a lead, agents message each other straight into the running session, work moves as tasks with evidence and review, and a fresh agent takes over a role from a handover note when its context fills up. Local dashboard, one terminal tab per agent (tmux on Linux and macOS, its own terminal host on Windows). Closed source; the build without a key runs 1 project and up to 10 agents at once, a harnsy Max key lifts that and adds several machines and several subscriptions.
 
+- **[Clusto](https://clusto.app/?utm_source=awesome-cli-coding-agents&utm_medium=listing)** - Runs Claude Code, Codex, Copilot, OpenCode and plain shell sessions on your own Linux or Windows machines and keeps them alive when the client disconnects; reattach from the Windows or Linux desktop app, Android, the web app, or the `clusto` CLI. Joins machines into a leaderless cluster, reaches nodes without port forwarding over its P2P tunnel, and runs scheduled tasks and headless agent teams in isolated worktrees. Closed source, account required; free Personal plan (1 user, 3 devices), paid Pro and Team.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
