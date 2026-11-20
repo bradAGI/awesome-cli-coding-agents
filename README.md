@@ -583,6 +583,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
 
+- **[Watch](https://github.com/can4hou6joeng4/Watch)** `⭐ 1` — CLI session handoff tool with a React/Tauri desktop companion. Launches and resumes installed coding agents, transfers saved records with their working directory, and exports Markdown handoffs. Adapters for Claude Code, Codex, OpenCode, Kimi, Pi and Grok; conversion limits are reported and native validation varies by route. TypeScript, MIT.
+
 - **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 0` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
