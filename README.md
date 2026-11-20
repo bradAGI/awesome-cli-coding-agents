@@ -613,6 +613,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[harnsy](https://harnsy.dev)** — Team layer for Claude Code, Codex and OpenCode sessions on one machine: each agent holds a role under a lead, agents message each other straight into the running session, work moves as tasks with evidence and review, and a fresh agent takes over a role from a handover note when its context fills up. Local dashboard, one terminal tab per agent (tmux on Linux and macOS, its own terminal host on Windows). Closed source; the build without a key runs 1 project and up to 10 agents at once, a harnsy Max key lifts that and adds several machines and several subscriptions.
 
+- **[Hyperion](https://github.com/ThalesNotTychus/Hyperion)** `⭐ new` — Windows `.NET 10 + ConPTY` session manager and parallel Git worktree runner for Codex, Claude Code, Antigravity (`agy acp`), OpenCode, Aider, and Direct APIs, featuring physical per-account config isolation, live 5h/7d quota telemetry with automatic `429` failover, and Split-Diff inline review. MIT.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
