@@ -581,6 +581,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Peekumi](https://github.com/tee-jagz/peekumi)** `⭐ 2` — Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code. A self-hosted server sends your instructions to the agents as tasks in separate Git worktrees, and you review, approve and merge their changes from a phone. Rust, Apache-2.0.
 
+- **[Trina AX](https://github.com/trina-app/trina-ax)** `⭐ 2` — Self-hosted team server that runs Claude Code and Codex as its engine behind a browser, desktop and mobile workspace. One admin connects the AI account, skills, MCP apps and team files once; every file request is checked against the asking person's permissions, and on Linux the engine runs in a bubblewrap, Landlock and seccomp sandbox. Token limits per person, group or team. TypeScript/Bun, AGPL-3.0.
+
 - **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
 
 - **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 0` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
