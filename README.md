@@ -1047,6 +1047,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[Leeway](https://leeway.run)** — Issue tracker for work split between people and coding agents: people set outcomes, priority and dependencies, agents take sub-issues on their own branches through the `leeway` CLI (npm `@leeway-run/cli`) or MCP server, each agent session is recorded, and a blocked agent raises an escalation to a person. Status comes from branches, PRs and reviews. Claude Code plugin. Closed source; free in beta.
+
 ---
 
 ## Contributing
