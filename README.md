@@ -267,6 +267,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Kolega Code](https://github.com/kolega-ai/kolega-code)** `⭐ 22` — Python terminal coding agent where the model writes its own multi-agent workflows (Gigacode): the runtime enforces concurrency caps and token budgets, journals every completed agent call to disk, and replays unchanged calls for free on resume. 15+ providers, MCP over stdio/SSE/streamable HTTP, ACP, sandboxed shell and filesystem tools, git worktrees, and a browser agent. Source-available (BUSL-1.1).
 
+- **[Vis](https://github.com/Blockether/vis)** `⭐ 20` — Coding agent that you adapt to your tools and measure on your own tasks: a folder of tasks and a score. The model works in a Python sandbox, folds its own context and gets project tools from extensions. Same sessions in terminal, browser, desktop and phone. Apache-2.0.
+
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 19` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
 - **[opencode-rust](https://github.com/vakandi/opencode-rust)** `⭐ 18` — Independent Rust reimplementation of OpenCode, not affiliated with the OpenCode team: CLI, TUI and HTTP server for local AI agents across 21 crates, no Docker required. npm `opencode-rust`, or `brew install vakandi/tap/opencode-rust` for the `opr` binary. MIT.
