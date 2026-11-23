@@ -739,6 +739,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Dev Agent Autopilot](https://github.com/iammurtaza53/dev-agent-autopilot)** `⭐ 0` — One-command task-to-PR loop over your existing `claude`, `codex` and `gh` logins: Codex plans read-only, Claude Code implements in a background session and runs your checks, native `codex review` reviews under a git-diff-based round budget, then Claude opens the PR, fixes task-related CI failures and stops before merge. Its LeanLoop layer keeps agent context small with hash-verified context capsules, delta resume and quiet check logs. Node.js, MIT.
 
+- **[gemini-baton-for-claude-code](https://github.com/HSGunes/gemini-baton-for-claude-code)** `⭐ 0` — Claude Code plugin and `baton` CLI that hands implementation tasks to a Gemini sub-agent through Google's Antigravity CLI (`agy`) in the background, then verifies the result with the project's own tests and sends failures back to the same Gemini conversation. Write permissions are checked per directory before launch; sandboxed by default; stdlib-only Python. MIT.
+
 - **[Wayari](https://wayari.com/)** — Local CLI and MCP orchestrator for Claude Code and Codex, running coding agents in isolated git worktrees and handing back a pull request after checks and independent review. Closed source; paid with a seven-day trial.
 
 ### Agent infrastructure
