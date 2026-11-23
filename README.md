@@ -515,6 +515,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[summon](https://github.com/juan294/summon)** `⭐ 62` — macOS CLI that opens a project's workspace with one command: coding agents (Claude Code, Codex or any CLI agent), a git UI, a dev server and a shell side by side, as native Ghostty splits or one Rex session. Running it again switches back to the live workspace. MIT.
 
+- **[Novadeck](https://github.com/novadeck-org/novadeck)** `⭐ 59` — Desktop terminal for macOS, Windows and Linux that runs Claude Code, Codex, Antigravity and OpenCode side by side in Focus, Grid or Canvas views. Every agent's questions and permission asks land in one Inbox you answer from, and agents can message each other and start teammates across harnesses. GPL-3.0.
+
 - **[Clave](https://github.com/codika-io/clave)** `⭐ 52` — Native macOS app for running multiple AI coding-agent CLIs (Claude Code, Gemini CLI, Codex) in parallel — split/grid terminal layouts, per-project session groups, a built-in git panel, and remote sessions over SSH. Fully local, no account. Electron. MIT.
 
 - **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 52` — Open-source agent development environment with a shared task system that Claude Code, Codex, Grok, OpenCode, and Cursor agents operate themselves, delegating to and messaging each other while you follow progress and redirect the work. Desktop (Tauri), web, and CLI; local or on a VPS. Apache-2.0.
