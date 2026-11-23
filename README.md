@@ -527,6 +527,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[TermFold](https://github.com/Bibarud/TermFold)** `⭐ 36` — Android app that runs a full Debian environment with Claude Code, Codex, Gemini CLI, OpenCode, Pi and more, plus a native chat for Agent Client Protocol agents, a file manager, and a browser the agents can drive; several agent sessions per project, built for tablets, no root and no laptop. Kotlin, Apache-2.0.
 
+- **[ccdeck](https://github.com/BarganConstantin/ccdeck)** `⭐ 34` — Local dashboard and terminal UI for Claude Code and Codex: see which sessions need input, open up to four terminals side by side, and track costs and account quotas. Auto-switch can move to an account with more quota, and paired machines can repair expired logins on the local network. `npx ccdeck`.
+
 - **[nsq](https://github.com/glmn-ai/neurosquad-cli)** `⭐ 31` — Runs Claude Code, Codex, OpenCode, or any command side by side in one terminal; status comes from each CLI's own hooks (working / needs you, with the question / finished), so a permission prompt can be answered y/a/n without opening the agent. A daemon keeps agents alive when the terminal closes; worktree per agent, exact cost per agent, OpenRouter and your own model servers (llama.cpp, Ollama, LM Studio, vLLM). No account, no telemetry. `npx neurosquad`. MIT.
 
 - **[Perch](https://github.com/asafofer/perch)** `⭐ 31` — macOS notch app that tracks Claude Code, Codex, OpenCode, pi and Cursor sessions across Terminal, iTerm2, Ghostty, Warp, tmux, herdr and cmux. Shows when one finishes or needs you, lets you allow, deny, answer or reply from the notch, and jumps back to the exact tab or pane. Local-only, Swift, MIT.
