@@ -921,6 +921,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)** `⭐ 30` — Persistent memory for CLI coding agents over MCP: a hosted remote server with OAuth at `https://mcp.mnemoverse.com/mcp`, or a local `npx -y @mnemoverse/mcp-memory-server` with a key. Tell it a recalled memory helped or misled and it re-ranks what comes back next; documented for Claude Code, Cline and Gemini CLI, with the same memory in Cursor and VS Code. MIT server, hosted engine, free tier.
 
+- **[Ollama Herd](https://github.com/geeks-accelerator/ollama-herd)** `⭐ 27` — Self-hosted router that serves Claude Code (Anthropic Messages API) and Codex (Responses API) from local models across several machines running Ollama or mlx_lm.server, picking a node per request by memory fit, queue depth and which models are already loaded.
 - **[ContextZip](https://github.com/jee599/contextzip)** `⭐ 26` — Rust filter that compresses coding-agent context by trimming live stdout before it reaches the model, targeting 60–90% reduction on noisy build and test output.
 
 - **[aigent-os](https://github.com/wrg32786/aigent-os)** `⭐ 26` — Claude Code harness that refreshes context instead of compacting: at a threshold it writes a capsule, runs `/clear`, confirms the fresh session, and resumes. Memory is plain Markdown in git. Codex adapter included. MIT.
