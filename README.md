@@ -1047,6 +1047,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[pingpong](https://pingpong.dev)** — Connects a team's Claude Code and Codex agents across terminals, worktrees and computers through one MCP bridge: agents share what they are working on and are told when another agent's work looks similar, ask another agent a question that a stand-in answers from its session without interrupting it, ping a live session with a request, and keep shared task lists and searchable docs. CLI for macOS and Linux, desktop app for macOS and Windows. Closed source; account required, 14-day trial then paid.
+
 ---
 
 ## Contributing
