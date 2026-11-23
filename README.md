@@ -305,6 +305,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LocalCodeForge](https://github.com/BMDPLAinsong/LocalCodeForge)** `⭐ 1` — C#/.NET local coding agent kernel running a 30B Qwen3-Coder via Ollama with no cloud: injects the real symbol table (type inventories, member signatures, access modifiers) before generation, guards against type conflicts before writing, runs a closed plan → write → build → locate → fix → run loop, and rolls back to task-isolated backups on repeated failure. CLI plus a web dashboard with live task stream and backup diff. MIT.
 
+- **[Turnloom](https://github.com/bhaskargurram-ai/turnloom)** `⭐ 0` — Small Python terminal coding agent with a local web Studio; folds old tool output out of the prompt but keeps the full text in an archive the model and the operator can read back, with approval-gated diffs and undo, an optional policy file for commands/reads/edits, any OpenAI-compatible endpoint (Ollama included), MCP client + server, and ACP. PyPI `turnloom`. MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
