@@ -305,6 +305,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[LocalCodeForge](https://github.com/BMDPLAinsong/LocalCodeForge)** `⭐ 1` — C#/.NET local coding agent kernel running a 30B Qwen3-Coder via Ollama with no cloud: injects the real symbol table (type inventories, member signatures, access modifiers) before generation, guards against type conflicts before writing, runs a closed plan → write → build → locate → fix → run loop, and rolls back to task-isolated backups on repeated failure. CLI plus a web dashboard with live task stream and backup diff. MIT.
 
+- **[Forge](https://github.com/Cosmic-Game-studios/forge)** `⭐ 0` — Terminal coding agent that checks its own work: type, lint and quality feedback on every edit, a watcher model reading along, automatic test runs, and an independent reviewer with a fresh context that must pass the diff before "done". Pair mode lets two models from different providers plan and code a task together; `screenshot` and `scene3d` let it see UI and three.js scenes. Anthropic, OpenRouter, OpenAI-compatible. TypeScript, MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
