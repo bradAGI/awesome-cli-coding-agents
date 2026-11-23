@@ -13,7 +13,7 @@
 
 A curated list of **160+ CLI coding agents** — AI-powered tools that live in your terminal, read/edit repos, and run commands — plus the **harnesses** that orchestrate, sandbox, or extend them.
 
-> **Last updated:** 2026-11-19
+> **Last updated:** 2026-11-23
 
 ### What is a CLI coding agent?
 
@@ -43,43 +43,43 @@ A CLI coding agent is an AI-powered tool that runs in your terminal and can auto
 
 Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tags `[Company]` indicate the backing organization.
 
-- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** `⭐ 265k` — Nous Research's self-improving CLI agent with persistent memory, automated skill creation, sandboxed code execution via Unix socket RPC, and multi-platform reach (Telegram/Slack/Discord/WhatsApp); supports 300+ models across multiple providers.
+- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** `⭐ 266k` — Nous Research's self-improving CLI agent with persistent memory, automated skill creation, sandboxed code execution via Unix socket RPC, and multi-platform reach (Telegram/Slack/Discord/WhatsApp); supports 300+ models across multiple providers.
 
-- **[OpenCode](https://github.com/anomalyco/opencode)** `⭐ 228k` — Terminal-native coding agent with 75+ provider support, LSP integration, and privacy-first design (formerly opencode-ai; now at opencode.ai).
+- **[OpenCode](https://github.com/anomalyco/opencode)** `⭐ 229k` — Terminal-native coding agent with 75+ provider support, LSP integration, and privacy-first design (formerly opencode-ai; now at opencode.ai).
 
 - **[Claw Code](https://github.com/ultraworkers/claw-code)** `⭐ 195k` — Clean-room Python/Rust rewrite of Claude Code architecture using oh-my-codex; fastest repo in GitHub history to 100K stars. Born from the March 2026 Claude Code source leak. MIT.
 
 - **[Codex CLI](https://github.com/openai/codex)** `⭐ 136k` `[OpenAI]` — OpenAI's local coding agent for reading/editing/running code, with an interactive TUI and tool execution. Apache-2.0.
 
-- **[Pi](https://github.com/badlogic/pi-mono)** `⭐ 123k` — Minimal, adaptable terminal coding harness from the pi-mono toolkit; unified LLM API, TUI, skills, and MCP support.
+- **[Pi](https://github.com/badlogic/pi-mono)** `⭐ 124k` — Minimal, adaptable terminal coding harness from the pi-mono toolkit; unified LLM API, TUI, skills, and MCP support.
 
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `⭐ 109k` `[Google]` — Google's terminal agent powered by Gemini, with tools for repo work and research. Apache-2.0.
 
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `⭐ 93.9k` — Open-source agentic developer environment (formerly OpenDevin) with CLI and web entrypoints; also has a lightweight [CLI-only package](https://github.com/OpenHands/OpenHands-CLI).
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `⭐ 94.2k` — Open-source agentic developer environment (formerly OpenDevin) with CLI and web entrypoints; also has a lightweight [CLI-only package](https://github.com/OpenHands/OpenHands-CLI).
 
 - **[Cline CLI](https://github.com/cline/cline)** `⭐ 71.8k` — Model-agnostic autonomous agent for planning, file edits, command execution, and browser use.
 
-- **[Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent)** `⭐ 71k` — Multi-harness agent OS layered over OpenCode, Codex, and Pi; Team Mode runs several models on one job, with a hash-anchored tool harness and heavy context tuning. npm `oh-my-opencode`; the Codex-only variant installs via `npx lazycodex-ai install`. Source-available (SUL-1.0, not OSI).
+- **[Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent)** `⭐ 71.1k` — Multi-harness agent OS layered over OpenCode, Codex, and Pi; Team Mode runs several models on one job, with a hash-anchored tool harness and heavy context tuning. npm `oh-my-opencode`; the Codex-only variant installs via `npx lazycodex-ai install`. Source-available (SUL-1.0, not OSI).
 
-- **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** `⭐ 68.9k` — Terminal tool that can execute code and actions; often used as a "do things on my machine" agent.
+- **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** `⭐ 69k` — Terminal tool that can execute code and actions; often used as a "do things on my machine" agent.
 
-- **[Goose](https://github.com/aaif-goose/goose)** `⭐ 56.8k` — Local, extensible agent that can execute, edit, and test; designed to run on-device and integrate with MCP.
+- **[Goose](https://github.com/aaif-goose/goose)** `⭐ 56.9k` — Local, extensible agent that can execute, edit, and test; designed to run on-device and integrate with MCP.
 
 - **[Aider](https://github.com/Aider-AI/aider)** `⭐ 50.2k` — Pair-programming agent for editing files via diffs/patches, with strong git and multi-file workflows.
 
 - **[Codewhale](https://github.com/Hmbown/CodeWhale)** `⭐ 41.2k` — Rust terminal coding agent (formerly `deepseek-tui`), bring-your-own-model across 30+ providers plus local vLLM/SGLang/Ollama. TUI or headless `codewhale exec` for scripts and CI; fleets pin a different provider, model, and reasoning tier per role, so a cheap model can direct an expensive one. Workspace snapshots, `/undo`, and a three-level permission posture. MIT.
 
-- **[OH-MY-PI](https://github.com/can1357/oh-my-pi)** `⭐ 39.5k` — Terminal coding agent ("Pi") with a TypeScript/Rust monorepo and local-first ergonomics.
+- **[OH-MY-PI](https://github.com/can1357/oh-my-pi)** `⭐ 39.7k` — Terminal coding agent ("Pi") with a TypeScript/Rust monorepo and local-first ergonomics.
 
 - **[Continue CLI](https://github.com/continuedev/continue)** `⭐ 36.5k` — Open-source terminal extension for multi-model coding with local/privacy focus.
 
 - **[Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `⭐ 36.1k` — Single Go binary coding agent built for long unattended runs; one local engine with four ways in (terminal, desktop app, browser, or editor over ACP). Config-driven providers in `reasonix.toml`, optional split executor/planner models, MCP plus an Extension Protocol sidecar system, plan mode, workspace sandbox, and per-turn checkpoints. MIT.
 
-- **[Deep Agents Code](https://github.com/langchain-ai/deepagents)** `⭐ 31.4k` `[LangChain]` — LangChain's official terminal coding agent built on the Deep Agents SDK; interactive TUI, file ops, shell access, subagents, headless mode, and human-in-the-loop approvals with any tool-calling LLM. PyPI `deepagents-code`.
+- **[Deep Agents Code](https://github.com/langchain-ai/deepagents)** `⭐ 31.5k` `[LangChain]` — LangChain's official terminal coding agent built on the Deep Agents SDK; interactive TUI, file ops, shell access, subagents, headless mode, and human-in-the-loop approvals with any tool-calling LLM. PyPI `deepagents-code`.
 
-- **[Qwen Code](https://github.com/QwenLM/qwen-code)** `⭐ 30.8k` `[Alibaba]` — Alibaba Qwen's official CLI agent for Qwen coder models (workflow tool + repo operations). Apache-2.0.
+- **[Qwen Code](https://github.com/QwenLM/qwen-code)** `⭐ 30.9k` `[Alibaba]` — Alibaba Qwen's official CLI agent for Qwen coder models (workflow tool + repo operations). Apache-2.0.
 
-- **[Crush](https://github.com/charmbracelet/crush)** `⭐ 29.1k` — Charmbracelet's glamorous agentic coding TUI in Go; multi-provider, LSP-aware, with rich terminal UI.
+- **[Crush](https://github.com/charmbracelet/crush)** `⭐ 29.2k` — Charmbracelet's glamorous agentic coding TUI in Go; multi-provider, LSP-aware, with rich terminal UI.
 
 - **[Kilo Code CLI](https://github.com/Kilo-Org/kilocode)** `⭐ 28.1k` — Agentic engineering platform with CLI; orchestrator mode, 100s of LLMs, skills, and checkpointing.
 
@@ -87,15 +87,15 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Roo Code CLI](https://github.com/RooCodeInc/Roo-Code)** `⭐ 24.2k` — Multi-mode CLI agent (architect/code/debug/orchestrator modes); Claude-like terminal interface with skills and checkpoints.
 
-- **[Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent)** `⭐ 22.8k` `[Prime Intellect]` — Self-improving RLM coding agent where a persistent IPython kernel is the model's only tool, so file edits, shell commands, skills, and subagents (`rlm(...)`) all happen as Python. A "Continual Harness" keeps memories, skills, and subagent specs as durable state that `/refine` updates from session evidence; daemon-backed sessions survive terminal disconnect, with goals, heartbeats, schedules, and bounded autonomous mode. Built on [Pi](https://github.com/earendil-works/pi). MIT.
+- **[Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent)** `⭐ 22.9k` `[Prime Intellect]` — Self-improving RLM coding agent where a persistent IPython kernel is the model's only tool, so file edits, shell commands, skills, and subagents (`rlm(...)`) all happen as Python. A "Continual Harness" keeps memories, skills, and subagent specs as durable state that `/refine` updates from session evidence; daemon-backed sessions survive terminal disconnect, with goals, heartbeats, schedules, and bounded autonomous mode. Built on [Pi](https://github.com/earendil-works/pi). MIT.
 
-- **[jcode](https://github.com/1jehuang/jcode)** `⭐ 21.9k` — Rust TUI agent optimized for RAM and startup latency (~28 MB PSS per session with local embeddings off), built for scaling many parallel sessions. Agent memory, swarm mode, browser automation, MCP, and 40+ providers with built-in OAuth login flows. MIT.
+- **[jcode](https://github.com/1jehuang/jcode)** `⭐ 22k` — Rust TUI agent optimized for RAM and startup latency (~28 MB PSS per session with local embeddings off), built for scaling many parallel sessions. Agent memory, swarm mode, browser automation, MCP, and 40+ providers with built-in OAuth login flows. MIT.
 
-- **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** `⭐ 20.8k` — Agent for resolving real repo issues/PR tasks; frequently used in SWE-bench-style workflows.
+- **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** `⭐ 20.9k` — Agent for resolving real repo issues/PR tasks; frequently used in SWE-bench-style workflows.
 
 - **[Plandex](https://github.com/plandex-ai/plandex)** `⭐ 15.9k` — "Plan-first" CLI agent for building features across multiple files with structured steps and 2M token context.
 
-- **[Codebuff](https://github.com/CodebuffAI/codebuff)** `⭐ 14.2k` — Multi-agent AI coding assistant with CLI support for collaborative coding workflows.
+- **[Codebuff](https://github.com/CodebuffAI/codebuff)** `⭐ 14.3k` — Multi-agent AI coding assistant with CLI support for collaborative coding workflows.
 
 - **[MiMo Code](https://github.com/XiaomiMiMo/MiMo-Code)** `⭐ 13.8k` `[Xiaomi]` — Xiaomi's official terminal coding agent; TUI + non-interactive modes, MCP, skills, hooks, git worktrees, and resumable sessions. Runs MiMo-V2.5-Pro or any mainstream provider; npm `@xiaomi-mimo/cli`. MIT.
 
@@ -119,7 +119,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[ANUS](https://github.com/anus-dev/anus)** `⭐ 6.6k` — Free coding agent built on Pi: every request goes to the smartest free model that is answering (OpenRouter, Gemini, Groq, Mistral free tiers), and the next one takes over when a model hits its limit. The repository's star count predates the agent — it was reused from an unrelated 2025 project. MIT.
 
-- **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** `⭐ 5.4k` `[Mistral]` — Mistral's CLI coding assistant for conversational repo interaction and edits. Apache-2.0.
+- **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** `⭐ 5.5k` `[Mistral]` — Mistral's CLI coding assistant for conversational repo interaction and edits. Apache-2.0.
 
 - **[Kode CLI](https://github.com/shareAI-lab/Kode-cli)** `⭐ 5.2k` — ShareAI's open-source CLI agent for terminal-native coding with multi-provider support.
 
@@ -161,39 +161,39 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Neovate Code](https://github.com/neovateai/neovate-code)** `⭐ 1.6k` `[Ant Group]` — Ant Group's CLI agent with plugin system, multi-model/multi-provider support, MCP integrations, and headless automation mode. MIT.
 
-- **[Maki](https://github.com/tontinton/maki)** `⭐ 1.4k` — Rust TUI coding agent optimized for context-token efficiency: tree-sitter file indexing, a sandboxed `code_execution` tool that chains tool calls without polluting the context window, tree-sitter-parsed permission gating for bash commands, and a memory tool. Extensible via neovim-like Lua plugins; 17+ providers, skills, MCP, ACP, and a Claude Code-compatible headless mode. MIT.
+- **[Maki](https://github.com/tontinton/maki)** `⭐ 1.5k` — Rust TUI coding agent optimized for context-token efficiency: tree-sitter file indexing, a sandboxed `code_execution` tool that chains tool calls without polluting the context window, tree-sitter-parsed permission gating for bash commands, and a memory tool. Extensible via neovim-like Lua plugins; 17+ providers, skills, MCP, ACP, and a Claude Code-compatible headless mode. MIT.
 
 - **[Tianshu Harness](https://github.com/huiliyi37/Tianshu-harness)** `⭐ 1.4k` — TypeScript coding-agent runtime with one kernel for a terminal TUI and a desktop GUI. The harness externalizes goals, evidence, and completion so a model claim of done is not treated as done, with multi-agent orchestration and prefix-cache-friendly long sessions. Apache-2.0.
 
 - **[Pydantic Deep Agents](https://github.com/vstorm-co/pydantic-deepagents)** `⭐ 1.1k` — Terminal coding agent built on Pydantic AI that edits files, runs shell commands, plans, delegates to sub-agents and connects to MCP servers, with optional Docker-sandboxed execution; works with any model, including local ones through Ollama. The same harness is available as a Python library (`pydantic-deep`). MIT.
 
+- **[Dulus](https://github.com/KevRojo/Dulus)** `⭐ 1k` — Provider-independent autonomous coding agent for the terminal (`pip install dulus`): reads/edits files, runs Bash, browses the web and ships commits across 100+ providers via LiteLLM plus local models through Ollama, with persistent memory, MCP support, multi-agent round tables, and an OpenAI-compatible hosted endpoint. GUI, web, CLI and Telegram surfaces; UI in 34 languages. GPL-3.0.
+
 - **[hax](https://github.com/OleksandrChekhovskyi/hax)** `⭐ 1k` — Minimalist terminal-native coding agent written in C; a single native binary that starts instantly and uses a few MB of RAM, leaving the machine's memory to a local model. First-class llama.cpp support (auto-discovers the served model and its runtime capabilities, no provider config) alongside OpenAI- and Anthropic-compatible endpoints, Codex via a ChatGPT subscription, and OpenRouter; streaming Markdown TUI that preserves native scrollback and a clean one-shot `-p` mode. Linux/macOS/BSD. MIT.
 
-- **[VT Code](https://github.com/vinhnx/vtcode)** `⭐ 914` — Open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. MIT.
-
-- **[Dulus](https://github.com/KevRojo/Dulus)** `⭐ 871` — Provider-independent autonomous coding agent for the terminal (`pip install dulus`): reads/edits files, runs Bash, browses the web and ships commits across 100+ providers via LiteLLM plus local models through Ollama, with persistent memory, MCP support, multi-agent round tables, and an OpenAI-compatible hosted endpoint. GUI, web, CLI and Telegram surfaces; UI in 34 languages. GPL-3.0.
+- **[VT Code](https://github.com/vinhnx/vtcode)** `⭐ 916` — Open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. MIT.
 
 - **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)** `⭐ 748` — Customizable, lightweight CLI powered by Groq's ultra-fast inference; extensible tools/commands with multi-model support.
 
-- **[Tura](https://github.com/Tura-AI/tura)** `⭐ 668` — Rust agent runtime that compiles a task into a single runtime-managed command graph instead of a model round trip per tool call, with backward planning and task-scoped compaction. Vendor-published DeepSWE comparison claims 77.5% fewer tokens than Codex CLI. TUI plus a Tauri GUI; npm `tura-ai`. AGPL-3.0.
+- **[Tura](https://github.com/Tura-AI/tura)** `⭐ 671` — Rust agent runtime that compiles a task into a single runtime-managed command graph instead of a model round trip per tool call, with backward planning and task-scoped compaction. Vendor-published DeepSWE comparison claims 77.5% fewer tokens than Codex CLI. TUI plus a Tauri GUI; npm `tura-ai`. AGPL-3.0.
 
-- **[Dexto](https://github.com/truffle-ai/dexto)** `⭐ 661` — Coding agent and general agent harness with CLI/web/API modes; ships a production-ready coding agent with sub-agent spawning.
+- **[Dexto](https://github.com/truffle-ai/dexto)** `⭐ 660` — Coding agent and general agent harness with CLI/web/API modes; ships a production-ready coding agent with sub-agent spawning.
 
-- **[Octomind](https://github.com/muvon/octomind)** `⭐ 637` — Token-efficient, model-agnostic coding agent runtime in one Rust binary: interactive, piped, daemon, WebSocket, or ACP sub-agent. On its own [octobench](https://github.com/Muvon/octobench) suite it reports 24/25 real-PR tasks solved at lower cost than Claude Code and opencode; adaptive cache-aware compaction, guardrails-as-code, MCP-native, shareable specialist taps. Apache-2.0.
+- **[Octomind](https://github.com/muvon/octomind)** `⭐ 653` — Token-efficient, model-agnostic coding agent runtime in one Rust binary: interactive, piped, daemon, WebSocket, or ACP sub-agent. On its own [octobench](https://github.com/Muvon/octobench) suite it reports 24/25 real-PR tasks solved at lower cost than Claude Code and opencode; adaptive cache-aware compaction, guardrails-as-code, MCP-native, shareable specialist taps. Apache-2.0.
 
-- **[mu](https://github.com/qybaihe/mu)** `⭐ 612` — Coding agent built on Pi with a judgment kernel: a small, fast judge (Jev, a local model, or any LLM) makes the routine calls at 38 decision points (what enters the context, whether a flagged command was asked for, prompt-injection screening, whether "done" was verified), so the main model keeps its attention for the work. Sub-agents, a built-in browser, and a desktop app. npm `mu-agent`. MIT; the desktop app is Apache-2.0.
+- **[mu](https://github.com/qybaihe/mu)** `⭐ 616` — Coding agent built on Pi with a judgment kernel: a small, fast judge (Jev, a local model, or any LLM) makes the routine calls at 38 decision points (what enters the context, whether a flagged command was asked for, prompt-injection screening, whether "done" was verified), so the main model keeps its attention for the work. Sub-agents, a built-in browser, and a desktop app. npm `mu-agent`. MIT; the desktop app is Apache-2.0.
 
-- **[agentty](https://github.com/1ay1/agentty)** `⭐ 567` — Native C++26 terminal coding agent and drop-in claude-code alternative; single ~13.6 MB static binary with sub-millisecond cold start and zero runtime deps (no Node/Python/Electron). Sandboxed by default (Bubblewrap/`sandbox-exec`), model-agnostic (Claude, OpenAI, Groq, OpenRouter, Together, Cerebras, local Ollama), runs inside Zed over ACP, and drives air-gapped hosts over SSH. Linux/macOS/Windows/Termux. MIT.
+- **[agentty](https://github.com/1ay1/agentty)** `⭐ 561` — Native C++26 terminal coding agent and drop-in claude-code alternative; single ~13.6 MB static binary with sub-millisecond cold start and zero runtime deps (no Node/Python/Electron). Sandboxed by default (Bubblewrap/`sandbox-exec`), model-agnostic (Claude, OpenAI, Groq, OpenRouter, Together, Cerebras, local Ollama), runs inside Zed over ACP, and drives air-gapped hosts over SSH. Linux/macOS/Windows/Termux. MIT.
 
 - **[claw-code-agent](https://github.com/HarnessLab/claw-code-agent)** `⭐ 548` — Python-only Claude Code rewrite with zero external dependencies; born from the March 2026 Claude Code source leak, positioned as easier to hack on than the Rust/TypeScript reimplementations.
 
 - **[g3](https://github.com/dhanji/g3)** `⭐ 521` — "Coding AI agent" in Rust: tool-running, repo interaction, skills system, and provider abstraction.
 
-- **[Orca](https://github.com/echoVic/orca-agent)** `⭐ 518` — DeepSeek-native terminal coding agent in Rust with OS-level sandboxing (Seatbelt, bwrap, Landlock+seccomp, fail-closed), persistent goal mode with stall detection, background tasks, JS workflows, folder trust, and 1M-context auto-compaction. Single binary. MIT.
+- **[Orca](https://github.com/echoVic/orca-agent)** `⭐ 520` — DeepSeek-native terminal coding agent in Rust with OS-level sandboxing (Seatbelt, bwrap, Landlock+seccomp, fail-closed), persistent goal mode with stall detection, background tasks, JS workflows, folder trust, and 1M-context auto-compaction. Single binary. MIT.
 
-- **[cecli](https://github.com/cecli-dev/cecli)** `⭐ 424` — Community fork of Aider (formerly `aider-ce`) that has stayed in active development since upstream slowed, adding extensibility and customization hooks to the pair-programming CLI. Python, Apache-2.0.
+- **[cecli](https://github.com/cecli-dev/cecli)** `⭐ 425` — Community fork of Aider (formerly `aider-ce`) that has stayed in active development since upstream slowed, adding extensibility and customization hooks to the pair-programming CLI. Python, Apache-2.0.
 
-- **[Memdoor](https://github.com/guregodevo/memdoor)** `⭐ 415` — Go terminal coding agent on your own API key or a ChatGPT plan. Describe the steps and it writes them as a workflow that runs as a graph: a step is done only when its file exists or its command exits 0, with approval gates and resume; a decision model in front of the chat model cuts input tokens by the author's own measurements. Apache-2.0.
+- **[Memdoor](https://github.com/guregodevo/memdoor)** `⭐ 418` — Go terminal coding agent on your own API key or a ChatGPT plan. Describe the steps and it writes them as a workflow that runs as a graph: a step is done only when its file exists or its command exits 0, with approval gates and resume; a decision model in front of the chat model cuts input tokens by the author's own measurements. Apache-2.0.
 
 - **[zot](https://github.com/patriceckhart/zot)** `⭐ 371` — Zero-overhead and lightweight coding agent harness with TUI/JSON/RPC modes, structured tools, reviewable file diffs, skills, extensions, and optional guardrails.
 
@@ -203,45 +203,45 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Mini-Kode](https://github.com/minmaxflow/mini-kode)** `⭐ 305` — An educational AI coding agent CLI, intended as a readable reference implementation.
 
-- **[rpi](https://github.com/bigfish1913/pi-rust)** `⭐ 284` — Library-first Rust coding agent, inspired by Pi but independent of it: nine composable crates (`rpi-agent`, `rpi-tools`, `rpi-harness`, `rpi-tui`, …) so the agent loop can be embedded in your own program, plus a ready-to-run `rpi` terminal CLI. Crash-resumable JSONL sessions that self-heal a duplicated-seq log, a stable `#[repr(C)]` plugin ABI for tools and providers, and a provider-agnostic `StreamFn` boundary that makes the loop testable with no network. MIT.
+- **[rpi](https://github.com/bigfish1913/pi-rust)** `⭐ 298` — Library-first Rust coding agent, inspired by Pi but independent of it: nine composable crates (`rpi-agent`, `rpi-tools`, `rpi-harness`, `rpi-tui`, …) so the agent loop can be embedded in your own program, plus a ready-to-run `rpi` terminal CLI. Crash-resumable JSONL sessions that self-heal a duplicated-seq log, a stable `#[repr(C)]` plugin ABI for tools and providers, and a provider-agnostic `StreamFn` boundary that makes the loop testable with no network. MIT.
 
-- **[Mixdog](https://github.com/tribgames/mixdog)** `⭐ 257` — Desktop app and terminal coding agent (`npm install -g mixdog`) that runs on an existing Claude or ChatGPT subscription and keeps per-turn context small: tools and skills load on demand and long outputs are offloaded to files. The project's own Terminal-Bench 2.1 run reports 63% fewer tokens than Codex CLI; logs in repo. Apache-2.0.
+- **[Mixdog](https://github.com/tribgames/mixdog)** `⭐ 259` — Desktop app and terminal coding agent (`npm install -g mixdog`) that runs on an existing Claude or ChatGPT subscription and keeps per-turn context small: tools and skills load on demand and long outputs are offloaded to files. The project's own Terminal-Bench 2.1 run reports 63% fewer tokens than Codex CLI; logs in repo. Apache-2.0.
 
-- **[Alysis Code](https://github.com/AlysisAi/AlysisCode)** `⭐ 229` — Model-agnostic CLI + desktop agent for coding and everyday computer work (OpenAI, Anthropic, Gemini, DeepSeek, xAI, OpenRouter, Ollama/LM Studio); sandboxed shell, MCP, skills, plugins, scheduled tasks. Apache-2.0.
+- **[Alysis Code](https://github.com/AlysisAi/AlysisCode)** `⭐ 231` — Model-agnostic CLI + desktop agent for coding and everyday computer work (OpenAI, Anthropic, Gemini, DeepSeek, xAI, OpenRouter, Ollama/LM Studio); sandboxed shell, MCP, skills, plugins, scheduled tasks. Apache-2.0.
 
-- **[Autopilot](https://github.com/directionally-local/autopilot)** `⭐ 220` — Terminal coding agent and SDK, bring your own key for 25+ providers or a local model through Ollama or LM Studio. Can fan subagents out into separate Hotcell sandboxes so several tasks run in parallel without touching your machine. TypeScript, MIT.
+- **[Autopilot](https://github.com/directionally-local/autopilot)** `⭐ 221` — Terminal coding agent and SDK, bring your own key for 25+ providers or a local model through Ollama or LM Studio. Can fan subagents out into separate Hotcell sandboxes so several tasks run in parallel without touching your machine. TypeScript, MIT.
 
-- **[OpenAgentd](https://github.com/lthoangg/openagentd)** `⭐ 216` — Local coding agent with a CLI and a desktop app that shows every tool call, diff and session cost. Rust backend, 18 model providers and local models, phone apps over an end-to-end encrypted relay. Apache-2.0.
+- **[OpenAgentd](https://github.com/lthoangg/openagentd)** `⭐ 218` — Local coding agent with a CLI and a desktop app that shows every tool call, diff and session cost. Rust backend, 18 model providers and local models, phone apps over an end-to-end encrypted relay. Apache-2.0.
 
 - **[VibePod](https://github.com/VibePod/vibepod-cli)** `⭐ 199` — Unified CLI for running AI coding agents in isolated Docker containers; zero-config setup, local metrics, HTTP traffic tracking, and an analytics dashboard for side-by-side comparison.
 
-- **[nori-cli](https://github.com/tilework-tech/nori-cli)** `⭐ 194` — Multi-provider CLI built on Codex CLI; switch between Claude, Gemini, and Codex from the same native terminal.
+- **[nori-cli](https://github.com/tilework-tech/nori-cli)** `⭐ 195` — Multi-provider CLI built on Codex CLI; switch between Claude, Gemini, and Codex from the same native terminal.
 
-- **[SpineCodex](https://github.com/GhabiX/SpineCodex)** `⭐ 151` — Open-source distribution of OpenAI Codex CLI (`npm install -g @spinejit/spine-codex`) with built-in subtask-tree context compilation (`Open`, `Close`, `Next`, `Spawn`): folds completed subtasks into returned memories at the active suffix while keeping parent context byte-for-byte intact for prompt-cache reuse (the authors report 32%–74% lower cost on SWE-Milestone, [arXiv:2610.37224](https://arxiv.org/abs/2610.37224)). Rust & TypeScript, Apache-2.0.
+- **[SpineCodex](https://github.com/GhabiX/SpineCodex)** `⭐ 153` — Open-source distribution of OpenAI Codex CLI (`npm install -g @spinejit/spine-codex`) with built-in subtask-tree context compilation (`Open`, `Close`, `Next`, `Spawn`): folds completed subtasks into returned memories at the active suffix while keeping parent context byte-for-byte intact for prompt-cache reuse (the authors report 32%–74% lower cost on SWE-Milestone, [arXiv:2610.37224](https://arxiv.org/abs/2610.37224)). Rust & TypeScript, Apache-2.0.
 
-- **[San](https://github.com/genai-io/san)** `⭐ 146` — Go terminal-native runtime for specialized AI agents; provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), runs Claude Code skills/plugins/MCP unmodified, swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop. Single ~12 MB binary, zero runtime deps. Apache-2.0.
+- **[AgenC Core](https://github.com/tetsuo-ai/agenc-core)** `⭐ 143` — Open source terminal coding agent that works with any model provider, including local models through Ollama and LM Studio. TUI, headless mode, background agents, MCP. Self-reported 76.2% on Terminal-Bench 2.1 for $34 with DeepSeek V4.1 Flash. MIT.
 
-- **[San](https://github.com/genai-io/san)** `⭐ 146` — Go terminal-native runtime for specialized AI agents; provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), runs Claude Code skills/plugins/MCP unmodified, swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop. Single ~12 MB binary, zero runtime deps. Apache-2.0.
+- **[Waveloom](https://github.com/Menfre01/waveloom)** `⭐ 139` — Go terminal-native coding agent with Bubble Tea TUI; DeepSeek V4 prompt caching for long-context efficiency; Claude Code-compatible UX with skill/MCP auto-discovery; four-tier context compaction, three subagent modes (Fork/Cold/Explore), permission engine, and plan mode. Single ~19 MB binary, zero runtime deps. Apache-2.0.
 
-- **[AgenC Core](https://github.com/tetsuo-ai/agenc-core)** `⭐ 144` — Open source terminal coding agent that works with any model provider, including local models through Ollama and LM Studio. TUI, headless mode, background agents, MCP. Self-reported 76.2% on Terminal-Bench 2.1 for $34 with DeepSeek V4.1 Flash. MIT.
+- **[cursor-agent](https://github.com/civai-technologies/cursor-agent)** `⭐ 136` — Python-based agent replicating Cursor's coding assistant capabilities; supports Claude, OpenAI, and local Ollama models.
 
-- **[Waveloom](https://github.com/Menfre01/waveloom)** `⭐ 138` — Go terminal-native coding agent with Bubble Tea TUI; DeepSeek V4 prompt caching for long-context efficiency; Claude Code-compatible UX with skill/MCP auto-discovery; four-tier context compaction, three subagent modes (Fork/Cold/Explore), permission engine, and plan mode. Single ~19 MB binary, zero runtime deps. Apache-2.0.
+- **[San](https://github.com/genai-io/san)** `⭐ 129` — Go terminal-native runtime for specialized AI agents; provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), runs Claude Code skills/plugins/MCP unmodified, swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop. Single ~12 MB binary, zero runtime deps. Apache-2.0.
 
-- **[cursor-agent](https://github.com/civai-technologies/cursor-agent)** `⭐ 137` — Python-based agent replicating Cursor's coding assistant capabilities; supports Claude, OpenAI, and local Ollama models.
+- **[San](https://github.com/genai-io/san)** `⭐ 129` — Go terminal-native runtime for specialized AI agents; provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM), runs Claude Code skills/plugins/MCP unmodified, swappable search backends, custom personas, sandboxed subagents, lifecycle hooks, and a self-evolving memory loop. Single ~12 MB binary, zero runtime deps. Apache-2.0.
+
+- **[3code](https://github.com/capocasa/3code)** `⭐ 123` — Free and open source command-line coding agent built from the ground up to be efficient enough to use 3rd party token providers without a coding plan. Tight, no-frills interface, instant startup, works on macOS, Windows, Linux, and Termux; supports a wide range of providers including EU ones (Mistral, TensorX). MIT.
 
 - **[DvalinCode](https://github.com/arthurpanhku/dvalincode)** `⭐ 121` — Provider-neutral, local-first coding agent (Chat/Cowork/Code modes) built for governance: an org policy engine, enforced network egress (per-request checks plus OS-sandboxed subprocesses via `sandbox-exec`/Bubblewrap), and a tamper-evident, hash-chained audit trail. Inline diff approval, durable session journal, built-in Web GUI from a single binary; works with any OpenAI-compatible endpoint (DeepSeek, OpenAI, Claude via OpenRouter, Groq, Ollama). Zero runtime deps. MIT.
-
-- **[3code](https://github.com/capocasa/3code)** `⭐ 120` — Free and open source command-line coding agent built from the ground up to be efficient enough to use 3rd party token providers without a coding plan. Tight, no-frills interface, instant startup, works on macOS, Windows, Linux, and Termux; supports a wide range of providers including EU ones (Mistral, TensorX). MIT.
 
 - **[Codex Infinity](https://github.com/lee101/codex-infinity)** `⭐ 105` — Autonomous terminal coding agent (OpenAI Codex CLI fork) adding auto-continuation, parallel multi-agent runs, and CI repair loops.
 
 - **[openHarness](https://github.com/zhijiewong/openharness)** `⭐ 100` — Open-source Claude Code alternative. 78 slash commands, 42 tools, MCP (stdio/HTTP/SSE + OAuth 2.1), hooks, subagents, plan mode. Works with Anthropic/OpenAI/Ollama/llama.cpp/LM Studio. Ships both npm and Python SDK. MIT.
 
-- **[Keen Code](https://github.com/mochow13/keen-code)** `⭐ 92` — Go-based CLI coding agent focused on efficient context management — uses lean TurnMemory summaries instead of raw tool traces to maximize context efficiency. 9+ providers, skill-driven MCP servers, and full transparency with every prompt, design doc, and implementation plan saved as markdown. MIT.
+- **[Keen Code](https://github.com/mochow13/keen-code)** `⭐ 93` — Go-based CLI coding agent focused on efficient context management — uses lean TurnMemory summaries instead of raw tool traces to maximize context efficiency. 9+ providers, skill-driven MCP servers, and full transparency with every prompt, design doc, and implementation plan saved as markdown. MIT.
 
-- **[Martty](https://github.com/openma-ai/Martty)** `⭐ 83` — Rust/ratatui terminal ACP client that bundles its own ACP layer, so agents that speak the protocol run in a native TUI rather than each shipping their own. Session history, MCP, and a `martty` single binary. MIT.
+- **[Martty](https://github.com/openma-ai/Martty)** `⭐ 85` — Rust/ratatui terminal ACP client that bundles its own ACP layer, so agents that speak the protocol run in a native TUI rather than each shipping their own. Session history, MCP, and a `martty` single binary. MIT.
 
-- **[Crab Code](https://github.com/lingcoder/crab-code)** `⭐ 77` — Rust-native coding agent built from scratch, deliberately mirroring Claude Code's toolset, permission model, and interaction patterns; Anthropic, OpenAI, DeepSeek, Bedrock, and Vertex providers. MIT.
+- **[Crab Code](https://github.com/lingcoder/crab-code)** `⭐ 78` — Rust-native coding agent built from scratch, deliberately mirroring Claude Code's toolset, permission model, and interaction patterns; Anthropic, OpenAI, DeepSeek, Bedrock, and Vertex providers. MIT.
 
 - **[Smelt](https://github.com/leonardcser/smelt)** `⭐ 73` — Rust TUI coding agent; multi-provider (Anthropic, OpenAI, Ollama, GitHub Copilot, any OpenAI-compatible endpoint), four modes (Normal/Plan/Apply/Yolo), granular permission system, parallel subagents, vim keybindings, and headless scriptable mode. MIT.
 
@@ -253,7 +253,7 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[QQCode](https://github.com/qnguyen3/qqcode)** `⭐ 54` — Lightweight CLI coding agent in Rust focused on speed, determinism, and developer control; supports skills.
 
-- **[OB-1](https://github.com/Overbrilliant/ob-1)** `⭐ 39` — Terminal coding agent that runs with no account, API key, or card against a free-model catalog. Persistent project memory builds a fact and relationship graph from real work and surfaces it with `/memory`. npm `ob1`. Apache-2.0.
+- **[OB-1](https://github.com/Overbrilliant/ob-1)** `⭐ 44` — Terminal coding agent that runs with no account, API key, or card against a free-model catalog. Persistent project memory builds a fact and relationship graph from real work and surfaces it with `/memory`. npm `ob1`. Apache-2.0.
 
 - **[Zap](https://github.com/zap-coding-agent/zap-coding-agent)** `⭐ 38` — Skill-first Rust TUI coding agent that injects only the context your task needs — no system prompt bloat. Single binary, no runtime. Supports Claude, Gemini, OpenAI, and local models via LM Studio; code-indexed via SQLite for fast symbol lookup; MCP support. MIT.
 
@@ -263,21 +263,21 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Mercury CLI](https://github.com/Whq02/MercuryCLI)** `⭐ 31` — Multi-session terminal coding agent ([mercury-cli.ai](https://mercury-cli.ai)): runs several coding sessions side by side on one screen, spawns crewmates on any of 22 providers or a local model in isolated git worktrees with file leases, and keeps project memory across sessions (BM25 plus an on-device embedding model). LSP, 57-language AST rewrites, a DAP debugger, keyless web search, computer use and voice dictation built in. npm `mercury-tech-cli`, TypeScript. Open source (Apache-2.0).
 
-- **[Hazzel](https://github.com/mukundzha/hazzel)** `⭐ 29` — Approval-first Python coding agent where lookup-shaped asks ("find all *.py files") are answered locally with no model round trip, and `/usage`/`/budget` report provider-billed dollars rather than estimates. Every write is a diff you approve, and `/undo` reverts only the agent's hunks while keeping edits you made afterwards. ~10k lines readable end to end, 8 bring-your-own-key providers including Ollama, MCP client, Apache-2.0.
+- **[Hazzel](https://github.com/mukundzha/hazzel)** `⭐ 31` — Approval-first Python coding agent where lookup-shaped asks ("find all *.py files") are answered locally with no model round trip, and `/usage`/`/budget` report provider-billed dollars rather than estimates. Every write is a diff you approve, and `/undo` reverts only the agent's hunks while keeping edits you made afterwards. ~10k lines readable end to end, 8 bring-your-own-key providers including Ollama, MCP client, Apache-2.0.
 
 - **[Kolega Code](https://github.com/kolega-ai/kolega-code)** `⭐ 22` — Python terminal coding agent where the model writes its own multi-agent workflows (Gigacode): the runtime enforces concurrency caps and token budgets, journals every completed agent call to disk, and replays unchanged calls for free on resume. 15+ providers, MCP over stdio/SSE/streamable HTTP, ACP, sandboxed shell and filesystem tools, git worktrees, and a browser agent. Source-available (BUSL-1.1).
 
+- **[memcode](https://github.com/memcode-ai/memcode)** `⭐ 20` — Go terminal coding agent that keeps persistent per-project memory in a local `.memcode` store — subsystems, prior work, failed approaches, corrected preferences — so sessions don't start from zero. Single binary that doubles as a self-hosted gateway answering on twelve chat channels, and ships an MCP memory server so other agents can read the same store. Runs on your own API keys, a local endpoint like Ollama, or a hosted account. MIT.
+
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 19` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
-- **[opencode-rust](https://github.com/vakandi/opencode-rust)** `⭐ 18` — Independent Rust reimplementation of OpenCode, not affiliated with the OpenCode team: CLI, TUI and HTTP server for local AI agents across 21 crates, no Docker required. npm `opencode-rust`, or `brew install vakandi/tap/opencode-rust` for the `opr` binary. MIT.
-
-- **[memcode](https://github.com/memcode-ai/memcode)** `⭐ 18` — Go terminal coding agent that keeps persistent per-project memory in a local `.memcode` store — subsystems, prior work, failed approaches, corrected preferences — so sessions don't start from zero. Single binary that doubles as a self-hosted gateway answering on twelve chat channels, and ships an MCP memory server so other agents can read the same store. Runs on your own API keys, a local endpoint like Ollama, or a hosted account. MIT.
+- **[opencode-rust](https://github.com/vakandi/opencode-rust)** `⭐ 15` — Independent Rust reimplementation of OpenCode, not affiliated with the OpenCode team: CLI, TUI and HTTP server for local AI agents across 21 crates, no Docker required. npm `opencode-rust`, or `brew install vakandi/tap/opencode-rust` for the `opr` binary. MIT.
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 11` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.
 
 - **[slash-agent](https://github.com/akatzmann/slash-agent)** `⭐ 11` — Shell-integrated terminal copilot for active Bash/Zsh/Fish shells; captures tmux/history scrollback to diagnose errors, runs commands via interactive PTY bridge with shell state sync (`cd`/`export`), and supports local Ollama/OpenAI via [py-agent-core](https://github.com/akatzmann/py-agent-core). Apache-2.0.
 
-- **[Forge (Norvia Labs)](https://github.com/NorviaLabs/forge)** `⭐ 8` — Rust TUI coding agent unifying an AI agent, a vim-style code editor, and a shell in one keyboard-driven workspace; approval-aware command execution, durable SQLite session journal, and MCP server support. MIT.
+- **[Forge (Norvia Labs)](https://github.com/NorviaLabs/forge)** `⭐ 9` — Rust TUI coding agent unifying an AI agent, a vim-style code editor, and a shell in one keyboard-driven workspace; approval-aware command execution, durable SQLite session journal, and MCP server support. MIT.
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 6` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
@@ -311,13 +311,13 @@ Projects built on, forked from, or inspired by [OpenClaw](https://github.com/ope
 
 - **[OpenClaw](https://github.com/openclaw/openclaw)** `⭐ 395k` — The original personal AI assistant you run locally; CLI with onboarding wizard, skills, tools, and multi-channel support (WhatsApp/Slack/Discord). MIT.
 
-- **[nanobot](https://github.com/HKUDS/nanobot)** `⭐ 50.2k` — Ultra-lightweight ~4,000-line Python rewrite of OpenClaw; tool use, persistent memory, scheduled tasks, and multi-channel support (Telegram/Discord/WhatsApp). MIT.
+- **[nanobot](https://github.com/HKUDS/nanobot)** `⭐ 50.3k` — Ultra-lightweight ~4,000-line Python rewrite of OpenClaw; tool use, persistent memory, scheduled tasks, and multi-channel support (Telegram/Discord/WhatsApp). MIT.
 
-- **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** `⭐ 33.5k` — Fully autonomous AI agent runtime in Rust; trait-driven pluggable architecture (providers, tools, memory, channels), runs on minimal hardware (<5MB RAM), multi-channel CLI/Telegram/Discord/Slack, with sandboxed execution and hybrid vector+keyword search.
+- **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** `⭐ 33.6k` — Fully autonomous AI agent runtime in Rust; trait-driven pluggable architecture (providers, tools, memory, channels), runs on minimal hardware (<5MB RAM), multi-channel CLI/Telegram/Discord/Slack, with sandboxed execution and hybrid vector+keyword search.
 
 - **[NanoClaw](https://github.com/gavrielc/nanoclaw)** `⭐ 31.1k` — Security-first lightweight alternative to OpenClaw; runs agents in Apple containers/Docker with sandboxed execution, built on Anthropic's Agents SDK.
 
-- **[PicoClaw](https://github.com/sipeed/picoclaw)** `⭐ 30.1k` — Ultra-lightweight personal AI assistant in Go inspired by OpenClaw; runs on $10 hardware with less than 10MB RAM.
+- **[PicoClaw](https://github.com/sipeed/picoclaw)** `⭐ 30.2k` — Ultra-lightweight personal AI assistant in Go inspired by OpenClaw; runs on $10 hardware with less than 10MB RAM.
 
 - **[IronClaw](https://github.com/nearai/ironclaw)** `⭐ 12.7k` — OpenClaw rewritten in Rust by NEAR AI; WASM sandbox isolation, capability-based permissions, and prompt injection defense.
 
@@ -325,11 +325,11 @@ Projects built on, forked from, or inspired by [OpenClaw](https://github.com/ope
 
 - **[Clawith](https://github.com/dataelement/Clawith)** `⭐ 4.2k` — "OpenClaw for Teams" — multi-agent collaboration platform that scales OpenClaw to organizations. Apache-2.0.
 
-- **[claw0](https://github.com/shareAI-lab/claw0)** `⭐ 3.4k` — 0-to-1 tutorial companion for the OpenClaw ecosystem; walks through building an agent harness from scratch, covering planning, context compression, and task persistence.
+- **[claw0](https://github.com/shareAI-lab/claw0)** `⭐ 3.5k` — 0-to-1 tutorial companion for the OpenClaw ecosystem; walks through building an agent harness from scratch, covering planning, context compression, and task persistence.
 
 - **[Moltis](https://github.com/moltis-org/moltis)** `⭐ 3k` — Secure, auditable Rust-native alternative to OpenClaw; zero unsafe code, 2,300+ tests, built-in voice I/O, MCP servers, and multi-channel access. MIT.
 
-- **[GitClaw](https://github.com/open-gitagent/gitclaw)** `⭐ 755` — Git-native AI agent framework where agent identity, rules, memory, tools, and skills are all version-controlled files. MIT.
+- **[GitClaw](https://github.com/open-gitagent/gitclaw)** `⭐ 754` — Git-native AI agent framework where agent identity, rules, memory, tools, and skills are all version-controlled files. MIT.
 
 - **[LionClaw](https://github.com/moshthepitt/lionclaw)** `⭐ 19` — Secure-first local AI CLI with a small auditable kernel, durable sessions, and installable skills. MIT.
 
@@ -337,21 +337,21 @@ Projects built on, forked from, or inspired by [OpenClaw](https://github.com/ope
 
 Proprietary agents — usable but not forkable or extensible at the source level.
 
-- **[Claude Code](https://github.com/anthropics/claude-code)** `⭐ 156k` `[Anthropic]` — Anthropic's repo-aware terminal agent for code edits, refactors, and git workflows. Source-available, no OSS license.
+- **[Claude Code](https://github.com/anthropics/claude-code)** `⭐ 157k` `[Anthropic]` — Anthropic's repo-aware terminal agent for code edits, refactors, and git workflows. Source-available, no OSS license.
 
 - **[Warp](https://github.com/warpdotdev/Warp)** `⭐ 66.1k` `[Warp]` — Modern terminal with built-in AI agent mode; understands tasks, runs commands, edits files, and orchestrates multi-step workflows.
 
-- **[GitHub Copilot in the CLI](https://github.com/github/copilot-cli)** `⭐ 11.4k` `[GitHub]` — GitHub's agentic CLI for repo/PR/issue workflows, command suggestions, and headless automation.
+- **[GitHub Copilot in the CLI](https://github.com/github/copilot-cli)** `⭐ 11.5k` `[GitHub]` — GitHub's agentic CLI for repo/PR/issue workflows, command suggestions, and headless automation.
 
 - **[Command Code](https://github.com/CommandCodeAI/command-code)** `⭐ 4.3k` `[CommandCode]` — CLI coding agent that continuously learns your coding style via taste-1 neuro-symbolic AI; adapts to preferences over time with project-specific taste profiles.
 
 - **[Ante](https://github.com/AntigmaLabs/ante-preview)** `⭐ 2k` `[Antigma Labs]` — Single ~15 MB Rust binary terminal coding agent (research preview) with client–daemon architecture, interactive TUI + headless CLI, offline GGUF inference via embedded llama.cpp, and 12+ providers; strong verified Terminal-Bench 2.1 results. Core agent ships as a prebuilt binary.
 
-- **[pool](https://github.com/poolsideai/pool)** `⭐ 448` `[Poolside]` — Poolside's terminal coding agent backed by its Laguna models; interactive TUI, headless `pool exec`, ACP client/server for Zed/JetBrains/Xcode, AGENTS.md, skills, and MCP. Binary distribution under a proprietary EULA.
+- **[pool](https://github.com/poolsideai/pool)** `⭐ 450` `[Poolside]` — Poolside's terminal coding agent backed by its Laguna models; interactive TUI, headless `pool exec`, ACP client/server for Zed/JetBrains/Xcode, AGENTS.md, skills, and MCP. Binary distribution under a proprietary EULA.
 
-- **[Auggie](https://github.com/augmentcode/auggie)** `⭐ 293` `[Augment Code]` — Augment's agentic coding CLI; interactive terminal agent plus headless `--print` mode for CI, custom slash commands from `.augment/commands`, and official GitHub Actions for PR review. Proprietary; requires an active subscription.
+- **[Auggie](https://github.com/augmentcode/auggie)** `⭐ 296` `[Augment Code]` — Augment's agentic coding CLI; interactive terminal agent plus headless `--print` mode for CI, custom slash commands from `.augment/commands`, and official GitHub Actions for PR review. Proprietary; requires an active subscription.
 
-- **[Droid](https://github.com/Factory-AI/factory)** `⭐ 99` `[Factory]` — Factory's multi-model CLI coding agent; #1 on Terminal-Bench, specialized droids for different tasks, headless CI mode, and multi-interface support (CLI/IDE/Slack/Linear).
+- **[Droid](https://github.com/Factory-AI/factory)** `⭐ 102` `[Factory]` — Factory's multi-model CLI coding agent; #1 on Terminal-Bench, specialized droids for different tasks, headless CI mode, and multi-interface support (CLI/IDE/Slack/Linear).
 
 - **[TheGitAI](https://github.com/thegitai/thegitai-cli)** `⭐ 6` — Terminal coding agent across multiple frontier models with no API keys or provider account of your own; server-side web research and checkpointed edits that reverse cleanly. Source-visible client, proprietary server.
 
@@ -381,33 +381,33 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 Tools for running and managing multiple agent sessions side-by-side. Sorted by GitHub stars.
 
-- **[Orca (Stably)](https://github.com/stablyai/orca)** `⭐ 130k` — Agentic development environment for a fleet of parallel agents: Codex, Claude Code, OpenCode, and Pi run side by side, each in its own git worktree, in Ghostty-class terminal splits with scrollback that survives restarts. Scriptable from an `orca` CLI (`worktree create`, `snapshot`, `click`, `fill`), with remote sessions and a click-to-prompt Chromium inspector. MIT.
+- **[Orca (Stably)](https://github.com/stablyai/orca)** `⭐ 134k` — Agentic development environment for a fleet of parallel agents: Codex, Claude Code, OpenCode, and Pi run side by side, each in its own git worktree, in Ghostty-class terminal splits with scrollback that survives restarts. Scriptable from an `orca` CLI (`worktree create`, `snapshot`, `click`, `fill`), with remote sessions and a click-to-prompt Chromium inspector. MIT.
 
-- **[Multica](https://github.com/multica-ai/multica)** `⭐ 56.8k` — Self-hostable workspace where you assign issues to coding agents like teammates: they pick up work, report progress, raise blockers, and hand back for review. Drives 20 agent CLIs (Claude Code, Codex, Cursor, Copilot, Kimi, OpenCode) with no bundled model; every surface is scriptable through the same CLI and API the agents use. Go.
+- **[Multica](https://github.com/multica-ai/multica)** `⭐ 57.5k` — Self-hostable workspace where you assign issues to coding agents like teammates: they pick up work, report progress, raise blockers, and hand back for review. Drives 20 agent CLIs (Claude Code, Codex, Cursor, Copilot, Kimi, OpenCode) with no bundled model; every surface is scriptable through the same CLI and API the agents use. Go.
 
-- **[herdr](https://github.com/herdrdev/herdr)** `⭐ 51.9k` — Agent multiplexer that lives in your terminal; run and coordinate multiple coding-agent sessions side by side, with a large third-party ecosystem (herdr-reviewr, herdr-remote, and more). Rust, Apache-2.0.
+- **[herdr](https://github.com/herdrdev/herdr)** `⭐ 52.5k` — Agent multiplexer that lives in your terminal; run and coordinate multiple coding-agent sessions side by side, with a large third-party ecosystem (herdr-reviewr, herdr-remote, and more). Rust, Apache-2.0.
 
-- **[AionUi](https://github.com/iOfficeAI/AionUi)** `⭐ 34.4k` — Free desktop Cowork app that runs OpenClaw, Hermes, Claude Code, Codex, OpenCode, and 20+ other CLI agents around the clock; custom agent configs, multi-session management, cross-platform (macOS/Windows/Linux). Apache-2.0.
+- **[AionUi](https://github.com/iOfficeAI/AionUi)** `⭐ 34.5k` — Free desktop Cowork app that runs OpenClaw, Hermes, Claude Code, Codex, OpenCode, and 20+ other CLI agents around the clock; custom agent configs, multi-session management, cross-platform (macOS/Windows/Linux). Apache-2.0.
 
-- **[cmux](https://github.com/manaflow-ai/cmux)** `⭐ 28.8k` — Open-source platform for running multiple coding agents in parallel.
+- **[cmux](https://github.com/manaflow-ai/cmux)** `⭐ 28.9k` — Open-source platform for running multiple coding agents in parallel.
 
 - **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)** `⭐ 28.8k` — Kanban interface for administering AI coding agents.
 
-- **[Happy](https://github.com/slopus/happy)** `⭐ 24.7k` — Desktop app and `happy` CLI that run coding-agent sessions side by side on your own machine or server, with an end-to-end encrypted iOS/Android app for the same sessions. The CLI wraps Claude Code, Codex, Antigravity, OpenClaw, and any ACP agent; the desktop app adds Grok. MIT.
+- **[Paseo](https://github.com/getpaseo/paseo)** `⭐ 24.8k` — Self-hosted daemon that runs Claude Code, Codex, Copilot, OpenCode, and Pi agents in parallel on your own machines, driven from a `paseo` CLI (`run --worktree`, `ls`, `attach`, `send`) or from desktop, web, and mobile clients; voice control, no telemetry. TypeScript, AGPL-3.0.
 
-- **[Paseo](https://github.com/getpaseo/paseo)** `⭐ 24.5k` — Self-hosted daemon that runs Claude Code, Codex, Copilot, OpenCode, and Pi agents in parallel on your own machines, driven from a `paseo` CLI (`run --worktree`, `ls`, `attach`, `send`) or from desktop, web, and mobile clients; voice control, no telemetry. TypeScript, AGPL-3.0.
+- **[Happy](https://github.com/slopus/happy)** `⭐ 24.8k` — Desktop app and `happy` CLI that run coding-agent sessions side by side on your own machine or server, with an end-to-end encrypted iOS/Android app for the same sessions. The CLI wraps Claude Code, Codex, Antigravity, OpenClaw, and any ACP agent; the desktop app adds Grok. MIT.
 
-- **[Paradev](https://github.com/ParadevAI/Paradev)** `⭐ 16.4k` — Desktop app (formerly Superset) for running Claude Code, Codex, OpenCode, Gemini CLI, and other CLI agents in parallel, each task in its own git worktree and branch, with a diff and pull request pane and an in-app browser. Scriptable from a `superset` CLI, SDK, and MCP server; remote hosts and an iPhone/iPad app.
+- **[Paradev](https://github.com/ParadevAI/Paradev)** `⭐ 16.5k` — Desktop app (formerly Superset) for running Claude Code, Codex, OpenCode, Gemini CLI, and other CLI agents in parallel, each task in its own git worktree and branch, with a diff and pull request pane and an in-app browser. Scriptable from a `superset` CLI, SDK, and MCP server; remote hosts and an iPhone/iPad app.
 
-- **[Agent Orchestrator (AO)](https://github.com/OrchestratorInc/agent-orchestrator)** `⭐ 14.9k` — Desktop app and `ao` CLI for supervising Claude Code, Codex, Cursor, OpenCode, and 20+ other agents in parallel; every Git-backed session gets its own worktree, branch, and pull request, and CI failures, review comments, and merge conflicts are routed back to the agent that owns them. Go + Electron, Apache-2.0.
+- **[Agent Orchestrator (AO)](https://github.com/OrchestratorInc/agent-orchestrator)** `⭐ 15.1k` — Desktop app and `ao` CLI for supervising Claude Code, Codex, Cursor, OpenCode, and 20+ other agents in parallel; every Git-backed session gets its own worktree, branch, and pull request, and CI failures, review comments, and merge conflicts are routed back to the agent that owns them. Go + Electron, Apache-2.0.
 
-- **[Orkas](https://github.com/Orkas-AI/Orkas)** `⭐ 9.5k` — Electron desktop app that spawns and drives real local coding-agent sessions over each tool's own protocol (Claude Code, Codex, OpenCode, OpenClaw, Hermes) — for Codex it speaks `codex app-server` JSON-RPC directly — plus a bundled agent harness of its own. TypeScript.
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** `⭐ 9.6k` — Electron desktop app that spawns and drives real local coding-agent sessions over each tool's own protocol (Claude Code, Codex, OpenCode, OpenClaw, Hermes) — for Codex it speaks `codex app-server` JSON-RPC directly — plus a bundled agent harness of its own. TypeScript.
 
-- **[Claude Squad](https://github.com/smtg-ai/claude-squad)** `⭐ 8.8k` — tmux-based harness to run and manage multiple Claude Code sessions side-by-side.
+- **[Claude Squad](https://github.com/smtg-ai/claude-squad)** `⭐ 8.9k` — tmux-based harness to run and manage multiple Claude Code sessions side-by-side.
 
 - **[Emdash](https://github.com/generalaction/emdash)** `⭐ 6.3k` — Run multiple coding agents concurrently with coordinated workflows.
 
-- **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** `⭐ 4.6k` — Manage multiple Claude Code, OpenCode, Codex CLI, Gemini CLI, Pi, Copilot CLI, Mistral Vibe, and Factory Droid agents from a TUI or web UI (mobile-friendly). Rust, uses tmux + git worktrees. MIT.
+- **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** `⭐ 4.8k` — Manage multiple Claude Code, OpenCode, Codex CLI, Gemini CLI, Pi, Copilot CLI, Mistral Vibe, and Factory Droid agents from a TUI or web UI (mobile-friendly). Rust, uses tmux + git worktrees. MIT.
 
 - **[CodexMonitor](https://github.com/Dimillian/CodexMonitor)** `⭐ 4.4k` — Coordinate multiple Codex agents across local workspaces.
 
@@ -419,13 +419,13 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent Teams AI](https://github.com/777genius/agent-teams-ai)** `⭐ 2.5k` — Cross-platform desktop control plane with integrated terminals and a Kanban board for autonomous coding-agent teams; agents coordinate, message each other, and review work across Codex, Claude Code, OpenCode, Cursor, Grok, GitHub Copilot, Kiro, Z.AI, MiniMax, Kimi, and 75+ model providers. AGPL-3.0.
 
+- **[Codync](https://github.com/leepokai/Codync)** `⭐ 2.4k` — Runs Claude Code, Codex, Gemini, Cursor and other ACP agents as persistent named bots, each with its own folder, agent and approvals; message them from an iPhone app, a desktop app (macOS/Windows/Linux) or a ratatui terminal UI over SSH. Group chats where bots answer in turn, threads, bots asking each other for reviews, push notifications for approvals, end-to-end encrypted relay. Rust host, Apache-2.0.
+
 - **[supacode](https://github.com/supabitapp/supacode)** `⭐ 2.4k` — Native macOS coding agent orchestrator.
 
-- **[Codync](https://github.com/leepokai/Codync)** `⭐ 2.3k` — Runs Claude Code, Codex, Gemini, Cursor and other ACP agents as persistent named bots, each with its own folder, agent and approvals; message them from an iPhone app, a desktop app (macOS/Windows/Linux) or a ratatui terminal UI over SSH. Group chats where bots answer in turn, threads, bots asking each other for reviews, push notifications for approvals, end-to-end encrypted relay. Rust host, Apache-2.0.
+- **[Happier](https://github.com/happier-dev/happier)** `⭐ 2.3k` — Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other agents in parallel sessions and worktrees on your own machines, from desktop, phone and web. MIT.
 
-- **[Happier](https://github.com/happier-dev/happier)** `⭐ 2.2k` — Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other agents in parallel sessions and worktrees on your own machines, from desktop, phone and web. MIT.
-
-- **[Cate](https://github.com/0-AI-UG/cate)** `⭐ 2.2k` — Desktop app that runs terminals, Claude Code agent panels, editors, and browsers on an infinite zoomable canvas; multiple agent sessions sit side by side and panels can dock into tabs or detach into separate windows. Built with Electron and node-pty. MIT.
+- **[Cate](https://github.com/0-AI-UG/cate)** `⭐ 2.3k` — Desktop app that runs terminals, Claude Code agent panels, editors, and browsers on an infinite zoomable canvas; multiple agent sessions sit side by side and panels can dock into tabs or detach into separate windows. Built with Electron and node-pty. MIT.
 
 - **[Nimbalyst](https://github.com/nimbalyst/nimbalyst)** `⭐ 2.1k` — Open-source visual workspace for building with Codex, Claude Code, and more; manage your agents, edit the work visually, and track tasks. MIT.
 
@@ -439,85 +439,85 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Parallel Code](https://github.com/johannesjo/parallel-code)** `⭐ 1.1k` — Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
 
-- **[Agent Sessions](https://github.com/jazzyalex/agent-sessions)** `⭐ 952` — Local-first macOS session-history browser for AI coding agents, with transcript search across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, Copilot CLI, OpenClaw, and more; resume is available where the underlying CLI supports it. MIT.
+- **[Agent Sessions](https://github.com/jazzyalex/agent-sessions)** `⭐ 954` — Local-first macOS session-history browser for AI coding agents, with transcript search across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, Copilot CLI, OpenClaw, and more; resume is available where the underlying CLI supports it. MIT.
 
-- **[agent-manager](https://github.com/YoanWai/agent-manager)** `⭐ 701` — Go tmux TUI for running Claude Code, Codex, OpenCode, Grok, Gemini CLI, Pi, and Hermes side by side: live per-pane status, prompts sent into a pane without attaching, git worktrees, and in-terminal full-file diff review with line comments fed back to the agent. Apache-2.0.
+- **[agent-manager](https://github.com/YoanWai/agent-manager)** `⭐ 704` — Go tmux TUI for running Claude Code, Codex, OpenCode, Grok, Gemini CLI, Pi, and Hermes side by side: live per-pane status, prompts sent into a pane without attaching, git worktrees, and in-terminal full-file diff review with line comments fed back to the agent. Apache-2.0.
 
-- **[hcom](https://github.com/aannoo/hcom)** `⭐ 665` — Hooks Claude Code, Antigravity, Codex, OpenCode, Kilo, and Cursor into a shared messaging and event bus; agents message, observe, and spawn each other mid-turn without changing how you use them. TUI dashboard, collision detection, cross-device relay. Rust, MIT.
+- **[hcom](https://github.com/aannoo/hcom)** `⭐ 669` — Hooks Claude Code, Antigravity, Codex, OpenCode, Kilo, and Cursor into a shared messaging and event bus; agents message, observe, and spawn each other mid-turn without changing how you use them. TUI dashboard, collision detection, cross-device relay. Rust, MIT.
 
-- **[AgentBox](https://github.com/madarco/agentbox)** `⭐ 584` — Run multiple coding agents in parallel, each teleported into its own sandboxed VM (local Docker, self-hosted, or cloud: Hetzner/Daytona/Vercel/E2B); sub-second checkpoints, per-box browser/VS Code/shells, git creds kept on the host. Works with Claude Code, Codex, and OpenCode. MIT.
+- **[AgentBox](https://github.com/madarco/agentbox)** `⭐ 586` — Run multiple coding agents in parallel, each teleported into its own sandboxed VM (local Docker, self-hosted, or cloud: Hetzner/Daytona/Vercel/E2B); sub-second checkpoints, per-box browser/VS Code/shells, git creds kept on the host. Works with Claude Code, Codex, and OpenCode. MIT.
 
-- **[amux](https://github.com/mixpeek/amux)** `⭐ 565` — Agent multiplexer for running dozens of parallel Claude Code sessions with web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Single Python file, Python 3 + tmux. MIT.
+- **[amux](https://github.com/mixpeek/amux)** `⭐ 572` — Agent multiplexer for running dozens of parallel Claude Code sessions with web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Single Python file, Python 3 + tmux. MIT.
 
-- **[Vicoa](https://github.com/vicoa-ai/vicoa)** `⭐ 544` — Agentic IDE and AI orchestrator for running a team of coding agents (Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, Hermes) from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. AGPL-3.0.
+- **[Vicoa](https://github.com/vicoa-ai/vicoa)** `⭐ 547` — Agentic IDE and AI orchestrator for running a team of coding agents (Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, Hermes) from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. AGPL-3.0.
 
 - **[Proliferate](https://github.com/proliferate-ai/proliferate)** `⭐ 517` — Open-source local and cloud agent IDE for Claude Code, Codex, Gemini CLI, OpenCode, and similar coding agents; parallel workspaces, subagents, plugins, MCP, and review/merge flow around real CLI sessions.
 
 - **[ntm](https://github.com/Dicklesworthstone/ntm)** `⭐ 465` — Named Tmux Manager — spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette.
 
-- **[wmux](https://github.com/openwong2kim/wmux)** `⭐ 457` — Desktop workspace for running Claude Code, Codex, Gemini CLI, and other CLI agents side by side on Windows and macOS; fans one prompt into up to 8 tasks, each in its own git worktree, with hunk-level diff adoption, approval gates for agent tool calls, agent-to-agent channels, and a daemon that keeps sessions alive across app quits, crashes, and reboots. Electron, MIT.
+- **[wmux](https://github.com/openwong2kim/wmux)** `⭐ 461` — Desktop workspace for running Claude Code, Codex, Gemini CLI, and other CLI agents side by side on Windows and macOS; fans one prompt into up to 8 tasks, each in its own git worktree, with hunk-level diff adoption, approval gates for agent tool calls, agent-to-agent channels, and a daemon that keeps sessions alive across app quits, crashes, and reboots. Electron, MIT.
 
-- **[Agentbox](https://github.com/savannahfeder/agentbox)** `⭐ 445` — Desktop GUI that runs dozens of Claude Code and Codex agents in parallel, each in its own git worktree, and only surfaces the ones that need you. GPL-3.0.
+- **[Agentbox](https://github.com/savannahfeder/agentbox)** `⭐ 456` — Desktop GUI that runs dozens of Claude Code and Codex agents in parallel, each in its own git worktree, and only surfaces the ones that need you. GPL-3.0.
 
-- **[Dodaios](https://github.com/Dodaios/Dodaios)** `⭐ 438` — Cross-platform desktop app and `jarvis` CLI (formerly Personal Jarvis; PyPI `personal-jarvis`) whose Agentic IDE runs Claude Code, Codex, Gemini CLI, OpenCode, and other CLI coding agents side by side in terminal panes with git worktrees, alongside a chat and voice assistant, background agents, and agents placed on remote computers over SSH. Apache-2.0.
+- **[Dodaios](https://github.com/Dodaios/Dodaios)** `⭐ 454` — Cross-platform desktop app and `jarvis` CLI (formerly Personal Jarvis; PyPI `personal-jarvis`) whose Agentic IDE runs Claude Code, Codex, Gemini CLI, OpenCode, and other CLI coding agents side by side in terminal panes with git worktrees, alongside a chat and voice assistant, background agents, and agents placed on remote computers over SSH. Apache-2.0.
 
 - **[Calyx](https://github.com/yuuichieguchi/Calyx)** `⭐ 367` — Native macOS terminal built on libghostty for supervising coding agents in parallel: one approval inbox for Claude Code and Codex permission prompts and Grok and pi tool calls, a working/blocked/idle/done sidebar, in-terminal diff review, and MCP tools for agents. Swift, MIT.
 
-- **[agentglass](https://github.com/SirAllap/agentglass)** `⭐ 349` — Linux desktop app that puts Claude Code, Codex, Gemini CLI, and OpenCode sessions on one screen: live cost, tokens, and tool calls; dangerous tool calls are held until you approve. tmux terminal tabs, a built-in browser agents drive through a CLI and MCP server, an Android companion app, and sandboxed plugins. MIT.
+- **[agentglass](https://github.com/SirAllap/agentglass)** `⭐ 350` — Linux desktop app that puts Claude Code, Codex, Gemini CLI, and OpenCode sessions on one screen: live cost, tokens, and tool calls; dangerous tool calls are held until you approve. tmux terminal tabs, a built-in browser agents drive through a CLI and MCP server, an Android companion app, and sandboxed plugins. MIT.
 
-- **[MulmoTerminal](https://github.com/receptron/mulmoterminal)** `⭐ 275` — Browser grid of live Claude Code / Codex / Grok sessions started with one `npx` command, no Electron; each cell is a real PTY, color-coded working / needs-you / done from the CLI's own activity hooks rather than scraped scrollback, with a per-kind chime and Web Push to your phone. tmux-backed persistence across restarts, git worktrees with one-click PRs, and per-session model, context and token readouts. MIT.
+- **[MulmoTerminal](https://github.com/receptron/mulmoterminal)** `⭐ 277` — Browser grid of live Claude Code / Codex / Grok sessions started with one `npx` command, no Electron; each cell is a real PTY, color-coded working / needs-you / done from the CLI's own activity hooks rather than scraped scrollback, with a per-kind chime and Web Push to your phone. tmux-backed persistence across restarts, git worktrees with one-click PRs, and per-session model, context and token readouts. MIT.
 
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 273` — Execute Claude Code tasks in parallel git worktrees.
 
-- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** `⭐ 203` — Desktop and web app for running CLI coding agents (Claude Code, Codex, Copilot, Gemini, OpenCode) in parallel isolated git worktrees, with diff review, approval, and automated verification gates before changes land. Source-available (FSL-1.1-ALv2).
+- **[vibepanel](https://github.com/jiangmuran/vibepanel)** `⭐ 259` — Self-hosted web console for running many Claude Code and Codex sessions in parallel from a browser or a phone; each session lives in tmux, so agents keep running through panel restarts, upgrades and dropped connections. Hook-reported session state, token usage, and read-only share links. Source-available (PolyForm Noncommercial).
 
-- **[Tempest](https://github.com/tempestai-dev/tempest)** `⭐ 200` — Tauri agentic development environment running Claude Code, Codex, Gemini, and other CLI agents in parallel; embedded xterm.js terminals, hook-based per-agent status detection, token-usage intelligence, isolated database branches, and multi-agent session management. Apache-2.0.
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** `⭐ 204` — Desktop and web app for running CLI coding agents (Claude Code, Codex, Copilot, Gemini, OpenCode) in parallel isolated git worktrees, with diff review, approval, and automated verification gates before changes land. Source-available (FSL-1.1-ALv2).
 
-- **[Rove](https://github.com/Sma1lboy/rove)** `⭐ 188` — Terminal-native agent multiplexer: each task gets its own git worktree and branch plus tabs running Claude Code, Codex, Copilot, Kimi, Pi, Gemini CLI, OpenCode, Cursor Agent, or any CLI you register, and sessions keep running on the host when the TUI or SSH connection drops. A Kanban board whose cards launch sessions and get moved by agents, diff review with inline notes sent back as one prompt, scheduled routines, plugins, and a `rove api` that scripts and agents use to create, message, and land tasks. npm `@sma1lboy/rove`, TypeScript/Bun, MIT.
+- **[Tempest](https://github.com/tempestai-dev/tempest)** `⭐ 201` — Tauri agentic development environment running Claude Code, Codex, Gemini, and other CLI agents in parallel; embedded xterm.js terminals, hook-based per-agent status detection, token-usage intelligence, isolated database branches, and multi-agent session management. Apache-2.0.
 
-- **[Pi GPUI](https://github.com/bytesbay/pi-gpui)** `⭐ 178` — Native desktop app for the Pi coding agent, written in Rust with GPUI; macOS for now, Linux planned. Runs your installed `pi` over RPC with one process per open session, so extensions, skills and sessions carry over; session tree with forks, extension questions answered inline, plugins in any language. `/gpui` (npm `pi-gpui`) moves a terminal session into the app. MIT.
+- **[Pi GPUI](https://github.com/bytesbay/pi-gpui)** `⭐ 196` — Native desktop app for the Pi coding agent, written in Rust with GPUI; macOS for now, Linux planned. Runs your installed `pi` over RPC with one process per open session, so extensions, skills and sessions carry over; session tree with forks, extension questions answered inline, plugins in any language. `/gpui` (npm `pi-gpui`) moves a terminal session into the app. MIT.
 
-- **[amux](https://github.com/andyrewlee/amux)** `⭐ 168` — Terminal UI designed for running multiple coding agents in parallel.
+- **[Rove](https://github.com/Sma1lboy/rove)** `⭐ 189` — Terminal-native agent multiplexer: each task gets its own git worktree and branch plus tabs running Claude Code, Codex, Copilot, Kimi, Pi, Gemini CLI, OpenCode, Cursor Agent, or any CLI you register, and sessions keep running on the host when the TUI or SSH connection drops. A Kanban board whose cards launch sessions and get moved by agents, diff review with inline notes sent back as one prompt, scheduled routines, plugins, and a `rove api` that scripts and agents use to create, message, and land tasks. npm `@sma1lboy/rove`, TypeScript/Bun, MIT.
+
+- **[amux](https://github.com/andyrewlee/amux)** `⭐ 170` — Terminal UI designed for running multiple coding agents in parallel.
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 162` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
 
 - **[CliDeck](https://github.com/rustykuntz/clideck)** `⭐ 162` — WhatsApp-like browser dashboard for managing multiple CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) with live status detection, session resume, autopilot routing, and full control from a phone while away. MIT.
 
-- **[Open Walnut](https://github.com/EvanZhang008/open-walnut)** `⭐ 140` — Self-hosted web UI and `walnut` CLI for running Claude Code sessions on your laptop and remote dev boxes; a daemon on each host owns the `claude` processes, so sessions keep running when SSH drops, with no tmux. Per-session diff of every file changed, plus tasks, notes, and memory. TypeScript, MIT.
+- **[Open Walnut](https://github.com/EvanZhang008/open-walnut)** `⭐ 142` — Self-hosted web UI and `walnut` CLI for running Claude Code sessions on your laptop and remote dev boxes; a daemon on each host owns the `claude` processes, so sessions keep running when SSH drops, with no tmux. Per-session diff of every file changed, plus tasks, notes, and memory. TypeScript, MIT.
 
-- **[GridBash](https://github.com/jasonsuhari/gridbash)** `⭐ 131` — Cross-platform Rust terminal grid running Codex, Claude Code, Gemini CLI, and other real PTY-backed agents side by side; selected-pane input, optional git-worktree isolation, and nightly cross-platform binaries. MIT.
+- **[GridBash](https://github.com/jasonsuhari/gridbash)** `⭐ 132` — Cross-platform Rust terminal grid running Codex, Claude Code, Gemini CLI, and other real PTY-backed agents side by side; selected-pane input, optional git-worktree isolation, and nightly cross-platform binaries. MIT.
 
-- **[ADHDev](https://github.com/vilmire/adhdev)** `⭐ 122` — Self-hosted daemon plus web dashboard for driving local CLI coding agents (Claude Code, Codex, Cursor CLI, Antigravity, Kimi) from a browser or phone: live session state, remote approvals carrying the command text, and exact session resume. Repo Mesh claims queued tasks into isolated git worktrees and the Refinery gates finished branches and fast-forwards them back to `main`. P2P-first over WebRTC, so code stays on your machine. npm `adhdev`, TypeScript, AGPL-3.0.
+- **[ADHDev](https://github.com/vilmire/adhdev)** `⭐ 123` — Self-hosted daemon plus web dashboard for driving local CLI coding agents (Claude Code, Codex, Cursor CLI, Antigravity, Kimi) from a browser or phone: live session state, remote approvals carrying the command text, and exact session resume. Repo Mesh claims queued tasks into isolated git worktrees and the Refinery gates finished branches and fast-forwards them back to `main`. P2P-first over WebRTC, so code stays on your machine. npm `adhdev`, TypeScript, AGPL-3.0.
 
 - **[tlbx](https://github.com/tlbx-ai/tlbx)** `⭐ 119` — Self-hosted browser control station for remote coding agents (formerly MidTerm): runs Codex, Claude Code, Gemini CLI, Grok Build, OpenCode, Copilot CLI, and any PTY app on the machines that hold your repos and credentials, supervised from any desktop, tablet, or phone browser. Sessions survive disconnects; `mt` CLI helpers expose history, multi-session dispatch, and the control plane as JSON so agents can drive it. AGPL-3.0.
 
-- **[Helicon](https://github.com/HarjjotSinghh/helicon)** `⭐ 114` — Desktop and web GUI for Meta's Muse Code CLI: threads from every project in one sidebar, inline diffs, approvals, and cost tracking, plus a VS Code and Cursor extension. Tauri, MIT. Unofficial, not affiliated with Meta.
+- **[Helicon](https://github.com/HarjjotSinghh/helicon)** `⭐ 116` — Desktop and web GUI for Meta's Muse Code CLI: threads from every project in one sidebar, inline diffs, approvals, and cost tracking, plus a VS Code and Cursor extension. Tauri, MIT. Unofficial, not affiliated with Meta.
 
-- **[ReevesAgents](https://github.com/mertkayacs/reevesagents)** `⭐ 107` — Local workspace that runs coding CLIs (Claude Code, Codex, OpenCode, Hermes, Kimi, DeepSeek, Qwen, Pi, Aider, and more) side by side in tmux, driven from a TUI, a loopback Web UI, or a scriptable CLI. An opt-in MCP server (`reevesagents mcp`) lets one agent spawn, read, steer, and stop the others. TypeScript, Apache-2.0.
+- **[ReevesAgents](https://github.com/mertkayacs/reevesagents)** `⭐ 108` — Local workspace that runs coding CLIs (Claude Code, Codex, OpenCode, Hermes, Kimi, DeepSeek, Qwen, Pi, Aider, and more) side by side in tmux, driven from a TUI, a loopback Web UI, or a scriptable CLI. An opt-in MCP server (`reevesagents mcp`) lets one agent spawn, read, steer, and stop the others. TypeScript, Apache-2.0.
 
-- **[Garcon](https://github.com/cfal/garcon)** `⭐ 105` — Self-hosted browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, files, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0.
+- **[Garcon](https://github.com/cfal/garcon)** `⭐ 106` — Self-hosted browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, files, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0.
 
-- **[intentic](https://github.com/intentic/intentic)** `⭐ 95` — Self-hosted workspace that gives each coding agent a persistent sandbox on hardware you own: agents work in real checkouts in their own git worktrees behind PTY terminals, and you approve the riskier calls and read every diff before it lands. A Rust host agent pairs the machine over an outbound-only Cloudflare tunnel, so there are no inbound ports to open; the workspace opens in any browser or the desktop app. Runs Claude Code, Codex, Grok, Kimi Code, and Gemini on your own subscriptions. TypeScript, MIT.
+- **[intentic](https://github.com/intentic/intentic)** `⭐ 98` — Self-hosted workspace that gives each coding agent a persistent sandbox on hardware you own: agents work in real checkouts in their own git worktrees behind PTY terminals, and you approve the riskier calls and read every diff before it lands. A Rust host agent pairs the machine over an outbound-only Cloudflare tunnel, so there are no inbound ports to open; the workspace opens in any browser or the desktop app. Runs Claude Code, Codex, Grok, Kimi Code, and Gemini on your own subscriptions. TypeScript, MIT.
 
-- **[vibepanel](https://github.com/jiangmuran/vibepanel)** `⭐ 89` — Self-hosted web console for running many Claude Code and Codex sessions in parallel from a browser or a phone; each session lives in tmux, so agents keep running through panel restarts, upgrades and dropped connections. Hook-reported session state, token usage, and read-only share links. Source-available (PolyForm Noncommercial).
+- **[Friday](https://github.com/splashxmoon/friday)** `⭐ 85` — Cross-platform desktop app (also starts from a terminal with `npx github:splashxmoon/friday`) that runs Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot CLI, OpenCode and other agent CLIs side by side on a shared task board; agents message each other, and a task hands to another agent with its progress when one hits its usage limit. Per-agent git worktrees and diff review. MIT.
 
-- **[Friday](https://github.com/splashxmoon/friday)** `⭐ 82` — Cross-platform desktop app (also starts from a terminal with `npx github:splashxmoon/friday`) that runs Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot CLI, OpenCode and other agent CLIs side by side on a shared task board; agents message each other, and a task hands to another agent with its progress when one hits its usage limit. Per-agent git worktrees and diff review. MIT.
+- **[Shelly](https://github.com/RYOITABASHI/Shelly)** `⭐ 76` — AI terminal and agent runtime for Android: native PTY terminal with bash/git/Python/Node bundled in the APK (no Termux, no PC), the Codex CLI built in, scheduled on-device agents, local LLMs and an MCP server. TypeScript/Kotlin, GPL-3.0.
 
-- **[Shelly](https://github.com/RYOITABASHI/Shelly)** `⭐ 74` — AI terminal and agent runtime for Android: native PTY terminal with bash/git/Python/Node bundled in the APK (no Termux, no PC), the Codex CLI built in, scheduled on-device agents, local LLMs and an MCP server. TypeScript/Kotlin, GPL-3.0.
+- **[Codealong](https://github.com/codealong/codealong)** `⭐ 74` — Desktop app for macOS and Linux that finds every Claude Code, Codex, OpenCode, Antigravity and Cursor session on your machine, wherever it started, and shows them on one board by repo, worktree, branch and PR, with a floating bar for approvals and replies and each account's plan limits. Reads the records the agents already write rather than wrapping them; a `codealong` CLI lists, starts and messages sessions (JSON when piped). Tauri, Apache-2.0.
 
-- **[Codealong](https://github.com/codealong/codealong)** `⭐ 71` — Desktop app for macOS and Linux that finds every Claude Code, Codex, OpenCode, Antigravity and Cursor session on your machine, wherever it started, and shows them on one board by repo, worktree, branch and PR, with a floating bar for approvals and replies and each account's plan limits. Reads the records the agents already write rather than wrapping them; a `codealong` CLI lists, starts and messages sessions (JSON when piped). Tauri, Apache-2.0.
-
-- **[showagent](https://github.com/aytzey/showagent)** `⭐ 67` — Bubble Tea TUI that unifies the local session stores of Claude Code, Codex, Gemini CLI, and OpenCode: fuzzy search grouped by workspace, resume via each agent's own CLI, branch local copies, and cross-agent transcript conversion into the target's native format. Scriptable (`list --json`), fully local, single Go binary. MIT.
+- **[showagent](https://github.com/aytzey/showagent)** `⭐ 72` — Bubble Tea TUI that unifies the local session stores of Claude Code, Codex, Gemini CLI, and OpenCode: fuzzy search grouped by workspace, resume via each agent's own CLI, branch local copies, and cross-agent transcript conversion into the target's native format. Scriptable (`list --json`), fully local, single Go binary. MIT.
 
 - **[Agent AFK](https://github.com/griffinwork40/agent-afk)** `⭐ 64` — Coding-agent harness built for unattended, away-from-keyboard runs across four surfaces sharing one session manager: one-shot CLI, REPL, cron-friendly headless daemon, and a Telegram bot. Editable agent loop (prompts, permission gates, model routing, explicit terminal states), MCP (stdio/HTTP/SSE + OAuth), lifecycle hooks, background subagents, plan mode, cross-session memory, and an append-only trace receipt (`afk trace show`). Works with Anthropic and any OpenAI-compatible endpoint (GPT, Codex, local MLX/llama.cpp/Ollama). npm `agent-afk`, Node ≥22. Apache-2.0.
 
 - **[run-kit](https://github.com/sahil87/run-kit)** `⭐ 63` — Remote, phone-first web console for tmux: spawn and watch coding agents in parallel git worktrees, agent-agnostic and no database, with push notifications and local-port proxying to your browser. Go, MIT.
 
-- **[summon](https://github.com/juan294/summon)** `⭐ 60` — macOS CLI that opens a project's workspace with one command: coding agents (Claude Code, Codex or any CLI agent), a git UI, a dev server and a shell side by side, as native Ghostty splits or one Rex session. Running it again switches back to the live workspace. MIT.
+- **[summon](https://github.com/juan294/summon)** `⭐ 62` — macOS CLI that opens a project's workspace with one command: coding agents (Claude Code, Codex or any CLI agent), a git UI, a dev server and a shell side by side, as native Ghostty splits or one Rex session. Running it again switches back to the live workspace. MIT.
 
-- **[Clave](https://github.com/codika-io/clave)** `⭐ 51` — Native macOS app for running multiple AI coding-agent CLIs (Claude Code, Gemini CLI, Codex) in parallel — split/grid terminal layouts, per-project session groups, a built-in git panel, and remote sessions over SSH. Fully local, no account. Electron. MIT.
+- **[Clave](https://github.com/codika-io/clave)** `⭐ 52` — Native macOS app for running multiple AI coding-agent CLIs (Claude Code, Gemini CLI, Codex) in parallel — split/grid terminal layouts, per-project session groups, a built-in git panel, and remote sessions over SSH. Fully local, no account. Electron. MIT.
 
-- **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 51` — Open-source agent development environment with a shared task system that Claude Code, Codex, Grok, OpenCode, and Cursor agents operate themselves, delegating to and messaging each other while you follow progress and redirect the work. Desktop (Tauri), web, and CLI; local or on a VPS. Apache-2.0.
+- **[Podium ADE](https://github.com/madeinorbit/podium)** `⭐ 52` — Open-source agent development environment with a shared task system that Claude Code, Codex, Grok, OpenCode, and Cursor agents operate themselves, delegating to and messaging each other while you follow progress and redirect the work. Desktop (Tauri), web, and CLI; local or on a VPS. Apache-2.0.
 
 - **[Caprock](https://github.com/dspv/caprock)** `⭐ 50` — Desktop app (macOS, Windows, Linux) that runs Claude Code, Codex, OpenCode and Gemini CLI in tabs and split panes across projects and worktrees. Picks up sessions started in your own terminal, shows token cost per repository, live Claude and Codex plan limits, loop alerts and history kept past Claude Code's 30-day cleanup; a paired phone answers prompts over your Wi-Fi or Tailscale. Local-only, no account, no telemetry. Apache-2.0.
 
@@ -531,15 +531,15 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Perch](https://github.com/asafofer/perch)** `⭐ 31` — macOS notch app that tracks Claude Code, Codex, OpenCode, pi and Cursor sessions across Terminal, iTerm2, Ghostty, Warp, tmux, herdr and cmux. Shows when one finishes or needs you, lets you allow, deny, answer or reply from the notch, and jumps back to the exact tab or pane. Local-only, Swift, MIT.
 
-- **[agents-cli](https://github.com/phnx-labs/agents-cli)** `⭐ 26` — CLI to install, version-pin, and run many coding-agent harnesses (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Grok); shared skills/MCP/rules, parallel teams in isolated terminals, session index, and SSH fleet dispatch. npm `@phnx-labs/agents-cli`. Apache-2.0.
+- **[agents-cli](https://github.com/phnx-labs/agents-cli)** `⭐ 27` — CLI to install, version-pin, and run many coding-agent harnesses (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Grok); shared skills/MCP/rules, parallel teams in isolated terminals, session index, and SSH fleet dispatch. npm `@phnx-labs/agents-cli`. Apache-2.0.
 
-- **[Podiom](https://github.com/Podiom/Podiom)** `⭐ 24` — Self-hosted control plane for local Claude Code and Codex CLI agents: durable named agents whose chat sessions replay onto a fresh backing CLI session across provider/profile switches, a shared project ledger, an embedded scheduler, and autonomous goals. Single Go binary with an embedded Svelte web UI, no cloud dependency. MIT.
+- **[Podiom](https://github.com/Podiom/Podiom)** `⭐ 25` — Self-hosted control plane for local Claude Code and Codex CLI agents: durable named agents whose chat sessions replay onto a fresh backing CLI session across provider/profile switches, a shared project ledger, an embedded scheduler, and autonomous goals. Single Go binary with an embedded Svelte web UI, no cloud dependency. MIT.
 
 - **[repomon](https://github.com/AliHamzaAzam/repomon)** `⭐ 24` — Run a fleet of AI coding agents (Claude Code, Codex, Aider) across many repos, branches, and git worktrees from one tmux-backed terminal. Four-zoom TUI (fleet, split, babysit grid, focus), needs-you triage, durable sessions that survive restarts.
 
-- **[Claudescope](https://github.com/vladar107/claudescope)** `⭐ 22` — Local, read-only CLI that serves a web UI to browse, search, and analyze AI coding-agent transcripts across Claude Code, Codex, Junie, pi, opencode, and Copilot CLI — sessions merged by working directory, with full-text search and token-cost analytics. npm, cross-platform. MIT.
+- **[Claudescope](https://github.com/vladar107/claudescope)** `⭐ 23` — Local, read-only CLI that serves a web UI to browse, search, and analyze AI coding-agent transcripts across Claude Code, Codex, Junie, pi, opencode, and Copilot CLI — sessions merged by working directory, with full-text search and token-cost analytics. npm, cross-platform. MIT.
 
-- **[Polter](https://github.com/Lugia123/polter)** `⭐ 22` — Ghostty fork in which one AI CLI leads a team of the others: the lead session reads the text on the other tabs, types into them, opens new tabs, and is notified when a session goes quiet. Per-plugin provisioning for Claude Code, Codex, Gemini, Kimi, opencode, Qwen, and DeepSeek. Fully offline, no account. Zig, MIT.
+- **[Polter](https://github.com/Lugia123/polter)** `⭐ 23` — Ghostty fork in which one AI CLI leads a team of the others: the lead session reads the text on the other tabs, types into them, opens new tabs, and is notified when a session goes quiet. Per-plugin provisioning for Claude Code, Codex, Gemini, Kimi, opencode, Qwen, and DeepSeek. Fully offline, no account. Zig, MIT.
 
 - **[construct](https://github.com/construct-worlds/construct)** `⭐ 21` — Terminal-native agentic development environment: fleet TUI for coding agent CLIs (Codex, Claude Code, Antigravity, Grok) with fork/merge, collaborative Program Markdown orchestration, generative widgets, agent-to-agent orchestration. Single Rust binary.
 
@@ -547,17 +547,17 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[CLITrigger](https://github.com/HyperAITeam/CLITrigger)** `⭐ 16` — Self-hosted web UI for orchestrating Claude Code, Codex, and Gemini CLIs in parallel git worktrees. Features multi-agent discussion mode (architect/developer/reviewer debate before implementation), cross-project Morning Review Queue, scheduled execution with rate-limit auto-recovery, and a built-in Git client. MIT.
 
-- **[Agent Workbench](https://github.com/cvelasquez/agent-workbench)** `⭐ 13` — Local web UI that runs the unmodified Claude Code, Codex, OpenCode and Antigravity CLIs in a pseudo-terminal, with tabs that survive a reload, one browsable history for all four, conversation hand-off between CLIs and full-text search. Windows-first, MIT.
+- **[Agent Workbench](https://github.com/cvelasquez/agent-workbench)** `⭐ 14` — Local web UI that runs the unmodified Claude Code, Codex, OpenCode and Antigravity CLIs in a pseudo-terminal, with tabs that survive a reload, one browsable history for all four, conversation hand-off between CLIs and full-text search. Windows-first, MIT.
+
+- **[Agent Fleet (k-k1)](https://github.com/k-k1/agent-fleet)** `⭐ 13` — Self-hosted web console that runs Claude Code, Codex, Copilot CLI, Cursor, Kiro, OpenCode and other agent CLIs unchanged as a fleet: isolated per-user Docker workspaces, parallel sessions in git worktrees, sessions that start and steer child sessions of another kind, scheduling and per-account usage tracking. Go + React, Apache-2.0. Not the woodor.ai project of the same name.
 
 - **[pi-boss](https://github.com/skyfallsin/pi-boss)** `⭐ 12` — Multi-agent orchestration for the Pi coding agent; spawns sub-agents in visible tmux panes with task delegation, monitoring, and coordination. MIT.
 
 - **[AgentTerm](https://github.com/albertwujj/agent-term)** `⭐ 12` — Visual desktop terminal for macOS and Windows/WSL that runs Claude Code, Codex, Cursor CLI and other AI CLIs unmodified, each session in its own OS window with a distinct Dock tile or taskbar button. Adds prompt search to resume closed sessions, comments on selected output, markdown plans rendered as pages with threaded comments, curated code reviews with inline feedback, a phone view of the same terminal, click-to-line navigation in JetBrains IDEs, and more. Electron, MIT.
 
-- **[Agent Fleet (k-k1)](https://github.com/k-k1/agent-fleet)** `⭐ 11` — Self-hosted web console that runs Claude Code, Codex, Copilot CLI, Cursor, Kiro, OpenCode and other agent CLIs unchanged as a fleet: isolated per-user Docker workspaces, parallel sessions in git worktrees, sessions that start and steer child sessions of another kind, scheduling and per-account usage tracking. Go + React, Apache-2.0. Not the woodor.ai project of the same name.
+- **[TaskHandoff](https://github.com/edgestorage/task-handoff)** `⭐ 11` — Self-hosted control plane for running Docker-based Codex workspaces on local and remote machines: each task gets its own isolated checkout, changes pass a diff review gate before landing in your repository, and work is handed off between a planner agent, an executor agent, and a human reviewer. `task-handoff` CLI plus a web control plane. Apache-2.0.
 
 - **[Alchemist Coder](https://github.com/Alekla0126/alchemist-coder)** `⭐ 10` — Desktop app (macOS, Windows, Linux) that runs Claude Code and Codex over ACP, on local models via Ollama or LM Studio in the free edition, with a live tree of agents and subagents, a coordinator that hands work to agents in their own git worktrees, and an Arena where up to four agents solve the same task. Also indexes Claude Code, Codex, Gemini CLI and Grok Build history with full-text search, and has a built-in terminal. TypeScript + Electron, AGPL-3.0.
-
-- **[TaskHandoff](https://github.com/edgestorage/task-handoff)** `⭐ 10` — Self-hosted control plane for running Docker-based Codex workspaces on local and remote machines: each task gets its own isolated checkout, changes pass a diff review gate before landing in your repository, and work is handed off between a planner agent, an executor agent, and a human reviewer. `task-handoff` CLI plus a web control plane. Apache-2.0.
 
 - **[tmuxlet](https://github.com/CodefiLabs/tmuxlet)** `⭐ 8` — Rust CLI that runs interactive coding CLIs (Claude, Codex, Gemini, opencode, pi, Cursor) inside tmux and exposes a normalized `claude -p` style blocking interface. Single binary, zero deps. Works against the regular Claude subscription bucket (not the separate Agent SDK credit) by driving interactive Claude Code from the outside.
 
@@ -569,7 +569,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Phantom](https://github.com/ashlrai/phantom)** `⭐ 6` — Operator console and `phm` CLI (npm `@ashlr/phantom`; formerly Ashlr Verse) that runs Claude Code, Codex, Devin, Grok and local-model sessions side by side as seats in one workbench, with per-account usage views; served in the browser on macOS, Linux and Windows, plus a macOS desktop app. Optional macOS-only fleet autonomy starts in shadow mode. MIT.
 
-- **[mix2](https://github.com/elleryfamilia/mix2)** `⭐ 5` — Terminal app that turns two coding agents into one team; one question, both investigate independently, reconcile or disclose disagreements, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI. Rust + TypeScript, MIT.
+- **[mix2](https://github.com/elleryfamilia/mix2)** `⭐ 6` — Terminal app that turns two coding agents into one team; one question, both investigate independently, reconcile or disclose disagreements, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI. Rust + TypeScript, MIT.
 
 - **[taskpods](https://github.com/yanairon/taskpods)** `⭐ 5` — Lightweight, agent-agnostic CLI that runs Claude Code, Codex CLI, Gemini CLI, opencode, aider, or any command in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands. Python, MIT.
 
@@ -581,9 +581,9 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Peekumi](https://github.com/tee-jagz/peekumi)** `⭐ 2` — Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code. A self-hosted server sends your instructions to the agents as tasks in separate Git worktrees, and you review, approve and merge their changes from a phone. Rust, Apache-2.0.
 
-- **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
+- **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 2` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
 
-- **[AgentX](https://github.com/ArcheMind/agentx)** `⭐ 0` — Native-first runtime manager for Claude Code, Codex CLI, DeepSeek Harness, Gemini CLI, OpenCode, and Pi. Launch or resume each agent through its own CLI while preserving native configurations, credentials, and session stores. Go, MIT.
+- **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
 
 - **[clisweave](https://github.com/uhuntu/clisweave)** `⭐ 0` — Tiny, dependency-free CLI wrapper unifying Claude Code, Codex CLI, and Kimi CLI: normalizes flags across the three tools, plus a cross-tool numbered session list, resume-by-row-number, and an LLM-judged topic search that finds relevant past sessions by content, not just exact keyword match. Single Python package, no daemon. MIT.
 
@@ -617,19 +617,19 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
 
-- **[DeerFlow](https://github.com/bytedance/deer-flow)** `⭐ 85.5k` `[ByteDance]` — Long-horizon super-agent harness orchestrating sub-agents, skills, memory, and sandboxes; ships a `deerflow` terminal workbench (Textual TUI plus headless `--print`) alongside its web UI and IM channels. Agent work is confined to a per-thread sandbox workspace unless you declare host mounts in config. MIT.
+- **[DeerFlow](https://github.com/bytedance/deer-flow)** `⭐ 85.7k` `[ByteDance]` — Long-horizon super-agent harness orchestrating sub-agents, skills, memory, and sandboxes; ships a `deerflow` terminal workbench (Textual TUI plus headless `--print`) alongside its web UI and IM channels. Agent work is confined to a per-thread sandbox workspace unless you declare host mounts in config. MIT.
 
-- **[claude-flow](https://github.com/ruvnet/claude-flow)** `⭐ 82.1k` — Deploy multi-agent swarms with coordinated workflows.
+- **[claude-flow](https://github.com/ruvnet/claude-flow)** `⭐ 82.3k` — Deploy multi-agent swarms with coordinated workflows.
 
 - **[Symphony](https://github.com/openai/symphony)** `⭐ 28.1k` `[OpenAI]` — Turns tracker issues into isolated autonomous implementation runs: polls Linear, GitHub Issues, Jira, Asana, or GitLab, creates a workspace per issue, launches Codex in App Server mode, and keeps it working until the task lands with proof of work (CI status, PR review, walkthrough video). Ships as a spec plus an Elixir reference implementation with an escript CLI. Apache-2.0.
 
-- **[gastown](https://github.com/steveyegge/gastown)** `⭐ 18.8k` — Multi-agent orchestration with persistent work tracking.
+- **[gastown](https://github.com/steveyegge/gastown)** `⭐ 18.9k` — Multi-agent orchestration with persistent work tracking.
 
-- **[Omnigent](https://github.com/omnigent-ai/omnigent)** `⭐ 11.4k` `[Databricks]` — Meta-harness giving one orchestration layer over Claude Code, Codex, Cursor, OpenCode, Hermes, Kiro, and Pi: mix harnesses inside a single session, wrap each agent terminal in a bwrap/seatbelt or cloud sandbox, and enforce approval, spend, and tool policies. YAML-defined agents include a tech-lead orchestrator that delegates to coding sub-agents in parallel git worktrees. Apache-2.0.
+- **[Omnigent](https://github.com/omnigent-ai/omnigent)** `⭐ 11.5k` `[Databricks]` — Meta-harness giving one orchestration layer over Claude Code, Codex, Cursor, OpenCode, Hermes, Kiro, and Pi: mix harnesses inside a single session, wrap each agent terminal in a bwrap/seatbelt or cloud sandbox, and enforce approval, spend, and tool policies. YAML-defined agents include a tech-lead orchestrator that delegates to coding sub-agents in parallel git worktrees. Apache-2.0.
 
 - **[Raven](https://github.com/EverMind-AI/Raven)** `⭐ 6.3k` `[EverMind]` — Host agent that plans a complex task as a DAG and runs it across built-in research, coding, design, and on-call agents plus presets for third-party CLI agents (Claude Code, Codex, OpenCode, Qwen Code, Kimi Code, Copilot) over ACP; ships a `raven` CLI, a terminal UI and a WebUI, with cross-session memory and an experimental self-evolution loop that installs only verified changes. Apache-2.0.
 
-- **[Kiro Crew](https://github.com/kirodotdev/KiroCrew)** `⭐ 5k` `[AWS]` — Persistent local workspace that drives `kiro-cli` over ACP across concurrent agent sessions: a `kirocrew run TASK.md` task runner with checkpoint resume, `spawn` subagents, cron and webhook-triggered jobs, decaying memory that hardens into reusable skills, and OS-sandboxed tool execution behind approval gates. Apache-2.0.
+- **[Kiro Crew](https://github.com/kirodotdev/KiroCrew)** `⭐ 5.1k` `[AWS]` — Persistent local workspace that drives `kiro-cli` over ACP across concurrent agent sessions: a `kirocrew run TASK.md` task runner with checkpoint resume, `spawn` subagents, cron and webhook-triggered jobs, decaying memory that hardens into reusable skills, and OS-sandboxed tool execution behind approval gates. Apache-2.0.
 
 - **[ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)** `⭐ 3.2k` — Hat-based system maintaining agents in a loop until task completion.
 
@@ -649,47 +649,47 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Loki Mode](https://github.com/asklokesh/loki-mode)** `⭐ 1.1k` — Spec-to-product autonomous loop with a built-in verification gate: a reason/act/reflect/verify closure plus a blind-review completion council that can veto "done", so it will not mark work complete until the evidence passes. Brownfield healing (`loki heal`), local-first BYO-keys, 26-tool MCP server, reads AGENTS.md. Source-available (BUSL-1.1).
 
-- **[h5i](https://github.com/h5i-dev/h5i)** `⭐ 935` — Runs several coding agents (Claude Code, Codex) on the same task in isolated sandboxes, has them peer-review each other, then a neutral verifier replays and tests each candidate and merges the one that passes. Run metadata is versioned in the repo under `refs/h5i/*`. Apache-2.0.
+- **[h5i](https://github.com/h5i-dev/h5i)** `⭐ 950` — Runs several coding agents (Claude Code, Codex) on the same task in isolated sandboxes, has them peer-review each other, then a neutral verifier replays and tests each candidate and merges the one that passes. Run metadata is versioned in the repo under `refs/h5i/*`. Apache-2.0.
 
-- **[CodeAF](https://github.com/Agent-Field/CodeAF)** `⭐ 807` `[AgentField]` — Open-source software factory for open models, in a single Go binary. One window for every project; a request turns into tasks that each run in their own copy of the repo and land on your branch once the project's checks pass. Built-in specialists for code changes, PR review and security audits, plus a headless `codeaf do --json` mode. DeepSeek, Qwen, GLM, Kimi, MiniMax, Ollama or any OpenAI-compatible endpoint. Apache-2.0.
+- **[CodeAF](https://github.com/Agent-Field/CodeAF)** `⭐ 833` `[AgentField]` — Open-source software factory for open models, in a single Go binary. One window for every project; a request turns into tasks that each run in their own copy of the repo and land on your branch once the project's checks pass. Built-in specialists for code changes, PR review and security audits, plus a headless `codeaf do --json` mode. DeepSeek, Qwen, GLM, Kimi, MiniMax, Ollama or any OpenAI-compatible endpoint. Apache-2.0.
 
-- **[Aeon](https://github.com/aeonfun/aeon)** `⭐ 796` — Autonomous agent framework that runs unattended on GitHub Actions; dispatches skills to six coding-agent harnesses behind one Claude-Code-shaped contract (Claude Code, Grok, Codex, Pi, Vibe, Kimi) on cron or reactive triggers, with quality scoring (1–5 via Haiku), git-persisted memory, a self-healing loop that rewrites underperforming skills, and an MCP server exposing every skill as a tool. 60+ skills across research, dev, crypto, and productivity. MIT.
+- **[fractal](https://github.com/plasma-ai/fractal)** `⭐ 798` — CLI/TUI orchestrator for hierarchical agent loops, with nodes working in their own git worktrees and delegating separable subtasks to child agents. Supports Claude Code, Codex, Grok Build, OpenCode, and Oh My Pi, with configurable caps on iterations, depth, direct children, cost, and time. Apache-2.0.
 
-- **[fractal](https://github.com/plasma-ai/fractal)** `⭐ 795` — CLI/TUI orchestrator for hierarchical agent loops, with nodes working in their own git worktrees and delegating separable subtasks to child agents. Supports Claude Code, Codex, Grok Build, OpenCode, and Oh My Pi, with configurable caps on iterations, depth, direct children, cost, and time. Apache-2.0.
+- **[Aeon](https://github.com/aeonfun/aeon)** `⭐ 797` — Autonomous agent framework that runs unattended on GitHub Actions; dispatches skills to six coding-agent harnesses behind one Claude-Code-shaped contract (Claude Code, Grok, Codex, Pi, Vibe, Kimi) on cron or reactive triggers, with quality scoring (1–5 via Haiku), git-persisted memory, a self-healing loop that rewrites underperforming skills, and an MCP server exposing every skill as a tool. 60+ skills across research, dev, crypto, and productivity. MIT.
 
-- **[Claudexor](https://github.com/razzant/claudexor)** `⭐ 525` — Local-first control plane that keeps one coding thread across Claude Code, Codex, Cursor, and OpenCode. It can connect multiple user-owned accounts of the same harness (for example, five Claude Code accounts or ten Codex accounts), track each account's quota, and opt in to automatic rotation when one reaches its limit. CLI + macOS app. MIT.
+- **[Claudexor](https://github.com/razzant/claudexor)** `⭐ 527` — Local-first control plane that keeps one coding thread across Claude Code, Codex, Cursor, and OpenCode. It can connect multiple user-owned accounts of the same harness (for example, five Claude Code accounts or ten Codex accounts), track each account's quota, and opt in to automatic rotation when one reaches its limit. CLI + macOS app. MIT.
 
 - **[Genie](https://github.com/automagik-si/genie)** `⭐ 354` — CLI that runs a skill-based loop over Claude Code (`/wish`), Codex (`$wish`), and other agents: a decided task is built in an isolated git worktree, checked with the repository's own tests, reviewed by a separate agent, and opened as a pull request. Larger work goes through brainstorm, design review, wish, plan review, work, and implementation review, with designs and plans stored as markdown in the repo. Apache-2.0.
 
-- **[MartinLoop](https://github.com/Keesan12/martin-loop)** `⭐ 268` — Execution-control layer around Claude Code, Codex, and other coding agents: token and cost budgets, iteration caps, stop conditions, independent verifier passes, and signed run receipts, driven from a `martin` CLI. Apache-2.0.
+- **[MartinLoop](https://github.com/Keesan12/martin-loop)** `⭐ 263` — Execution-control layer around Claude Code, Codex, and other coding agents: token and cost budgets, iteration caps, stop conditions, independent verifier passes, and signed run receipts, driven from a `martin` CLI. Apache-2.0.
 
-- **[Orbi](https://github.com/orbi-build/orbi)** `⭐ 258` — Unattended loop from a labeled GitHub Issue to a tagged release: claims the Issue, implements in an isolated worktree, then runs a second session with a fresh context that reviews the frozen diff and can block the merge. The merge gate is bound to the reviewed commit, so a later push cannot pass on an earlier verdict. Runs on the Pi agent harness with your own model (any OpenAI-compatible API) or a Codex subscription. Docker or systemd. AGPL-3.0.
+- **[Orbi](https://github.com/orbi-build/orbi)** `⭐ 260` — Unattended loop from a labeled GitHub Issue to a tagged release: claims the Issue, implements in an isolated worktree, then runs a second session with a fresh context that reviews the frozen diff and can block the merge. The merge gate is bound to the reviewed commit, so a later push cannot pass on an earlier verdict. Runs on the Pi agent harness with your own model (any OpenAI-compatible API) or a Codex subscription. Docker or systemd. AGPL-3.0.
 
-- **[Ordewell](https://github.com/ordewell/ordewell)** `⭐ 211` — Turns one goal into an ordered plan of coding-agent tasks, each with its own runner (Claude Code, Codex, OpenCode), model, and mode; a terminal UI drives planning, execution, and verification. TypeScript.
+- **[Ordewell](https://github.com/ordewell/ordewell)** `⭐ 213` — Turns one goal into an ordered plan of coding-agent tasks, each with its own runner (Claude Code, Codex, OpenCode), model, and mode; a terminal UI drives planning, execution, and verification. TypeScript.
 
-- **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** `⭐ 198` — Delegates coding grunt-work to the cheapest harness or model you already pay for while your main session stays the orchestrator, carrying your skills, plugins, and MCP servers onto whichever engine runs the job. Works across Claude Code, Codex, Cursor, Droid, Hermes, and Cline. Source-available (PolyForm Noncommercial).
+- **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** `⭐ 203` — Delegates coding grunt-work to the cheapest harness or model you already pay for while your main session stays the orchestrator, carrying your skills, plugins, and MCP servers onto whichever engine runs the job. Works across Claude Code, Codex, Cursor, Droid, Hermes, and Cline. Source-available (PolyForm Noncommercial).
 
 - **[ORCH](https://github.com/oxgeneral/ORCH)** `⭐ 182` — CLI orchestrator that manages Claude Code, Codex, and Cursor as a typed task queue with state machine (todo→in_progress→review→done), auto-retry, inter-agent messaging, and TUI dashboard.
 
-- **[LoopTroop](https://github.com/looptroop-ai/LoopTroop)** `⭐ 178` — Local, open-source GUI orchestrator for AI coding agents. An LLM Council plans, atomic "beads" execute in isolated git worktrees, and a "Ralph Loop" retries failures with fresh context to fight context rot. Built on OpenCode. MIT.
+- **[LoopTroop](https://github.com/looptroop-ai/LoopTroop)** `⭐ 182` — Local, open-source GUI orchestrator for AI coding agents. An LLM Council plans, atomic "beads" execute in isolated git worktrees, and a "Ralph Loop" retries failures with fresh context to fight context rot. Built on OpenCode. MIT.
 
 - **[OMK](https://github.com/dmae97/open-multi-agent-kit)** `⭐ 153` — Provider-neutral CLI control plane for coding agents: routes runtimes, scopes MCP, runs DAG workers, and verifies evidence before completion. MIT.
 
-- **[kodo](https://github.com/ikamensh/kodo)** `⭐ 138` — Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI through work cycles with independent architect and tester verification. SWE-bench verified.
+- **[kodo](https://github.com/ikamensh/kodo)** `⭐ 139` — Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI through work cycles with independent architect and tester verification. SWE-bench verified.
 
 - **[wreckit](https://github.com/mikehostetler/wreckit)** `⭐ 129` — Apply the Ralph Wiggum Loop pattern across your roadmap for autonomous agent execution.
 
-- **[5dive](https://github.com/5dive-ai/5dive)** `⭐ 121` — Run a company of AI coding agents on a server you own: one-command spin-up of named agents (Claude Code, Codex, Grok, and more), cron + heartbeat scheduling, multi-agent orchestration, Telegram control, and a babysit + needs-you triage dashboard. Self-hosted. MIT.
+- **[5dive](https://github.com/5dive-ai/5dive)** `⭐ 125` — Run a company of AI coding agents on a server you own: one-command spin-up of named agents (Claude Code, Codex, Grok, and more), cron + heartbeat scheduling, multi-agent orchestration, Telegram control, and a babysit + needs-you triage dashboard. Self-hosted. MIT.
 
 - **[great_cto](https://github.com/avelikiy/great_cto)** `⭐ 118` — Engineering-management layer of 34 specialist AI agents covering the full SDLC (architect, PM, senior-dev, reviewer, QA, security, devops, L3-support + 18 archetype-specific reviewers) with auto-detected archetypes and compliance gates (PCI-DSS, HIPAA, FedRAMP, GDPR, EU AI Act). Runs in Claude Code, Cursor, Codex CLI, Aider, and Continue via AGENTS.md + MCP. MIT.
 
-- **[Crewly](https://github.com/stevehuang0115/crewly)** `⭐ 91` — Runs a team of role-based coding agents (developer, QA, PM, orchestrator) from a `crewly` CLI and web dashboard: task delegation through agent skills, shared persistent memory, live terminal view. Supports Claude Code, Codex, Gemini CLI, and OpenCode. TypeScript, MIT.
+- **[Crewly](https://github.com/stevehuang0115/crewly)** `⭐ 92` — Runs a team of role-based coding agents (developer, QA, PM, orchestrator) from a `crewly` CLI and web dashboard: task delegation through agent skills, shared persistent memory, live terminal view. Supports Claude Code, Codex, Gemini CLI, and OpenCode. TypeScript, MIT.
 
 - **[OpenCastle](https://github.com/monkilabs/opencastle)** `⭐ 81` — Multi-agent orchestration framework that turns AI coding assistants (Copilot, Cursor, Claude Code, OpenCode, Windsurf, Codex CLI) into 19 coordinated specialist agents. CLI-driven (`npx opencastle init`), with task decomposition, parallel work, and quality gates. MIT.
 
 - **[The Factory](https://github.com/akashgit/remote-factory)** `⭐ 75` — Self-evolving meta-harness for autonomous software dev and research; turns any codebase into an auto-research project, auto-discovers eval dimensions, generates scoring harness, and runs keep/revert experiment loops with monotonic-improvement guards. Multi-contributor. MIT.
 
-- **[Frink](https://github.com/benord-labs/frink)** `⭐ 65` — Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.
+- **[Frink](https://github.com/benord-labs/frink)** `⭐ 64` — Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.
 
 - **[Forge](https://github.com/LucasDuys/forge)** `⭐ 57` — Autonomous spec-driven development loop for Claude Code; three-command pipeline (brainstorm specs, plan task DAGs, execute autonomously) with context survival, backpropagation that traces bugs to spec gaps, and Claude-on-Claude code review. MIT.
 
@@ -697,21 +697,21 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[Crewplane](https://github.com/crewplaneai/crewplane)** `⭐ 56` — CLI-first control plane for human-designed coding-agent workflows via Markdown; runs sequential or parallel stages through Claude Code, Codex, Gemini CLI, Copilot CLI, or any configured command, resumes after failures, and keeps inputs, outputs, and logs on disk. Python, Apache-2.0.
 
-- **[Delegatus](https://github.com/Latand/delegatus)** `⭐ 40` — Local web board started from the `delegatus` CLI: you message one orchestrator agent per project, it turns requests into tasks and runs each through build and fresh read-only review stages in its own git worktree until a pull request is ready, and brings decisions to you in the browser, on your phone or in Telegram. Claude Code and Codex, plus Copilot for single agents. MIT.
+- **[Delegatus](https://github.com/Latand/delegatus)** `⭐ 42` — Local web board started from the `delegatus` CLI: you message one orchestrator agent per project, it turns requests into tasks and runs each through build and fresh read-only review stages in its own git worktree until a pull request is ready, and brings decisions to you in the browser, on your phone or in Telegram. Claude Code and Codex, plus Copilot for single agents. MIT.
 
-- **[Aixle Flow](https://github.com/AixleHQ/flow)** `⭐ 38` — Self-hosted Kanban board that runs CLI coding agents (Claude Code, Codex, Cursor CLI, Gemini CLI, Grok CLI, Kiro CLI, Antigravity CLI) for a team: each card starts a durable Temporal workflow, every step runs in its own container, and each run records its log, tokens and cost. Apache-2.0.
+- **[Aixle Flow](https://github.com/AixleHQ/flow)** `⭐ 39` — Self-hosted Kanban board that runs CLI coding agents (Claude Code, Codex, Cursor CLI, Gemini CLI, Grok CLI, Kiro CLI, Antigravity CLI) for a team: each card starts a durable Temporal workflow, every step runs in its own container, and each run records its log, tokens and cost. Apache-2.0.
 
 - **[fab-kit](https://github.com/sahil87/fab-kit)** `⭐ 35` — Spec-driven development workflow for AI coding agents: an intake → plan → apply → review → hydrate pipeline with confidence gating, per-stage model tiers, a multi-agent operator mode over tmux, and cross-harness dispatch (Claude Code, Codex, Gemini). Go, MIT.
 
-- **[NEEDLE](https://github.com/jedarden/NEEDLE)** `⭐ 34` — Headless bead-queue orchestrator built on an explicit deterministic state machine: claims work items and dispatches each to a headless coding-agent CLI (Claude Code, Codex, OpenCode, Aider), with a defined handler for every outcome rather than a model deciding the next step. Rust, MIT.
+- **[NEEDLE](https://github.com/jedarden/NEEDLE)** `⭐ 33` — Headless bead-queue orchestrator built on an explicit deterministic state machine: claims work items and dispatches each to a headless coding-agent CLI (Claude Code, Codex, OpenCode, Aider), with a defined handler for every outcome rather than a model deciding the next step. Rust, MIT.
 
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 33` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.
 
+- **[TeDDy](https://github.com/atte500/TeDDy)** `⭐ 31` — An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow. Python, AGPL-3.0.
+
 - **[ralph-harness](https://github.com/rxdt/py_ralph_frame)** `⭐ 28` — Minimal repo-local loop scaffold for Claude Code, Codex CLI, and Gemini CLI. Uses `PROMPT.md`, specs, fresh-context iterations, git hooks, CI verification, and hard iteration/time caps so agents make small gated commits instead of drifting in one long chat. MIT.
 
-- **[TeDDy](https://github.com/atte500/TeDDy)** `⭐ 28` — An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow. Python, AGPL-3.0.
-
-- **[Galley](https://github.com/shinpr/galley)** `⭐ 20` — Local-first runtime for supervised AI coding tasks: isolated git worktrees, supervisor review against acceptance criteria, retry/escalate loops, on-disk run evidence, and PR handoff. Supports Codex CLI and Claude Code. Go, MIT.
+- **[Galley](https://github.com/shinpr/galley)** `⭐ 21` — Local-first runtime for supervised AI coding tasks: isolated git worktrees, supervisor review against acceptance criteria, retry/escalate loops, on-disk run evidence, and PR handoff. Supports Codex CLI and Claude Code. Go, MIT.
 
 - **[xcb](https://github.com/hraness/xcb)** `⭐ 14` — Sends each coding task to one of your Claude, Codex, or Devin subscription accounts that is signed in, idle, and not at a known usage limit, and holds that account until the task's process exits. Other agents hand it work with `xcb --json route`; also a TypeScript SDK. MIT.
 
@@ -745,15 +745,15 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by GitHub stars.
 
-- **[Headroom](https://github.com/headroomlabs-ai/headroom)** `⭐ 80.2k` — Context-compression layer for coding agents: `headroom wrap <tool>` transparently shrinks tool output, logs, files, and RAG chunks before they reach the model (15–20% fewer tokens for coding agents, 60–95% for JSON), reversibly and locally. Library, proxy, and MCP server; wraps Claude Code, Codex, Cursor, Aider, OpenCode, Goose, OpenHands, and more. Apache-2.0.
+- **[Headroom](https://github.com/headroomlabs-ai/headroom)** `⭐ 80.7k` — Context-compression layer for coding agents: `headroom wrap <tool>` transparently shrinks tool output, logs, files, and RAG chunks before they reach the model (15–20% fewer tokens for coding agents, 60–95% for JSON), reversibly and locally. Library, proxy, and MCP server; wraps Claude Code, Codex, Cursor, Aider, OpenCode, Goose, OpenHands, and more. Apache-2.0.
 
-- **[OpenCodeReview](https://github.com/alibaba/open-code-review)** `⭐ 54.4k` `[Alibaba]` — AI code review CLI (`ocr`) that runs on your local repo: reviews working-tree, branch, or commit diffs or scans whole files, with a tool-using agent that reads files and searches the codebase. Delegation mode hands the review to Claude Code, Codex, Cursor, or OpenCode instead of its own LLM. Go, Apache-2.0.
+- **[OpenCodeReview](https://github.com/alibaba/open-code-review)** `⭐ 55.7k` `[Alibaba]` — AI code review CLI (`ocr`) that runs on your local repo: reviews working-tree, branch, or commit diffs or scans whole files, with a tool-using agent that reads files and searches the codebase. Delegation mode hands the review to Claude Code, Codex, Cursor, or OpenCode instead of its own LLM. Go, Apache-2.0.
 
-- **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 52.9k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
+- **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 53.6k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
 
-- **[OpenViking](https://github.com/volcengine/OpenViking)** `⭐ 42.5k` `[ByteDance]` — Context database for AI agents: memories, resources, and skills stored as one virtual filesystem under a `viking://` protocol, so any agent reads and writes context the same way. `ov` CLI plus an MCP server and a browser studio. AGPL-3.0.
+- **[OpenViking](https://github.com/volcengine/OpenViking)** `⭐ 42.7k` `[ByteDance]` — Context database for AI agents: memories, resources, and skills stored as one virtual filesystem under a `viking://` protocol, so any agent reads and writes context the same way. `ov` CLI plus an MCP server and a browser studio. AGPL-3.0.
 
-- **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 38.2k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
+- **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 38.3k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
 
 - **[Beads](https://github.com/gastownhall/beads)** `⭐ 28.9k` — Distributed graph issue tracker and persistent memory for coding agents, powered by Dolt. Replaces markdown plans with a dependency-aware graph so agents can hold long-horizon work: `bd create` → `bd ready` → `bd update --claim` → `bd close`, with `bd dolt push/pull` syncing between machines and agents. Go, npm `@beads/bd`, PyPI `beads-mcp`. MIT.
 
@@ -763,17 +763,17 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[OpenCodex](https://github.com/lidge-jun/opencodex)** `⭐ 18.7k` — Local provider proxy that translates Codex's Responses API in both directions (streaming, tool calls, reasoning tokens, images), so Codex CLI/App/SDK, Claude Code, and Grok Build can run any LLM across 40+ providers or any OpenAI-compatible endpoint. Combos give one virtual model id failover or weighted round-robin. `ocx` CLI plus a localhost dashboard. Unrelated to ymichael's open-codex. MIT.
 
-- **[OpenWiki](https://github.com/langchain-ai/openwiki)** `⭐ 18k` `[LangChain]` — CLI that writes and maintains a Markdown wiki for your codebase using a Deep Agents documentation agent; agents read it as memory via managed blocks in `AGENTS.md`/`CLAUDE.md`, and it self-updates through GitHub Actions, GitLab CI, or Bitbucket Pipelines. Twelve model providers and an interactive node-graph visualizer. MIT.
+- **[OpenWiki](https://github.com/langchain-ai/openwiki)** `⭐ 18.1k` `[LangChain]` — CLI that writes and maintains a Markdown wiki for your codebase using a Deep Agents documentation agent; agents read it as memory via managed blocks in `AGENTS.md`/`CLAUDE.md`, and it self-updates through GitHub Actions, GitLab CI, or Bitbucket Pipelines. Twelve model providers and an interactive node-graph visualizer. MIT.
 
-- **[Agent Executor (AX)](https://github.com/google/ax)** `⭐ 14.8k` `[Google]` — Distributed harness runtime that provisions isolated, suspendable and resumable environments to execute coding agents; the `ax` Go CLI runs the built-in Antigravity harness locally against a workspace or against a remote gRPC controller, with a durable event log for recovery. Kubernetes-native via Agent Substrate; supports MCP tools and Agent Skills. Apache-2.0.
+- **[Agent Executor (AX)](https://github.com/google/ax)** `⭐ 14.9k` `[Google]` — Distributed harness runtime that provisions isolated, suspendable and resumable environments to execute coding agents; the `ax` Go CLI runs the built-in Antigravity harness locally against a workspace or against a remote gRPC controller, with a durable event log for recovery. Kubernetes-native via Agent Substrate; supports MCP tools and Agent Skills. Apache-2.0.
 
-- **[Codex Security](https://github.com/openai/codex-security)** `⭐ 14.2k` `[OpenAI]` — CLI and TypeScript SDK that runs Codex over a local repo to find, validate, and patch security vulnerabilities; deep multi-agent scans with parallel workers, scan history and diffing, SARIF/CSV/JSON export, a pre-commit hook, and containerized bulk scans. Apache-2.0.
+- **[Codex Security](https://github.com/openai/codex-security)** `⭐ 14.3k` `[OpenAI]` — CLI and TypeScript SDK that runs Codex over a local repo to find, validate, and patch security vulnerabilities; deep multi-agent scans with parallel workers, scan history and diffing, SARIF/CSV/JSON export, a pre-commit hook, and containerized bulk scans. Apache-2.0.
 
-- **[Camofox Browser](https://github.com/jo-inc/camofox-browser)** `⭐ 12.4k` — Stealth headless browser for coding agents; Playwright-compatible with anti-detection, human-like fingerprinting, and a REST API for agent tool integration. MIT.
+- **[Camofox Browser](https://github.com/jo-inc/camofox-browser)** `⭐ 12.5k` — Stealth headless browser for coding agents; Playwright-compatible with anti-detection, human-like fingerprinting, and a REST API for agent tool integration. MIT.
 
-- **[BrowserSkill](https://github.com/Tencent/BrowserSkill)** `⭐ 10.6k` `[Tencent]` — Rust `bsk` CLI and local daemon plus a Chrome/Edge extension that lets any shell-capable agent (Claude Code, Codex, Cursor, OpenClaw, Pi, Hermes) drive your already-logged-in browser. Tasks run in a separate Agent Window so your own tabs are untouched; the agent must borrow a tab explicitly and hand back for captcha, login, and confirmation steps. MIT.
+- **[BrowserSkill](https://github.com/Tencent/BrowserSkill)** `⭐ 10.7k` `[Tencent]` — Rust `bsk` CLI and local daemon plus a Chrome/Edge extension that lets any shell-capable agent (Claude Code, Codex, Cursor, OpenClaw, Pi, Hermes) drive your already-logged-in browser. Tasks run in a separate Agent Window so your own tabs are untouched; the agent must borrow a tab explicitly and hand back for captcha, login, and confirmation steps. MIT.
 
-- **[deepsec](https://github.com/vercel-labs/deepsec)** `⭐ 8.4k` `[Vercel]` — Agent-powered vulnerability scanner that runs on your own infrastructure. A fast regex matcher pass finds candidate sites, then Claude Agent SDK or Codex agents investigate each one with full shell access to the repo. Resumable runs, cost and duration caps, `--diff` PR mode, and optional fan-out across Vercel Sandbox microVMs. Apache-2.0.
+- **[deepsec](https://github.com/vercel-labs/deepsec)** `⭐ 8.6k` `[Vercel]` — Agent-powered vulnerability scanner that runs on your own infrastructure. A fast regex matcher pass finds candidate sites, then Claude Agent SDK or Codex agents investigate each one with full shell access to the repo. Resumable runs, cost and duration caps, `--diff` PR mode, and optional fan-out across Vercel Sandbox microVMs. Apache-2.0.
 
 - **[GitHub Agentic Workflows](https://github.com/github/gh-aw)** `⭐ 5.7k` `[GitHub]` — `gh` extension that compiles Markdown workflows into GitHub Actions running Copilot, Claude Code, Codex, Gemini, or Pi agents against a repo; `init`/`add`/`compile` write lock files locally, `trial` and `run` dispatch and stream logs. Agent jobs are read-only and sandboxed, with writes applied through validated safe-outputs. MIT.
 
@@ -785,67 +785,67 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[toprank](https://github.com/nowork-studio/toprank)** `⭐ 4.3k` — Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API, then ships fixes (meta tags, JSON-LD schema, keyword bids) directly to source code or CMS. Open-source, MIT.
 
-- **[OneCLI](https://github.com/onecli/onecli)** `⭐ 3.6k` — Open-source credential vault for AI agents; Rust HTTP gateway injects API keys transparently so agents never handle raw secrets. Per-agent scoped tokens, AES-256-GCM encryption at rest. Apache-2.0.
+- **[OneCLI](https://github.com/onecli/onecli)** `⭐ 3.7k` — Open-source credential vault for AI agents; Rust HTTP gateway injects API keys transparently so agents never handle raw secrets. Per-agent scoped tokens, AES-256-GCM encryption at rest. Apache-2.0.
 
-- **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** `⭐ 3k` — Context and token-cost optimizer for coding agents: finds "ghost tokens," survives compaction, and fights context-quality decay. Native plugins for Claude Code, Codex, OpenCode, and OpenClaw. Source-available (PolyForm Noncommercial).
+- **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** `⭐ 3.1k` — Context and token-cost optimizer for coding agents: finds "ghost tokens," survives compaction, and fights context-quality decay. Native plugins for Claude Code, Codex, OpenCode, and OpenClaw. Source-available (PolyForm Noncommercial).
 
 - **[Webcmd](https://github.com/agentrhq/webcmd)** `⭐ 2.8k` — Self-learning browser automation CLI for coding agents: learns a site's navigation once, compiles it into deterministic per-site commands, and installs as Claude Code and Codex skills. Apache-2.0.
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 2k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).
 
-- **[deja-vu](https://github.com/vshulcz/deja-vu)** `⭐ 1.6k` — Local memory and session search over the transcripts 47 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, OpenClaw, Hermes, Pi, Aider and more) already write to disk, including sessions from before it was installed. Serves cross-agent recall, line-level file blame, and deleted-session recovery over a terminal UI, CLI, MCP server, and hooks with zero LLM calls and automatic credential redaction. Single Go binary; MIT.
+- **[deja-vu](https://github.com/vshulcz/deja-vu)** `⭐ 1.7k` — Local memory and session search over the transcripts 47 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, OpenClaw, Hermes, Pi, Aider and more) already write to disk, including sessions from before it was installed. Serves cross-agent recall, line-level file blame, and deleted-session recovery over a terminal UI, CLI, MCP server, and hooks with zero LLM calls and automatic credential redaction. Single Go binary; MIT.
 
-- **[Concord MCP](https://github.com/Get-Concord-AI/concord-mcp)** `⭐ 1.4k` — Local-first MCP server plus a `concord` CLI and TUI giving coding agents shared work state: cross-harness messaging, file-claim overlap detection before edits, task handoff with evidence, and a live dashboard. Works with Claude Code, Codex, Cursor, Gemini CLI, and Grok Build. MIT.
+- **[Concord MCP](https://github.com/Get-Concord-AI/concord-mcp)** `⭐ 1.5k` — Local-first MCP server plus a `concord` CLI and TUI giving coding agents shared work state: cross-harness messaging, file-claim overlap detection before edits, task handoff with evidence, and a live dashboard. Works with Claude Code, Codex, Cursor, Gemini CLI, and Grok Build. MIT.
 
 - **[OpenQodex](https://github.com/openqodex/openqodex)** `⭐ 1.2k` — Code review CLI for coding agents: `openqodex review` starts a separate reviewer process that checks the change the agent wrote, runs 22 built-in scanners, and can gate `git push` on the verdict. Also builds a code graph that agents query for callers and impact. Works with Claude Code, Codex, Cursor, and Cline. TypeScript, Apache-2.0.
 
 - **[numbat](https://github.com/perplexityai/numbat)** `⭐ 1.2k` `[Perplexity]` — Endpoint visibility into AI coding agent activity. Local hooks, generated plugins, and OTLP logs feed a CEL rule engine for on-device detection, opt-in pre-action blocking, and forensic reconstruction from on-disk session artifacts. Single Go binary; covers Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI, OpenCode, OpenClaw, Crush, Goose, and 15+ more. Apache-2.0.
 
+- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** `⭐ 1.2k` — Records a coding-agent run and replays it offline with the network off, or forks it from any checkpoint onto a different model. Capture sits below the harness — shell exit codes, per-turn file changes and MCP calls land on the same timeline as the model traffic — so it also records agents with no base URL to change, via TLS interception on a host allowlist.
+
 - **[HOL Guard](https://github.com/hashgraph-online/hol-guard)** `⭐ 1.1k` — Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Pre-tool hooks, approval center, and supply-chain advisory scanning. Supports Claude Code, Codex, Cursor, Gemini, Copilot CLI, Hermes, and OpenCode.
 
-- **[ThinkWatch Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite)** `⭐ 1.1k` — Local gateway for coding agents, packaged as a desktop app for macOS, Windows and Linux: Claude Code, Codex, opencode, Aider, Qwen Code, Pi and others are pointed at it once, then upstreams change without editing agent configs. Converts between the Anthropic, OpenAI and Gemini APIs, records each request's route and cost, redacts API keys before requests leave, and cuts off dangerous tool calls mid-stream. The `twcore` gateway also runs headless on a Linux server. MIT.
+- **[ThinkWatch Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite)** `⭐ 952` — Local gateway for coding agents, packaged as a desktop app for macOS, Windows and Linux: Claude Code, Codex, opencode, Aider, Qwen Code, Pi and others are pointed at it once, then upstreams change without editing agent configs. Converts between the Anthropic, OpenAI and Gemini APIs, records each request's route and cost, redacts API keys before requests leave, and cuts off dangerous tool calls mid-stream. The `twcore` gateway also runs headless on a Linux server. MIT.
 
-- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** `⭐ 1k` — Records a coding-agent run and replays it offline with the network off, or forks it from any checkpoint onto a different model. Capture sits below the harness — shell exit codes, per-turn file changes and MCP calls land on the same timeline as the model traffic — so it also records agents with no base URL to change, via TLS interception on a host allowlist.
+- **[Tracekit](https://github.com/Cygnux-Labs/Tracekit)** `⭐ 837` — Hooks for Claude Code, Codex CLI, Cursor and Gemini CLI that send each tool call to a local signer before it runs; the signer allows it, blocks it or holds it for your approval, and signs it into a hash-chained log that `tracekit verify` checks offline. `tracekit init --dev --v2` sets it up. Dev mode runs the signer as you; tamper resistance needs it under another user, in a container or on another host. Python, MIT.
 
-- **[agent-qa](https://github.com/vostride/agent-qa)** `⭐ 824` — Self-improving QA harness for web and mobile workflows, with a CLI, dashboard, MCP and skills for coding agents, memory-backed self-healing, and sandboxed hooks for setup/teardown. FSL-1.1-ALv2.
+- **[agent-qa](https://github.com/vostride/agent-qa)** `⭐ 822` — Self-improving QA harness for web and mobile workflows, with a CLI, dashboard, MCP and skills for coding agents, memory-backed self-healing, and sandboxed hooks for setup/teardown. FSL-1.1-ALv2.
 
-- **[AgentSight](https://github.com/eunomia-bpf/AgentSight)** `⭐ 800` — Zero-instrumentation eBPF observability for LLM/coding agents; captures syscall-level traces (file, process, network) without modifying the agent. MIT.
+- **[AgentSight](https://github.com/eunomia-bpf/AgentSight)** `⭐ 805` — Zero-instrumentation eBPF observability for LLM/coding agents; captures syscall-level traces (file, process, network) without modifying the agent. MIT.
 
-- **[Tracekit](https://github.com/Cygnux-Labs/Tracekit)** `⭐ 734` — Hooks for Claude Code, Codex CLI, Cursor and Gemini CLI that send each tool call to a local signer before it runs; the signer allows it, blocks it or holds it for your approval, and signs it into a hash-chained log that `tracekit verify` checks offline. `tracekit init --dev --v2` sets it up. Dev mode runs the signer as you; tamper resistance needs it under another user, in a container or on another host. Python, MIT.
-
-- **[Vestige](https://github.com/samvallad33/vestige)** `⭐ 661` — Local-first cognitive memory MCP server for coding agents; SQLite store, FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, hybrid retrieval, and provenance/correction tools. Single Rust binary with a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains. AGPL-3.0.
+- **[Vestige](https://github.com/samvallad33/vestige)** `⭐ 664` — Local-first cognitive memory MCP server for coding agents; SQLite store, FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, hybrid retrieval, and provenance/correction tools. Single Rust binary with a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains. AGPL-3.0.
 
 - **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** `⭐ 643` — Local-first TypeScript agent runtime with persistent sessions, sandboxed tools, MCP integration, memory, credentials, audit logs, replay, and CLI/API/Console surfaces. Runs locally or self-hosted with Docker and Kubernetes; isolation depends on the configured provider, and the default local provider runs as your own OS user. Apache-2.0.
 
-- **[Coasts](https://github.com/coast-guard/coasts)** `⭐ 434` — Containerized host orchestration for git worktrees; isolates ports, networks, and services per environment using DinD/Sysbox/Podman. MIT.
+- **[AgentBridge](https://github.com/raysonmeng/agent-bridge)** `⭐ 437` — CLI that keeps Claude Code and Codex as live peers in one session, with mid-turn review, task splitting, and handoff at quota boundaries; `abg claude` / `abg codex` over a localhost daemon. macOS and Linux. MIT.
 
-- **[AgentBridge](https://github.com/raysonmeng/agent-bridge)** `⭐ 434` — CLI that keeps Claude Code and Codex as live peers in one session, with mid-turn review, task splitting, and handoff at quota boundaries; `abg claude` / `abg codex` over a localhost daemon. macOS and Linux. MIT.
+- **[Coasts](https://github.com/coast-guard/coasts)** `⭐ 435` — Containerized host orchestration for git worktrees; isolates ports, networks, and services per environment using DinD/Sysbox/Podman. MIT.
 
 - **[subtask](https://github.com/zippoxer/subtask)** `⭐ 338` — Claude Skill for delegating tasks with subagents in Git worktrees.
 
-- **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 319` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
+- **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 318` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
+
+- **[Browsentic](https://github.com/imshaikot/browsentic)** `⭐ 310` — Local Bridge daemon (npm CLI) plus a browser extension that runs Claude Code, Codex or Antigravity from a side panel in your own logged-in browser; the same browser tools also serve as an MCP server for any CLI agent. Apache-2.0.
 
 - **[Emulo](https://github.com/ohad6k/emulo)** `⭐ 306` — Mines local Claude Code and Codex session logs into a you.md profile of the user's rules and preferences that the agent loads as a skill, a Codex AGENTS.md section or a one-tool MCP server. Extraction and redaction run locally; mining uses whichever model it is pointed at. MIT.
 
-- **[Browsentic](https://github.com/imshaikot/browsentic)** `⭐ 299` — Local Bridge daemon (npm CLI) plus a browser extension that runs Claude Code, Codex or Antigravity from a side panel in your own logged-in browser; the same browser tools also serve as an MCP server for any CLI agent. Apache-2.0.
-
 - **[cc-router](https://github.com/finch-xu/cc-router)** `⭐ 295` — Local Anthropic-Messages-API proxy that bundles multiple provider subscriptions and API quotas (DeepSeek, Qwen, Kimi, GLM, MiniMax, Claude — 18+ providers) into virtual opus/sonnet/haiku slots with failover and load balancing for Claude Code, Claude Desktop, OpenClaw, and OpenCode. No relation to claude-code-router. Rust, MIT.
 
-- **[flameox](https://github.com/morluto/flameox)** `⭐ 243` — Local profiling and runtime-evidence toolkit for coding agents: a CLI plus MCP server that runs named profiling workloads, preserves each profiler's native artifacts with provenance, and compares runs across compiled services, GPU kernels, and inference stacks. Python, MIT.
+- **[flameox](https://github.com/morluto/flameox)** `⭐ 245` — Local profiling and runtime-evidence toolkit for coding agents: a CLI plus MCP server that runs named profiling workloads, preserves each profiler's native artifacts with provenance, and compares runs across compiled services, GPU kernels, and inference stacks. Python, MIT.
 
 - **[kasetto](https://github.com/pivoshenko/kasetto)** `⭐ 219` — A declarative AI agent environment manager, written in Rust.
 
-- **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** `⭐ 208` — Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; flags prompt injection, credential theft, and manifest drift before you install. Python + YARA, ships as a CLI and a GitHub Action. Source-available (PolyForm Noncommercial).
+- **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** `⭐ 209` — Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; flags prompt injection, credential theft, and manifest drift before you install. Python + YARA, ships as a CLI and a GitHub Action. Source-available (PolyForm Noncommercial).
 
 - **[codex-profiles](https://github.com/Ducksss/codex-profiles)** `⭐ 195` — Bash CLI helper for switching OpenAI Codex CLI/Desktop accounts via isolated `CODEX_HOME` profiles; Homebrew install with `brew install Ducksss/tap/codex-profile`. MIT, no token copying.
 
-- **[agent-lsp](https://github.com/blackwell-systems/agent-lsp)** `⭐ 181` — MCP server giving any CLI coding agent type-aware language intelligence: 50+ LSP tools, speculative execution (preview edits without touching disk), 21 skills, 30 CI-verified languages. Measured 5–34× token savings vs grep/read. Works with Claude Code, Codex, Gemini CLI, Goose, and any MCP client. Go, MIT.
+- **[agent-lsp](https://github.com/blackwell-systems/agent-lsp)** `⭐ 184` — MCP server giving any CLI coding agent type-aware language intelligence: 50+ LSP tools, speculative execution (preview edits without touching disk), 21 skills, 30 CI-verified languages. Measured 5–34× token savings vs grep/read. Works with Claude Code, Codex, Gemini CLI, Goose, and any MCP client. Go, MIT.
 
 - **[agenttrace](https://github.com/luoyuctl/agenttrace)** `⭐ 157` — Local-first Bubble Tea TUI for inspecting Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, Hermes, OpenCode, Kimi, and Copilot-style session logs; surfaces cost, cache usage, failures, latency, anomalies, health gates, and diffs.
 
-- **[aisw](https://github.com/burakdede/aisw)** `⭐ 151` — Rust CLI that saves Claude Code, Codex CLI, Gemini CLI and Antigravity CLI logins as named profiles and switches accounts in one command; contexts switch every agent together and a shell-hook guard refuses to start an agent in a repo bound to another account. MIT.
+- **[aisw](https://github.com/burakdede/aisw)** `⭐ 156` — Rust CLI that saves Claude Code, Codex CLI, Gemini CLI and Antigravity CLI logins as named profiles and switches accounts in one command; contexts switch every agent together and a shell-hook guard refuses to start an agent in a repo bound to another account. MIT.
 
-- **[terminal-mcp](https://github.com/elleryfamilia/terminal-mcp)** `⭐ 147` — MCP server that gives AI assistants a shared view of your terminal session; debug CLIs and TUI apps in real-time or let agents drive terminal-based tools autonomously. TypeScript, MIT.
+- **[terminal-mcp](https://github.com/elleryfamilia/terminal-mcp)** `⭐ 150` — MCP server that gives AI assistants a shared view of your terminal session; debug CLIs and TUI apps in real-time or let agents drive terminal-based tools autonomously. TypeScript, MIT.
 
 - **[KubeStellar kc-agent](https://github.com/kubestellar/console/tree/main/cmd/kc-agent)** `⭐ 127` — Local Go daemon from the KubeStellar Console that auto-detects installed coding agents (Claude CLI, Codex, Copilot CLI, Gemini CLI, goose) and gives them cluster-aware execution against your kubeconfig contexts — kubectl, Helm, and multi-cluster fan-out. Star count is the parent console repo. Apache-2.0.
 
@@ -855,7 +855,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[ActPlane](https://github.com/eunomia-bpf/ActPlane)** `⭐ 112` — OS-level agent harness that compiles a policy DSL to an eBPF engine for labeled information-flow control at the syscall boundary, with corrective feedback. MIT.
 
-- **[Okto Nexus](https://github.com/OktoLabsAI/okto-nexus)** `⭐ 110` — Local-first coordination hub for agents working in the same repository: durable identities, presence, messages and inboxes, handoffs, artifacts, an event log, and governance controls, backed by one SQLite database with no cloud broker. `okto-nexus serve` exposes MCP over streamable HTTP, operator REST APIs, and a bundled dashboard on one port. Python.
+- **[Okto Nexus](https://github.com/OktoLabsAI/okto-nexus)** `⭐ 107` — Local-first coordination hub for agents working in the same repository: durable identities, presence, messages and inboxes, handoffs, artifacts, an event log, and governance controls, backed by one SQLite database with no cloud broker. `okto-nexus serve` exposes MCP over streamable HTTP, operator REST APIs, and a bundled dashboard on one port. Python.
 
 - **[authsome](https://github.com/agentrhq/authsome)** `⭐ 107` — Local credential broker for AI agents; Python CLI with encrypted local vault and a local HTTPS proxy that injects OAuth2 access tokens and API keys at request time. 45 providers bundled (14 OAuth2, 31 API key) including GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe. Browser PKCE / device code / API key flows, background token refresh, no SaaS dependency. MIT.
 
@@ -869,23 +869,23 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** `⭐ 85` — CLI tool that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) across multiple LLMs using static action + argument matching. Iteratively rewrites docs until every configured model meets a PASS/FAIL score floor. MIT.
 
+- **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 82` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
+
 - **[pi-mem](https://github.com/jo-inc/pi-mem)** `⭐ 81` — Plain-Markdown persistent memory for coding agents; long-term, daily, scratchpad, and searchable notes with zero dependencies on vector DBs. MIT.
 
-- **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 81` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.
+- **[AutoMode](https://github.com/mralexivy/AutoMode)** `⭐ 81` — Claude Code plugin that picks the model (Haiku, Sonnet or Opus) and reasoning effort for every prompt, shows the route on a status bar, and checks prompt-cache cost before it switches models; `am:run` runs big jobs with specialized subagents. MIT.
 
 - **[cliproxy-rs](https://github.com/vayungodara/cliproxy-rs)** `⭐ 78` — Local proxy that lets Codex CLI and Claude Code use DeepSeek, GLM, Kimi, OpenRouter and OpenCode Go: translates Codex's Responses API to Chat Completions (tool calls included), with multi-key failover on 429 and a built-in dashboard. Single Rust binary; a port of CLIProxyAPI. MIT.
 
 - **[Untether](https://github.com/littlebearapps/untether)** `⭐ 77` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.
 
-- **[AutoMode](https://github.com/mralexivy/AutoMode)** `⭐ 76` — Claude Code plugin that picks the model (Haiku, Sonnet or Opus) and reasoning effort for every prompt, shows the route on a status bar, and checks prompt-cache cost before it switches models; `am:run` runs big jobs with specialized subagents. MIT.
+- **[skillreaper](https://github.com/thousandflowers/skillreaper)** `⭐ 68` — CLI that reads real session transcripts to find skills, MCP servers, and agents loaded but never fired, then safely quarantines them in a reversible operation. Supports Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static binary, Homebrew and npm. MIT.
 
-- **[skillreaper](https://github.com/thousandflowers/skillreaper)** `⭐ 67` — CLI that reads real session transcripts to find skills, MCP servers, and agents loaded but never fired, then safely quarantines them in a reversible operation. Supports Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static binary, Homebrew and npm. MIT.
+- **[AgentLint](https://github.com/0xmariowu/AgentLint)** `⭐ 68` — 33 evidence-backed checks for AI-friendly repos. Scans file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix. Your AI agent is only as good as your repo.
 
-- **[AgentLint](https://github.com/0xmariowu/AgentLint)** `⭐ 67` — 33 evidence-backed checks for AI-friendly repos. Scans file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix. Your AI agent is only as good as your repo.
+- **[clausona](https://github.com/larcane97/clausona)** `⭐ 63` — CLI and TUI for multiple Claude Code and Codex CLI accounts on one machine. Skills, hooks, plugins and settings stay shared, and with shared history `claude --continue` picks up a conversation under another account. Dynamic routing starts each run on an account with 5-hour and weekly quota left, and an Extensions screen manages every account's skills, MCP servers and hooks. Lightweight: a shell hook and symlinks, no proxy. Fleet plugins spread parallel agents across those accounts, or API models such as DeepSeek, in Orca, Superset or herdr. MIT.
 
 - **[claudebox](https://github.com/numtide/claudebox)** `⭐ 62` — Sandboxed environment for Claude Code (focused on isolation/safety).
-
-- **[clausona](https://github.com/larcane97/clausona)** `⭐ 61` — CLI and TUI for multiple Claude Code and Codex CLI accounts on one machine. Skills, hooks, plugins and settings stay shared, and with shared history `claude --continue` picks up a conversation under another account. Dynamic routing starts each run on an account with 5-hour and weekly quota left, and an Extensions screen manages every account's skills, MCP servers and hooks. Lightweight: a shell hook and symlinks, no proxy. Fleet plugins spread parallel agents across those accounts, or API models such as DeepSeek, in Orca, Superset or herdr. MIT.
 
 - **[FireConnect](https://github.com/fw-ai/fireconnect)** `⭐ 58` `[Fireworks AI]` — CLI that points existing coding agents at Fireworks models by rewriting each harness's own config; `on`/`off` per harness with byte-for-byte restore, per-slot model mapping, and a FireRouter option. Supports Claude Code, Codex, OpenCode, Pi, Cursor, VS Code Chat, and Deep Agents. Apache-2.0.
 
@@ -895,7 +895,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[AgentDiff](https://github.com/codeprakhar25/agentdiff)** `⭐ 48` — Git-native provenance for AI-written code: hooks every CLI agent (Claude Code, Codex, Cursor, Gemini, OpenCode, Windsurf, Copilot) and records which agent wrote which line, reconciles it against each commit, and signs every attribution with ed25519. Records live in your own git refs (`agentdiff list/blame/report`); no server. Rust, MIT/Apache-2.0.
 
-- **[ContextStream](https://github.com/contextstream/mcp-server)** `⭐ 47` — Shared project context for terminal coding agents: an MCP server plus `contextstream-hook` CLI that gives Claude Code, Codex, Cursor, and other MCP clients the same searchable decisions, lessons, and code index across sessions and tools. Hosted backend with a free tier; local MCP via `npx @contextstream/mcp-server`. MIT.
+- **[ContextStream](https://github.com/contextstream/mcp-server)** `⭐ 48` — Shared project context for terminal coding agents: an MCP server plus `contextstream-hook` CLI that gives Claude Code, Codex, Cursor, and other MCP clients the same searchable decisions, lessons, and code index across sessions and tools. Hosted backend with a free tier; local MCP via `npx @contextstream/mcp-server`. MIT.
 
 - **[AgentTier](https://github.com/agenttier/agenttier)** `⭐ 46` — Kubernetes-native sandbox runtime for AI coding agents. A `Sandbox` CRD provisions a Pod + PVC + NetworkPolicy with optional gVisor isolation; the `agenttier` Go CLI runs agent invocations that stream stdout/stderr/exit as SSE. Ships reference templates for Claude Code + Bedrock and LangGraph. Apache-2.0.
 
@@ -905,9 +905,9 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[shim-cli](https://github.com/GetSHIM/shim-cli)** `⭐ 41` — Local hooks for Claude Code, Codex and Copilot CLI that detect secrets and personal data and mask them in Claude Code tool results; `shim watch` runs a loopback proxy for one session and reports where the input tokens went and what the turn cost.
 
-- **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 40` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
+- **[AgentManager](https://github.com/kevinelliott/agentmanager)** `⭐ 41` — Lightweight CLI for managing multiple agent runs/sessions and workflows.
 
-- **[laya-guard](https://github.com/scs0209/laya-guard)** `⭐ 40` — Local guardrail for CLI coding agents: hooks into Claude Code, Codex CLI, Cursor, Gemini CLI, Copilot CLI, OpenCode, and five more, and judges each shell command before it runs with regex rules, protected paths, and a ~322M on-device model, returning allow, review, or block. Python, MIT.
+- **[laya-guard](https://github.com/scs0209/laya-guard)** `⭐ 41` — Local guardrail for CLI coding agents: hooks into Claude Code, Codex CLI, Cursor, Gemini CLI, Copilot CLI, OpenCode, and five more, and judges each shell command before it runs with regex rules, protected paths, and a ~322M on-device model, returning allow, review, or block. Python, MIT.
 
 - **[claude-bulkhead](https://github.com/dooly6276/claude-bulkhead)** `⭐ 35` — Pre-tool hooks for Claude Code, Codex, Gemini CLI, Copilot CLI, Cursor, opencode, Pi and others that block shell commands which cannot be undone (`rm -rf $D/` with an empty variable, `pkill -f node` hitting other sessions) and tell the agent the safe form. Zero dependencies, MIT.
 
@@ -915,9 +915,9 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Loadout](https://github.com/elleryfamilia/loadout)** `⭐ 33` — Adaptive context engine for AI coding agents; detects your stack and equips the right context when you launch `load claude`, `load codex`, `load cursor`. Works with Claude, Codex, Cursor, opencode, and Copilot. Rust, MIT.
 
-- **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 30` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
+- **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 31` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
 
-- **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 30` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
+- **[Data Olympus](https://github.com/knaisoma/data-olympus)** `⭐ 31` — Governance-grade project knowledge MCP server and CLI for coding agents; accepted rules, proposals, validity windows, and supersession-aware retrieval keep durable context reviewable. Apache-2.0.
 
 - **[Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)** `⭐ 30` — Persistent memory for CLI coding agents over MCP: a hosted remote server with OAuth at `https://mcp.mnemoverse.com/mcp`, or a local `npx -y @mnemoverse/mcp-memory-server` with a key. Tell it a recalled memory helped or misled and it re-ranks what comes back next; documented for Claude Code, Cline and Gemini CLI, with the same memory in Cursor and VS Code. MIT server, hosted engine, free tier.
 
@@ -935,35 +935,35 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Unship](https://github.com/mbenhard/unship)** `⭐ 23` — Local CLI and browser picker for comparing temporary UI variants created by coding agents, then keeping one and cleaning up unused code. MIT.
 
-- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** `⭐ 22` — Local-first Rust CLI for the coding-agent memory lifecycle: project-scoped SQLite recall, evidence-backed lessons, and consolidation of older memories into "rings" so context compresses instead of growing without bound. Remember, recall, audit, and consolidate subcommands over a three-crate workspace; signed prebuilt binaries for macOS and Linux. MIT.
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** `⭐ 23` — Local-first Rust CLI for the coding-agent memory lifecycle: project-scoped SQLite recall, evidence-backed lessons, and consolidation of older memories into "rings" so context compresses instead of growing without bound. Remember, recall, audit, and consolidate subcommands over a three-crate workspace; signed prebuilt binaries for macOS and Linux. MIT.
 
 - **[Agentic Engineering Framework](https://github.com/DimitriGeelen/agentic-engineering-framework)** `⭐ 22` — Provider-neutral governance framework for CLI coding agents. Structural enforcement of task-driven workflows, context budget management, antifragile healing loops, and audit compliance. Works with Claude Code, Aider, Cursor, and any file-based agent.
 
-- **[Mudroom](https://github.com/Kernel-Hunter/mudroom)** `⭐ 22` — macOS app and CLI that runs Claude Code, Codex, Gemini CLI, Aider, opencode or any command in an Apple `container` Linux micro-VM on an APFS copy-on-write clone of your project, behind a network allowlist proxy. You review the diff like a pull request and apply it per file or per hunk, with undo. Swift, MIT.
+- **[Mudroom](https://github.com/Kernel-Hunter/mudroom)** `⭐ 21` — macOS app and CLI that runs Claude Code, Codex, Gemini CLI, Aider, opencode or any command in an Apple `container` Linux micro-VM on an APFS copy-on-write clone of your project, behind a network allowlist proxy. You review the diff like a pull request and apply it per file or per hunk, with undo. Swift, MIT.
 
 - **[TraceFold](https://github.com/TraceFold/tracefold)** `⭐ 21` — Constructs and checks an inverse for filesystem and git changes an AI coding agent makes before the change lands, signs each verdict as a DSSE-attested receipt appended to a tamper-evident log, and gates writes through a Cedar policy engine with four verdict states (admit, deny, escalate, policy-error). Rust, Apache-2.0.
 
 - **[GoodMemory](https://github.com/hjqcan/GoodMemory)** `⭐ 21` — Local-first, auditable memory layer for Codex and Claude Code; its CLI installs scoped recall hooks and read-only MCP, with SQLite persistence by default plus opt-in governed writeback that can be inspected and reversed. MIT.
 
-- **[Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit)** `⭐ 20` — Portable Agent Skills catalog, personas, MCP templates, and loop/swarm orchestration for coding assistants, deployed via native CLI to Claude Code, Cursor, OpenCode, Copilot, Windsurf, and Pi. MIT.
+- **[machine](https://github.com/katspaugh/machine)** `⭐ 21` — Provisions one isolated Lima VM per GitHub project as a sandbox for Claude Code/Codex, with Docker, Node, and signed git preconfigured. MIT.
 
-- **[machine](https://github.com/katspaugh/machine)** `⭐ 20` — Provisions one isolated Lima VM per GitHub project as a sandbox for Claude Code/Codex, with Docker, Node, and signed git preconfigured. MIT.
+- **[Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit)** `⭐ 20` — Portable Agent Skills catalog, personas, MCP templates, and loop/swarm orchestration for coding assistants, deployed via native CLI to Claude Code, Cursor, OpenCode, Copilot, Windsurf, and Pi. MIT.
 
 - **[termagitchi](https://github.com/TevvvB/termagitchi)** `⭐ 18` — Status-line companion for running several agents across git worktrees: each worktree gets its own creature so near-identical terminals are tellable apart, with per-agent context fill and branch hygiene on the row; `pets party` shows every live session at once, worst first. Single static Go binary; Claude Code plugin, Codex hooks, tmux, or any shell prompt. Homebrew and AUR. MIT.
 
 - **[schliff](https://github.com/Zandereins/schliff)** `⭐ 18` — Deterministic quality linter for agent instruction files (`AGENTS.md`, `SKILL.md`, `CLAUDE.md`, `.cursorrules`) with deterministic auto-fixes, anti-gaming detection, and a GitHub Action CI gate; no LLM in the scoring path. MIT.
 
-- **[Sabi](https://github.com/vizuh/sabi)** `⭐ 17` — Adaptive per-round model routing for coding agents: a local OpenAI-compatible proxy between the harness and its providers that routes each inference round, not each session, by trajectory state — failure evidence to a strong tier, exploration to a cheap one — with an optional fail-open semantic judge for rounds the policy can't classify. Adapters for Claude Code, Codex, OpenCode, Cline and others; `sabi setup`, `sabi serve`. npm `@vizuh/sabi-controller`. MIT.
+- **[Sabi](https://github.com/vizuh/sabi)** `⭐ 18` — Adaptive per-round model routing for coding agents: a local OpenAI-compatible proxy between the harness and its providers that routes each inference round, not each session, by trajectory state — failure evidence to a strong tier, exploration to a cheap one — with an optional fail-open semantic judge for rounds the policy can't classify. Adapters for Claude Code, Codex, OpenCode, Cline and others; `sabi setup`, `sabi serve`. npm `@vizuh/sabi-controller`. MIT.
 
-- **[agy-auto](https://github.com/onkarbadve/agy-auto)** `⭐ 16` — PreToolUse policy gate and auto-permission mode for Google Antigravity CLI (`agy`); replaces `--dangerously-skip-permissions` with deterministic hard-denials, fast-allow, fail-closed LLM classification (Gemini / llama.cpp), and scoped ephemeral approval tokens. Python, MIT.
+- **[agy-auto](https://github.com/onkarbadve/agy-auto)** `⭐ 17` — PreToolUse policy gate and auto-permission mode for Google Antigravity CLI (`agy`); replaces `--dangerously-skip-permissions` with deterministic hard-denials, fast-allow, fail-closed LLM classification (Gemini / llama.cpp), and scoped ephemeral approval tokens. Python, MIT.
+
+- **[Pi Agent IDE](https://github.com/alexshpunt/pi-agent-ide)** `⭐ 16` — Agent-native IDE extension for Pi with guarded editing, AST/LSP navigation, persistent terminals, debugging, visual inspection, diagnostics, undo, and progressive capability guides through one unified tool interface. MIT.
 
 - **[cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge)** `⭐ 15` — Async file-based bridge that lets a sandboxed/cloud agent (Claude Cowork, CrewAI, AutoGen, LlamaIndex) delegate work to Claude Code running on your real macOS/Linux machine. A local daemon picks tasks off a shared bind-mounted directory, runs them through `run_claude.sh` (per-task model routing + budget caps + permission scoping), and returns results — no inbound network, no HTTPS tunnel. Ships a Claude Code skill, MCP audit, and selfcheck. MIT.
 
 - **[lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli)** `⭐ 15` — Terminal-native LifeOS for managing intentions, habits, and timelogs; provides structured persistent context for agentic workflows.
 
 - **[Agent Memory System](https://github.com/RavByte-AI/agent-memory-system)** `⭐ 15` — Persistent memory infrastructure for AI coding agents and multi-agent workflows. MIT.
-
-- **[Pi Agent IDE](https://github.com/alexshpunt/pi-agent-ide)** `⭐ 15` — Agent-native IDE extension for Pi with guarded editing, AST/LSP navigation, persistent terminals, debugging, visual inspection, diagnostics, undo, and progressive capability guides through one unified tool interface. MIT.
 
 - **[myc](https://github.com/aistastudio/myc)** `⭐ 14` — Local task-and-memory layer shared by Claude Code, Codex, opencode and Kimi: a task queue with dependencies and atomic claims, an oplog of decisions with hybrid search, and a PreCompact hook that saves the session before the context is compacted. One SQLite file next to the repo, no network calls, no API key (Bun only).
 
@@ -981,15 +981,15 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[Better Call GPT](https://github.com/insta-fusion/bettercallgpt)** `⭐ 10` — Full-duplex voice call for a running Claude Code session (Azure GPT Realtime / GPT-Live, macOS): relays speech into the session, reads results aloud, supports barge-in; voice never approves permission prompts. Python, MIT.
 
+- **[whatileaked](https://github.com/selan-ai/whatileaked)** `⭐ 8` — Scans local Claude Code, Codex, Cursor and opencode transcripts for credentials already sent to the model, using the gitleaks rule set. No network, zero dependencies. npm `whatileaked`. MIT.
+
 - **[Terminai](https://github.com/emosenkis/terminai)** `⭐ 7` — Makes your terminal of choice AI-enabled using your favorite CLI coding agent. Completely transparent until you activate the AI with Ctrl-Space, then runs your agent in an overlay with access to your terminal.
 
-- **[whatileaked](https://github.com/selan-ai/whatileaked)** `⭐ 7` — Scans local Claude Code, Codex, Cursor and opencode transcripts for credentials already sent to the model, using the gitleaks rule set. No network, zero dependencies. npm `whatileaked`. MIT.
+- **[House Party Protocol](https://github.com/rusharlabs/house-party-protocol)** `⭐ 7` — Local-first harness for coding-agent teams on Claude Code and Codex CLI that sits under whatever orchestrates the agents: `hpp` records the criterion command's exit code outside the model and hashes its artifacts, refuses a verdict from the builder's own lane or model family, binds approvals to the bytes they approved, and derives lane liveness from heartbeats so a dead lane never collides with a live one; its refusals exit non-zero. Standard-library Python, no model calls. MIT.
 
 - **[SpecWave](https://github.com/Cyning12/SpecWave)** `⭐ 6` — Multi-host coding CLI that lands one declarative adapt table across 13 hosts (Cursor, Claude Code, Copilot, Codex, Windsurf, Gemini CLI, opencode, Roo Code, Zed, Cline, aider, agents, optional DSH) and enforces process discipline: machine checks fail closed with exit code 2, and code changes (hat 30) are blocked until the human gate `HG-AUDIT-R1` is approved, with a tasks/reviews/invokes audit trail. `npx spec-wave`. MIT.
 
 - **[PatchWarden](https://github.com/jiezeng2004-design/PatchWarden)** `⭐ 6` — Local-first MCP safety and verification layer that hands an approved plan to Codex CLI, Claude Code, or OpenCode under workspace confinement, command allowlists, scope-violation detection, and an auditable task and lineage record. npm `patchwarden`. MIT.
-
-- **[House Party Protocol](https://github.com/rusharlabs/house-party-protocol)** `⭐ 6` — Local-first harness for coding-agent teams on Claude Code and Codex CLI that sits under whatever orchestrates the agents: `hpp` records the criterion command's exit code outside the model and hashes its artifacts, refuses a verdict from the builder's own lane or model family, binds approvals to the bytes they approved, and derives lane liveness from heartbeats so a dead lane never collides with a live one; its refusals exit non-zero. Standard-library Python, no model calls. MIT.
 
 - **[OSOP](https://github.com/Archie0125/osop-agent-rules)** `⭐ 5` — Universal workflow logging protocol for CLI coding agents; produces `.osop` workflow definitions and `.osoplog.yaml` execution records. Supports Claude Code, Codex, Cursor, Windsurf, Aider, Cline, Roo Code, Devin, and OpenClaw. Includes a [visual editor](https://osop-editor.vercel.app) and [spec](https://github.com/Archie0125/osop-spec).
 
@@ -997,17 +997,17 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[yoink](https://github.com/MajidRaimi/yoink)** `⭐ 5` — Switches Claude Code, Codex, Kimi Code, Gemini and Copilot subscription logins, and writes one API-key provider (OpenAI, OpenRouter, DeepSeek, Ollama or any compatible endpoint) into the config files of 13 harnesses including pi, opencode, codex, Qwen Code and Droid. MIT.
 
-- **[Hivelore](https://github.com/Doucs91/hivelore)** `⭐ 5` — Deterministic policy gate for agent-written code: a lesson captured via MCP (`mem_tried`) becomes a validated regex/AST/test guard that Git hooks and CI use to refuse any diff reintroducing the documented mistake; briefs any agent with the team's repo-specific rules over MCP. TypeScript CLI, npm (`@hivelore/cli`). Apache-2.0.
+- **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 5` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
-- **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 4` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
+- **[Hivelore](https://github.com/Doucs91/hivelore)** `⭐ 4` — Deterministic policy gate for agent-written code: a lesson captured via MCP (`mem_tried`) becomes a validated regex/AST/test guard that Git hooks and CI use to refuse any diff reintroducing the documented mistake; briefs any agent with the team's repo-specific rules over MCP. TypeScript CLI, npm (`@hivelore/cli`). Apache-2.0.
 
 - **[tu](https://github.com/sahil87/tu)** `⭐ 4` — Cost-tracking CLI for AI coding assistants: token usage and spend across Claude Code, Codex, and OpenCode sessions. TypeScript, MIT.
 
 - **[Project Tiny Context Harness](https://github.com/Seven128/project-tiny-context-harness)** `⭐ 4` — Minimal repo-native project memory for CLI coding agents. Installs `AGENTS.md`, `project_context/**`, role Skills, and a `validate-context` gate so Codex, Claude Code, Cursor, Gemini CLI, OpenCode, and similar agents can recover project intent, boundaries, and validation paths across fresh sessions. MIT.
 
-- **[BlaBla](https://github.com/Kiborgik/blabla)** `⭐ 4` — Rust CLI that keeps project intent as executable contracts a coding agent queries instead of re-reading chat history: behavior rules checked by a coverage-guided campaign that shrinks a failure to a minimized counterexample, structure rules (modules, symbols, dependencies, literal collection membership) evaluated statically by a Python `ast` provider in an isolated interpreter that never imports project code, and `blabla finish` as a completion gate that exits 0 only when every active layer is GREEN. v0.7.0-alpha, Python-only structure provider. MIT.
-
 - **[Squelette](https://github.com/JyMinet/squelette)** `⭐ 4` — Governance layer for CLI coding agents (Claude Code, Codex): human decisions and allowed scope recorded before work, a pre-commit gate that refuses out-of-scope changes, and closure only on checked proof. MIT.
+
+- **[BlaBla](https://github.com/Kiborgik/blabla)** `⭐ 3` — Rust CLI that keeps project intent as executable contracts a coding agent queries instead of re-reading chat history: behavior rules checked by a coverage-guided campaign that shrinks a failure to a minimized counterexample, structure rules (modules, symbols, dependencies, literal collection membership) evaluated statically by a Python `ast` provider in an isolated interpreter that never imports project code, and `blabla finish` as a completion gate that exits 0 only when every active layer is GREEN. v0.7.0-alpha, Python-only structure provider. MIT.
 
 - **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 3` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex, and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
 
