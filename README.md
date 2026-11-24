@@ -477,6 +477,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Pi GPUI](https://github.com/bytesbay/pi-gpui)** `⭐ 196` — Native desktop app for the Pi coding agent, written in Rust with GPUI; macOS for now, Linux planned. Runs your installed `pi` over RPC with one process per open session, so extensions, skills and sessions carry over; session tree with forks, extension questions answered inline, plugins in any language. `/gpui` (npm `pi-gpui`) moves a terminal session into the app. MIT.
 
+- **[iCode Workbench](https://github.com/icodehq/icode-workbench)** `⭐ 192` — Local-first desktop workbench for a fleet of CLI coding agents: each task gets its own git worktree and branch, a durable queue tracks states and retries, and review happens in the session checkout with a decision separate from process exit. 44 launchable agents, 21 with managed status hooks. AGPL-3.0; Windows, Linux, macOS.
+
 - **[Rove](https://github.com/Sma1lboy/rove)** `⭐ 189` — Terminal-native agent multiplexer: each task gets its own git worktree and branch plus tabs running Claude Code, Codex, Copilot, Kimi, Pi, Gemini CLI, OpenCode, Cursor Agent, or any CLI you register, and sessions keep running on the host when the TUI or SSH connection drops. A Kanban board whose cards launch sessions and get moved by agents, diff review with inline notes sent back as one prompt, scheduled routines, plugins, and a `rove api` that scripts and agents use to create, message, and land tasks. npm `@sma1lboy/rove`, TypeScript/Bun, MIT.
 
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 170` — Terminal UI designed for running multiple coding agents in parallel.
