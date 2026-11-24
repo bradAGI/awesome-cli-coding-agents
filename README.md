@@ -549,6 +549,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent Workbench](https://github.com/cvelasquez/agent-workbench)** `⭐ 14` — Local web UI that runs the unmodified Claude Code, Codex, OpenCode and Antigravity CLIs in a pseudo-terminal, with tabs that survive a reload, one browsable history for all four, conversation hand-off between CLIs and full-text search. Windows-first, MIT.
 
+- **[TernaryCode](https://github.com/ilhamnadhif/ternarycode)** `⭐ 14` — Native Rust workspace (macOS, Windows, Linux) for running Claude Code, Codex, OpenCode, and Antigravity CLI across multiple projects in one window: hook-backed Needs input / Running / Done / Failed status with `⌘J` jump queue and Inbox, live Overview tiles, git worktrees with one-button PR, an MCP browser panel agents drive while you watch, multi-account failover with real 5-hour/weekly limits, and a local Wi-Fi phone companion. MIT.
+
 - **[Agent Fleet (k-k1)](https://github.com/k-k1/agent-fleet)** `⭐ 13` — Self-hosted web console that runs Claude Code, Codex, Copilot CLI, Cursor, Kiro, OpenCode and other agent CLIs unchanged as a fleet: isolated per-user Docker workspaces, parallel sessions in git worktrees, sessions that start and steer child sessions of another kind, scheduling and per-account usage tracking. Go + React, Apache-2.0. Not the woodor.ai project of the same name.
 
 - **[pi-boss](https://github.com/skyfallsin/pi-boss)** `⭐ 12` — Multi-agent orchestration for the Pi coding agent; spawns sub-agents in visible tmux panes with task delegation, monitoring, and coordination. MIT.
