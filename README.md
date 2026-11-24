@@ -613,6 +613,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[harnsy](https://harnsy.dev)** — Team layer for Claude Code, Codex and OpenCode sessions on one machine: each agent holds a role under a lead, agents message each other straight into the running session, work moves as tasks with evidence and review, and a fresh agent takes over a role from a handover note when its context fills up. Local dashboard, one terminal tab per agent (tmux on Linux and macOS, its own terminal host on Windows). Closed source; the build without a key runs 1 project and up to 10 agents at once, a harnsy Max key lifts that and adds several machines and several subscriptions.
 
+- **[DASH](https://dashcanvas.dev/?utm_source=github&utm_medium=list&utm_campaign=bf&utm_content=awesome-cli-coding-agents)** — Windows and macOS desktop canvas that runs Claude Code, Codex, Cursor CLI, Gemini CLI, Grok, OpenCode and Kimi side by side in real terminals, next to browsers, a file editor and a live git diff. Marks each agent working, idle or "needs you"; agents can message each other, read each other's windows and wake or sleep other agents through a built-in MCP server (all but Kimi). Local voice, per-agent sleep to free memory. Runs on your existing CLI subscriptions. Closed source; $49.99 one-time, 3-day trial.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
