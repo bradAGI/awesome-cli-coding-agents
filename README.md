@@ -1047,6 +1047,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[UndoHaven](https://github.com/Antipas/undohaven)** `⭐ 0` — Unofficial, open source (MIT) client for end-to-end encrypted snapshots, rollback and machine migration of the dsh agent runtime's home directory; free tier available.
+
 ---
 
 ## Contributing
