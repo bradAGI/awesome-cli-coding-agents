@@ -397,6 +397,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Happy](https://github.com/slopus/happy)** `⭐ 24.8k` — Desktop app and `happy` CLI that run coding-agent sessions side by side on your own machine or server, with an end-to-end encrypted iOS/Android app for the same sessions. The CLI wraps Claude Code, Codex, Antigravity, OpenClaw, and any ACP agent; the desktop app adds Grok. MIT.
 
+- **[strIDEterm](https://github.com/jstradej/strideterm)** `⭐ 21` — Terminal workspace for running Claude Code, Codex, and other coding agents side by side, with an independent Judge that checks the Worker's Git diff against your task brief. Supports optional agent sandboxing, tasks triggered by schedules, pull requests, or Jira queries, and a built-in SSH client with SFTP and remote tmux. MIT.
+
 - **[Paradev](https://github.com/ParadevAI/Paradev)** `⭐ 16.5k` — Desktop app (formerly Superset) for running Claude Code, Codex, OpenCode, Gemini CLI, and other CLI agents in parallel, each task in its own git worktree and branch, with a diff and pull request pane and an in-app browser. Scriptable from a `superset` CLI, SDK, and MCP server; remote hosts and an iPhone/iPad app.
 
 - **[Agent Orchestrator (AO)](https://github.com/OrchestratorInc/agent-orchestrator)** `⭐ 15.1k` — Desktop app and `ao` CLI for supervising Claude Code, Codex, Cursor, OpenCode, and 20+ other agents in parallel; every Git-backed session gets its own worktree, branch, and pull request, and CI failures, review comments, and merge conflicts are routed back to the agent that owns them. Go + Electron, Apache-2.0.
