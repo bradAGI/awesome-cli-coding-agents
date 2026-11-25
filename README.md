@@ -573,6 +573,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[taskpods](https://github.com/yanairon/taskpods)** `⭐ 5` — Lightweight, agent-agnostic CLI that runs Claude Code, Codex CLI, Gemini CLI, opencode, aider, or any command in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands. Python, MIT.
 
+- **[Gerdr](https://github.com/gerdr-dev/gerdr)** `⭐ 5` — Desktop (macOS) and browser workbench that runs Claude Code, Codex and any ACP agent in splits, tabs and workspaces, with permission requests as approval cards and phone access over a relay. A `gerdr` CLI lets agents start, message and wait on other sessions, and the UI is live source the agent can edit. Go + Electron, MIT.
+
 - **[Claudette](https://github.com/Olorin-ai-git/claudette)** `⭐ 3` — Native iOS/Android/Apple TV mobile control plane for local CLI coding-agent sessions: real PTY plus context/cost gauge, agent tree, voice, and Take the Wheel handoff. Companion CLI `npx claudette setup`. MIT.
 
 - **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 3` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
