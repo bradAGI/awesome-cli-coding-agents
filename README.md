@@ -235,6 +235,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Codex Infinity](https://github.com/lee101/codex-infinity)** `⭐ 105` — Autonomous terminal coding agent (OpenAI Codex CLI fork) adding auto-continuation, parallel multi-agent runs, and CI repair loops.
 
+- **[uncut](https://github.com/Balanov/uncut)** `⭐ 105` — Headless coding agent harness in one 7 MB static Go binary with four tools over plain stdin/stdout, no TUI and no telemetry. It never truncates output: when a provider cuts a response, the run exits with an error. Sessions are append-only JSONL, and it works with any OpenAI-compatible Chat Completions endpoint, including a local Ollama server. MIT.
+
 - **[openHarness](https://github.com/zhijiewong/openharness)** `⭐ 100` — Open-source Claude Code alternative. 78 slash commands, 42 tools, MCP (stdio/HTTP/SSE + OAuth 2.1), hooks, subagents, plan mode. Works with Anthropic/OpenAI/Ollama/llama.cpp/LM Studio. Ships both npm and Python SDK. MIT.
 
 - **[Keen Code](https://github.com/mochow13/keen-code)** `⭐ 93` — Go-based CLI coding agent focused on efficient context management — uses lean TurnMemory summaries instead of raw tool traces to maximize context efficiency. 9+ providers, skill-driven MCP servers, and full transparency with every prompt, design doc, and implementation plan saved as markdown. MIT.
