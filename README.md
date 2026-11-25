@@ -491,6 +491,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[ADHDev](https://github.com/vilmire/adhdev)** `⭐ 123` — Self-hosted daemon plus web dashboard for driving local CLI coding agents (Claude Code, Codex, Cursor CLI, Antigravity, Kimi) from a browser or phone: live session state, remote approvals carrying the command text, and exact session resume. Repo Mesh claims queued tasks into isolated git worktrees and the Refinery gates finished branches and fast-forwards them back to `main`. P2P-first over WebRTC, so code stays on your machine. npm `adhdev`, TypeScript, AGPL-3.0.
 
+- **[Goodboy](https://github.com/akhayam99/goodboy)** `⭐ 120` — Desktop app that runs the CLI coding agents you already have in parallel, one git worktree per session, with shared context between them and PR review
+
 - **[tlbx](https://github.com/tlbx-ai/tlbx)** `⭐ 119` — Self-hosted browser control station for remote coding agents (formerly MidTerm): runs Codex, Claude Code, Gemini CLI, Grok Build, OpenCode, Copilot CLI, and any PTY app on the machines that hold your repos and credentials, supervised from any desktop, tablet, or phone browser. Sessions survive disconnects; `mt` CLI helpers expose history, multi-session dispatch, and the control plane as JSON so agents can drive it. AGPL-3.0.
 
 - **[Helicon](https://github.com/HarjjotSinghh/helicon)** `⭐ 116` — Desktop and web GUI for Meta's Muse Code CLI: threads from every project in one sidebar, inline diffs, approvals, and cost tracking, plus a VS Code and Cursor extension. Tauri, MIT. Unofficial, not affiliated with Meta.
