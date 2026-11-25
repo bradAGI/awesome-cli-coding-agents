@@ -373,6 +373,8 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Muse Code](https://dev.meta.ai/docs/muse-code)** `[Meta]` — Meta's coding agent for the terminal and CI, built for Muse Spark; plans, edits files, and runs commands with approvals and an OS sandbox, interactively with `muse` or headless with `muse exec`.
 
+- **[MinniCode](https://minniai.com/minnicode)** `[Minni Labs]` — Low token terminal coding agent optimized for open LLMs: NVIDIA or OpenRouter models on your own key, your Claude subscription through Claude Code, or a local model (Ollama, LM Studio). Shows every edit first; commands, deletions and pushes need a typed yes by default. Free, proprietary license, in Experimental Beta; Windows, macOS, Linux.
+
 ---
 
 ## Harnesses & orchestration
