@@ -1047,6 +1047,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[Devoku](https://devoku.com)** - Always-on cloud Linux computer for CLI coding agents: run Claude Code, Codex, or Cursor with your own API key (or Devoku Jet) in a persistent workspace that keeps files, tools, and logins between runs. Agents schedule themselves and drive a live browser through the `devoku` CLI, supervisor agents restart stalled runs, and every agent gets an HTTP API. Closed source; paid.
+
 ---
 
 ## Contributing
