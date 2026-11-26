@@ -1034,6 +1034,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[CodeVetter](https://github.com/Codevetter/codevetter)** `⭐ 1` — Execution-backed verification for AI-written changes: proves a change satisfies its requested task by running the evidence checks locally and recording inspectable, source-bound receipts. macOS app, CLI, read-only MCP. MIT.
 
 - **[isitdone](https://github.com/raimondasl/isitdone)** `⭐ 1` — Stop hook and CLI that blocks a coding agent's "done" until the repo's real test, typecheck and lint commands pass on the exact working tree; scans the diff for weakened tests and leaves a git-bound PASS/FAIL/STALE receipt. One `init` command per host for Claude Code, Codex CLI, Cursor, Gemini CLI, Copilot CLI, Qwen Code, Goose, Droid, Devin, Auggie, OpenCode and Junie, plus an MCP server for agents without hooks. Zero LLM calls, zero dependencies. npm `isitdone`. MIT.
+- **[kitbag](https://github.com/cargopete/kitbag)** `⭐ 1` — Carries MCP servers, rules, skills and slash commands between Claude Code, Codex CLI, Gemini CLI and Cursor, at user or project scope; secrets become env refs, applies are diffed and undoable. Rust, single binary.
 
 - **[Nanotea](https://github.com/gileshall/nanotea)** `⭐ 1` — Self-hosted messaging app where Claude Code, Codex, Gemini CLI and other MCP harnesses report and ask over MCP and you answer by typing, tapping or recording, so you can direct many coding-agent sessions without living in their terminals. Replies reach each agent at its next tool call. Python, MIT.
 
