@@ -283,6 +283,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Forge Harness](https://github.com/andreglegg/forge)** `⭐ 6` — Local-first TypeScript coding-agent CLI optimized for local and small language models; interactive chat and headless runs with bounded repo navigation, approval-gated transactional edits, command execution + verification, durable sessions/undo, and isolated worktree execution. npm `@aglegg/forge-harness`. Apache-2.0.
 
+- **[Open Max](https://github.com/Max17190/open-max)** `⭐ 6` - A minimal, high-performance Rust agent harness that runs in your terminal and can write a tool and call it on its very next step. MIT.
+
 - **[AshlrCode](https://github.com/ashlrai/ashlrcode)** `⭐ 5` — Multi-provider terminal coding agent (`ac`) on Bun, defaulting to xAI Grok with failover to Anthropic, OpenAI, DeepSeek, Groq and Ollama; built-in tools, skills, sub-agents, permission prompts with regex allow/deny rules, MCP over stdio/SSE/WebSocket, and an autopilot mode. npm `ashlrcode`. MIT.
 
 - **[ipsupport-code](https://github.com/ipsupport-llc/ipsupport-code)** `⭐ 5` — Go terminal coding agent built for LM Studio and other OpenAI-compatible endpoints, single static binary; a small fat-tool schema tuned for weak local models, opt-in OS-level sandboxing (Seatbelt on macOS, Landlock on Linux) for its shell tool, and a reflect step after each task that writes new lessons to disk. MIT.
