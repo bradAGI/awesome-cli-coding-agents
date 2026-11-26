@@ -1047,6 +1047,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
 
+- **[Amia](https://amia.to)** — Native macOS (Apple Silicon) and iPhone orchestrator with a built-in persistent terminal (`⌘I` hands any terminal to an agent), browser, and code editor that runs Claude Code, Codex, Cursor, Grok Build, Antigravity, and Muse Code together as one crew. Agents spawn and message each other by name, pause on your Mac or iPhone Lock Screen before irreversible actions, and can continue on an optional Cloud computer when your Mac sleeps (`brew install --cask amiahq/tap/amia`). Closed source; free with your own AI accounts.
+
 ---
 
 ## Contributing
