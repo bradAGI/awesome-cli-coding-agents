@@ -1046,6 +1046,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[Agent Fleet](https://woodor.ai/agent-fleet/)** — Messaging layer for coding-agent sessions: every live Claude Code or Codex session takes a `name@project` address, and sessions exchange messages and files on one machine, across a LAN, or across networks. Also does remote session lifecycle control — compact, clear, handoff, restart. Native on macOS, Windows (x64 and arm64), and Linux x64, with no WSL or tmux. Closed source; free on a local network, paid cloud relay.
 
 - **[podway](https://podway.io)** — Always-on cloud computer for Claude Code: the session keeps running in its own pod when your laptop is closed, and you open it from the official Claude desktop, phone or web apps via Remote Control, with a browser terminal as well. Runs the official Claude Code CLI on your own Claude Pro/Max plan (required). Source-available (BSL 1.1); free to start.
+- **[mac4claw](https://mac4claw.com/)** — Dedicated Mac Mini (M4 or M4 Pro) rented in a US data center and kept on 24/7, so Claude Code, Codex, OpenClaw, or Hermes Agent can run on real macOS with Xcode, iMessage, and other Apple-only tools. SSH, VNC, Tailscale, and a static US residential IP; you install the agents yourself. Paid: $599 per 3 months for M4 16GB.
 
 ---
 
