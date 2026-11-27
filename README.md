@@ -441,6 +441,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[Agent Sessions](https://github.com/jazzyalex/agent-sessions)** `⭐ 954` — Local-first macOS session-history browser for AI coding agents, with transcript search across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, Copilot CLI, OpenClaw, and more; resume is available where the underlying CLI supports it. MIT.
 
+- **[Codeman](https://github.com/Ark0N/Codeman)** `⭐ 852` — Self-hosted web dashboard and terminal UI (`codeman tui`) that runs Claude Code, Codex, OpenCode, Gemini CLI, Copilot CLI, Pi, Grok and four more agent CLIs in persistent tmux sessions: live status per session, a tile grid, alerts when an agent needs input, automatic resume after a usage limit resets, and a CLI, skill and MCP server that let one agent start and steer others. Reachable from any browser or phone. TypeScript, MIT.
+
 - **[agent-manager](https://github.com/YoanWai/agent-manager)** `⭐ 704` — Go tmux TUI for running Claude Code, Codex, OpenCode, Grok, Gemini CLI, Pi, and Hermes side by side: live per-pane status, prompts sent into a pane without attaching, git worktrees, and in-terminal full-file diff review with line comments fed back to the agent. Apache-2.0.
 
 - **[hcom](https://github.com/aannoo/hcom)** `⭐ 669` — Hooks Claude Code, Antigravity, Codex, OpenCode, Kilo, and Cursor into a shared messaging and event bus; agents message, observe, and spawn each other mid-turn without changing how you use them. TUI dashboard, collision detection, cross-device relay. Rust, MIT.
