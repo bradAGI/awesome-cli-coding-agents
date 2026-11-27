@@ -715,6 +715,8 @@ Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted
 
 - **[xcb](https://github.com/hraness/xcb)** `⭐ 14` — Sends each coding task to one of your Claude, Codex, or Devin subscription accounts that is signed in, idle, and not at a known usage limit, and holds that account until the task's process exits. Other agents hand it work with `xcb --json route`; also a TypeScript SDK. MIT.
 
+- **[multi-llm-plugin](https://github.com/beastlabai/multi-llm-plugin)** `⭐ 11` — CLI-driven orchestration for Claude Code, Codex, and OpenCode: parallel plan, code, and commit reviews across 22 coding CLIs, validated findings, task generation, implementation, and automated revision. Python, MIT.
+
 - **[Vibestrate](https://github.com/guyshonshon/vibestrate)** `⭐ 6` — Local-first orchestrator that runs one task through a YAML flow of seated phases (plan → architect → implement → validate → review → fix → verify) in a git worktree per run. The reviewer seat starts a fresh process rather than inheriting the implementer's session, so it reads the diff cold. Approval gates and a local token/cost/decision ledger; eleven agent CLIs built in. npm `vibestrate`, `vibe` CLI. TypeScript, Apache-2.0.
 
 - **[Ralph Workflow](https://github.com/Ralph-Workflow/Ralph-Workflow)** `⭐ 6` — Local-first loop runner for Claude Code/Codex CLI: executes a spec in a real git repo with `progress.json` + `resume.md` + a 3-step timeout-cap; restartable, test-feedback-driven, no hosted runtime. MIT.
