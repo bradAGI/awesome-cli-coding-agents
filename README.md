@@ -613,6 +613,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[harnsy](https://harnsy.dev)** — Team layer for Claude Code, Codex and OpenCode sessions on one machine: each agent holds a role under a lead, agents message each other straight into the running session, work moves as tasks with evidence and review, and a fresh agent takes over a role from a handover note when its context fills up. Local dashboard, one terminal tab per agent (tmux on Linux and macOS, its own terminal host on Windows). Closed source; the build without a key runs 1 project and up to 10 agents at once, a harnsy Max key lifts that and adds several machines and several subscriptions.
 
+- **[Cawide](https://cawide.dev)** - Native iPhone app and open source CLI to run Claude Code, Codex, OMP, and OpenCode on your computer and control them from your phone: persistent PTY terminal up to 120 Hz, one-tap approvals, Git diff review, and encrypted peer-to-peer QUIC tunnel. Free tier available.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
