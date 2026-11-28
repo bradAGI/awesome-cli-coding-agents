@@ -613,6 +613,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[harnsy](https://harnsy.dev)** — Team layer for Claude Code, Codex and OpenCode sessions on one machine: each agent holds a role under a lead, agents message each other straight into the running session, work moves as tasks with evidence and review, and a fresh agent takes over a role from a handover note when its context fills up. Local dashboard, one terminal tab per agent (tmux on Linux and macOS, its own terminal host on Windows). Closed source; the build without a key runs 1 project and up to 10 agents at once, a harnsy Max key lifts that and adds several machines and several subscriptions.
 
+- **[Tesseract](https://tesseract.dev)** — Desktop app for macOS, Windows and Linux that runs 14 CLI agent frameworks (Claude Code, Codex, Gemini CLI, Antigravity CLI, OpenCode, Kimi Code, Qwen Code, Cursor's agent, Grok Build, Hermes Agent, OpenClaw and more) side by side, a different one in each conversation, next to a code editor, terminal and live preview. The `tesseract-agent` CLI (`npm i -g tesseract-agent`) runs agents as a background service on any Mac, Linux or Windows machine you own, followed from the app. Closed source; free, runs on your own Claude or ChatGPT plan or API key.
+
 ### Orchestrators & autonomous loops
 
 Multi-agent coordination, swarm patterns, and autonomous execution loops. Sorted by GitHub stars.
